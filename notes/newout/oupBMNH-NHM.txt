@@ -1,0 +1,793 @@
+DNAResearch/0133.pdf.txt: 3. Warren, W., Hillier, L., Marshall Graves, J., et al. 2008,         18.   NHMRC 2004, Australian Code of Practice for the Care and
+DNAResearch/0479.pdf.txt:could reduce the efficiency of translation of the ZNF219                412    PEFRCQVCGQSFTQSWFLKGHH!KHKASFDHACPVCGRCFKEP»FLKNHM<VHASKL
+DNAResearch/0479.pdf.txt:protein, and that the ZNF219 protein could be translated                343    NEFRCEVCGQVFSQAftFLKGHHRKHKDSFEHCCQICGRRFKEP»IFLKNHM<VHLNKL              399
+DNAResearch/0470.pdf.txt:                 human 2340 EWFRNESHVSCQCNHMTSFAVU'ilSSRRENGEILPLKTLTYVALGVTLAAlflLT] BFLTLLRILRSNQHGIRRNLTAALGLAQLVFLLG
+DNAResearch/0470.pdf.txt:                 mouse 2341 EWFRNESHVSCQCNHMTSFAVLMD|SRRENGEILPLKTLTYVALGVTLAAI§LTI IFLTLLRMLRSNQHGIRRNLTAALGLAQLVFLLG
+DNAResearch/0275.pdf.txt:Ce   206    IYVNAKFDKLKSLDDQIHLVGDHVNHMVAALCAVADDTGSPLVQRYLLDFLVAAFPLDSTNLTNE--------DFVQLLRRCLFVVLRRDMSLNRRLYTWLINRSGETKGVSGLSLGGPDDGIELTFFKERVLGLVHGALGEYLALDTIETPFANHQNSMWGDRKEAEQVQFAEVRVCRLLLYLQDRADIGRTILETVFADFLKK
+MBE/2003/1051.full.pdf.txt:rcc cca raa-39. The resulting fragments were cloned into           [NHM], London), which automates MrBayes analyses of
+MBE/2003/1051.full.pdf.txt:identity.                                                          (Peter Foster, NHM). For bootstrap replicate analyses,
+MBE/2003/278.full.pdf.txt:baboon (Papio cynocephalus anubis) BAC clones orthol-           NHML program of Galtier and Gouy (1998) was applied
+MBE/2003/278.full.pdf.txt:http://www.nisc.nih.gov/) were identified using BLAST                 The NHML program allows the maximum likelihood
+MBE/2008/859.full.pdf.txt:45 °C in a dark moisture chamber in a 0.9 M NaCl, 20 mM              NHML software (Non-homogenous maximum likelihood for
+MBE/2012/1987.full.pdf.txt:(AEC approval number: SCMB/473/09/UQ/NHMRC).
+MBE/2005/1593.full.pdf.txt:Crulckshank, and Johnson 2002; Misof and Fleck 2003).            data. John Noyes (NHM, UK) identified the Encyrtidae.
+MBE/2005/1223.full.pdf.txt:We used the BigDye terminator cycle sequencing kit version                         NHML). This method estimates the ancestral GC content
+MBE/2005/1223.full.pdf.txt:                                                                                    Locus        Remark      Number of Sites      PAML         NHML
+MBE/2005/520.full.pdf.txt:and 342 candidate trees for the 16S data set (57 possible                         searching algorithm available in the NHML program
+MBE/2005/520.full.pdf.txt:those trees, we used the eval_nh program from the NHML                            possible topologies than did the branch-swapping method
+MBE/2005/520.full.pdf.txt:                  were estimated using the eval_nh program in the NHML 3.0 software package (Galtier, Tourasse, and Gouy 1999).
+MBE/2005/520.full.pdf.txt:                                                                providing the NHML program for implementation of
+MBE/2002/1881.full.pdf.txt:                                                                            tralia for support. J.C.W. is a NHMRC Senior Research
+MBE/2002/1792.full.pdf.txt:gram which enabled him to visit the NHM, and A.P.V.                   delids (Insecta, Coleoptera) from an afrotropical region.
+MBE/2001/1970.full.pdf.txt:NHM). Ambiguously aligned regions were removed,                       DNA LogDet/Paralinear distance analyses, as well
+MBE/2001/1970.full.pdf.txt:eukaryote sequences. Bootstrap partitions from 100 resampled data sets were obtained using PHYCON (J. McInerney NHM, London) and
+MBE/2001/1464.full.pdf.txt:grams from the NHML package (Galtier and Gouy                 complete sequences were included and when only third
+MBE/2001/710.full.pdf.txt:exchanged genes with other eubacteria subsequent to the       and D. S. Horner (NHM, London) for critical comments
+MBE/2001/1892.full.pdf.txt:reason for it might be that the studies differ in taxon      NHM/1Zoo/firstpzoologicalpdepartment/web/chemsyst/
+MBE/2001/866.full.pdf.txt:algorithms are available as part of the NHML package
+MBE/2013/1916.full.pdf.txt:and an NHMRC Australia Fellowship to E.C.H.                                      of positive-strand RNA viruses. J Gen Virol. 72:2197–2206.
+MBE/2013/1745.full.pdf.txt:Felsenstein’s phylip package, further improved in the NHML                  Durbin R, Eddy SR, Krogh A, Mitchison G. 1998. Biological sequence
+MBE/2013/123.full.pdf.txt:NHMRC Principal Research Fellow. Patrick Keeling kindly pro-                     mated mRNA transcript assembly and SNP detection in sequenced
+MBE/2013/1263.full.pdf.txt:E.C.H. acknowledges support from an NHMRC Australia                          Kambol R, Kabat P, Tristem M. 2003. Complete nucleotide sequence of
+MBE/2011/2561.full.pdf.txt:in vertebrates and 1,096 sites in angiosperms.                  NHML (Galtier and Gouy 1998), which use a maximum
+MBE/2009/367.full.pdf.txt:Health and Medical Research Council (NHMRC; 496601),                 Genome fragment of Wolbachia endosymbiont transferred to
+MBE/2007/26.full.pdf.txt:Barthels KW, Swinburne NHM, Morris SC. 1990. Solnhofen:                 Beijing: Science Press.
+MBE/2007/294.full.pdf.txt:like evolution is recognized as an important mode of mo-                  been implemented in the software NHML (Galtier and
+MBE/2007/294.full.pdf.txt:sites. The Galtier model is implemented in NHML for                rate classes. Given this overall rate, switching of rate along edges from ON
+MBE/2007/294.full.pdf.txt:(Felsenstein 1981) was based on the NHML package that            where I12 is the entry of the Fisher information matrix corre-
+MBE/2010/1504.full.pdf.txt:ported by grants from the NHMRC and is a Principal Re-
+MBE/2010/1504.full.pdf.txt:search fellow of the NHMRC; S.W.R. was funded by the                         organization of microfilament isoform mRNA and protein.
+MBE/2000/1710.full.pdf.txt:EVALpNH program (NHML package; Galtier and Gouy                 Drosophila as inferred by maximum-likelihood using the
+MBE/2006/352.full.pdf.txt:proximately) when spatial frequency variation was not ac-                           We used the program EVAL_NH in the NHML pack-
+MBE/2006/352.full.pdf.txt:heterogeneous models implemented in NHML, we found                               0.6
+MBE/2006/352.full.pdf.txt:pairs are thermodynamically stronger than A:U pairs and           ing D4 with NHML is strongly biased towards the frequen-
+MBE/2006/352.full.pdf.txt:sponsible for the striking decrease in the G:C content in fa-     NHML has been used in many studies so far. Effects of the
+MBE/2006/1119.full.pdf.txt:                             NHM 1 0:5                             CV is defined as the standard deviation (SD) of a random
+MBE/2006/1119.full.pdf.txt:NHM is the number of tissues in which the gene is expressed        variation in gene expression among tissues, implying tissue
+MBE/2006/227.full.pdf.txt:Siphonops annulatus                Complete mt genome             BMNH 2005.9              Dominguez Martins, ES, Brazil           AY954506
+MBE/2006/227.full.pdf.txt:Siphonops hardyi                   WANCY region                   BMNH 2005.6              Dominguez Martins, ES, Brazil           AY954508
+MBE/2006/227.full.pdf.txt:Lutkenotyphlus brasiliensis        WANCY region                   BMNH 2005.3              Sao Paulo, SP, Brazil                   AY954509
+MBE/2006/227.full.pdf.txt:    NOTE.—BMNH, The Natural History Museum, London; CHUNB, Departamento de Cieˆncias Fisiolo´gicas, Universidade de Brasilia.
+MBE/2006/93.full.pdf.txt:Discodermia sp. (DNA)                               NHML                           AY582839(A)
+MBE/2006/93.full.pdf.txt:melcultures, Uppsalalaan 8, 3584 CT Utrecht, The Netherlands; NHML: Department of Zoology, Natural History Museum London, Cromwell Road, London SW7 5BD,
+MolluscStudies/0523.pdf.txt:showing white needle layer covering most of shell. Panglao, Philippines (MNHN). L ¼ 24.2 mm. C. Lioconcha ornata. Mahe´, Seychelles (BMNH).
+MolluscStudies/0523.pdf.txt:L ¼ 30.9 mm. D. Tivela lamyi. Funzi, Kenya (BMNH). L ¼ 35 mm. E. Gomphina undulosa. Shark Bay, Western Australia (BMNH). L ¼ 24.4 mm.
+MolluscStudies/0523.pdf.txt:F. Pitar trevori. Moreton Bay, Queensland (BMNH). L ¼ 17.2 mm. G. Pitar citrina. Shark Bay, Western Australia (BMNH). L ¼ 32.1 mm.
+MolluscStudies/0523.pdf.txt:H. Clementia papyracea with sediment coating. Moreton Bay, Queensland (BMNH). L ¼ 29.8 mm. I. Callocardia hungerfordi with thick sediment
+MolluscStudies/0523.pdf.txt:coating. Danang, Vietnam (BMNH). L ¼ 15.1 mm.
+MolluscStudies/0523.pdf.txt:All samples housed in The Natural History Museum, London (BMNH), except where otherwise indicated. MNHN, Muse´um National d’Histoire Naturelle, Paris.
+MolluscStudies/0523.pdf.txt:worn off from dorsal areas and remain as a dense, continuous                 (NHM) for X-ray diffraction analysis and discussion on crys-
+MolluscStudies/0523.pdf.txt:burrowing rates of Lioconcha fastigiata with and without the                 coast Tivela bryonensis. We are grateful to Harry Taylor (NHM)
+MolluscStudies/0523.pdf.txt:that needles do not contribute to burrowing efﬁciency.                       (EM Unit, NHM) for frequent advice. Specimens from
+MolluscStudies/0523.pdf.txt:   In life, the shells of species of several venerid genera,                 We thank the Department of Zoology, NHM, for continuing
+MolluscStudies/0001.pdf.txt:    and Petitilla crosseana, is a distinct and valid          laevigata, BMNH (No. 1854.10.4.152), London, U.K.,
+MolluscStudies/0001.pdf.txt:    7–9. (Holotype: BMNH No. 1854.10.4.152; type local-          Attachment thread originates at groove. White
+MolluscStudies/0001.pdf.txt:    (BMNH) and Mr. Adam Baldinger (MCZ) were most             HORI, S. & OKUTANI, T. 1996. A new pyramidellid
+MolluscStudies/0087.pdf.txt:   Anatomical and ecological studies of Brotia and           the Natural History Museum, London (BMNH), the Acade-
+MolluscStudies/0087.pdf.txt:(BMNH). Thailand: Thoungyin-River ( Maenam Moei)              ple, I. Lea (1835) described a new species, M. plicata,
+MolluscStudies/0087.pdf.txt:598, pl. 13, fig. 3 (locus typicus not given; holotype BMNH
+MolluscStudies/0087.pdf.txt:BMNH 1872.12.2.2); Brot, 1874: 85, pl. 10, fig. 1a-d.          species. He established three subspecies, viz. the nomi-
+MolluscStudies/0087.pdf.txt:1956) and Borneo (e.g. Brandt, 1974) as dubious due to       6199); Assam (ZMB 200042, 200052; BMNH 1935.10.9.5-17,
+MolluscStudies/0087.pdf.txt:confusion with other species. The occurrence of B. cos-      1888.12.4.1492-3); Durang (BMNH); Himalaya (BMNH
+MolluscStudies/0087.pdf.txt:tula on Java reported by some 19th century authors,          1841.7.23.9); Manipur (BMNH); Keladyne River (BMNH
+MolluscStudies/0087.pdf.txt:Rensch (1934: 340; based on a single specimen from           1899.12.4.1761-2); Calcutta (BMNH; CAS 25326); Bengal
+MolluscStudies/0087.pdf.txt:                                                             (BMNH 1888.12.4.1480-2; ZMZ 522371); River Toolsi
+MolluscStudies/0087.pdf.txt:                                                             Ganga, Bengal (BMNH); River Atrai, Bengal (BMNH);
+MolluscStudies/0087.pdf.txt:firmed; for further discussion see the latter author. The    Basudepur, Rajshaye (BMNH); Malaudi, Rajshaye
+MolluscStudies/0087.pdf.txt:report of ‘M. variabilis’ from Melanesia (Abbott, 1948)      (BMNH); River Jumma (BMNH 1907.12.30.207); Gowa-
+MolluscStudies/0087.pdf.txt:report on habitat preferences of a misidentified ‘Brotia     Jonapore (ZMZ 522370); Khasi hills (BMNH). Bhutan:
+MolluscStudies/0087.pdf.txt:aff. costula’ in a river on Cebu Island, Philippines, by     Dooars, West Bhutan (BMNH). Myanmar: Cachar hills
+MolluscStudies/0087.pdf.txt:Bandel & Riedel (1998) clearly refers to B. asperata         (ZMB 20737); Pegu (ZMB 200051; BMNH 1838.12.4.1757);
+MolluscStudies/0087.pdf.txt:Bassein District, Pegu (BMNH). Bangladesh: Chittagong          Sumatra and the shell of forms originally described as
+MolluscStudies/0087.pdf.txt:(BMNH). Thailand: Guang Fiver near Lampun (ZSM                 Melania infracostata from Java and M. pontificalis and
+MolluscStudies/0087.pdf.txt:Perak (BMNH 1885.8.5.21-3, 1886.8.2.41-46, 1897.3.15.45-
+MolluscStudies/0087.pdf.txt:7); Perak River (ZMB 200054); Larut, Perak (BMNH
+MolluscStudies/0087.pdf.txt:near Ipoh (ZMA); Tenasserim (BMNH); River near Jemphol         decisions on the taxonomy difficult. For example,
+MolluscStudies/0087.pdf.txt:tra: (ZMB 200043, 200045; BMNH 1890.2.21.1-4); Aceh            mantan, on which our study is based, to B. pageli for
+MolluscStudies/0087.pdf.txt:Kinabatang River (ZMB 200092-3); Madai (BMNH
+MolluscStudies/0087.pdf.txt:Philippines’; 3 syntypes BMNH 19990496).                          spicuous and not always present. A large, fleshy flap
+MolluscStudies/0087.pdf.txt:unknown; 3 syntypes BMNH 19990494).                               from the mantle cavity dorsal of the proximal end of
+MolluscStudies/0087.pdf.txt:CAS 6195-6). Luzon: (ZMB 200014-5; ZMH; BMNH);                tudinaria-group, (ii) the species synonymized with B.
+MolluscStudies/0087.pdf.txt:tributary of the Pasig River (BMNH 1913.11.24.33-37; CAS
+MolluscStudies/0087.pdf.txt:200011); Sibul (BMNH 1909.10.12.34-44); Brunot Lake, San      & Glaubrecht, 2000; and Rintelen & Glaubrecht,
+MolluscStudies/0087.pdf.txt:Siquijor (BMNH). Samar (ZMB 26767; MHNG); Loqui-
+MolluscStudies/0087.pdf.txt:116978); San Isidro (AMS 324129). Negros (BMNH).              Brotia was originally established by Adams (1866) for
+MolluscStudies/0087.pdf.txt:Guimeras (BMNH 19990496; MHNG).                               its round and multispiral operculum of the type species
+MolluscStudies/0189.pdf.txt:lections (Cooke, 1935). In view of the high extinction threats                   The Natural History Museum, London (BMNH); National
+MolluscStudies/0189.pdf.txt:  Polynesia); syntypes: ‘Annaa’, 4 specimens (at least two with               four syntypes (BMNH 42.5.10.460–463), height 7.0 mm, Annaa, Tuamotu Is.
+MolluscStudies/0189.pdf.txt:  operculum and dried soft parts), BMNH 42.5.10.460–463 (Fig.                 F. Cyclomorpha obligata (Gould, 1847), specimens from Soyer collection
+MolluscStudies/0189.pdf.txt:  dried soft parts), ex Cuming, BMNH 20020543].
+MolluscStudies/0189.pdf.txt:operculum and dried soft parts), Dautzenberg collection (before                 ex Cuming, marked ‘Rapa’, ‘Type?’ (BMNH, 20020544; Fig.
+MolluscStudies/0189.pdf.txt:records ever visited the Gambiers or Polynesia, and the actual                  ex Cuming, BMNH 20001348 (Fig. 2B)].
+MolluscStudies/0189.pdf.txt:3    collection (before 1954; BMNH). ‘Iles Gambier’, 2 specimens
+MolluscStudies/0189.pdf.txt:                                                                                 one of three syntypes (BMNH 20020543), height 7.4 mm, said to be from
+MolluscStudies/0189.pdf.txt:8    21 specimens (dead, but many with fresh colours), collected by              of two syntypes (BMNH 20001348), height 7.3 mm, said to be from ‘Fox
+MolluscStudies/0189.pdf.txt:9                                                                                        nominal species, Cyclostoma margarita Pfeiffer, 1851 (the BMNH
+MolluscStudies/0189.pdf.txt:2    Agakauitai                               10.40                29                    no evidence that the type lot in BMNH was collected alive, the
+MolluscStudies/0189.pdf.txt:                                                                                         We thank the curators and collection managers at the BMNH
+MolluscStudies/0189.pdf.txt:6    tion in BMNH, respectively. A date may also represent the year
+MolluscStudies/0431.pdf.txt:Concholepas concholepas (Bruguie`re, 1789)       Isla Rojas, Region IX, Chile                               BMNH 19990303         EU391554     EU391581
+MolluscStudies/0431.pdf.txt:Drupa morum (Ro¨ding, 1798)                      Pemba Bay, Cabo Delgado Prov., Mozambique                  BMNH 20060441         EU391559      –
+MolluscStudies/0431.pdf.txt:Drupa ricinus (Linnaeus, 1758)                   Londo, Pemba Bay, Cabo Delgado Prov., Mozambique           BMNH 20060442         EU391568     EU391571
+MolluscStudies/0431.pdf.txt:Mancinella intermedia (Kiener, 1836)             Londo, N. headland of Pemba Bay, Cabo Delgado Prov.,       BMNH 20060440         EU391543     EU391574
+MolluscStudies/0431.pdf.txt:Menathais tuberosa (Ro¨ding, 1798)               Londo, Pemba Bay, Cabo Delgado Prov., Mozambique           BMNH 20060439         EU391564     EU391575
+MolluscStudies/0431.pdf.txt:Nassa serta (Bruguie`re, 1789)                   Tulang I., Camotes Is, Philippines                         BMNH 20070648         EU391555      –
+MolluscStudies/0431.pdf.txt:Semiricinula marginatra (Blainville, 1832)       Pemba, Cabo Delgado Prov., Mozambique                      BMNH 20060428         EU391556      –
+MolluscStudies/0431.pdf.txt:Thais nodosa (Linnaeus, 1758)                    30 km W. of Takoradi, Ghana                                BMNH 20070652         EU391566     EU391579
+MolluscStudies/0431.pdf.txt:Thais speciosa (Valenciennes, 1832)              Taboga I., Pacific Coast of Panama                         BMNH 20070653         EU391548     EU391580
+MolluscStudies/0431.pdf.txt:Thalessa distinguenda (Dunker & Zelbor, 1866)    Mocimboa de Praia, Cabo Delgado Prov., Mozambique          BMNH 20060263         EU391550     EU391576
+MolluscStudies/0431.pdf.txt:Vasula melones (Duclos, 1832)                    Guanacaste, Costa Rica                                     BMNH 20070654         EU391557      –
+MolluscStudies/0431.pdf.txt:Ergalatax margariticola (Broderip, 1833)         Milipululu I., Mocimboa de Praia, Cabo Delgado Prov.,      BMNH 20060466         EU391552     EU391587
+MolluscStudies/0431.pdf.txt:Morula anaxares (Kiener, 1836)                   Londo, N. headland of Pemba Bay, Cabo Delgado              BMNH 20060450         EU391541     EU391584
+MolluscStudies/0431.pdf.txt:Morula granulata (Duclos, 1832)                  N. Mahe´ I., Seychelles                                    BMNH 20060262         EU391546     EU391585
+MolluscStudies/0431.pdf.txt:Morula spinosa (H. & A. Adams, 1858)             Wimbi Beach, Pemba, Cabo Delgado Prov., Mozambique         BMNH 20060429         EU391542     EU391586
+MolluscStudies/0431.pdf.txt:Muricodrupa fenestrata (Blainville, 1832)        Londo, Pemba Bay, Cabo Delgado Prov., Mozambique           BMNH 20060451         EU39155       –
+MolluscStudies/0431.pdf.txt:Pascula ochrostoma (Blainville, 1832)            Wimbi Beach, Pemba, Cabo Delgado Prov., Mozambique         BMNH 20060435         EU391549      –
+MolluscStudies/0431.pdf.txt:Acanthina monodon (Pallas, 1774)                 Isla Rojas, Region IX, Chile                               BMNH 1990298          EU391563     EU391583
+MolluscStudies/0431.pdf.txt:Eupleura nitida (Broderip, 1833)                 Playa Bique, Pacific coast of Panama                       BMNH 20070657         EU391565      –
+MolluscStudies/0431.pdf.txt:Nucella lapillus (Linnaeus, 1758)                Reykjanes, Iceland                                         BMNH 20070659         EU391560     EU391582
+MolluscStudies/0431.pdf.txt:Trophon plicatus (Lightfoot, 1786)               Golfo Elephantes, Region IX, Chile                         BMNH 19990293         EU391547     EU391578
+MolluscStudies/0431.pdf.txt:Favartia alveata (Kiener, 1842)                  Bocas del Toro, Caribbean coast of Panama                  BMNH 20070644         EU391569     EU391588
+MolluscStudies/0431.pdf.txt:Muricopsis schrammi (Crosse, 1863)               Bocas del Toro, Caribbean coast of Panama                  BMNH 20070647         EU391570     EU391572
+MolluscStudies/0431.pdf.txt:Hexaplex trunculus (Linnaeus, 1758)              Ria de Alvor, Algarve, Portugal                            BMNH 20030321         EU391563     EU391577
+MolluscStudies/0431.pdf.txt:Murex occa Sowerby, 1834                         Gertak Sanggul, SW Penang, Malaysia                        BMNH 20070646         EU391544      –
+MolluscStudies/0431.pdf.txt:Buccinum undatum (Linnaeus, 1758)                Reykjanes, Iceland                                         BMNH 20070640         EU391567      –
+MolluscStudies/0431.pdf.txt:Voucher material is deposited in the collection of the Natural History Museum, London (BMNH) or the Australian Museum, Sydney (AM). Species are arranged
+MolluscStudies/0431.pdf.txt:Biology Unit at the NHM helped MC with sequencing. This                        TAN, K.S. 1995. Taxonomy of the Thais and Morula (Mollusca:
+MolluscStudies/0416.pdf.txt:                                                                             SBMNH: Santa Barbara Museum of Natural History, Santa
+MolluscStudies/0416.pdf.txt:Museum collection            MORG                   MUSP                   MNRJ                         USNM                           SBMNH
+MolluscStudies/0416.pdf.txt:Museum collection              MORG                   MUSP                         MNRJ                   USNM                    SBMNH
+MolluscStudies/0416.pdf.txt:                                                                                  SCUBA dive; August 2001; SBMNH 369710. one female
+MolluscStudies/0416.pdf.txt:T.S. Leite, by hand during SCUBA dive, April 2004; MORG                           SCUBA dive; August 2001; SBMNH 369711 (Table 1A, B).
+MolluscStudies/0416.pdf.txt:Rocha, 1999). Its distribution is from northern Peru to                        Natural History Museum, London (BMNH 1868.3.12.1; collec-
+MolluscStudies/0416.pdf.txt:   Unlike some reef ﬁshes that show biogeographical (Rocha,                on the specimens stored at the BMNH; Ian Gleadall for kindly
+MolluscStudies/0416.pdf.txt:and Brazilian oceanic islands, the octopus fauna of the Brazilian          BMNH collection; and Jennifer Mather and Roberta
+MolluscStudies/0355.pdf.txt:(no collecting data). Syntype, BMNH 196738/1. J. Hemipolygona mcgintyi (Pilsbry, 1939). 67.7 mm SL. Palm Beach, Florida, USA, 20 m (SC). K. Hemi-
+MolluscStudies/0022.pdf.txt:A. B. Smith (NHM), M. R. Cooper (Durban) and W.            Turonian and Coniacian Scaphitidae from England
+MolluscStudies/0182.pdf.txt:Galbraith, 2001). Access to specimens of G. verrucosa on both                      Natural History Museum, London (BMNH) and the Instituto de
+MolluscStudies/0182.pdf.txt:6                                                                                   630 fathoms, 14/7/1874, BMNH 1889.4.24.49, 1.
+MolluscStudies/0182.pdf.txt:ment. Alex Ball provided access to SEM facilities at the BMNH                       NIXON, M. 1995. A nomenclature for the radula of the Cephalopoda
+MolluscStudies/0085.pdf.txt:                                                                      BMNH                9.1     4.7     1.9   13     15 ?   specimen
+MolluscStudies/0085.pdf.txt:(BMNH).
+MolluscStudies/0507.pdf.txt:  type (Palazzi; 1990) BMNH 1885.11.5.1922–3; off southern                    Besides the weaker keels, A. densicostatus is readily distin-
+MolluscStudies/0507.pdf.txt:Figure 4. A, B. Adeuomphalus sinuosus (Sykes, 1925), syntype from southern Portugal, 1,990 m, BMNH. A. Teleoconch with a foraminiferan stuck in
+MolluscStudies/0507.pdf.txt:  BMNH unregistered; off southern Portugal, eastern Atlantic,               while later ones are sinuous basally. Interspaces of ribs ornamen-
+MolluscStudies/0372.pdf.txt:Cymbula compressa (Linnaeus, 1758)       Kommetjie, Cape Town, South Africa          †             †            †     –     –     NHM
+MolluscStudies/0372.pdf.txt:C. miniata (Born, 1778)                  Kommetjie, Cape Town, South Africa          †             †            †     –     –     NHM
+MolluscStudies/0372.pdf.txt:C. oculus (Born, 1778)                   West Bank, East London, South Africa        †             †            †     –     –     NHM
+MolluscStudies/0372.pdf.txt:Helcion concolor (Krauss, 1848)          West Bank, East London, South Africa        †             †            †     –     –     NHM
+MolluscStudies/0372.pdf.txt:H. dunkeri (Krauss, 1848)                Bloubergstrand, Cape Town, South Africa     †             †            †     –     –     NHM
+MolluscStudies/0372.pdf.txt:H. pruinosus (Krauss, 1848)              Dalebrook, Cape Town, South Africa          †             †            †     –     –     NHM
+MolluscStudies/0372.pdf.txt:S. barbara (Linnaeus, 1758)               Kommetjie, Cape Town, South Africa              †               †               †     –     –     NHM
+MolluscStudies/0158.pdf.txt:apical shell surface are united under the Brotia pagodula species                 Types: Holotype (male) BMNH 20010482/A (Fig. 1A): from
+MolluscStudies/0158.pdf.txt:Brotia testudinaria species group (see Köhler & Glaubrecht, 2001).                Godw.-Austen Colln Acc. No. 1830’). Three paratypes BMNH
+MolluscStudies/0158.pdf.txt:collection of the Natural History Museum, London (BMNH),
+MolluscStudies/0158.pdf.txt:Figure 1. Shells of Brotia praetermissa n. sp. A. Holotype (BMNH
+MolluscStudies/0158.pdf.txt:20010482/A). B. One of four paratypes (BMNH 20010482/B). Scale bar 
+MolluscStudies/0158.pdf.txt:tury in the spirit collection of the BMNH. Since it was obviously                   size, about 4 mm in height. Shells completely calcified, compris-
+MolluscStudies/0314.pdf.txt:respectively. Specimens were drowned in water and preserved                             Paris; BMNH: The Natural History Museum, London; SMF:
+MolluscStudies/0314.pdf.txt:(B) lectotype from Bunguran, Natuna Island, Indonesia (BMNH 94.2.1.8). C, D. A. (A. ) inversus inversus, (C) from Indonesia (CUMZ 2235), and (D)
+MolluscStudies/0314.pdf.txt:  Islands, Indonesia; lectotype BMNH 1894.2.1.8, Fig. 3B).                         medium sized, mesocone large with curved margins and ecto-
+MolluscStudies/0314.pdf.txt:Material examined: (Fig. 1) Lectotype (BMNH 1894.2.1.8);                           Flagellum almost same length as epiphallus, distal portion forms
+MolluscStudies/0314.pdf.txt: paralectotypes (BMNH 1894.2.1.9 – 19); Great Natuna                               a single coil. Appendix located beyond coiled portion of ﬂagel-
+MolluscStudies/0314.pdf.txt:  lectotype BMNH 19601426). Fulton, 1896: 70. Pilsbry,
+MolluscStudies/0314.pdf.txt:Lectotype contusus BMNH 19601426; Botanic Garden, Singa-                       annamiticus there is a monocuspid central tooth and a straight
+MolluscStudies/0314.pdf.txt:Radula (Fig. 7A– C): Each row contains about 162 (80-(20 – 22)-                  Cochin China; ﬁgured syntype MNHM, Paris, Crosse &
+MolluscStudies/0314.pdf.txt:dark orange to pale brown. Basal longitudinal orange stripes                 BMNH 19601442). Crosse & Fischer, 1863: 359. Fulton,
+MolluscStudies/0314.pdf.txt:to orange, as on head and around mouth. Mantle cavity pos-                 lectotype eques (BMNH 19601442); Myanmar (near Kanchana-
+MolluscStudies/0314.pdf.txt:large, long. Flagellum small, coiled distally. Appendix small,                Malaysia; lectotype BMNH 1902.5.28.12; paralectotype SMF
+MolluscStudies/0314.pdf.txt:Material examined (Fig. 1): Lectotype (BMNH 1902.5.28.12);                      Shell (Fig. 4H, I; Table 1): Shell relatively small, elongate conic,
+MolluscStudies/0314.pdf.txt:2232 (5S); BMNH 20050158; SMF 327980.                                           having a small shell.
+MolluscStudies/0314.pdf.txt:  lectotype BMNH 19601452).                                                     mountains to Sakeo in eastern Thailand (Pilsbry, 1900;
+MolluscStudies/0314.pdf.txt:Material examined (Fig. 2): Lectotype (BMNH 19601452); para-
+MolluscStudies/0314.pdf.txt:2053 (1S).                                                                      ern Thailand. Paratypes: CUMZ 2017 (19D); BMNH
+MolluscStudies/0314.pdf.txt:type material in the BMNH we are grateful to Mr Harold Taylor.                        JACOBI, A. 1895. Anatomische untersuchungen an malayischen
+MolluscStudies/0153.pdf.txt:ably lost, it could not be located at BMNH (A. Campbell, per-             the oesophagus has a reddish coloration. The metanephridium
+MolluscStudies/0090.pdf.txt:within Plutonia sensu lato.                                       Types (Figs 1A–C): 3 syntypes NHM, 1893.2.4.1119-
+MolluscStudies/0090.pdf.txt:tion NHM refers to The Natural History Museum, London,            Cavacas, 22.vi.1994; Road from Malbusca to Cavacas,
+MolluscStudies/0090.pdf.txt:Figure 1. Plutonia brevispira. Shell. A–C. Syntype, Santa Maria, ex Morelet Collection (NHM 1893.2.4.1119). Shell width 7.4mm. D–F. Cimo
+MolluscStudies/0090.pdf.txt:Backhuys, 1975: 144.                                                Morelet collection in the NHM, or the collections of
+MolluscStudies/0090.pdf.txt:nomic status of V. pelagica; NHM, 1998184. From the                 2.xi.1974; Pico Alto, 480m., 21.x.1993; 21.vi.1994;
+MolluscStudies/0090.pdf.txt:Figure 5. Plutonia pelagica. Shell. A–C. Neotype. Pico Alto, Santa Maria 21.x.1993. NHM 1998184. Shell width 7.1mm. D–F. Cimo do Pico
+MolluscStudies/0090.pdf.txt:Figure 7. Plutonia laxata. Shell. A–C. Lectotype. São Miguel, Ex Morelet Collection, NHM 1993.2.4.1098. Shell width 11.7mm. D–F. Sete
+MolluscStudies/0090.pdf.txt:contains P. brumalis. Lectotype NHM, 1893.2.4.1098
+MolluscStudies/0090.pdf.txt:(largest specimen) and 4 paralectotypes NHM,                             Shell (Figs 2C, 7A–F): Size range of dissected adult
+MolluscStudies/0090.pdf.txt:Ex Morelet Collection (NHM 1893.2.4.1122). Shell width 7.6mm.
+MolluscStudies/0090.pdf.txt:Figure 11. Plutonia brumalis. A–C. Syntype of Vitrina mollis, Terceira, Ex Morelet Collection (NHM 1893.2.4.1103). Shell width 8mm. D–F.
+MolluscStudies/0090.pdf.txt:NHM, 1893.2.4.1122 [São Miguel, Azores]; 3 syntypes
+MolluscStudies/0090.pdf.txt:of Vitrina mollis (Figs 11A–C); NHM, 1893.2.4.1103-
+MolluscStudies/0090.pdf.txt:Other material: SÃO MIGUEL: Lameiro, NHM,
+MolluscStudies/0090.pdf.txt:ix.,1998#. FAIAL: Above Horta, NHM, 1903.10.8.49-51;
+MolluscStudies/0090.pdf.txt:27.vi.94; 1.vii.94; SÃO JORGE: Above Calheta, NHM,
+MolluscStudies/0090.pdf.txt:Figure 17. Plutonia finitima. A–C. Syntype. Flores, Ex Morelet Collection (NHM 1893.2.4.1124). Shell width 8.0mm. D–F. Lomba, Corvo.
+MolluscStudies/0090.pdf.txt:Figure 20. Plutonia angulosa. Shell. A–C. Neotype. Pico Alto, Santa Maria, 480m. 21.x.1993. NHM 1998183. Shell width 6.4mm. D–F. Pico
+MolluscStudies/0090.pdf.txt:nomic status of V. angulosa; NHM, 1998183. From the
+MolluscStudies/0090.pdf.txt:Morelet collection in the NHM, or the collections of
+MolluscStudies/0081.pdf.txt:1955.158; two shells, ‘east coast of India’, BMNH                   and a mucus sheet, which incorporates sediment par-
+MolluscStudies/0425.pdf.txt:Museum, London (BMNH); and University of Costa Rica                           emendation of Kentrodoris Bergh, 1876).
+MolluscStudies/0425.pdf.txt:   Bergh (1876) introduced two species from the Philippines.                 type lost, not at Australian Museum, nor BMNH).
+MolluscStudies/0425.pdf.txt:    served length, leg. T. G. Evans (BMNH 1919.10.7.43–45);               sometimes present in J. spazzola. Whether these two species are
+MolluscStudies/0425.pdf.txt:    length, leg. T. G. Evans (BMNH 1919.10.7.44-45). Slide                material for comparison from Cape Verde.
+MolluscStudies/0425.pdf.txt:Rostanga by Eliot (1906), presumably because of the presence                 not at BMNH; neotype here designated (CASIZ 174617)].
+MolluscStudies/0425.pdf.txt:the genus Jorunna rather than Rostanga.                                      holotype (BMNH 19752W)], syn. nov.
+MolluscStudies/0425.pdf.txt:                                                                                 length, leg. Mr Frank (BMNH 1868.6.25.48. a); paratype: 1
+MolluscStudies/0425.pdf.txt:Remarks: Pruvot-Fol (1953) described Jorunna sp. from Dakar,                     specimen, 45 mm preserved length, leg. Mr Frank (BMNH
+MolluscStudies/0425.pdf.txt:Figure 25. Copulatory spines. A. Jorunna hartleyi (NMV F 19471), scale bar ¼ 0.2 mm. B. Jorunna evansi (BMNH 1919-10.7.44-45), scale bar ¼
+MolluscStudies/0425.pdf.txt:0.2 mm. C. Jorunna evansi (BMNH 1919-10.7.44-45), ventral view, scale bar ¼ 1.0 mm. Abbreviations: m, mouth, ot, oral tentacles.
+MolluscStudies/0425.pdf.txt:   Capt. Spratt, (BMNH 1873.4.19)].                                         indicates that Jorunna marchadi Risbec, 1956 from Vietnam is
+MolluscStudies/0425.pdf.txt:                                                                                     and K. Way (BMNH), T. Schiøtte (ZMUC), C. Bright
+MolluscStudies/0281.pdf.txt:sperm ultrastructure and the nervous system. These results,                  Vienna (NHMW). A specimen of H. suecica (det. Odhner) from
+MolluscStudies/0281.pdf.txt:criticism. Dr K. Edlinger (NHMW) and Dr A. Ware´n (SMNH)                                  MARCUS, E. 1953. Three Brazilian Sand-Opisthobranchia. Boletim da
+MolluscStudies/0141.pdf.txt:7    History Museum of Crete (NHMC).                                                       studied during the period from September 1997 to March
+MolluscStudies/0307.pdf.txt:                                                                             Types: Holotype in Natural History Museum, London (BMNH
+MolluscStudies/0307.pdf.txt:                                                                             (BMNH 20040847); 4 paratypes mounted, sputter coated for
+MolluscStudies/0307.pdf.txt:                                                                             SEM (BMNH 20050191/1-4).
+MolluscStudies/0307.pdf.txt:Malaysia. A. Robertsiella silvicola holotype (female BMNH 20040848/1). B–D. Male paratypes (BMNH 20050191/1-3). E. Shell of female paratype
+MolluscStudies/0307.pdf.txt:viewed with aperture facing away, note reﬂection of inner lip (BMNH 20050191/4). F. Detail of suture of body whorl, showing mild crenulation in
+MolluscStudies/0307.pdf.txt:on abapical lip of shell. J. Operculum of female paratype (BMNH 20050191/4). K. Shell of female R. gismanni (BMNH 20050190/1). L. Shell of
+MolluscStudies/0307.pdf.txt:female R. gismanni viewed with aperture facing away (BMNH 20050190/2). Scale bars: A–E, K, L ¼ 250 mm (scale bar in A); F–J 5 100 mm.
+MolluscStudies/0307.pdf.txt:at base of tentacles, not set in pronounced lobes. Operculum                         (female paratype BMNH 20040848/3). Scale bar ¼ 5 mm.
+MolluscStudies/0044.pdf.txt:         Western Pacific Oceans, thus contradicting a          Pickering (BMNH) who kindly sent us museum
+MolluscStudies/0605.pdf.txt:27.6 mm. N. Cerion uva (MZSP 3189); Curac¸ao, Dutch West Indies; shell length 25.3 mm. O, P. Ptychotrema (Ennea) elegantula (BMNH
+MolluscStudies/0605.pdf.txt:1854.5.31.32); Liberia; shell length 7.8 mm. Abbreviations: BMNH, Natural History Museum, London; cl, columellar lamella; pt, parietal tooth.
+MolluscStudies/0586.pdf.txt:                             Turricula            nelliae (E. Smith, 1877)                NHMUK MOEA 20100551          Danang, Vietnam                         CONUK001-11 JF276924      JF276945   JF276966
+MolluscStudies/0586.pdf.txt:      Drilliidae      Agladrillia      pudica (Hinds, 1843)                   NHMUK MOEA 20100543         Gulf of Panama, JTD-00-51,             CONUK002-11 JF276925    JF276946   JF276967
+MolluscStudies/0586.pdf.txt:                      Calliclava       sp.                                    NHMUK MOEA 20100546         Gulf of Panama, JTD-00-47,             CONUK003-11 JF276926    JF276947   JF276968
+MolluscStudies/0586.pdf.txt:                      Cerodrillia      cybele(Pilsbry & Lowe, 1932)           NHMUK MOEA 20100548         Gulf of Panama, JTD-00-18,             CONUK004-11 JF276927    JF276948   JF276969
+MolluscStudies/0586.pdf.txt:                      Clathrodrillia   walteri (M. Smith, 1946)               NHMUK MOEA 20100549         Gulf of Panama, JTD-00-46,             CONUK005-11 JF276928    JF276949   JF276970
+MolluscStudies/0586.pdf.txt:                      Cruziturricula   arcuata (Reeve, 1843)                  NHMUK MOEA 20100541         Gulf of Panama, JTD-00 –34,            CONUK006-11 JF276929    JF276950   JF276971
+MolluscStudies/0586.pdf.txt:                      Drillia          acapulcana (Lowe, 1935)                NHMUK MOEA 20110067         Gulf of Panama, JTD-00-57              CONUK007-11 JF276930    JF276951   JF276972
+MolluscStudies/0586.pdf.txt:                      Imaclava         unimaculata (Sowerby I, 1834)          NHMUK MOEA 20100527         Gulf of Panama, JTD-00-46,             CONUK009-11 JF276932    JF276953   JF276974
+MolluscStudies/0586.pdf.txt:      Pseudomelatomidae    Carinodrillia        dichroa Pilsbry & Lowe, 1932          NHMUK MOEA 20100530          Gulf of Panama, JTD-00-18,             CONUK010-11 JF276933    JF276954   JF276975
+MolluscStudies/0586.pdf.txt:                           Cheungbeia           robusta (Hinds, 1839)                 NHMUK MOEA 20100556          Off southern Hong Kong, South China    CONUK011-11 JF276934    JF276955   JF276976
+MolluscStudies/0586.pdf.txt:                           Funa                 incerta (Smith, 1877)                 NHMUK MOEA 20100553          Off southern Hong Kong, South China    CONUK012-11 JF276935    JF276956   JF276977
+MolluscStudies/0586.pdf.txt:                           Hindsiclava          alesidota (Dall, 1889)                NHMUK MOEA 20100524          Lower Florida Keys, JTD-01-15,         CONUK013-11 JF276936    JF276957   JF276978
+MolluscStudies/0586.pdf.txt:                           Knefastia            tuberculifera (Broderip & Sowerby,    NHMUK MOEA 20100533          Gulf of Panama, JTD-00-18,             CONUK014-11 JF276937    JF276958   JF276979
+MolluscStudies/0586.pdf.txt:                     Ptychobela            suturalis (Gray, 1838)                  NHMUK MOEA 20100560       Off southern Hong Kong, South China    CONUK016-11 JF276939    JF276960   JF276981
+MolluscStudies/0586.pdf.txt:                     Pyrgospira            aenone (Dall, 1919)                     NHMUK MOEA 20100539       Gulf of Panama, JTD-00-18,             CONUK021-11 JF276944    JF276965   JF276986
+MolluscStudies/0586.pdf.txt:                     Tiariturris           spectabilis Berry, 1958                 NHMUK MOEA 20100540       Gulf of Panama, JTD-00-34,             CONUK017-11 JF276940    JF276961   JF276982
+MolluscStudies/0586.pdf.txt:                     Zonulispira           sp.                                     NHMUK MOEA 20100536       Gulf of Panama, JTD-00-18,             CONUK018-11 JF276941    JF276962   JF276983
+MolluscStudies/0586.pdf.txt:                           Polystira        albida (Perry, 1811)                    NHMUK MOEA 20110066          S. of Bahia Honda Key, Florida Keys,    CONUK019-11 JF276942    JF276963   JF276984
+MolluscStudies/0586.pdf.txt:                                                                                                                                                                                                                                                                                                                                                                    sected out for processing (NHMUK). Additional specimens
+MolluscStudies/0586.pdf.txt:                                                                                                                                                                                                                                                                                                                                                                    specimens are vouchered in MNHN, Paris and NHM, London
+MolluscStudies/0586.pdf.txt:                                                                                                                                                                                                                                                                                                                                                                    (NHMUK), single lots are deposited in the collections of the
+MolluscStudies/0586.pdf.txt:cation of some problematic specimens. Eight specimens, noted               ampliﬁed products was undertaken at the NHM.
+MolluscStudies/0586.pdf.txt:tissue samples analysed at the NHM, DNA was extracted using
+MolluscStudies/0586.pdf.txt:   At the NHM, London (see Table 1), the molecular pro-
+MolluscStudies/0586.pdf.txt:helped curate the voucher specimens in the NHM. Claire                                A. Adams, 1853 (1838) (Gastropoda: Neogastropoda). Nautilus,
+MolluscStudies/0586.pdf.txt:of all samples processed at the NHM. The authors also thank                         HOLFORD, M., PUILLANDRE, N., TERRYN, Y., CRUAUD, C.,
+MolluscStudies/0531.pdf.txt:Phantom Cave snail ‘is not referable to Cochliopa in the strict                     (UMBMNH) were also examined during the course of this study.
+MolluscStudies/0531.pdf.txt:using Sequencher v. 4.8. Pyrgulopsis chupaderae (Taylor, 1987), P.         to Phantom Cave, 25/6/1968. UMBMNH uncat., Phantom Cave,
+MolluscStudies/0531.pdf.txt:sequences for the other species were from our previously pub-              2000, 2/12/2008. UMBMNH uncat., Phantom Lake Spring,
+MolluscStudies/0531.pdf.txt:lished investigations (Hershler, Liu & Thompson, 2003; Liu &               Kingston Ranch, 25/6/1968. UMBMNH uncat., Phantom Lake
+MolluscStudies/0531.pdf.txt:26 new sequences reported herein were deposited in GenBank                 Cave, 14/7/1973, 14/7/1973, 3/4/1995, 3/4/1995. UMBMNH
+MolluscStudies/0531.pdf.txt:   Sequence divergences (uncorrected p distance) were calcu-               UMBMNH uncat., Phantom Lake Spring outﬂow, second lateral
+MolluscStudies/0531.pdf.txt:lated using MEGA4 (Tamura et al., 2007). Phylogenetic                      south, 25/6/1968. Reeves County, Texas: UMBMNH uncat.,
+MolluscStudies/0531.pdf.txt:MrBayes v. 3.12 (Ronquist & Huelsenbeck, 2003).                            UMBMNH uncat., spring-fed creek, Toyahvale (ex UMMZ
+MolluscStudies/0531.pdf.txt:the Akaike Information Criterion. In the initial Bayesian                  miles (2.33 km) below Phantom Cave, 25/6/1968. UMBMNH
+MolluscStudies/0531.pdf.txt:Opercula, outer side (USNM 883953, UMBMNH uncat., respectively). H, I. Opercula, inner side (USNM 883953). Scale bars A ¼ 0.5 mm; D,
+MolluscStudies/0531.pdf.txt:1003865 and UMBMNH uncat. (San Solomon Spring).                                    yellow). Female glandular oviduct and associated structures
+MolluscStudies/0558.pdf.txt:Reischu¨tz (2007).                                                             Natural History Museum, Vienna (NHMW). In total, 327
+MolluscStudies/0500.pdf.txt:acanthodes Watson, 1882, syntype NHM1887.2.9.569; scale bar ¼ 1 cm. G. Protoconch of same specimen. H–J. Three views of one embryo to
+MolluscStudies/0250.pdf.txt:Fernandez & Pergent, 2002; BMNH collections). Although                              (‘Giggenbach Cone’) (Wright et al., 2002b) (Fig. 1).
+MolluscStudies/0250.pdf.txt:7    BMNH, Natural History Museum, London                                             Body wall with anterior pair of curled, lobate extensions. Foot
+MolluscStudies/0250.pdf.txt:valve of paratype BMNH 20030580. E. Inside of left valve of same paratype. F. Inside of right valve of paratype NMNZ M.273197. Scale bars  10 mm.
+MolluscStudies/0250.pdf.txt:8    muscle scar. A. Bathyaustriella thionipta. B. Austriella corrugata (Deshayes, 1843), Zamboanga, Philippines (BMNH).
+MolluscStudies/0250.pdf.txt:                                                                                          types: from type locality. Figured paratypes: Fig. 3D, E, BMNH
+MolluscStudies/0250.pdf.txt:                                                                                          shells BMNH 20030581; 10 shells NMNZ M.273197; 4 shells
+MolluscStudies/0250.pdf.txt:                                                                                          formalin-fixed whole animals (BMNH); all from type locality.
+MolluscStudies/0250.pdf.txt:Figure 9. Austriella corrugata (Deshayes, 1843). A. Outside of right valve; Kisseraing Island, Mergui (BMNH 1887.3.10.435). B. Inside of right valve. C. Detail of
+MolluscStudies/0250.pdf.txt:hinge and ligament. D, E. Outside and inside of left valve of juvenile specimen from Zamboanga, Philippines (BMNH). Scale bars  10 mm.
+MolluscStudies/0250.pdf.txt:5    Figure 10. Austriella corrugata (Deshayes, 1843), King Bay, Dampier, Western Australia (BMNH). A. Posterior apertures. B. General view of anatomy, with right
+MolluscStudies/0250.pdf.txt:3    cene or younger (Chavan, 1969). However, the fossil record is                 The authors are grateful to Suzanne Williams (BMNH) for the
+MolluscStudies/0250.pdf.txt:5       Although a relationship between an intertidal lucinid and a                (BMNH) who made the X-ray determinations of shell mineral-
+MolluscStudies/0250.pdf.txt:6    vent species might seem surprising, we know that Austriella corru-            ogy, to Alex Ball (BMNH) for help with Figure 6E and to
+MolluscStudies/0319.pdf.txt:Brookula including three deep water species from the South                          London (BMNH), Museum of Comparative Zoology,
+MolluscStudies/0319.pdf.txt:  Georgia, 155– 178 m; holotype BMNH 1961368). Zelaya,                           threads, and the lower one with about 15 more closely arranged
+MolluscStudies/0319.pdf.txt:1.74 mm width (Fig. 5A– C). Protoconch of one whorl,                               Georgia, 155– 178 m; holotype BMNH 1961369).
+MolluscStudies/0319.pdf.txt:Figure 5. Benthobrookula pfefferi (Powell, 1951). A–C. Apertural view. A. Holotype (BMNH 1961.368). B,D,I. Specimens from Elephant Island (MLP
+MolluscStudies/0319.pdf.txt:Figure 6. Benthobrookula strebeli (Powell, 1951). A, B. Apertural view. A. Holotype (BMNH 1961.369). B–I. Specimens from South Georgia (MLP
+MolluscStudies/0319.pdf.txt:                                                                             BMNH is now completely disintegrated (K. Way, personal com-
+MolluscStudies/0319.pdf.txt:The authors wish to express their gratitude to K. Way (BMNH),
+MolluscStudies/0423.pdf.txt:BMNH reg. 77.5.12.108). A, B. Inside of left and right valves, length of valves 8.2 mm. C, D. Detail of the hinge. Scale bar ¼ 1 mm.
+MolluscStudies/0423.pdf.txt:broken) in BMNH 1885-11-5-829 and paralectotypes (rv,                          mounts, 4 live-collected specimens, 53 complete shells and
+MolluscStudies/0423.pdf.txt:Type material: Holotype (lv, 5.39 mm) in BMNH 1885-11-5-939
+MolluscStudies/0423.pdf.txt:Other material examined: Alboran Sea, 1 live-collected specimen, 1              BMNH.
+MolluscStudies/0423.pdf.txt:Figure 13. Kurtiella triangularis (Watson, 1897). A. Inside of a syntype (left valve), BMNH, length 2.93 mm. B, C. Outside and inside of a syntype (right
+MolluscStudies/0423.pdf.txt:valve), BMNH, length 3.26 mm. D, E. Inside of left and right valves of a specimen from Punta del Hidalgo, Tenerife, Canary Is, length 1.96 mm. F, G.
+MolluscStudies/0582.pdf.txt:evidence. This new record represents a large range extension not                    (BMNH) was also examined during the course of this study.
+MolluscStudies/0582.pdf.txt:Guadalupe River, 0.8 km southeast of Sattler, Comal Co., Texas, BMNH 21434 (n ¼ 20)
+MolluscStudies/0582.pdf.txt:Nueces River, 8.0 km east-northeast of Carrizo Springs, Dimmit Co., Texas, BMNH 21447 (n ¼ 27)
+MolluscStudies/0582.pdf.txt:64 km northeast of Houston along HWY 90, Liberty Co., Texas, BMNH 21431 (n ¼ 19)
+MolluscStudies/0582.pdf.txt:Frio River, 1.6 km north of Callihan, McMullen Co., Texas, BMNH 21440 (n ¼ 20)
+MolluscStudies/0023.pdf.txt:described the first Acavus species, A. haema-               BMNH. Barnacle (1962) stated that each Acavus
+MolluscStudies/0023.pdf.txt:   Abbreviations for collections: BMNH: The Natural        Helix (Macroon [Acavus]) haemastoma var.
+MolluscStudies/0023.pdf.txt:haemastoma (Linnaeus, 1758) (possible hybrid with A. superbus), Haycock (BMNH). 14. Acavus phoenix
+MolluscStudies/0023.pdf.txt:(BMNH); Ahangama, 5°58N 80°21E (det. anat,;           place of the umbilicus; the peristome and the
+MolluscStudies/0023.pdf.txt:BMNH; HEM; LIN; PER, leg. 1992; SMF 91417, leg.         nal elevation and there is a third longitudinal
+MolluscStudies/0023.pdf.txt:(BMNH); Dediyagala, 6°10N 80°25E (Raheem &
+MolluscStudies/0023.pdf.txt:1995); Munamalwatta, 6°27N 80°05E (BMNH).             phoenix phoenix can easily be distinguished
+MolluscStudies/0023.pdf.txt:Baddegama, 6°10N 80°11E (BMNH; PER, leg.
+MolluscStudies/0023.pdf.txt:6°19N 80°18E (BMNH, leg. 1995).
+MolluscStudies/0023.pdf.txt:6°56N 79°51E (BMNH; SMF 28384; SMF 91431, leg.       widespread in the northern, interior part of the
+MolluscStudies/0023.pdf.txt:                                                       6°59N 80°25E (BMNH; PER, leg. 1990; ZMH 2724,
+MolluscStudies/0023.pdf.txt:ized by the colour of the body-whorl which is          Kandy, 7°18N 80°38E (det. anat.; BMNH; PER, leg.
+MolluscStudies/0023.pdf.txt:mm, x¯  48.4  2.5 mm; D/H: 1.00–1.19, x¯          leg. 1989); Madampe, 6°32N 80°35E (BMNH; PER,
+MolluscStudies/0023.pdf.txt:                                                     (BMNH); Pelmadulla, 6°37N 80°32E (det. anat.;
+MolluscStudies/0023.pdf.txt:                                                     anat.; BMNH; PER, leg. 1990, 1991; ZMH 2719, leg.
+MolluscStudies/0023.pdf.txt:of A. superbus only in the colour of the peri-       BMNH; PER, leg. 1990; ZMH 2720, leg. 1996; ZMH
+MolluscStudies/0023.pdf.txt:stome and the parietal callus. The lack of mal-      2761, leg. 1990); Ullswater, 7°02N 80°23E (BMNH);
+MolluscStudies/0023.pdf.txt:We are especially grateful to D. Raheem (BMNH) for       of London, 24: 385-392, pl. 36.
+MolluscStudies/0023.pdf.txt:(BMNH) for the loan of material and for communi-         color. Nautilus, 4: 59-60.
+MolluscStudies/0238.pdf.txt:(BMNH Pal. Dept. L. 74779). Although fossil lucinids have                    ALLEN, J.A. 1958. On the basic form and adaptations to habitat in the
+MolluscStudies/0587.pdf.txt:Wells, 1995, S New Caledonia, SL 12.2 mm. G. Imaclava unimaculata (Sowerby I, 1834)* subadult, det. J.A. Todd, NHMUK MOEA 20100529,
+MolluscStudies/0587.pdf.txt:YK; NHMUK 20100542, Gulf of Panama, JTD-00–34, 08826.240 N, 79809.140 W, 66– 68 m, SL ¼ 17.6 mm (radula: Fig. 13E). J. Conopleura striata
+MolluscStudies/0587.pdf.txt:Cruziturricula arcuata (Reeve, 1843)**, NHMUK MOEA 20100541, Gulf of Panama, JTD-00–34, 08826.240 N, 79809.140 W, 66–68 m (shell:
+MolluscStudies/0587.pdf.txt:762– 786 m, SL 113.8 mm (radula: Fig. 15C, D). B. Knefastia tuberculifera (Broderip & Sowerby, 1829)*, NHMUK MOEA 20100534, Gulf of
+MolluscStudies/0587.pdf.txt:CP2348, 09826.60 N, 123852.50 E, 196–216 m, SL 17.2 mm. D. Pyrgospira aenone (Dall, 1919)**, det. J. A. Todd, YK, NHMUK MOEA 20100539,
+MolluscStudies/0587.pdf.txt:DW2625, 208050 N, 1608190 E, 627–741 m, SL 32.2 mm (radula: Fig. 16F). F. Funa incerta (Smith, 1877)**, NHMUK MOEA 20100553, st. 70, off
+MolluscStudies/0587.pdf.txt:Figure 15. Radulae. Pseudomelatomidae. A. Tiariturris spectabilis Berry, 1958**, NHMUK MOEA 20100540, Gulf of Panama, JTD-00-34,
+MolluscStudies/0587.pdf.txt:SL 27.1 mm (radula: Fig. 16A). H. Hindsiclava alesidota (Dall, 1889)**, det. J. A. Todd, NHMUK MOEA 20100524, Lower Florida Keys,
+MolluscStudies/0587.pdf.txt:Sandwich Islands, 56.278S, 27.58W, 208 –375 m, SL 23.6 mm. J. Carinodrillia dichroa Pilsbry & Lowe, 1932*, det. J. A. Todd, NHMUK MOEA
+MolluscStudies/0587.pdf.txt:NHMUK MOEA 20100558, st. 70, off southern Hong Kong, South China Sea, SL 21.2 mm (radula: Fig. 16E). L. Plicisyrinx vitjazi Sysoev t
+MolluscStudies/0587.pdf.txt:1958**, det. J. A. Todd, NHMUK MOEA 20100540, Gulf of Panama, JTD-00-34, 08826.240 N, 79 09.140 W, 66– 68 m SL 48.7 mm (radula:
+MolluscStudies/0587.pdf.txt:142 m, SL 37.2 mm. U. Naudedrillia sp., New Caledonia, VAUBAN, st. 3, 228170 S, 167 8120 E, 390 m, SL 19.0 mm. V. Zonulispira sp.*, NHMUK
+MolluscStudies/0587.pdf.txt:Figure 16. Radulae. Pseudomelatomidae. A. Leucosyrinx sp.**, MNHN IM200717846 (shell: Fig. 14G). B. Zonulispira sp.**, NHMUK MOEA
+MolluscStudies/0587.pdf.txt:NHMUK MOEA 20100530, Gulf of Panama, JTD-00-18, 08819.500 N, 78847.710 W, 25–32 m (shell: Fig. 1 J). D. Ptychobela suturalis (Gray,
+MolluscStudies/0587.pdf.txt:1838)**, det. J.A. Todd, YK, NHMUK MOEA 20100560, off southern Hong Kong, Sta. 71. E. Cheungbeia robusta (Hinds, 1839)*, NHMUK
+MolluscStudies/0587.pdf.txt:Figure 18. Radulae. Clavatulidae. A, B. Turricula nelliae (E.A. Smith, 1877)**, NHMUK MOEA 20100551, Danang, Vietnam. C. Pusionella
+MolluscStudies/0338.pdf.txt:Museum, London (NHM) (Table 1). 16S sequence was                              GATCACGT-30 as forward and reverse primers, respectively
+MolluscStudies/0338.pdf.txt:Table 1. Localities, museum registration numbers and morphological data matrix for Saccostrea samples. Abbreviations: NHM, Natural History
+MolluscStudies/0338.pdf.txt: 1.   Morozaki, Aichi Pref., Japan   S. kegaki      NHM 20030457         Morozaki             1     1     0    0   0   0   0   1     0    0
+MolluscStudies/0338.pdf.txt: 2.   Itoman, Okinawa, Japan         S. mordax      NHM 20030496         Okinawa A            0     1     1    1   1   0   2   2     1    0
+MolluscStudies/0338.pdf.txt:                                     S. cucullata   NHM 20030497         Okinawa B            0     0     0    3   0   0   2   2     1    0
+MolluscStudies/0338.pdf.txt: 3.   Keelung, Taiwan                S. mordax      NHM 20030498         Keelung              0     1     1    1   1   0   1   1     0    0
+MolluscStudies/0338.pdf.txt: 4.   Shiman, Taiwan                 S. mordax      NHM 20030499         Shiman A             0     1     1    0   1   0   1   1     0    0
+MolluscStudies/0338.pdf.txt:                                     S. cucullata   NHM 20030800         Shiman B             0     1     0    3   0   0   0   2     1    1
+MolluscStudies/0338.pdf.txt: 5.   Hoi Ha Wan, Hong Kong          S. cucullata   NHM 20030501         Hoi Ha Wan           0     1     0    3   0   1   2   2     0    0
+MolluscStudies/0338.pdf.txt: 6.   Cape d’Aguilar, Hong Kong      S. mordax      NHM 20030502         Cape d’Aguilar A     0     1     1    1   1   0   1   1     0    0
+MolluscStudies/0338.pdf.txt:                                     S. cucullata   NHM 20030503         Cape d’Aguilar B     1     1     0    0   0   0   0   1     0    0
+MolluscStudies/0338.pdf.txt: 7.   Sanya, Hainan I., China        S. mordax      NHM 20030504         Sanya A              0     0     0    2   2   0   1   1     0    0
+MolluscStudies/0338.pdf.txt:                                     S. cucullata   NHM 20030505         Sanya B              0     1     0    3   0   0   0   0     0    0
+MolluscStudies/0338.pdf.txt: 8.   Halong Bay, Vietnam            S. cucullata   NHM 20030506         Halong Bay           1     1     0    0   0   0   0   1     0    0
+MolluscStudies/0338.pdf.txt: 9.   Tanah Merak, Singapore         S. cucullata   NHM 20030507         Tanah Merak          0     1     0    0   0   0   2   1     0    0
+MolluscStudies/0338.pdf.txt:10.   Kallang River, Singapore       S. cucullata   NHM 20030508         Kallang River        0     1     0    0   0   0   0   1     0    0
+MolluscStudies/0338.pdf.txt:11.   Withnall Bay, Dampier,         S. cucullata   NHM 20030509         Withnall Bay         1     1     0    0   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:12.   Watering Cove, Dampier,        S. cucullata   NHM 20030510         Watering Cove        1     1     0    0   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:13.   Willie Creek, Broome,          S. cucullata   NHM 20030511         Willie Creek         1     1     0    0   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:14.   Cable Beach, Broome,           S. cucullata   NHM 20030512         Cable Beach          0     1     0    0   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:15.   Darwin Harbour, Northern       S. cucullata   NHM 20030513         Darwin Harbour       0     1     0    3   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:16.   Lee Point, Northern            S. cucullata   NHM 20030514         Lee Point            0     1     0    0   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:17.   Borroloola Site A, Gulf of     S. cucullata   NHM 20030515         Borroloola Site A    1     1     0    0   0   0   2   1     0    1
+MolluscStudies/0338.pdf.txt:18.   Borroloola Site B, Gulf of     S. mordax      NHM 20030516         Borroloola Site B    0     1     1    1   1   0   1   1     0    0
+MolluscStudies/0338.pdf.txt:19.   Buchanan’s Point, Cairns,      S. cucullata   NHM 20030517         Buchanan’s Point     1     1     0    3   0   0   0   1     0    0
+MolluscStudies/0338.pdf.txt:20.   Cooee Bay, Rockhampton,        S. mordax      NHM 20031518         Cooee Bay            0     1     1    1   1   0   1   1     0    0
+MolluscStudies/0338.pdf.txt:21.   Rosslyn Bay, Rockhampton,      S. cucullata   NHM 20030519         Rosslyn              0     1     0    2   0   0   0   1     0    1
+MolluscStudies/0338.pdf.txt:22.   Moreton I., Queensland,        S. glomerata   NHM 20030520         Moreton Island       0     1     0    3   1   0   2   0     0    0
+MolluscStudies/0338.pdf.txt:23.   Manly, Sydney, Australia       S. glomerata   NHM 20030469         Manly                0     1     0    2   0   0   2   1     0    0
+MolluscStudies/0338.pdf.txt:24.   Bondi, Sydney, Australia       S. glomerata   NHM 20030521         Bondi A              0     1     0    2   0   0   2   1     0    0
+MolluscStudies/0338.pdf.txt:                                     S. mordax      NHM 20030522         Bondi B              0     1     1    1   1   0   1   1     0    0
+MolluscStudies/0338.pdf.txt:25.   La Perouse, Sydney,            S. glomerata   NHM 20030523         La Perouse           0     1     0    2   0   0   2   1     0    0
+MolluscStudies/0218.pdf.txt:Tanganyikan gastropods. Seventeen endemic genera, whose                         from the BMNH, IRSNB and MNHN for type comparison
+MolluscStudies/0218.pdf.txt:BMNH, MNHN, USNM, IRSNB, NMK, NMT and ZMAN.
+MolluscStudies/0218.pdf.txt:BMNH, Natural History Museum, London, UK                                     small bumps’. The shell is typified by tuberculate sculpture and
+MolluscStudies/0218.pdf.txt:Figure 1. Vinundu westae new species, holotype from site BUkm29.8, BMNH 20030010. A. Apertural view, note lip thickening and slightly flared aperture.
+MolluscStudies/0218.pdf.txt:5    Figure 2. Vinundu westae new species, geographic variation. A. From site 90em3 Mlila Island, Congo, BMNH 20030012. B. 89em7 Bemba 60–80, Congo
+MolluscStudies/0218.pdf.txt:6    (sequence site CO-3, Fig. 15, Table 1), BMNH 20030013. C. 87emBUkm29.8, Burundi (sequence site BU-1), BMNH 20030014. D. 90emT1 Kigoma, Tanzania,
+MolluscStudies/0218.pdf.txt:7    BMNH 20030015. E. 87em1 Kigoma, Tanzania, BMNH 20030016. F. 90em16, 60–80 Mahale, Tanzania, BMNH 20030017. G. 90em13 Isonga, Tanzania,
+MolluscStudies/0218.pdf.txt:8    BMNH 20030018. H. 91rb28, Zambia (near sequence site ZM-10)BMNH 20030019. I. 86mj25 Ikola, Tanzania, BMNH 20030020.
+MolluscStudies/0218.pdf.txt:7    and slightly more acute (fin-shaped) at anterior end, approxi-                       Type material: Holotype: BMNH 20030010 (dry shell from type
+MolluscStudies/0218.pdf.txt:8    mately equilateral with flexible folds along the middle and major                    locality; Fig. 10). Paratypes (all from type locality): BMNH
+MolluscStudies/0218.pdf.txt:9    part of ctenidium, and acutely peaked with an extension of the                       20030011 (5 dry shells); BMNH 20030014 (figured specimen,
+MolluscStudies/0218.pdf.txt:60   lateral ridge (fin-shaped) at posterior end (Fig. 5). Osphradium                     dry shell, Fig. 2C); BMNH 20030025 (1 broken shell and body in
+MolluscStudies/0218.pdf.txt:7    ing a spermatophore bursa. Oviduct floor folded, rugose, thick-                      nates given on first mention only. BMNH: 2 soft parts and broken
+MolluscStudies/0218.pdf.txt:8    ened, with deep oviducal groove, opening via single, relatively                      shells in 70% ethanol (BMNH 20030026) and 2 dry shells
+MolluscStudies/0218.pdf.txt:(BMNH 20030023) from Luhanga, south of Uvira, Congo                                (vouchers registered by name). Additional material: 67 lots from
+MolluscStudies/0218.pdf.txt:Kalemie, Congo (90em3, –5.617, 29.417) (BMNH 20030012,                             anatomy from multiple specimens from type locality, as well as
+MolluscStudies/0218.pdf.txt:(BMNH 20030013, Fig. 2B); 1 shell from south side of Kigoma
+MolluscStudies/0218.pdf.txt:Bay, Tanzania (90emT2-HTP, –4.890, 29.6101) (BMNH                                  Remarks: For comparison of the two species, see Remarks under
+MolluscStudies/0218.pdf.txt:–4.880, 29.620) (BMNH 20030016, Fig. 2E); 1 shell from Mahale                      this species as L. spinulosa (Bourguignat), a distinctive species of
+MolluscStudies/0218.pdf.txt:Park, Tanzania (90em16, –6.250, 29.733) (BMNH 20030017,                            Lavigeria, with unusually regular nodulose ornament and a very
+MolluscStudies/0218.pdf.txt:30.150) (BMNH 20030018, Fig. 2G); 1 shell from Kombe,                              (1998) identified V. westae as L. arenarum (Bourguignat), pre-
+MolluscStudies/0218.pdf.txt:Zambia (91rb28, –8.783, 31.017) (BMNH 20030019, Fig. 2H); 1                        sumably based on Bourguignat’s inaccurate figures. The latter
+MolluscStudies/0218.pdf.txt:(BMNH 20030020, Fig. 2I); 3 shells from south of Malagarasi                        are clearly assignable to Lavigeria. These shells have whorls dom-
+MolluscStudies/0218.pdf.txt:Delta, Tanzania (90em24, –5.300, 29.783) (BMNH 20030021); 3                        inated by axial sculpture and are almost flat-sided in their upper
+MolluscStudies/0218.pdf.txt:shells from km32.6, Burundi (86mj12, –3.650, 29.333) (BMNH                         parts giving a very different, more conical shape. Both speci-
+MolluscStudies/0218.pdf.txt:29.340) (BMNH 20030024). MNHN: 2 soft parts and broken                             & Michel, 2004), such as downward deviation of the aperture
+MolluscStudies/0218.pdf.txt:8    Edgaria crassilabris—Smith, 1904: 91 (BMNH 93.5.17.14, exam-                              not been sampled with SCUBA. Figured radula, operculum and protoconch
+MolluscStudies/0218.pdf.txt:6    Figure 12. Vinundu guillemei, geographic variation. A. 90emT1 Kigoma, Tanzania, BMNH 20030027. B. 90em15 Mahale, Tanzania, BMNH 20030028.
+MolluscStudies/0218.pdf.txt:7    C. 86mj24 105 Kibwesa S. Mahale, Tanzania. D. 91rb26 Mutondwe Island, Zambia (sequence site ZM-9, Fig. 15, Table 1), BMNH 20030030. E. 86mj32 Kizumbi,
+MolluscStudies/0218.pdf.txt:8    Tanzania, BMNH 20030031. F. 91rb24 Chiluta Cliffs, Zambia (sequence site ZM-8), BMNH 20030032. G, H. adult and juvenile, 91rb11 south of Lufubu,
+MolluscStudies/0218.pdf.txt:     Zambia (near sequence site ZM-10), BMNH 20030033.
+MolluscStudies/0218.pdf.txt:holotype), refigured herein (Fig. 11A–C), as lectotype of                      Kigoma, Tanzania (JKB, –4.910, 29.590) (BMNH 20030040 and
+MolluscStudies/0218.pdf.txt:Nassopsis guillemei. The unfigured syntype in MNHN becomes a                   BMNH 20030041 respectively); 1 shell from Kigoma Bay,
+MolluscStudies/0218.pdf.txt:paralectotype.                                                                 Tanzania (90emT2-HTP, –4.890, 29.6101) (BMNH 20030027,
+MolluscStudies/0218.pdf.txt:Other material examined: Deposited voucher material: Site coordi-              29.900) (BMNH 20030028, Fig. 12B); 1 shell from Kalya,
+MolluscStudies/0218.pdf.txt:nates given on first mention only. BMNH: 2 dry shells and 3 pre-               Tanzania (86mj24, –6.550, 30.200) (BMNH 20030029); 1 shell
+MolluscStudies/0218.pdf.txt:Figure 13. Vinundu guillemei, geographic variation, continued. I, J. Adult and juvenile. 86mj36 Inangu Penninsula, Zambia, BMNH 20030034. K. 91rb3 Kombe,
+MolluscStudies/0218.pdf.txt:Zambia, BMNH 20030035. L. 91pv1 Kamambwa, Congo, BMNH 20030036. M. 86mj37 Chishiki, Zambia, BMNH 20030037. N. 91pv1 Kamambwa, Congo, note
+MolluscStudies/0218.pdf.txt:colour and shape variation compared with L, BMNH 20030036. O. 90em1 Kibige Island, Congo, BMNH 20030038. P, Q. Colour variants. 90em3 Mlila Island,
+MolluscStudies/0218.pdf.txt:Congo, BMNH 20030039.
+MolluscStudies/0218.pdf.txt:5    Zambia (91rb26, –8.700, 31.117) (BMNH 20030030, Fig. 12D); 1                            authors (e.g. Smith, 1904; Pilsbry & Bequaert, 1927), undoubt-
+MolluscStudies/0218.pdf.txt:6    shell from southern Tanzania (86mj32, –7.870, 30.790) (BMNH                             edly due to the very inaccurate and misleading illustration of cras-
+MolluscStudies/0218.pdf.txt:8    –8.733, 31.167) (BMNH 20030032, Fig. 12F); 2 shells from south                          here as Fig. 11F). The figure exaggerates the relative height of the
+MolluscStudies/0218.pdf.txt:9    of Lufubu River, Zambia (91rb11, –8.567, 30.783) (BMNH                                  last whorl and the scalloping of the outer lip and has a remarkable
+MolluscStudies/0218.pdf.txt:1    –8.490, 30.670) (BMNH 20030034, Fig. 13I, J); 1 shell from                              be collected when Bourguignat made his studies, as no specimens
+MolluscStudies/0218.pdf.txt:2    Katete, Zambia (91rb3) (BMNH 20030035, Fig. 13K); 2 shells                              are found in his collections. Bourguignat’s Paramelania crassi-
+MolluscStudies/0218.pdf.txt:3    from Kigambwa, Congo (91pv1, –7.217, 29.488) (BMNH                                      labris, which Martel & Dautzenberg referred to as N. crassilabris, is
+MolluscStudies/0218.pdf.txt:5    –8.360, 30.470) (BMNH 20030037, Fig. 13M); 1 shell from                                 are very different from that illustrated (E. Michel & J. A. Todd,
+MolluscStudies/0218.pdf.txt:7    (BMNH 20030038, Fig. 13O); 2 shells from Mlila Island north of                          be from the type locality, Mlilo (now Moliro), Congo, see Bour-
+MolluscStudies/0218.pdf.txt:8    Kalemie, Congo (90em3, –5.617, 29.417) (BMNH 20030039,                                  guignat, 1885] is illustrated here (Fig. 11D, E) for comparison.
+MolluscStudies/0218.pdf.txt:60                                                                                 Jonathan Todd (BMNH) provided stalwart support in discus-
+MolluscStudies/0218.pdf.txt:provided by Jan van Arkel, David Bentley, BMNH photography                               Biology and Biotechnology, 3: 294–299.
+MolluscStudies/0207.pdf.txt:species of Scirpus and Uncinia may occur (Wace & Dickson, 1965;                 History Museum in Trondheim, Norway (NHMT). No collec-
+MolluscStudies/0207.pdf.txt:Tristan, the fern-bush on the lower ground has been severely                    London (NHM) and at the University Museum of Zoology,
+MolluscStudies/0207.pdf.txt:                                                                                                                                                                                                                                                                                 (Tristan da Cunha; lectotype NHM 1990081).
+MolluscStudies/0207.pdf.txt:                                                                                                                                                                                                                                                                               Material examined: Lectotype (NHM 1990081); three paralecto-
+MolluscStudies/0207.pdf.txt:                                                                                                                                                                                                                                                                               types (NHM 1990082), 46 other paralectotypes. Various lots
+MolluscStudies/0207.pdf.txt:                                                                                                                                                                                                                                                                               collected on Gough by Holdgate in 1955–6 and 1968 (all NHM);
+MolluscStudies/0207.pdf.txt:                                                                                                                                                                                                                                                                               Expedition on Inaccessible (all NHMT). Six lots collected on
+MolluscStudies/0207.pdf.txt:5    the bursa; proximal part most solid, but not clearly differenti-               Material examined: Lectotype (NHM 1990083); two paralectotypes
+MolluscStudies/0207.pdf.txt:6    ated from distal part. Vagina longer than genital atrium, and                  (NHM 1990084); single specimens from Nightingale (Station
+MolluscStudies/0207.pdf.txt:7    shorter or nearly as long as oviduct, broadly contorted, without               509) and Inaccessible (Station 1020), both NHMT; six lots from
+MolluscStudies/0207.pdf.txt:4                                                                                     (Inaccessible; holotype NHM 1884.6.12.388).
+MolluscStudies/0207.pdf.txt:6                                                                                   Material examined: Holotype (NHM 1884.6.12.388); several
+MolluscStudies/0207.pdf.txt:8      da Cunha; lectotype NHM 1990083).                                            Gough (NHM).
+MolluscStudies/0207.pdf.txt:9    before the status of this species can be clarified.                                holotype NHM 1990085).
+MolluscStudies/0207.pdf.txt:1                                                                                     Material examined: Holotype (NHM 1990085) and two paratypes
+MolluscStudies/0207.pdf.txt:2                                                                                     (NHM 1990086) from Gough. Three lots from Inaccessible col-
+MolluscStudies/0207.pdf.txt:5      24 (Tristan da Cunha; syntypic series in NHMT).                                Distribution: Gough (type locality) and Inaccessible.
+MolluscStudies/0207.pdf.txt:8    and two lots from Inaccessible (NHMT), and 18 tubes con-                         (mean breadth 1.9 mm) and thin (sometimes membranous)
+MolluscStudies/0207.pdf.txt:9    taining 101 paratypes (NHM). Additional lots from Gough col-                     with 6–7 slightly convex whorls, separated by a moderately deep
+MolluscStudies/0207.pdf.txt:40   lected by Holdgate (NHM) and Gough Island Invertebrate                           suture. Spire generally greater than half the height of the shell.
+MolluscStudies/0207.pdf.txt:  holotype NHM 196587).
+MolluscStudies/0207.pdf.txt:Material examined: Holotype (NHM 196587). One lot from
+MolluscStudies/0207.pdf.txt:                                                                            Inaccessible (UMZC and NHMT) and Nightingale (NHMT).
+MolluscStudies/0207.pdf.txt:9    and photographed by Harry Taylor (NHM Photo Unit).                                 NORDSIECK, H. 1977. Zur Anatomie und Systematik der Clausilien,
+MolluscStudies/0037.pdf.txt:rather different from that of the pteriomorphs      (London) (NHM). A census of individuals of Myo-
+MolluscStudies/0037.pdf.txt:(unregistered specimen (NHM) collected from Two          Myochama anomioides (NMV F80239), attached to a
+MolluscStudies/0198.pdf.txt:Naturhistorisches Museum Wien (NHMW), Forschungsinstitut                       Neritilia sp.: Kano & Kase, 2000: figs 10D, 11.
+MolluscStudies/0198.pdf.txt:5    Samoa (NHMW 100835), ventral view. F. Male gonoduct of P. rufa, paratype from Upolu, Samoa (NHMW 100835), dorsal view. Abbreviations: a, anus;
+MolluscStudies/0198.pdf.txt:Figure 7. Radula of Platynerita rufa new genus, new species, paratype from Upolu, Samoa (NHMW 100836). A. Lateral and marginal teeth; outer lateral with 17
+MolluscStudies/0198.pdf.txt:                                                                                   A. Eschner (NHMW), M. Glaubrecht (ZMB), R. Janssen (SMF), I.
+MolluscStudies/0429.pdf.txt:1978), so that the valid name for Lu’s specimens is Asperoteuthis                  BMNH 20070615. Maturing female, 363 mm ML, with short
+MolluscStudies/0551.pdf.txt:History Museum, London (BMNH); National Museum of
+MolluscStudies/0551.pdf.txt:of Natural History (SBMNH) and the University of Hawaii,
+MolluscStudies/0551.pdf.txt:    designated SBMNH 83478).                                                           The remaining 10 eye photophores, olfactory papillae and visceral
+MolluscStudies/0551.pdf.txt:Type material: The neotype (SBMNH 83478) is a mature male                              many new species, including the morphological variant of P.
+MolluscStudies/0551.pdf.txt:(SBMNH 62158) of several collected near one of Hoyle’s orig-                           (see Supplementary material, Appendix 1 for details on collec-
+MolluscStudies/0551.pdf.txt:    16, ﬁgs 1, 2, 5, 7 –19. Nesis, 1973: 182. Riddell, 1985: 17 –                 lost; neotype here designated SBMNH 83477). Berry, 1914:
+MolluscStudies/0551.pdf.txt:from this region were very limited; only four individuals from                 (SBMNH) for providing access to specimens, space and resources
+MolluscStudies/0261.pdf.txt:   42 (abstract).                                                                      BMNH Accession No. 2388.
+MolluscStudies/0261.pdf.txt:BMNH, The Natural History Museum (London, UK); DGC,
+MolluscStudies/0232.pdf.txt:concentricum (Preston, 1912) and Neolepton falklandicum Dell,                       London (BMNH), were also used for comparative purposes.
+MolluscStudies/0232.pdf.txt:6                                                                                          [Malvinas] Islands; syntypes (?) BMNH 1910.3.18.14,
+MolluscStudies/0232.pdf.txt:7                                                                                        Islands (BMNH 1912.9.19.256-8) (Fig. 7D, F); Malvinas Islands:
+MolluscStudies/0232.pdf.txt:10   larly concentrically striated shell surface. The BMNH houses                       W/H  0.61  0.03, n  4) than those without flattening (ratio
+MolluscStudies/0232.pdf.txt:20   (BMNH 1913.11.6.23-45) is labelled as: Davisia cobbi, ‘possible                    Neolepton hupei Soot-Ryen, 1957: 4 (between Isla Quenu and Isla
+MolluscStudies/0232.pdf.txt:7    sculpture. C. Detail of shell sculpture of specimen from Malvinas (Falkland) Islands (MLP 4199-1). D–F. Three ‘possible types’ of Davisia bennetti (BMNH
+MolluscStudies/0232.pdf.txt:8    1912.9. 19.256-258). G, H. Syntypes (?) of Davisia cobbi (BMNH 1910.3.18.15, 1910.3.18.14). Scale bars: A, D–H  1 mm; B, C  100 m.
+MolluscStudies/0232.pdf.txt:50     BMNH 1962851/1).                                                             short, very close to dorsal margin. Right valve: cardinal 1 deli-
+MolluscStudies/0232.pdf.txt:Figure 9. Neolepton falklandicum Dell, 1964. A. Holotype (BMNH 19622851/1), outer view of left valve. B–G. Specimens from Argentine continental shelf
+MolluscStudies/0232.pdf.txt:BMNH; A. Roux (INIDEP) who allowed us to study samples
+MolluscStudies/0247.pdf.txt:                                                                               Museum, London (BMNH); Instituto de Ciencias del Mar,
+MolluscStudies/0247.pdf.txt:dae and Opisthoteuthidae, with Stauroteuthis either included in                Type material: Holotype: BMNH 20040614, immature female,
+MolluscStudies/0247.pdf.txt:(Piertney et al., 2003).                                                             bracchiata n. sp. (BMNH 20040614).
+MolluscStudies/0247.pdf.txt:specimen of a previously undescribed cirrate species was caught                                                                     BMNH
+MolluscStudies/0247.pdf.txt:Figure 1. Cryptoteuthis brevibracchiata n. sp.; holotype BMNH 20040614. Photographs of ventral and dorsal views of fresh specimen. Scale bars  35 mm.
+MolluscStudies/0247.pdf.txt:Figure 2. Cryptoteuthis brevibracchiata n. sp.; holotype BMNH 20040614. Ventral (A), dorsal (B) and oral (C) views. Scale bars: A, B  50 mm; C  40 mm.
+MolluscStudies/0247.pdf.txt:2    mid-portion of arms.                                                                    Collins, 2003: holotype, BMNH20030370; Grimpoteuthis challen-
+MolluscStudies/0247.pdf.txt:3                                                                                            geri Collins, 2003: holotype, BMNH 20030375; Grimpoteuthis dis-
+MolluscStudies/0247.pdf.txt:4                                                                                            coveryi Collins, 2003: holotype, BMNH 20030378; Grimpoteuthis
+MolluscStudies/0247.pdf.txt:6    Figure 3. Cryptoteuthis brevibracchiata n. sp.; holotype BMNH 20040614.                 between Cryptoteuthis brevibracchiata and the other Grimpo-
+MolluscStudies/0247.pdf.txt:Figure 4. Cryptoteuthis brevibracchiata n. sp.; holotype BMNH 20040614. Internal anatomy, illustrating viscera in situ (A), digestive system and optic nerve
+MolluscStudies/0519.pdf.txt:Southward, 1986; Dando, Ridgway & Spiro, 1994).                            deeply grateful to J. Taylor (NHM, UK) as well to R. von
+MolluscStudies/0179.pdf.txt:another, already known species with a more western distribu-                      Naturhistorisches Museum Wien (NHMW) and Zoologische
+MolluscStudies/0179.pdf.txt:(nine specimens), NHMW Moll 101.430 (five specimens), ZSM
+MolluscStudies/0291.pdf.txt:most common during the Jurassic and Cretaceous (e.g.                                (BMNH). In addition, some Jurassic neritopsid opercula
+MolluscStudies/0291.pdf.txt:E. SEM stereographs of the outer surface. F. Side view. G, H. Neritopsid opercula (BMNH PI MG 1111 and 1112 respectively) from the Toarcian
+MolluscStudies/0291.pdf.txt:(Early Jurassic) of May, Normandy, France. G. Inner surface. H. Outer surface. I–K. Neritopsid operculum (BMNH PI MG 1115) from the
+MolluscStudies/0291.pdf.txt:Neritopsid operculum (BMNH PI MG 1114) from Early Campanian, Late Cretaceous of Downend Quarry in Portsmouth. B. Longitudinal
+MolluscStudies/0623.pdf.txt:(NHMUK).
+MolluscStudies/0623.pdf.txt:(NHMUK) showed no posterior scar. We have seen no                                             Nucinella owenensis new species
+MolluscStudies/0302.pdf.txt:Natural History Museum, London (BMNH), Santa Barbara
+MolluscStudies/0302.pdf.txt:Museum of Natural History (SBMNH), Californian Academy                     Type species: Octopus cocco Verany, 1846 [¼Scaeurgus unicirrhus
+MolluscStudies/0032.pdf.txt:Natural History Museum, London (BMNH); Zoolog-               the single gonopericardial duct and intestine; and
+MolluscStudies/0032.pdf.txt:(NHMW); and Canadian Museum of Nature, Ottowa                cavity with usually paired, small gills (Salvini-Plawen,
+MolluscStudies/0032.pdf.txt:Figure 3. Prochaetoderma raduliferum (Kowalevsky), neotype (NHMW 100486). A. Entire specimen (cf. Fig.
+MolluscStudies/0032.pdf.txt:Figure 4. Prochaetoderma raduliferum (Kowalesky). A-O. Voucher (NHMW 100487) from off Dalmatian
+MolluscStudies/0032.pdf.txt:Figure 5. Eastern Atlantic species of Prochaetoderma. A. P. raduliferum (Kowalevsky), neotype (NHMW
+MolluscStudies/0032.pdf.txt:yongei) or only on posterium. Planes of spicule          Neotype: NHMW 100486. Length 2.3 mm, anterium
+MolluscStudies/0032.pdf.txt:tive to each other. Longitudinal axis straight,          Remarks.] Voucher specimens: NHMW 100487;
+MolluscStudies/0032.pdf.txt:      Prochaetoderma boucheti new species              Paratypes: MNHN; BMNH 19991531, 19991532;
+MolluscStudies/0032.pdf.txt:derma alleni, holotype (BMNH 19991526). E. Claviderma brevicaudatum, holotype (USNM 880675). F, G. S.
+MolluscStudies/0032.pdf.txt:Figure 26. Spathoderma alleni new species. A–C. holotype (BMNH 19991526), Bay of Biscay (cf. Fig. 20D):
+MolluscStudies/0032.pdf.txt:Figure 27. Spathoderma alleni new species. Spicules of paratype (BMNH, type locality) from: A. Oral shield.
+MolluscStudies/0032.pdf.txt:BMNH). B1–8. Radula, jaws, and spicules from western Mediterranean (paratype, BALGIM DW-121,
+MolluscStudies/0032.pdf.txt:892949: Cape Verde, Angola, Cape Basins; BMNH
+MolluscStudies/0032.pdf.txt:Holotype: BMNH 19991526. Length 1.9 mm, anterium       blade longer than base, to 160 m, and thickest,
+MolluscStudies/0032.pdf.txt:BMNH 19991527, 19991528; MNHN; ZMUM Le1-58.            from very narrow to 12 m wide at base (Fig.
+MolluscStudies/0432.pdf.txt:carnivorously predominantly on Cnidaria (Salvini-Plawen,                            Museum Wien (NHMW). Unless otherwise indicated, material
+MolluscStudies/0432.pdf.txt:Paratype 1: NHMW, reg. no. Moll. 103497; BIOSPEEDO stn                        Figure 1. Helicoradomenia parathermalis n. sp. Mantle sclerites. Scale
+MolluscStudies/0432.pdf.txt:NHMW), all other material is in MNHN, including a section
+MolluscStudies/0432.pdf.txt:spicules in one layer (Scheltema & Kuzirian, 1991;                         NHMW Moll. 103498; same stn 156-08 (sclerites, section series
+MolluscStudies/0432.pdf.txt:PHARE deposited in NHMW, all material is housed in                               with 95–110-mm wide pad of 20–25-mm high cells (Fig. 15B–D).
+MolluscStudies/0477.pdf.txt:Lucina ovum Reeve, 1850 (BMNH reg. no. 1963195/1-2) with
+MolluscStudies/0139.pdf.txt:History Museum, London, UK (NHM), was examined.
+MolluscStudies/0139.pdf.txt:Types (Fig. 3A,B): Holotype NHM 93.2.4.1258 and 2 paratypes
+MolluscStudies/0139.pdf.txt:NHM 93.2.4.1259–60.
+MolluscStudies/0139.pdf.txt:7    Figure 3. Shells of Moreletina obruta. (A) Holotype, ventral view (NHM 93.2.4.1258, marked Type x), W: 8.0 mm. (B) Paratype (NHM 93.2.4.1259), W: 7.8 mm.
+Systematic_Biology/1123.pdf.txt:Australia Museum, Sydney, Australia; BMNH, Nat-               (TNHC 54902, AF128476). Note that this specimen is
+Systematic_Biology/1123.pdf.txt:emy of Sciences, San Francisco; GNHM Re. ex., Gote-           and Hydrosaurus pustulatus (J. A. McGuire, pers.
+Systematic_Biology/1123.pdf.txt:Calotes liolepis, Sri Lanka (WHT 1808, AF128485); 33.—     (BMNH 1996.201, AF128507); 55.—Trapelus ruderatus,
+Systematic_Biology/1123.pdf.txt:Calotes nigrilabris, Sri Lanka (WHT 1680, AF128486);       Kermanshahan Province, Iran (GNHM Re. ex. 5212,
+Systematic_Biology/1123.pdf.txt:222144, AF128487); 35.—Calotes mystaceus, Mandalay         (GNHM Re. ex. 5210, AF128509); 57.—Trapelus persicus,
+Systematic_Biology/1123.pdf.txt:Division, Myanmar (CAS 204848, AF128488); 36.—             Khuzistan Province, Iran (GNHM Re. ex. 5211,
+Systematic_Biology/1123.pdf.txt:1825, AF128491); 39'.—Ceratophora stoddartii, Sri Lanka    Province, Iran (GNHM Re. ex. 5209, AF128513); 61.—
+Systematic_Biology/1123.pdf.txt:level identification of specimen 50 is tentative—it may    (GNHM Re. ex. 5135, AF028678; Macey et al., 1998a);
+Systematic_Biology/0646.pdf.txt:(FMNH), B. Hollingsworth (SDNHM), D. Wake (MVZ), S. Busack                    Gao, K.-Q., and N. H. Shubin. 2001. Late Jurassic salamanders from
+Systematic_Biology/0646.pdf.txt:  cific phenomena. Biol. J. Linn. Soc. 60:119–143.                          Cryptobranchidae: Andrias davidianus: SDNHM 55583 (dry skeletal),
+Systematic_Biology/0814.pdf.txt:             (BMNH).                                                       present. Nucha presence: present. Female metatibial
+Systematic_Biology/0814.pdf.txt:              B.M.TYPE.HYM. 3a.287 (BMNH). Other material:                  length: equal. Distal part of 4RS shape: arched distally.
+Systematic_Biology/0814.pdf.txt:              44109, 44127, 51296 (INHS); NCSU 51294–51295 (CNC).           male: USA: Hawaii, B.M.TYPE.HYM. 3a.288 (BMNH).
+Systematic_Biology/0596.pdf.txt:program NHML 3.0 (Galtier and Gouy, 1998), with a cor-        tail, nostrils, and periophthalmic ring were also deter-
+Systematic_Biology/0596.pdf.txt:in NHML; thus, a topological constraint was used on the
+Systematic_Biology/0310.pdf.txt:                                                                                                                        BMNH, The Natural History Museum, London (UK); MW, ﬁeld series of the Zoology Department, University of Kerala (India) and the Department of National Museums, Colombo
+Systematic_Biology/0310.pdf.txt:                                                                                   BMNH 2000.218b
+Systematic_Biology/0310.pdf.txt:                                                                                   BMNH 2002.100
+Systematic_Biology/0310.pdf.txt:                                                                                   BMNH 2005.9
+Systematic_Biology/0310.pdf.txt:                                                                                   BMNH 2002.6
+Systematic_Biology/0310.pdf.txt:                                                                                   BMNH 2005.2
+Systematic_Biology/0564.pdf.txt:sortium led by the Natural History Museum (NHM),              and synonymies, will take the form of submitted contri-
+Systematic_Biology/0564.pdf.txt:(RBGK), and Oxford University. The NHM is responsi-           available on the site for a period of review and comment.
+Systematic_Biology/0864.pdf.txt:divided into a priori partitions: intron, protein-coding        NHML options were set as follows: branch lengths, GC
+Systematic_Biology/0864.pdf.txt:   A nonhomogeneous maximum likelihood (NHML)                   logical tree were to be adopted, Longirostres would be
+Systematic_Biology/0864.pdf.txt:NHML 2 (Galtier and Gouy, 1998; http://www.univ-                ular tree were to be adopted, Brevirostres would be a
+Systematic_Biology/0864.pdf.txt:composition to vary over the tree. NHML does not                we do not name here, is a stem-based group including
+Systematic_Biology/0864.pdf.txt:ison of the clade probabilities between runs showed no                                      NHML analysis.—This method allows base composi-
+Systematic_Biology/0170.pdf.txt:homogenous ML, NHML [Galtier and Gouy 1998]) did              et al. 1999) and the egg-laying monotremes grouping
+Systematic_Biology/0170.pdf.txt:versions of NHML incorporate RAS, although still as-          phylogeny (Harrison et al. 2004) partly because their
+Systematic_Biology/0859.pdf.txt:mens of the BMNH collection and from field collec-                    then stained with toluidine blue and mounted. These
+Systematic_Biology/0009.pdf.txt:                                                BMNH 2002.95       Amani, Tanzania                                      HQ444127
+Systematic_Biology/0009.pdf.txt:Crotaphatrema lamottei     Scolecomorphidae     BMNH 2008.274      Mount Oku, Cameroon                    JN089398      JN089397
+Systematic_Biology/0009.pdf.txt:Geotrypetes seraphini      Dermophiidae         BMNH 2005.2        Cameroon                               AY954505
+Systematic_Biology/0009.pdf.txt:Herpele squalostoma        Herpelidae           BMNH 2002.97       Cameroon                               HQ456774      HQ444133
+Systematic_Biology/0009.pdf.txt:Rhinatrema bivittatum      Rhinatrematidae      BMNH 2002.6        Kaw, French Guiana                     AY456252      AY456257
+Systematic_Biology/0009.pdf.txt:Scolecomorphus vittatus    Scolecomorphidae     BMNH 2002.100      Amani, Tanzania                        AY456253      AY456258
+Systematic_Biology/0009.pdf.txt:Siphonops annulatus        Siphonopidae         BMNH 2005.9        Dominguez Martins, Brazil              AY954506      DQ320064
+Systematic_Biology/0009.pdf.txt:                                                BMNH 2000.218      Potreito, Venezuela                                  AY456260
+Systematic_Biology/0009.pdf.txt:Notes: GenBank accession numbers for new sequences indicated in bold type. BMNH, Natural History Museum, London, UK; CAS, California
+Systematic_Biology/0885.pdf.txt:the CAS, FMNH, BMNH, LACM, ANSP, and NMNH and especially                      traeidae) cryptic species complex in North America. Can. J. Zool.
+Systematic_Biology/0687.pdf.txt:SDNHM, San Diego Natural History Museum; UADBA-MV, Universite d’Antananarivo, Departement de Biologie Animale; UMMZ, University
+Systematic_Biology/0687.pdf.txt: Takydromus sp.                SDNHM 69010                       AY649136 AY649177         AY649218      Commercially purchased
+Systematic_Biology/0687.pdf.txt:  Feylinia cf. polylepis       BMNH, uncataloged                 AY649119 AY649160         AY649201      Sao Tom´e and Princip´e
+Systematic_Biology/0687.pdf.txt:  “Eumeces” obsoletus         SDNHM 69011                    AY649116 AY649157           AY649198     USA: New Mexico: Mora Co.: 3.8 mi
+Systematic_Biology/0687.pdf.txt:  Gongylomorphus bojeri       BMNH, uncataloged              AY649121      AY649162      AY649203     Mauritius: Round Island
+Systematic_Biology/0687.pdf.txt:  Scincus mitranus            BMNH, uncataloged              AY649133      AY649174      AY649215     United Arabian Emirates
+Systematic_Biology/1168.pdf.txt:40d,e           Malurus coronatus                    1         Purple-crowned Fairy wren        BMNHC            60807              NT
+Systematic_Biology/1168.pdf.txt:b Depository abbreviations: ANWC, the Australian National Wildlife Collection; BMNHC, the Burke Museum of Natural History and Culture;
+Systematic_Biology/0658.pdf.txt:              (NHM) in London, United Kingdom. We collected               the chance of converting one barcode into another one
+Systematic_Biology/0658.pdf.txt:             has been collected in brackets (B, MfN; N, NHM London; RB, RBINS; and R, RMCA), followed by the country of origin for the given specimen
+Systematic_Biology/0467.pdf.txt: preconceived notions of phylogeny influence character          NER/S/A/2000/03255, an NHM MRF award, BBSRC grant
+Systematic_Biology/0815.pdf.txt:               BMNH 744009              Suphrodytes    dorsalis                                JX221577    JX221617   JX221591   JX221693
+Systematic_Biology/0815.pdf.txt:               BMNH 744010              Suphrodytes    ﬁguratus                                JX221578    JX221618   JX221592   JX221694
+Systematic_Biology/0815.pdf.txt:               BMNH 722881              Hydroporus     kraatzii          longulus gr.          JX434757    JX434799   JX434778   JX434820
+Systematic_Biology/0815.pdf.txt:               BMNH 725985              Hydroporus     ruﬁfrons          ruﬁfrons gr.          JX434758    JX434800   JX434779   JX434821
+Systematic_Biology/0815.pdf.txt:               BMNH 725987              Hydroporus     tristis           tristis gr.           JX434759    JX434801   JX434780   JX434822
+Systematic_Biology/0815.pdf.txt:               BMNH 800416              Hydroporus     niger             niger gr.             JX434760    JX434802   JX434781   JX434823
+Systematic_Biology/0815.pdf.txt:               BMNH 800432              Hydroporus     axillaris         axillaris gr.         JX434761    JX434803   JX434782   JX434824
+Systematic_Biology/0815.pdf.txt:               BMNH 800437              Hydroporus     longiusculus      subpubescens gr.      JX434762    JX434804   JX434783   JX434825
+Systematic_Biology/0815.pdf.txt:               BMNH 800458              Hydroporus     notabilis         notabilis gr.         JX434763    JX434805   JX434784   JX434826
+Systematic_Biology/0815.pdf.txt:               BMNH 800761              Hydroporus     carri             transpunctatus gr.    JX434764    JX434806   JX434785   JX434827
+Systematic_Biology/0815.pdf.txt:               BMNH 800780              Hydroporus     appalachius       appalachius gr.       JX434765    JX434807   JX434786   JX434828
+Systematic_Biology/0815.pdf.txt:               BMNH 800785              Hydroporus     puberulus         puberulus gr.         JX434766    JX434808   JX434787   JX434829
+Systematic_Biology/0815.pdf.txt:               BMNH 800806              Hydroporus     mannerheimi       lapponum gr.          JX434767    JX434809   JX434788   JX434830
+Systematic_Biology/0815.pdf.txt:               BMNH 800846              Hydroporus     neglectus         neglectus gr.         JX434768    JX434810   JX434789   JX434831
+Systematic_Biology/0815.pdf.txt:               BMNH 801288              Hydroporus     nigrita           nigrita gr.           JX434769    JX434811   JX434790   JX434832
+Systematic_Biology/0815.pdf.txt:               BMNH 801293              Hydroporus     tessellatus       tesselatus gr.        JX434770    JX434812   JX434791   JX434833
+Systematic_Biology/0815.pdf.txt:               BMNH 801298              Hydroporus     memnonius         memnonius gr.         JX434771    JX434813   JX434792   JX434834
+Systematic_Biology/0815.pdf.txt:               BMNH 801303              Hydroporus     obscurus          obscurus gr.          JX434772    JX434814   JX434793   JX434835
+Systematic_Biology/0815.pdf.txt:               BMNH 824791              Hydroporus     fortis            columbianus gr.       JX434773    JX434815   JX434794   JX434836
+Systematic_Biology/0815.pdf.txt:               BMNH 824798              Hydroporus     sinuatipes        sinuatipes gr.        JX434774    JX434816   JX434795   JX434837
+Systematic_Biology/0815.pdf.txt:               BMNH 824800              Hydroporus     erythrocephalus   erythrocephalus gr.   JX434775    JX434817   JX434796   JX434838
+Systematic_Biology/0815.pdf.txt:               BMNH 681719              Hydroporus     nigellus          nigellus gr.          AY365277    AY365311   AJ850515   EF670195
+Systematic_Biology/0815.pdf.txt:               BMNH 681248              Hydroporus     pilosus           fuscipennis gr.       AF518274    AF518305   AJ318733   EF670196
+Systematic_Biology/0815.pdf.txt:               BMNH 681250              Hydroporus     pubescens         fuscipennis gr.       EF419327    AF309300   AJ318734   EF056566
+Systematic_Biology/0815.pdf.txt:               BMNH 681249              Hydroporus     scalesianus       angustatus gr.        AF518278    AF518309   AJ850516   EF670197
+Systematic_Biology/0815.pdf.txt:               BMNH 681239              Hydroporus     vagepictus        striola gr.           AF518281    AF518312   AJ850517   EF670198
+Systematic_Biology/0815.pdf.txt:               BMNH 693521            Hydrocolus             sahlbergi                              AJ850379        AJ850629         AJ850518        EF670199
+Systematic_Biology/0815.pdf.txt:               BMNH 681287            Heterosternuta         pulcher                                AF518252        AF518282         AJ318732        EF670194
+Systematic_Biology/0815.pdf.txt:               BMNH 681544            Neoporus               arizonicus                             AJ850380        AJ850630         AJ850519        EF670193
+Systematic_Biology/0815.pdf.txt:               BMNH 681288            Neoporus               undulatus                              AJ850381        AJ850631         AJ318741        EF670200
+Systematic_Biology/0815.pdf.txt:               BMNH 681625            Sanﬁlippodytes         terminalis                             AJ850426        AJ850673         AJ850552        EF670202
+Systematic_Biology/0815.pdf.txt:               BMNH 681225            Hyphydrus              ovatus                                 EF056688        EF056618         EF056651        EF056576
+Systematic_Biology/0815.pdf.txt:               BMNH 681839            Canthyporus            hottentotus                            AJ850333        AJ850585         AJ850457        EF670118
+Systematic_Biology/0815.pdf.txt:               BMNH 681331            Laccornellus           copelatoides                           AY334131        AY334247         AJ318738        EF056578
+Systematic_Biology/0815.pdf.txt:                BMNH 744009              J. Geijer                 Sweden                Öland, Kalmar Län, Mörbylånga, Algustrum, Jordtorp grustag. 27
+Systematic_Biology/0815.pdf.txt:                BMNH 744010              J. Geijer                 Sweden                Öland, Kalmar Län, Borgolm, Högsrum, Vitlerkärret. 19 July 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 722881              G. N. Foster              France                Isère, Ruisseau des Fontinettes. 17 July 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 725985              AN. Nilsson               Sweden                Ångermanland, Torrböle, 23 May 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 725987              AN. Nilsson               Sweden                Ångermanland, Torrböle, 23 May 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 800416              J. Bergsten               United States         New York, Richford, SE of Ithaca. 11 September 2002
+Systematic_Biology/0815.pdf.txt:                BMNH 800432              J. Bergsten               United States         California, Eldorado Co., American river, campground by Silver lake.
+Systematic_Biology/0815.pdf.txt:                BMNH 800437              J. Bergsten               United States         California, Alpine Co., Hope Valley, Blue Lakes road, West Fork,
+Systematic_Biology/0815.pdf.txt:                BMNH 800458              J. Bergsten               Canada                Alberta, Meanook biological station, W4mer. Twp65 Rge23 Sec.12NW.
+Systematic_Biology/0815.pdf.txt:                BMNH 800761              J. Bergsten               Canada                Alberta, Hwy.11 approx. 5 km E. of border to Banff National Park. 7
+Systematic_Biology/0815.pdf.txt:                BMNH 800780              J. Bergsten               Canada                Alberta, W4mer. Twp67 Rge24 Sec.34SE, 2 September 2002
+Systematic_Biology/0815.pdf.txt:                BMNH 800785              J. Bergsten               Canada                Alberta, W4mer. Twp65 Rge25 Sec.1SE. 3 September 2002
+Systematic_Biology/0815.pdf.txt:                BMNH 800806              J. Bergsten               Canada                Alberta, Hwy. 11, just E. of Big Horn. 7 September 2002
+Systematic_Biology/0815.pdf.txt:                BMNH 800846              J. Bergsten               Sweden                Västerbotten, Hörnefors. 31 July 2007
+Systematic_Biology/0815.pdf.txt:                BMNH 801288              D. Bilton                 United Kingdom        Cornwall, The Lizard Pool 1 at Kynanace Cove. 1 July 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 801293              D. Bilton                 United Kingdom        Cornwall, stream beside B3300 above bridge, 20 June 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 801298              D. Bilton                 United Kingdom        Cornwall, The Lizard Pool 2 at Kynanace Cove. 1 July 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 801303              J. Bergsten               Sweden                Västerbotten, Umeå, Sörfors, Umeälven. 26 August 2007
+Systematic_Biology/0815.pdf.txt:                BMNH 824791              J. Bergsten               United States         California Sierra Co., Sierra Valley, Hwy 89 & 49. 21 September 2002
+Systematic_Biology/0815.pdf.txt:                BMNH 824798              J. Bergsten               United States         California, Modoc Co., Hwy 299 approx. 5 km E. of Cedarville. 22
+Systematic_Biology/0815.pdf.txt:                BMNH 824800              D. Bilton                 United Kingdom        Cornwall, The Lizard, Hayle Kimbro pool. 1 July 2005
+Systematic_Biology/0815.pdf.txt:                BMNH 681719              B. Andren                 Sweden                S. Ha. Onsala, Kustgöl, 1100 m VSV Rorvik, 3 November 2000
+Systematic_Biology/0815.pdf.txt:                BMNH 681248              D.T. Bilton               Tenerife              Anaga, Roque Chinobre, December 1997
+Systematic_Biology/0815.pdf.txt:                BMNH 681250              I. Ribera                 Spain                 Burgos
+Systematic_Biology/0815.pdf.txt:                BMNH 681249              I. Ribera                 England               Dorset, Wareham, Morden bog, 5 July 1998
+Systematic_Biology/0815.pdf.txt:                BMNH 681239              I. Ribera                 Portugal              Sa. Da Estrela, Torre, lagoon 25 July 1998
+Systematic_Biology/0815.pdf.txt:                BMNH 693521              A.N. Nilsson              Sweden                Prov. Västerbotten, Åmsele, 3 August 1999
+Systematic_Biology/0815.pdf.txt:                BMNH 681287              Y. Alarie                 Canada                Ontario
+Systematic_Biology/0815.pdf.txt:                BMNH 681544              Y. Alarie                 United States         New Mexico, September 2000
+Systematic_Biology/0815.pdf.txt:                BMNH 681288              Y. Alarie                 Canada                Ontario
+Systematic_Biology/0815.pdf.txt:                BMNH 681625              I. Ribera & A. Cieslak    United States         16 US California Mendocino co. / Rd. 1 Manchester / pond S City / 23
+Systematic_Biology/0815.pdf.txt:                BMNH 681225              I. Ribera                 United Kingdom        Sommerset Levels, Catcott Heath, 4 July 1998
+Systematic_Biology/0815.pdf.txt:                BMNH 681839              I. Ribera & A. Cieslak    South Africa          17, W Cape, Limiet Berge, Tributary r. Wit, rd. R301 24 km NE
+Systematic_Biology/0815.pdf.txt:                BMNH 681331              I. Ribera                 Chile                 16, X Reg. 6 km W La Unión, Pond in rd. to Hueicolla, 29 January 1999
+Systematic_Biology/0909.pdf.txt:  cajennense, 299                                                                 NHML, 390
+Systematic_Biology/0449.pdf.txt:   We have tested predictions from four hypotheses re-          (NHMUK); John Heyning, Los Angeles County Museum of Natural
+Systematic_Biology/0449.pdf.txt:Mde        MdeNHMUK            MdeNHMUK             MdeNZ02             MdeNZ02             MdeNHMUK             MdeNHMUK              MdeNHMUK
+Systematic_Biology/0725.pdf.txt:place, the need for measures of the support for relation-                     was funded by BBSRC grant 40/G18385 and an NHM MRF award.
+Systematic_Biology/0007.pdf.txt:   Graminicola (bengalensis)                                        AMNH DOT5531, AMNH DOT5179, BMNH 2000.5.22,
+Systematic_Biology/0007.pdf.txt:                                                                    KUNHM 6715. The name acknowledges the similarity
+Systematic_Biology/0007.pdf.txt:Actinodura           egertoni            KUNHM            15098              Myanmar           JN826457         JN826715          JN826988            JN826213   JN825968       JN825741
+Systematic_Biology/0007.pdf.txt:Actinodura           egertoni            KUNHM            15186              Myanmar           JN826459         JN826716          JN826990            JN826215   JN825969       JN825742
+Systematic_Biology/0007.pdf.txt:Alcippe              brunneicauda        KUNHM            12380              Borneo            JN826468         JN826725          JN826999            JN826223   JN825976       JN825747
+Systematic_Biology/0007.pdf.txt:Alcippe              brunneicauda        KUNHM            17766              Borneo            JN826469         JN826726          JN827000            JN826224   JN825977       JN825748
+Systematic_Biology/0007.pdf.txt:Alcippe              morrisonia          KUNHM            6662               China             JN826472         JN826730          JN827004            JN826228   JN825981       JN825751
+Systematic_Biology/0007.pdf.txt:Alcippe              nipalensis          KUNHM            15244              Myanmar           JN826473         JN826731          JN827005            JN826229   JN825982       JN825752
+Systematic_Biology/0007.pdf.txt:Babax                lanceolata          KUNHM            11238              China             JN826478         JN826737          JN827011            JN826234   JN825987       JN825758
+Systematic_Biology/0007.pdf.txt:Garrulax             affinis             KUNHM            15099              Myanmar           JN826499         JN826758          JN827021               —       JN825996       JN825767
+Systematic_Biology/0007.pdf.txt:Garrulax             canorus             KUNHM            10389              China             JN826501         JN826760          JN827023            JN826253   JN825998       JN825769
+Systematic_Biology/0007.pdf.txt:Garrulax             chinensis           KUNHM            10366              China             JN826502         JN826761          JN827024            JN826254   JN825999       JN825770
+Systematic_Biology/0007.pdf.txt:Garrulax             cineraceus          KUNHM            6725               China             JN826504         JN826763          JN827026               —       JN826001       JN825772
+Systematic_Biology/0007.pdf.txt:Garrulax             cineraceus          KUNHM            11043              China             JN826503         JN826762          JN827025            JN826255   JN826000       JN825771
+Systematic_Biology/0007.pdf.txt:Garrulax             erythrocephalus     KUNHM            15193              Myanmar           JN826505         JN826764          JN827027            JN826256   JN826002       JN825773
+Systematic_Biology/0007.pdf.txt:Garrulax             leucolophus         KUNHM            15247              Myanmar           JN826508         JN826767          JN827030            JN826258   JN826004       JN825775
+Systematic_Biology/0007.pdf.txt:Garrulax         maesi             KUNHM           10152              China                JN826511          JN826770          JN827033             JN826261   JN826007   JN825778
+Systematic_Biology/0007.pdf.txt:Garrulax         merulinus         KUNHM           15190              Myanmar              JN826513          JN826772          JN827035             JN826262   JN826008   JN825779
+Systematic_Biology/0007.pdf.txt:Garrulax         milnei            KUNHM           11104              China                JN826516          JN826775          JN827038             JN826265   JN826011   JN825780
+Systematic_Biology/0007.pdf.txt:Garrulax         milnei            KUNHM           15101              Myanmar              JN826517          JN826776          JN827039             JN826266   JN826012   JN825781
+Systematic_Biology/0007.pdf.txt:Garrulax         mitratus          KUNHM           17728              Borneo               JN826518          JN826777          JN827040             JN826267   JN826013   JN825782
+Systematic_Biology/0007.pdf.txt:Garrulax         ocellatus         KUNHM           11342              China                JN826523          JN826782          JN827046             JN826272   JN826019   JN825787
+Systematic_Biology/0007.pdf.txt:Garrulax         palliatus         KUNHM           17732              Borneo               JN826524          JN826783          JN827047             JN826273   JN826020      —
+Systematic_Biology/0007.pdf.txt:Garrulax         pectoralis        KUNHM           11125              China                JN826525          JN826784          JN827048             JN826274   JN826021   JN825788
+Systematic_Biology/0007.pdf.txt:Garrulax         poecilorhynchus   KUNHM           11128              China                JN826527          JN826786          JN827050             JN826276   JN826023   JN825790
+Systematic_Biology/0007.pdf.txt:Garrulax         sannio            KUNHM           11172              China                JN826528          JN826787          JN827051             JN826277   JN826024   JN825791
+Systematic_Biology/0007.pdf.txt:Garrulax         squamatus         KUNHM           15191              Myanmar              JN826529          JN826788          JN827052             JN826278   JN826025   JN825792
+Systematic_Biology/0007.pdf.txt:Heterophasia     pulchella         KUNHM           15166              Myanmar              JN826544          JN826803          JN827067             JN826291   JN826037   JN825801
+Systematic_Biology/0007.pdf.txt:Illadopsis       cleaveri          KUNHM           8483               Eq. Guinea           JN826549          JN826808          JN827072             JN826295   JN826042   JN825804
+Systematic_Biology/0007.pdf.txt:Illadopsis       cleaveri          KUNHM           15688              Ghana                JN826548          JN826807          JN827071             JN826294   JN826041   JN825803
+Systematic_Biology/0007.pdf.txt:Illadopsis       fulvescens        KUNHM           19886              Sierra Leone         JN826550          JN826809          JN827073             JN826296   JN826043   JN825805
+Systematic_Biology/0007.pdf.txt:Illadopsis       puveli            KUNHM           19887              Sierra Leone         JN826552          JN826811          JN827075             JN826298   JN826045   JN825806
+Systematic_Biology/0007.pdf.txt:Illadopsis       rufescens         KUNHM           19729              Sierra Leone         JN826555          JN826814          JN827078             JN826301   JN826048   JN825808
+Systematic_Biology/0007.pdf.txt:Illadopsis       rufescens         KUNHM           19773              Sierra Leone         JN826556          JN826815          JN827079             JN826302   JN826049   JN825809
+Systematic_Biology/0007.pdf.txt:Illadopsis       rufipennis        KUNHM           8577               Eq. Guinea           JN826558          JN826817          JN827081             JN826304   JN826051   JN825811
+Systematic_Biology/0007.pdf.txt:Illadopsis       rufipennis        KUNHM           15583              Ghana                JN826557          JN826816          JN827080             JN826303   JN826050   JN825810
+Systematic_Biology/0007.pdf.txt:Leiothrix          argentauris     KUNHM            15203              Myanmar              JN826560          JN826820         JN827083             JN826306   JN826054       JN825814
+Systematic_Biology/0007.pdf.txt:Leiothrix          lutea           KUNHM            6724               China                JN826563          JN826823         JN827086             JN826309   JN826057       JN825817
+Systematic_Biology/0007.pdf.txt:Leonardina         woodi           KUNHM            19115              Philippines          JN826564          JN826824         JN827087             JN826310   JN826058       JN825818
+Systematic_Biology/0007.pdf.txt:Liocichla          phoenicea       KUNHM            10078              China                    —             JN826825         JN827088             JN826311   JN826059       JN825819
+Systematic_Biology/0007.pdf.txt:Liocichla          phoenicea       KUNHM            15195              Myanmar              JN826565          JN826826            —                 JN826312   JN826060       JN825820
+Systematic_Biology/0007.pdf.txt:Lioparus           chrysotis       KUNHM            11078              China                JN826568          JN826829         JN827091             JN826315   JN826063       JN825822
+Systematic_Biology/0007.pdf.txt:Macronus           gularis         KUNHM            17726              Borneo               JN826571          JN826832         JN827095             JN826318   JN826067       JN825825
+Systematic_Biology/0007.pdf.txt:Macronus           ptilosus        KUNHM            12325              Borneo               JN826573          JN826834         JN827097             JN826320   JN826069       JN825827
+Systematic_Biology/0007.pdf.txt:Macronus           striaticeps     KUNHM            14130              Philippines          JN826574          JN826835         JN827099             JN826321   JN826071       JN825829
+Systematic_Biology/0007.pdf.txt:Malacocincla       cinereiceps     KUNHM            12693              Palawan              JN826576          JN826838         JN827101             JN826324   JN826074       JN825831
+Systematic_Biology/0007.pdf.txt:Malacocincla       malaccensis     KUNHM            12341              Borneo               JN826577          JN826839         JN827102             JN826325   JN826075       JN825832
+Systematic_Biology/0007.pdf.txt:Malacocincla       malaccensis     KUNHM            17776              Borneo               JN826578          JN826840         JN827103             JN826326   JN826076       JN825833
+Systematic_Biology/0007.pdf.txt:Malacopteron       affine          KUNHM            12383              Borneo               JN826580          JN826842         JN827105             JN826328   JN826078       JN825835
+Systematic_Biology/0007.pdf.txt:Malacopteron       cinereum        KUNHM            12320              Borneo               JN826583          JN826845         JN827108             JN826331   JN826081       JN825838
+Systematic_Biology/0007.pdf.txt:Malacopteron       magnirostre     KUNHM            12358              Borneo               JN826585          JN826847         JN827110             JN826333   JN826083       JN825840
+Systematic_Biology/0007.pdf.txt:Malacopteron       magnum          KUNHM            17770              Borneo               JN826586          JN826848         JN827112             JN826334   JN826085       JN825842
+Systematic_Biology/0007.pdf.txt:Malacopteron       palawanense     KUNHM            12600              Palawan              JN826588          JN826850         JN827114             JN826336   JN826086       JN825843
+Systematic_Biology/0007.pdf.txt:Minla              cyanouroptera   KUNHM            11087              China                JN826593          JN826855         JN827117             JN826340   JN826089       JN825846
+Systematic_Biology/0007.pdf.txt:Minla              cyanouroptera   KUNHM            11281              China                JN826594          JN826856         JN827118             JN826341   JN826090       JN825847
+Systematic_Biology/0007.pdf.txt:Minla              ignotincta      KUNHM            11346              China                JN826595          JN826857         JN827119             JN826342   JN826091       JN825848
+Systematic_Biology/0007.pdf.txt:Minla              strigula        KUNHM            15184              Myanmar              JN826596          JN826858         JN827120             JN826343   JN826092       JN825849
+Systematic_Biology/0007.pdf.txt:Napothera          brevicaudata    KUNHM            10351              China                JN826598          JN826860         JN827122             JN826344   JN826094       JN825850
+Systematic_Biology/0007.pdf.txt:Napothera          crassa          KUNHM            17805              Borneo               JN826599          JN826862         JN827123             JN826346   JN826096       JN825852
+Systematic_Biology/0007.pdf.txt:Pellorneum        albiventre       KUNHM          10145              China                JN826613          JN826876          JN827138             JN826358   JN826111       JN825864
+Systematic_Biology/0007.pdf.txt:Pellorneum        pyrrogenys       KUNHM          17798              Borneo               JN826614          JN826877          JN827140             JN826359      —           JN825866
+Systematic_Biology/0007.pdf.txt:Pellorneum        tickelli         KUNHM          10186              China                JN826617          JN826880          JN827143             JN826362   JN826115       JN825869
+Systematic_Biology/0007.pdf.txt:Pellorneum        tickelli         KUNHM          15242              Myanmar              JN826618          JN826881          JN827144             JN826363   JN826116          —
+Systematic_Biology/0007.pdf.txt:Phyllanthus       atripennis       KUNHM          19806              Sierra Leone         JN826619          JN826882          JN827145             JN826364   JN826117       JN825870
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      ferruginosus     KUNHM          15146              Myanmar              JN826625          JN826890          JN827151             JN826372   JN826124       JN825877
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      ferruginosus     KUNHM          15090              Myanmar              JN826627          JN826895          JN827153             JN826376   JN826127       JN825882
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      ferruginosus     KUNHM          15241              Myanmar              JN826628          JN826896          JN827154             JN826377   JN826128          —
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      hypoleucos       BMNH           2000.5.22          Cambodia             HQ529069          JN826892          HQ529168                —          —           JN825879
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      montanus         KUNHM          17781              Borneo               JN826626          JN826893          JN827152             JN826374   JN826126       JN825880
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      ruficollis       KUNHM          10299              China                JN826629          JN826897          JN827155             JN826378   JN826129       JN825883
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      ruficollis       KUNHM          15144              Myanmar              JN826630          JN826898          JN827156             JN826379      —           JN825884
+Systematic_Biology/0007.pdf.txt:Pomatorhinus      swinhoei         KUNHM          6715               China                JN826631          JN826901          JN827157             JN826380   JN826131       JN825887
+Systematic_Biology/0007.pdf.txt:Ptilocichla       falcata          KUNHM          12816              Palawan              JN826634          JN826904          JN827160             JN826383   JN826134       JN825890
+Systematic_Biology/0007.pdf.txt:Ptilocichla       mindanensis      KUNHM          18187              Philippines          JN826636          JN826906          JN827162             JN826385   JN826136       JN825892
+Systematic_Biology/0007.pdf.txt:Ptilocichla       mindanensis      KUNHM          19070              Philippines          JN826637          JN826907          JN827163             JN826386   JN826137       JN825893
+Systematic_Biology/0007.pdf.txt:Schoeniparus      brunnea          KUNHM          6655               China                JN826647          JN826917             —                 JN826392   JN826143       JN825897
+Systematic_Biology/0007.pdf.txt:Schoeniparus      castaneceps      KUNHM          15156              Myanmar              JN826648          JN826918          JN827170             JN826393   JN826144       JN825898
+Systematic_Biology/0007.pdf.txt:Schoeniparus      cinerea          KUNHM          15152              Myanmar              JN826649          JN826919          JN827171             JN826394   JN826145       JN825899
+Systematic_Biology/0007.pdf.txt:Schoeniparus      dubia            KUNHM          11340              China                JN826651          JN826921          JN827173             JN826396   JN826147       JN825901
+Systematic_Biology/0007.pdf.txt:Schoeniparus      dubia            KUNHM          15160              Myanmar              JN826652          JN826922          JN827174             JN826397   JN826148       JN825902
+Systematic_Biology/0007.pdf.txt:Spelaeornis       chocolatinus     KUNHM          15105              Myanmar              JN826655          JN826925          JN827177             JN826400   JN826151       JN825905
+Systematic_Biology/0007.pdf.txt:Spelaeornis       chocolatinus     KUNHM          15199              Myanmar              JN826656          JN826926          JN827178             JN826401   JN826152       JN825906
+Systematic_Biology/0007.pdf.txt:Spelaeornis       troglodytoide    KUNHM          15107              Myanmar              JN826657          JN826927          JN827179             JN826402   JN826153       JN825907
+Systematic_Biology/0007.pdf.txt:Spelaeornis       troglodytoides   KUNHM          15108              Myanmar              JN826658          JN826928          JN827180             JN826403   JN826154       JN825908
+Systematic_Biology/0007.pdf.txt:Sphenocichla      humei            KUNHM          15201              Myanmar              JN826659          JN826929          JN827181             JN826404   JN826155       JN825909
+Systematic_Biology/0007.pdf.txt:Sphenocichla      humei            KUNHM          15202              Myanmar              JN826660          JN826930          JN827182             JN826405   JN826156       JN825910
+Systematic_Biology/0007.pdf.txt:Stachyris           chrysaea         KUNHM            15096             Myanmar              JN826664          JN826934         JN827186            JN826408   JN826159       JN825914
+Systematic_Biology/0007.pdf.txt:Stachyris           chrysaea         KUNHM            15240             Myanmar              JN826665          JN826935         JN827187            JN826409   JN826160       JN825915
+Systematic_Biology/0007.pdf.txt:Stachyris           erythroptera     KUNHM            12327             Borneo               JN826668          JN826938         JN827190            JN826412   JN826163       JN825918
+Systematic_Biology/0007.pdf.txt:Stachyris           nigriceps        KUNHM            10167             China                JN826673          JN826944         JN827196            JN826417   JN826169       JN825923
+Systematic_Biology/0007.pdf.txt:Stachyris           nigricollis      KUNHM            12330             Borneo               JN826675          JN826946         JN827198            JN826419   JN826171       JN825925
+Systematic_Biology/0007.pdf.txt:Stachyris           oglei            KUNHM            15189             Myanmar              JN826679          JN826950         JN827202            JN826423   JN826175       JN825929
+Systematic_Biology/0007.pdf.txt:Stachyris           ruficeps         KUNHM            6645              China                JN826683          JN826955         JN827206            JN826427   JN826179       JN825932
+Systematic_Biology/0007.pdf.txt:Stachyris           ruficeps         KUNHM            11083             China                JN826682          JN826954         JN827205            JN826426   JN826178       JN825931
+Systematic_Biology/0007.pdf.txt:Stachyris           striolata        KUNHM            10003             China                JN826686          JN826958         JN827209            JN826430   JN826182       JN825935
+Systematic_Biology/0007.pdf.txt:Stachyris           striolata        KUNHM            10136             China                JN826685          JN826957         JN827208            JN826429   JN826181       JN825934
+Systematic_Biology/0007.pdf.txt:Trichastoma         rostratum        KUNHM            17713             Borneo               JN826692          JN826967         JN827217            JN826436   JN826188       JN825941
+Systematic_Biology/0007.pdf.txt:Turdoides           plebejus         KUNHM            20025             Sierra Leone         JN826699          JN826974         JN827224            JN826443   JN826195       JN825948
+Systematic_Biology/0007.pdf.txt:Turdoides           reinwardtii      KUNHM            20055             Sierra Leone         JN826701          JN826975         JN827226            JN826445   JN826197       JN825950
+Systematic_Biology/0007.pdf.txt:Xiphirhynchus       superciliaris    KUNHM            15092             Myanmar              JN826703          JN826977         JN827228            JN826447   JN826198       JN825952
+Systematic_Biology/0007.pdf.txt:  Sterrhoptilus     dennistouni      KUNHM            20186             Philippines          JN826666          JN826936         JN827188            JN826410   JN826161       JN825916
+Systematic_Biology/0007.pdf.txt:  Sterrhoptilus     dennistouni      KUNHM            20225             Philippines          JN826667          JN826937         JN827189            JN826411   JN826162       JN825917
+Systematic_Biology/0007.pdf.txt:  Sterrhoptilus     nigrocapitatus   KUNHM            18040             Philippines          JN826677          JN826948         JN827200            JN826421   JN826173       JN825927
+Systematic_Biology/0007.pdf.txt:  Yuhina             castaniceps        KUNHM           10367           China                   JN826707          JN826981         JN827231               —      JN826201   JN825955
+Systematic_Biology/0007.pdf.txt:  Yuhina             castaniceps        KUNHM           13784           China                   JN826708          JN826982         JN827232           JN826451   JN826202   JN825956
+Systematic_Biology/0007.pdf.txt:  Yuhina             diademata          KUNHM           11118           China                   FJ460781          FJ460849         JN827233           FJ460917   JN826203      —
+Systematic_Biology/0007.pdf.txt:  Yuhina             everetii           KUNHM           17756           Borneo                  JN826709          JN826983         JN827234           JN826452   JN826204   JN825957
+Systematic_Biology/0007.pdf.txt:  Yuhina             flavicollis        KUNHM           15170           Myanmar                 JN826710          JN826984         JN827235           JN826453   JN826205   JN825958
+Systematic_Biology/0007.pdf.txt:  Yuhina             nigrimenta         KUNHM           9997            China                   JN826712          JN826986         JN827237           JN826455   JN826207   JN825960
+Systematic_Biology/0007.pdf.txt:  Yuhina             nigrimenta         KUNHM           11150           China                   JN826711          JN826985         JN827236           JN826454   JN826206   JN825959
+Systematic_Biology/0007.pdf.txt:  Yuhina             occipitalis        KUNHM           15177           Myanmar                 JN826713          JN826987         JN827238           JN826456   JN826208   JN825961
+Systematic_Biology/0007.pdf.txt:  Zosterops          lateralis          KUNHM           6094            Australia               FJ460814          FJ460882         JN827240           FJ460951      —       JN825963
+Systematic_Biology/0007.pdf.txt:  Zosterops          ugiensis           KUNHM           12803           Solomon Is.             FJ460836          FJ460903         JN827243           FJ460972   JN826212   JN825966
+Systematic_Biology/0007.pdf.txt:  Zosterornis        whiteheadi         KUNHM           18001           Philippines             JN826687          JN826960         JN827210           JN826431   JN826183   JN825936
+Systematic_Biology/0007.pdf.txt: Acrocephalus        australis          KUNHM           19430           Solomon Islands         JN826458          JN826714         JN826989           JN826214   JN825967   JN825740
+Systematic_Biology/0007.pdf.txt: Alophoixus          bres               KUNHM           17701           Borneo                  GU112681          GU112727         JN827010           GU112589      —       JN825757
+Systematic_Biology/0007.pdf.txt: Erpornis            zantholeuca        KUNHM           10015           China                   JN826491          JN826750         JN827015           JN826245   JN825991   JN825762
+Systematic_Biology/0007.pdf.txt: Erpornis            zantholeuca        KUNHM           13848           China                   JN826492          JN826751         JN827016           JN826246   JN825992   JN825763
+Systematic_Biology/0007.pdf.txt: Hypocryptadius      cinnamomeus        KUNHM           19117           Philiippines            JN826545          JN826804         JN827068              —       JN826038      —
+Systematic_Biology/0007.pdf.txt: Megalurus           timoriensis        KUNHM           16461           New Guinea              JN826590          JN826852         JN827115           JN826337   JN826087   JN825844
+Systematic_Biology/0007.pdf.txt: Melocichla          mentalis           KUNHM           15406           Ghana                   JN826591          JN826853         JN827116           JN826338   JN826088   JN825845
+Systematic_Biology/0007.pdf.txt: Myzornis            pyrrhoura          KUNHM           15109           Myanmar                 JN826597          JN826859         JN827121              —       JN826093      —
+Systematic_Biology/0007.pdf.txt: Orthotomus          sericeus           KUNHM           17792           Borneo                  JN826602          JN826865         JN827127           JN826348   JN826100   JN825855
+Systematic_Biology/0007.pdf.txt: Paradoxornis        alphonsianus       KUNHM           11096           China                   JN826603          JN826866         JN827128           JN826349   JN826101   JN825856
+Systematic_Biology/0007.pdf.txt: Paradoxornis        gularis            KUNHM           6706            China                   JN826607          JN826870         JN827132              —       JN826105   JN825860
+Systematic_Biology/0007.pdf.txt: Paradoxornis        gularis            KUNHM           11037           China                   JN826606          JN826869         JN827131           JN826352   JN826104   JN825859
+Systematic_Biology/0007.pdf.txt: Paradoxornis        ruficeps           KUNHM           15116           Myanmar                 JN826609          JN826872         JN827134           JN826354   JN826107      —
+Systematic_Biology/0007.pdf.txt: Paradoxornis        verreauxi          KUNHM           11041           China                   JN826610          JN826873         JN827135           JN826355   JN826108   JN825862
+Systematic_Biology/0007.pdf.txt: Paradoxornis        webbianus          KUNHM           6740            China                   JN826612          JN826875         JN827137           JN826357   JN826110      —
+Systematic_Biology/0007.pdf.txt: Paradoxornis        webbianus          KUNHM           13794           China                   JN826611          JN826874         JN827136           JN826356   JN826109   JN825863
+Systematic_Biology/0007.pdf.txt: Phylloscopus        cebuensis          KUNHM           20262           Philippines             JN826621          JN826884         JN827147           JN826366   JN826119   JN825871
+Systematic_Biology/0007.pdf.txt: Pnoepyga            albiventer         KUNHM           15196           Myanmar                 JN826623          JN826886         JN827149           JN826368   JN826120   JN825873
+Systematic_Biology/0007.pdf.txt: Pnoepyga            pusilla            KUNHM           15250           Myanmar                 JN826624          JN826887         JN827150           JN826369   JN826121   JN825874
+Systematic_Biology/0007.pdf.txt: Pycnonotus          plumosus           KUNHM           12667           Philippines             JN826640          JN826910         JN827164           JN826387   JN826138   JN825894
+Systematic_Biology/0007.pdf.txt: Sylvia              borin              KUNHM           15471           Ghana                   JN826689          JN826962         JN827212           JN826433   JN826185   JN825938
+Systematic_Biology/0007.pdf.txt:Notes: Ancient DNA samples denoted by “ ∗ ” and unvouchered blood samples denoted by “#.” Institutional abbreviations: AMNH, American Museum of Natural History; BMNH,
+Systematic_Biology/0007.pdf.txt:Natural History Museum (Tring, UK); CAS, California Academy of Sciences; FMNH, Field Museum of Natural History; KUNHM, University of Kansas Natural History Museum;
+Systematic_Biology/0391.pdf.txt:Oenanthe                                                                                                         BMNH–1953.55.144
+Systematic_Biology/0391.pdf.txt:  P. litsipsirupa simensis       Eritrea                        EU154597       —          EU154709   EU154823    BMNH–1953.67.5
+Systematic_Biology/0391.pdf.txt:  R. pinicola                    Mexico                         AY752371       —          —          EU154824    BMNH–25591
+Systematic_Biology/0391.pdf.txt:  T. infuscatus                  Guatemala                      DQ910953       —          EU154736   —            BMNH–1897.10.1.101
+Systematic_Biology/0391.pdf.txt:  T. merula maximus                  China                           EU154635        EU154529       EU154746       EU154861       NHMO–17030
+Systematic_Biology/0391.pdf.txt:  T. poliocephalus poliocephalus     Norfolk Island                  EU154663        —              EU154774       EU154889       BMNH–1919.7.15.101
+Systematic_Biology/0391.pdf.txt:  T. rubrocanus rubrocanus           India                           EU154671        —              EU154782       EU154897       BMNH–1949.Whi.1.2492
+Systematic_Biology/0391.pdf.txt:  T. rufitorques                     Mexico                          DQ910991        —              EU154783       EU154898       BMNH–1954.5.59
+Systematic_Biology/0391.pdf.txt:     Museum abbreviations. AMNH: American Museum of Natural History, New York; BMNH: The Natural History Museum, Tring, UK; GUDZ: Department of
+Systematic_Biology/0391.pdf.txt:of Technology, Isphahan, Iran; NHMO: National Centre for Biosystematics, Natural History Museum, Oslo, Norway; NRM: Swedish Museum of Natural History,
+Systematic_Biology/0732.pdf.txt:Museum, London, U.K. (BMNH); Wim Van Neer and Wim Wendelin,                    Crawford-Cabral, J. 1993. A comment on the systematic position of
+Systematic_Biology/0732.pdf.txt:gram) for visiting the BMNH collections in 2001. WCW’s financial                 carnassiers. Bull. Soc. Sci. Nat. 3:45
+Systematic_Biology/0647.pdf.txt:ware package NHML 3 (Galtier, 2001). This model ap-              tally assessed branch-specific RRPs, using 100 artificial
