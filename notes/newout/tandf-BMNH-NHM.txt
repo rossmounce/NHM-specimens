@@ -3,14 +3,6 @@ aquatic-insects/pdfs/01650420500290169.pdf.txt:                                 
 aquatic-insects/pdfs/01650420500290169.pdf.txt:                                                              26.IX.2002 Sagata (PNG 23)’’, ‘‘267 DNA M. Balke’’ [green label] (BMNH). Paratype: <
 aquatic-insects/pdfs/01650420500290169.pdf.txt:                                                              (BMNH). Paratypes: < ‘‘PNG Simbu / EHPr. Crater Mountain, Sera-Herowana, Wara
 aquatic-insects/pdfs/01650420802516923.pdf.txt:                                                              From Caenopsella there are only two larval exuviae available (Coll. Gillies, BMNH)
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              NHMW Natural History Museum Vienna, Austria
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              Holotype (macropterous <, NHMW) and paratypes (two macropterous ,, NHMW) ‘‘NEPAL: N
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              stream, near mouth of Pagoda\Stream, 4.V.2003\leg. Boukal et al. [102a]’’ (NHMW, UBCB,
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              [110]’’ (NHMW); 1 , (macropterous) labeled ‘‘MYANMAR: Shan State\along road Kalaw –
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              Thazi\puddle on bed of large stream\25.VI.2004, leg. Shaverdo &\ Schillhammer [155]’’ (NHMW);
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              310 m\6.IV.2003; L-449\Sites, AV, Prommi, Setaphan’’ (UMS, NHMW); 17 <, 25 , (all
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              Lan; rock face\168070 N 998160 E; 8.III.2002\coll: R. W. Sites; L-273’’ (UMS, NHMW, NSMT,
-aquatic-insects/pdfs/01650420500328274.pdf.txt:                                                              W\Shabrubesi,11.XI.2003\ca. 28.188, 85.358\leg. H. FREITAG (1)’’ (NHMW).
 aquatic-insects/pdfs/01650420701308844.pdf.txt:                                                              BMNH            Entomology Department, The Natural History Museum, Cromwell Road,
 aquatic-insects/pdfs/01650420701552490.pdf.txt:                                                              (HNHM), Budapest; the Institute of Ecology and Biological Resources (IEBR), Hanoi;
 aquatic-insects/pdfs/01650420701552490.pdf.txt:                                                              IEBR), Vietnam, Vinh Phu Province, Tam Dao, 218450 N, 1058640 E, 21 – 28. iv. 1995; 1 , (HNHM),
@@ -41,12 +33,6 @@ aquatic-insects/pdfs/01650420701213853.pdf.txt:                                 
 aquatic-insects/pdfs/01650424.2011.597405.pdf.txt:                                                              ception trap/K. A. Jackson D. Carpenter BMNH{E}2003–61’’ (BMNH). Paratype: 1<, same
 aquatic-insects/pdfs/01650424.2011.597405.pdf.txt:                                                              data as holotype (BMNH).
 aquatic-insects/pdfs/01650424.2012.642688.pdf.txt:                                                              (HNHM) in cooperation with the Plant Protection Institute of the Hungarian
-aquatic-insects/pdfs/01650420512331390690.pdf.txt:                                                              (NHMW), Enns Entomology Museum, University of Missouri Columbia, USA (UMC), and
-aquatic-insects/pdfs/01650420512331390690.pdf.txt:                                                              (NHMW). Paratypes: 5 male, 11 female: same data as for holotype (NHMW, NSM, UMC).
-aquatic-insects/pdfs/01650420512331390690.pdf.txt:                                                              (12b) (NHMW). Paratypes: Mae Hong Son Province, 3 male, 5 female, same data as for
-aquatic-insects/pdfs/01650420512331390690.pdf.txt:                                                              198 250 N 978 590 E, 340 m, 19 March 2002, R. W. Sites, L-306 (NHMW, NSM, UMC).
-aquatic-insects/pdfs/01650420512331390690.pdf.txt:                                                              Monthathan, 188490 N 988550 E, 700 m, 5 May 2002, CMU team, L-403 (NHMW);
-aquatic-insects/pdfs/01650420512331390690.pdf.txt:                                                              750 – 800 m, 2 November 1995, H. Zettel (4) (NHMW, NSM, UMC).
 aquatic-insects/pdfs/01650420701687163.pdf.txt:                                                              are abbreviated as follows: BMNH, the Natural History Museum, London;
 aquatic-insects/pdfs/01650420701687163.pdf.txt:                                                              Holotype <, Lahat, west [Peninsular] Malaysia, BMNH.
 aquatic-insects/pdfs/01650424.2010.506691.pdf.txt:                                                              [BMNH]. He referred her letter to another curator, P.H. Ward, who replied that
@@ -562,7 +548,6 @@ ital-j-zoology/pdfs/11250000309356497.pdf.txt:                                  
 ital-j-zoology/pdfs/11250003.2014.1003418.pdf.txt:                                                              sity (Maltagliati 1998a, 1998b, 1999; Ferrito et al. 2007;    Museum (NHM, Wien) and Museo Nacional de
 ital-j-zoology/pdfs/11250003.2014.1003418.pdf.txt:                                                              Museum of Venice (Venice, Italy); NHM: Naturhistorisches Museum (Wien, Austria); USNM: National Museum of Natural History
 ital-j-zoology/pdfs/11250003.2014.1003418.pdf.txt:                                                                                          11°12ʹE                 (NHM) 1994; 1996 (Maltagliati 1998a, 1998b, 1999); 1999–2000 (Mancini PC); 2003
-ital-j-zoology/pdfs/11250000902845738.pdf.txt:                                                                                                                          thanks are due to our friend Manfred Ja¨ch (NHMW)
 ital-j-zoology/pdfs/11250000409356546.pdf.txt:                                                                Michigan Morphometrics Workshop. The University of Michigan          Abbreviations for museums: BMNHL, British Museum of Natural
 ital-j-zoology/pdfs/11250000409356546.pdf.txt:                                                                                                                                   Marmota baibacina (Kastschenko, 1899) BMNHL 14.5.10.73, ZIN
 ital-j-zoology/pdfs/11250000409356546.pdf.txt:                                                                rels. J. Morphol., 232: 107-132.                                   BMNHL 11.2.1.95, USNM 84104; Marmota M. marmota (Linneus,
@@ -710,10 +695,7 @@ ital-j-zoology/pdfs/11250000802182018.pdf.txt:                                  
 ital-j-zoology/pdfs/11250000802182018.pdf.txt:                                                              nians. The colonies were always perpendicular to the      the L. spectabilis from the NHM is likely to be one of
 ital-j-zoology/pdfs/11250003.2011.583490.pdf.txt:                                                              Jim Chimonides (NHM) for his help in assem-                          Glasby CJ, Hutchings PA, Hall K. 2004. Assessment of
 ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              Museums) and newly collected material, excluded                           Natural History, London (BMNH); Natural History
-ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              the presence in Libya of S. lucasi, E. nigromarginata                     Museum, Vienna (NHMV); Coll. B. Massa,
 ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              III.57, K. M. Guichard (1 „, 1 R nymphs) (BMNH);                     or less within the range observed by us, with the
-ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              Tunis, Bonnet (1 „) (NHMV). Other subspecies                         females: 6.5–8.0), clearly lower than that detected
-ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              Mecheria, Brunner (1 „) (NHMV).                                      Colour. S. innocentii is characterized by a black
 ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              grooved, sometimes a little down-curved. Male cerci                  K. M. Guichard (1 R) (BMNH).
 ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              exceeding inner tooth of cerci, which are thick with                       at BMNH was collected in Tripolitania on a locality
 ital-j-zoology/pdfs/11250000802092027.pdf.txt:                                                              Bullado (1 R paratypus) (BMNH); El Kouf (Al                                tooth placed almost in their middle; subgenital plate
@@ -874,8 +856,6 @@ Journal-of-Natural-History/00222930802277616.pdf.txt:                           
 Journal-of-Natural-History/00222930802277616.pdf.txt:                                                               Congo, Kivu Region, river Mululu, leg. Gasana N’Doli, 15 July 1973. HNHM AF/
 Journal-of-Natural-History/00222930802277616.pdf.txt:                                                               3542, four exemplars, BMNH 1997.1631–1637, seven exemplars. D.R. Congo, Kivu
 Journal-of-Natural-History/00222933.2010.499577.pdf.txt:                                                               London, UK (BMNH); the collection of Peter Duelli, Zürich, Switzerland (PD); and
-Journal-of-Natural-History/00222930600661839.pdf.txt:                                                               Piermauro Giachino (Torino); NHMW, Naturhistorisches Museum, Wien; ZMB,
-Journal-of-Natural-History/00222930600661839.pdf.txt:                                                               Obirstock, Jovanberg: one male (33), one female (35); NHMW [Attems 1952a, as
 Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                                                               men repositories, followed by the name of the curator in charge: BMNH, The Natural
 Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                                                                    Detailed lists of type-specimens in BMNH and ZMUC were provided by Broomfield
 Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                                                               (lectotypus 乆, LC); (3) M. expansa Walker (holotype 乆, BMNH), junior synonym of M. foliata
@@ -901,15 +881,11 @@ Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                        
 Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                                                               BMNH); (18) M. latifasciata Sakakibara and Evangelista sp. nov. (holotype 么, ZMUC); (19)
 Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                                                               m. | 2-5.i.1972 | M. Cooper | B.M. 1972-275” (BMNH).
 Journal-of-Natural-History/00222933.2010.485702.pdf.txt:                                                               DZUP, 2 females in each of the following institutions: BMNH, INHS, INPA,
-Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               Chone arenicola                     Langerhans, 1880                      Madeira, Eastern Central Atlantic   NHMW 2286 (ST)
-Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               Chone collaris                      Langerhans, 1880                      Madeira, Eastern Central Atlantic   NHMW 2287 (ST)
 Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               Chone filicaudata                   Southern, 1914                        West Ireland: Inishlyre Harbour,    BMNH 1914.12.12.25 (ST)
 Journal-of-Natural-History/00222930802254714.pdf.txt:                                                                                                                                                            (PLT), BMNH 82.5.12.33 (PLT)
 Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               Chone princei             McIntosh, 1916                 Quebec, Gulf of Saint Lawrence    BMNH 1921.5.1.4373 (LT, PLT)
 Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               Chone reayi                        McIntosh, 1916                     Ireland, North Sea                    BMNH
-Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               Jasmineira caudata                 Langerhans, 1880                   Madeira                               NHMW
 Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               London (BMNH); Canadian Museum of Nature, Ottawa (CMN); El Colegio de la
-Journal-of-Natural-History/00222930802254714.pdf.txt:                                                               (NHMW); National Museum of Wales (NMW); Private Collection, Laboratorio
 Journal-of-Natural-History/00222930410001695088.pdf.txt:                                                               Anguillidae      Anguilla bicolor                 X        X                     X       BMNH      Gu¨nther, 1879 as A. virescens
 Journal-of-Natural-History/00222930410001695088.pdf.txt:                                                                                Anguilla marmorata                                              X       BMNH      Gu¨nther, 1879 as A. mauritiana
 Journal-of-Natural-History/00222930410001695088.pdf.txt:                                                               Chanidae         Chanos chanos                                                 X       BMNH      salmonoides
@@ -963,41 +939,9 @@ Journal-of-Natural-History/00222930110096771.pdf.txt:                           
 Journal-of-Natural-History/00222930110096771.pdf.txt:                                                                  Brazil: Rio de Janeiro, Paineiras (May), 1W UFP; Parana´, Castro, 2W BMNH;
 Journal-of-Natural-History/00222930110096771.pdf.txt:                                                               no locality data, 1W BMNH.
 Journal-of-Natural-History/00222930110096771.pdf.txt:                                                                   We thank Phillip Ackery (BMNH ), Wolfram Mey (ZMHU ), Robert Robbins
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Fery, Berlin, Germany (property of NHMW); HHCR, Collection Hans Hebauer, Rain/
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Lars Hendrich, Berlin, Germany (property of NHMW); NHMB, Naturhistorisches
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Museum, Basel, Switzerland (Michel Brancucci); NHMW, Naturhistorisches Museum,
 Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Zigana P. [pass], 17 July 1973, G. Wewalka leg. (GWCW, HFCB, NHMB, NMPC);
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               one female, same data, but 30 May 1989, M.A. Jäch leg. (NHMW); one male, 30 km
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               30 May 1989, M.A. Jäch leg. (NHMW).
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               [printed] // Hydroporus 乆? / anatolicus B.-Br. / det.Wewalka 98 [printed]” (NHMW);
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               name of determinator printed]” (NHMW); one male, two females (nos. 31–33),
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Type material. H. bodemeyeri: Lectotype male (NHMW), designated by Wewalka
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               TYPUS [red label, printed]”. Paralectotypes (NHMW): two males, two females,
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Mount Olympos, 55 m, 6 June 1996, M.A. Jäch leg. (NHMW); one male, Lésvos Island,
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               10 km north of Ayiásos, near Pigi Karini, 7 June 1996, M.A. Jäch leg. (NHMW); nine
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               M.A. Jäch leg. (HFCB, NMPC, NHMW); one male, two females, Lésvos Island, 2 km
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               west of Plomari, 30 m, 9 June 1996, M.A. Jäch leg. (HFCB, NHMW). Turkey: one
 Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               female, Abant-Geb. [Abant Mts., Bolu prov.], 30 May 1964, H. Korge leg. (NHMB);
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               (NHMW); two males, one female, Izmir [prov.], Yamanlar Dag [mt.], 700 m, 18 May
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               1991, S. Schödl leg. (NHMW); four males, two females, Izmir [prov.], south of Tire,
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Aydin Berge, 900 m, 20 May 1991, M.A. Jäch leg. (14) (NHMW); one female,
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Holzschuh leg. (NHMW); two males, one female, same label data, but 15 June 1968,
 Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               G. Wewalka leg. (GWCW, NHMB); one male, Kappadokien [Cappadocia, Nevsehir
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               (NHMW); two females, Adana prov., Büyüksofulu [ca. 37°33′ N 35°11′ E],
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               type (HFCB, HHCR, LHCB, NMPC, NHMW); one female (no. 27), “TR [Tur-
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               [printed]” (NHMW); three females (nos. 28–30), “TR [Turkey] / MUGLA [prov.]
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               28.V.1991 / Kale-Mugla, 950 m, leg. Jäch (52) [printed]” (NHMW); one male, one
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               males, one female, Levkás Island, 11 September 1988, M.A. Jäch leg. (NHMW); one
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               leg. (NHMW); two males, one female, Thásos Isl., N Theológos, 12.ix.1991, M.A.
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Jäch leg. (NHMW); 1 female, Thásos Island, Potamiás, 13 September 1991, M.A.
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Jäch leg. (NHMW); three females, Euboea Island [Evvoia distr.], Steni-Stroponas,
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               700-900 m, 30 September 1992, M.A. Jäch leg. (NHMW); three females, Samothráki
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               (NHMW); one male, one female, Khalkidhikí, Athos [Ágion Óros Peninsula], 2 km
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               north-west of Megistis Lavras, ca. 30 m, 3 July 2002, M.A. Jäch leg. (NHMW); four
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               Bayburt, Çoruh [= Chorokhi river], 1 June 1989, M.A. Jäch leg. (NHMW); one
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               female, south of Tatvan [Bitlis prov.], 1700–2000 m (NHMW).
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               four males, five females (nos. 1–9), same label data as holotype (NMPC, NHMW);
-Journal-of-Natural-History/00222931003760053.pdf.txt:                                                               NHMW). Each paratype is provided with a red label similar to that of the holotype,
 Journal-of-Natural-History/00222933.2011.560727.pdf.txt:                                                               History Museum (HNHM). Abbreviations used in the text: L, = length; D, =
 Journal-of-Natural-History/00222933.2011.560727.pdf.txt:                                                               Holotype. HNHM/5370, French Guiana, Nouragues Natural Reserve, station Pararé.
 Journal-of-Natural-History/00222933.2011.560727.pdf.txt:                                                               Other material. HNHM/5521 one aclitellate ex. French Guiana, Nouragues Natural
@@ -1742,8 +1686,6 @@ Journal-of-Natural-History/00222930152123639.pdf.txt:                           
 Journal-of-Natural-History/00222930152123639.pdf.txt:                                                               1926 (all W. J. Hall ) (all BMNH ); Sinai, Senapir Island, 31 May 1968 ( Y. Ben-
 Journal-of-Natural-History/00222930152123639.pdf.txt:                                                               16 September 1923 ( W. J. Hall ) (BMNH ) and is clearly marked. The other specimen
 Journal-of-Natural-History/00222933.2010.536267.pdf.txt:                                                               Museum, London, UK (NHML), and the Natural History Museum, Vienna, Austria
-Journal-of-Natural-History/00222933.2010.536267.pdf.txt:                                                               (NHMW).
-Journal-of-Natural-History/00222933.2010.536267.pdf.txt:                                                               Holotype. NHMW 2849, transverse sections of the anterior part on two slides, trans-
 Journal-of-Natural-History/00222933.2010.536267.pdf.txt:                                                               Holotype. NHML 1998.2.9.1, sagittal sections of one specimen on three slides
 Journal-of-Natural-History/00222933.2010.536267.pdf.txt:                                                               Paratype. NHML 1998.2.9.2, sagittal sections of one specimen on two slides (labelled
 Journal-of-Natural-History/00222933.2010.536267.pdf.txt:                                                               Figure 7. Microplana nana. (A) NHML 1998.2.9.1, sagittal section of the copulatory apparatus;
@@ -1917,9 +1859,7 @@ Journal-of-Natural-History/00222933.2012.717971.pdf.txt:                        
 Journal-of-Natural-History/00222933.2012.717971.pdf.txt:                                                               ter at the time of sampling (1968) and then donated to the NHM, London. There is no
 Journal-of-Natural-History/00222933.2012.717971.pdf.txt:                                                                   Archived data (n = 15) in the NHM in which the growth of individuals of known
 Journal-of-Natural-History/00222933.2012.717971.pdf.txt:                                                               from the NHM sample. From the archived data, the regression equation for each
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               early help with material was provided by several institutions, as MNHN, NHMW,
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               BMNH       British Museum ( Natural History) ( 5 The Natural History Museum),
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               NHMW       Naturhistorisches Museum Wien ( Vienna), Austria
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               type male, 23 May 1995 (A. Hauser; donated by Schmid-Egger to BMNH );
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                paratypes, 7 May and 1 June 1991 (S. F. Gayubo and J. Blasco; BMNH ).
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Alto, nr Ciborro, 4m , 9 June 1998 (Springate; BMNH ). Spain: Viana de Casa, 2m ,
@@ -1943,17 +1883,10 @@ Journal-of-Natural-History/00222930152123648.pdf.txt:                           
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                Rayevka, g. Mashat, 2 l and 1m , 1 July 1998 ( Kazenas; BMNH, ZMAS ). Mongolia:
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                  Holotype male, here designated, deposited in BMNH London (examined ).
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Sumbar, 1 male holotype, 1 May 1991 ( V. Kazenas; BMNH ).
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                   nr Oran. Lectotype male, here designated; in NHMW (examined).
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               friend Kohl of the Vienna Hofmuseum’ (NHMW ). However, it remained the
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                   Kohl ( NHMW ) had several specimens, four of which were examined. They are
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               1990 (BoucÏek; BMNH ). Spain ( Zaragoza): Pina de Ebro, 2 l and 3m , 24 June and
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               1 l, holotype of suarezi ( UZUS ); Puerto Lapice, 1m , 27 June 1973 (BoucÏek; BMNH );
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               22 June 1973; Estepona, 1 l, 29 June 1974 (both BoucÏek; BMNH ); (CaÂdiz): Zahora,
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               syntypes of kohlii including lectotype (Schmiedeknecht; NHMW ); Ferme Giraud,
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               ( HoŒer; NMP and BMNH, etc.). Tunisia: 10 km N of Jendouba, 1m , 15 May 1973;
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                     perrisi). Austria; in NHMW (examined).]
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                   Apparently Kohl (NHMW ) received a female of A. marathroicus from De Stefani
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               original specimen ( NHMW ) I can con® rm this as right. See also under perrisi.
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               NMP, BMNH, OLML etc.). Greece ( Thessalia): Kalambaka, 1m , July 1979 (Day,
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Else and Morgan; BMNH ); Thesprotias, 6 km SW of Igoumenitsa, 1m , 15 April
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Morgan; BMNH ). Cyprus: Limassol, 4 l and 5m , 27 May to June 1934
@@ -1965,15 +1898,8 @@ Journal-of-Natural-History/00222930152123648.pdf.txt:                           
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               River Saryjaz 7 km below Inylgek, 9 l and 1m , 4 July 1994 (Janokmen; BMNH ).
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               and 3m paratypes, all July 1956 ( Kocourek; NMP, BMNH ). Greece (Pieria): road
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               11± 23 August 1984 ( W. J. Budenberg; BMNH ).
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                       female, here designated; in NHMW (examined). Syn. nov.
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               (NHMW ) that the Giraud specimens were in Paris he wanted to see them, but in
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Schmiedeknecht)’, but only two original females from Oran were found in NHMW
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               sent by Reinhard to NHMW ). The large material examined proves that the assumed
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               1973 (BoucÏek; BMNH ); (Malaga): 2m , 14 April 1990 (M. Halada; OLML); Coin,
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Ventoux, 2 l, July 1978 (Gijswijt), 1m , 30 July 1990 ( M. de V. Graham; BMNH );
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               NHMW, MHNP), Sonnenberg nr Bolzano, 850 m, 10 l and 1m , 2± 14 July 1976
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               (MNCN ); (Sachsen) : Pilnitz, 1 l, 1881 ( Reinhard; NHMW ). Czech Republic
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               1910 ( Kohl, GraeŒe; NHMW ); ( Dalmatia): ZÏivogosÏ cÏe, 1m , 3 July 1987 (BoucÏek);
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               ( R. Coe: BMNH ). Bulgaria: `Madara’, 1m , July 1928 (BiroÂ; TMB); (SW ): Sandanski,
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               BMNH ); Tamn (N of Agadir), 2 l, 8 May 1995 ( Mi. Halada; OLML); Taroudant,
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               31 March 1983 (G. R. Else; BMNH ); Oulad-Berrehil, 1 l, 25 April 1990 (M. Halada;
@@ -1981,7 +1907,6 @@ Journal-of-Natural-History/00222930152123648.pdf.txt:                           
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               3550 m, 1m , August 1984 ( W. Budenberg; BMNH ).
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                NE of source of the Parkhay, 4 l, 9 May 1991 ( Kazenas; BMNH ).
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               (Day, Else and Morgan; BMNH ). Russia (Daghestan, NE Caucasus Mts.):
-Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               mostly in NMP, partly also BMNH, NHMW, MNHN etc.). Greece (Pelopponisos):
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               Olympia, 1 l paratype, 4± 11 July 1979 (Day, Else and Morgan; BMNH ).
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                               1992 (Janokmen, det. Kazenas; most BMNH ). Mongolia ( Eastern Aimak): River
 Journal-of-Natural-History/00222930152123648.pdf.txt:                                                                 Herradura. Holotype male, by original designation; in BMNH (examined).
@@ -2570,7 +2495,6 @@ Journal-of-Natural-History/00222930903016590.pdf.txt:                           
 Journal-of-Natural-History/00222930903016590.pdf.txt:                                                               slope, 5700 ft, 26 January 1966 (Szunyoghy) (UNHM); Udzungwa Mts N. P., 700 m,
 Journal-of-Natural-History/00222930903016590.pdf.txt:                                                               (MUC), L. Bartolozzi (MZF), R. Danielsson (MZL), W. Xie (NHMLAC), B. Viklund
 Journal-of-Natural-History/00222930903016590.pdf.txt:                                                               (OUMNH), R. Staals (SANC), M. Cochrane (SAMC), J. Harrison (TM), O. Merkl (UNHM),
-Journal-of-Natural-History/00222930903016590.pdf.txt:                                                               Bai (CAS) who sent us the E. liuchungloi specimen, and Dr H. Schillammer (NHMW), who
 Journal-of-Natural-History/00222930110062336.pdf.txt:                                                               History, Beijing, China; BMNH, The Natural History Museum (formerly British
 Journal-of-Natural-History/00222930110062336.pdf.txt:                                                               of the type (BMNH ) has shown some diŒerences in the male genitalia (compare
 Journal-of-Natural-History/00222930110062336.pdf.txt:                                                               IZCAS; 2 , 2 BMNH ). Thailand: 1 , Khao Yai National Park, black light,
@@ -2630,7 +2554,6 @@ Journal-of-Natural-History/00222930400001475.pdf.txt:                           
 Journal-of-Natural-History/00222930400001475.pdf.txt:                                                               NHM) for the production of Figure 1 and Kathie Way (Department of Zoology, NHM)
 Journal-of-Natural-History/00222930400001475.pdf.txt:                                                               and Paul Taylor (Department of Palaeontology, NHM) for some biographical details.
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               AG Coll., Anthony Galsworthy, London, UK; BMNH, The Natural History Museum,
-Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               Germany; ZSM, Zoologische Staatssammlung Mu¨nchen, Germany; NHMV:
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                                   BMNH: 2„, Predota, 1921, Hansag Ung. 29 May 1921, N.C. Rothschild Coll.
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                                   BMNH: 1„, Amur, Joicey Bequest. B.M.1934-120, 67.20, Ex. Coll. Ed. Brabant.
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               Syntypes, [China]: Szechuan (Sichuan), Kunkala Shan. (BMNH)
@@ -2648,7 +2571,6 @@ Journal-of-Natural-History/00222930802702472.pdf.txt:                           
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               Neilgherries [Nilgiris]. (BMNH)
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               China (central): Ichang. (BMNH)
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                                   BMNH: 1„, holotype, [India], Ex Musaeo, Ach. Guene´e, Ex Oberthu¨r Coll.
-Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               NHMV: „, Afghanistan: Nuristan, 25 km northwest of Barikot, 1800 m, slide ACG
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               northeast Himalayas. (BMNH)
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                                   BMNH: 1„, syntype, northeast Himal., 79.57 (Tanaorhinus smaragdus Butler
 Journal-of-Natural-History/00222930802702472.pdf.txt:                                                               Himalayas) deposited in the BMNH, and it is therefore likely that this is the
@@ -2723,11 +2645,8 @@ Journal-of-Natural-History/0022293021000046432.pdf.txt:                         
 Journal-of-Natural-History/0022293021000046432.pdf.txt:                                                               F. 2. Lepidastheniella phillippensis (syntype, BMNH 1925.1.28.15–16): (A) anterior end
 Journal-of-Natural-History/0022293021000046432.pdf.txt:                                                               three fragments) (BMNH 1925.1.28.15–16): L about 110 mm, W 7 mm for 186
 Journal-of-Natural-History/00222930152434463.pdf.txt:                                                                   BMNH: The Natural History Museum, London, Great Britain; Coll. Bellan,
-Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               Paris, France; NHMW: Naturhistorisches Museum, Wien, Austria; NRM:
 Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               lost since 1973 ( personal communication by M. Lowe, BMNH ). However, Chambers
 Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               Andrews, washed ashore after storms and in stomach of cod and haddock, BMNH
-Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               NHMW V 197. Five specimens (1 fragments) , Lesina, Acqu.Nr. 1877, leg. and det.
-Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               E. v. Marenzeller as Malmgrenia castanea, NHMW V 198. Two specimens (af ),
 Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               purpureus O. F. MuÈller, leg. G. JeŒreys, BMNH 1921.5.1.507, ZMB 1162, USNM
 Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               BMNH 1921.5.1.509. One specimen, Channel Islands, oŒSt. Peter Port, Guernsey,
 Journal-of-Natural-History/00222930152434463.pdf.txt:                                                               9± 13 m, 1868, BMNH 1921.5.1.508. ( Type material not checked for this study) .
@@ -2882,8 +2801,6 @@ Journal-of-Natural-History/00222930110101387.pdf.txt:                           
 Journal-of-Natural-History/00222930110101387.pdf.txt:                                                                  Type material. Female holotype (BMNH Reg. No. 1999.1535) ; four female
 Journal-of-Natural-History/00222930110101387.pdf.txt:                                                               paratypes (BMNH Reg. Nos 1999.1536 ± 1539).
 Journal-of-Natural-History/00222930110101387.pdf.txt:                                                                  The authors would like to thank Dr Mark Wilkinson (NHM ) for his valuable
-Journal-of-Natural-History/0022293021000033238.pdf.txt:                                                               Austria (NHMW ); National Museum of Natural History, Leiden, The Netherlands
-Journal-of-Natural-History/0022293021000033238.pdf.txt:                                                               G. X. Chen (IZAS), Dr N. H. Nguyen (MNHN ), Dr P. C. Dworschak (NHMW ),
 Journal-of-Natural-History/00222930110051743.pdf.txt:                                                               specimens: NHM, The Natural History Museum (London); MLS, Museo La
 Journal-of-Natural-History/00222930110051743.pdf.txt:                                                               (NHM 1909.5.1.8.) and 1        ( USNM 42774 ), all exchanged or presented by the
 Journal-of-Natural-History/00222930110051743.pdf.txt:                                                               and as the two female syntypes (NHM 1909.5.1.8. and USNM 42774) do not help
@@ -2905,9 +2822,7 @@ Journal-of-Natural-History/00222930600940993.pdf.txt:                           
 Journal-of-Natural-History/00222930600940993.pdf.txt:                                                               NHMB, NHRS, NMBS, NMW, SMF.
 Journal-of-Natural-History/00222930600940993.pdf.txt:                                                               NHMB, NHRS, NMBS, NMW, SMF.
 Journal-of-Natural-History/00222930410001671291.pdf.txt:                                                               Germany; Natural History Museum (NHM), London, UK; Nationaal Natuurhistorisch
-Journal-of-Natural-History/00222930410001671291.pdf.txt:                                                               (NHMW), Vienna, Austria; Academy of Natural Sciences, Philadelphia (ANSP), PA,
 Journal-of-Natural-History/00222930410001671291.pdf.txt:                                                               as RMNH D 50431; one male and one female (NHM 2004. 74–75), same data as RMNH
-Journal-of-Natural-History/00222930410001671291.pdf.txt:                                                               D 50431; one male and one female (NHMW 19934), same data as RMNH D 50431; one
 Journal-of-Natural-History/00222933.2012.717646.pdf.txt:                                                               Universidade de São Paulo (São Paulo, Brazil); NHMUK, The Natural History
 Journal-of-Natural-History/00222933.2012.717646.pdf.txt:                                                               R-75824, AMNH R-85312, NHMUK 59.9.6). Gekkonidae: Lygodactylus gutturalis
 Journal-of-Natural-History/00222933.2012.717646.pdf.txt:                                                               C. McCarthy (NHMUK), K. Kozak (JFBM), L.F. Silveira (MZUSP), M. Raposo (MNRJ),
@@ -2927,14 +2842,11 @@ Journal-of-Natural-History/00222933.2011.651646.pdf.txt:                        
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               History Museum, London (BMNH; S. Shute, M. Brendell, M. Cox; n564); Deutsches
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               Natural History Museum, Budapest (HNHM; O. Merkl; n51); Institute Royal des
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               McGavin; n56); Naturhistorisches Museum Basel (NHMB; M. Brancucci, E. Sprecher;
-Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               n58); Naturhistorisches Museum, Wien (NHMW; H. Scho¨nmann; n58); Naturhistoriska
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                                 Lectotype: R ‘‘Crioceris 2-oculata, Fabr. Sp. Ins. n. 27’’, Banks coll. (BMNH); examined;
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                                 Further material examined: South Africa: 2 ex., coll. Chevrolat (BMNH); 7, Su¨d-
-Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               Afrika, Penther (NHMW); 17 ex., coll. Chapuis (IRSN); 29 ex., Cap, coll. Kraatz (DEI); 9
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               8 ex., Pr. B. Sp. [dto.] (MNHU); 3 ex., C. Bon. Spei, Baly coll. (BMNH); 4 ex., Cape
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               (BMNH); 1 ex., C.G.H. (BMNH); 2 ex., Cap, Frisch, ex coll. J. Weise (MNHU); 8 ex.,
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               Pr. b. Sp., Lichtenst. (MNHU); 7 ex., C. Bon. Spei., Mus. Murray, Fry coll. (BMNH); 2
-Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               Kapstadt (NHMW); 7 ex., Kapstadt, Dr. Martin (3 ex. MNHN, 2 ex. SAMC, 2 ex.
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               ex., Cape Town, H. Roberts coll. (BMNH); 1 ex., Cap, ‘‘Luperodes bioculatus F.’’ (ZISP); 2
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               (HNHM); 1 ex., Bredasdorp, Transvaal, coll. Veth (RMNH); 1 ex., H. R. Transvaal, coll.
 Journal-of-Natural-History/00222930601127384.pdf.txt:                                                               Veth (RMNH); 1 ex., Transvaal (MNHU); 1 ex., Natal (BMNH); 1 ex., Majuba, 32.48S/
@@ -2973,7 +2885,6 @@ Journal-of-Natural-History/00222930110062318.pdf.txt:                           
 Journal-of-Natural-History/00222930110062318.pdf.txt:                                                               Jane Beard (BMNH ), Ben Brugge ( ZMAN ), Brian Brown (LACM ), Achille Casale
 Journal-of-Natural-History/00222930110062318.pdf.txt:                                                               (NMW ), Josef Jelinek (NMPC ), Otto Merkl and the late Zoltan Kaszab (HNHM ),
 Journal-of-Natural-History/00222930701838054.pdf.txt:                                                               California, USA (BME); The Natural History Museum, London, UK (BMNH);
-Journal-of-Natural-History/00222930701838054.pdf.txt:                                                               Wien, Austria (NHMW); the United States National Collection of Coccoidea of the
 Journal-of-Natural-History/00222930701838054.pdf.txt:                                                               (BMNH).
 Journal-of-Natural-History/00222930701838054.pdf.txt:                                                               (USNM), one adult female (BMNH); same data but on P. persica, 15.viii.1971 (F.
 Journal-of-Natural-History/00222930701838054.pdf.txt:                                                               pharate adult females) on 3 slides, 2 second-instar nymphs on 1 slide (BMNH);
@@ -3001,16 +2912,6 @@ Journal-of-Natural-History/0022293021000010331.pdf.txt:                         
 Journal-of-Natural-History/0022293021000010331.pdf.txt:                                                                   Further material. BMNH 1892.3.7.43–46 (Sahambendrana); BMNH
 Journal-of-Natural-History/0022293021000010331.pdf.txt:                                                               1952.1.1.78–79 (Rantabe, Antongil bay); BMNH 1955.1.1.80 (Nosy Mangabe).
 Journal-of-Natural-History/0022293021000010331.pdf.txt:                                                               Clarke and Colin McCarthy (BMNH ), Kurt Grossenbacher (NMBE), Rainer
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               Japan; NHMW, Natural History Museum Vienna, Austria; NSMT, National Museum
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               and donated to NHMW in 1876, stored in a glass jar (Figure 1A, B). The
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               lectotype (NHMW ZooEV 20.125); larger individual designated as paralectotype
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               (NHMW ZooEV 2140).
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               Detailed locality and date unknown, coll. Döderlein, 1 (BW, 10.0 mm; NHMW
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               face of the jar; (B) Two individuals of the syntype series. l, lectotype (NHMW ZooEV 20.125);
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               p, paralectotype (NHMW ZooEV 2140). (C–E) Holotype of Nereis ijimai Izuka, 1912 syn. nov.
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               Figure 2. Atokes of Nectoneanthes oxypoda. (A–C) Lectotype (NHMW ZooEV 20.125),
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               Tokyo Bay (NSMT 58214), dorsal view of anterior end. (G) Paralectotype (NHMW ZooEV
-Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               I am indebted to Helmut Sattmann (NHMW), Dieter Fiege (SMF), Angelika Brandt (ZMH),
 Journal-of-Natural-History/00222933.2012.743609.pdf.txt:                                                               Jin-Woo Choi (KIOST), Minoru Imajima (NHMT), Ryohei Yamanishi (OMNH), Isao Hayashi
 Journal-of-Natural-History/00222933.2010.488811.pdf.txt:                                                               abbreviated as follows: BPBM, Bishop Museum, Honolulu, Hawaii, USA; BMNH,
 Journal-of-Natural-History/00222933.2010.488811.pdf.txt:                                                               8.xii.1957 H.T. Pagden” (BMNH).
@@ -3168,26 +3069,10 @@ Journal-of-Natural-History/002229301300009649.pdf.txt:                          
 Journal-of-Natural-History/00222933.2012.742167.pdf.txt:                                                               (NHM), London (UK) was examined by Antonio Ricarte and confirmed to be
 Journal-of-Natural-History/00222933.2012.742167.pdf.txt:                                                               We thank Dr Nigel Wyatt (NHM) and Dr Graham Rotheray (NMS) for arranging the loan
 Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               Museum, London, UK (BMNH), Naturhistorische Museum in Wien, Evertebrata
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               Varia, Austria (NHMW-EV), and the Zoological Institute of Hokkaido University
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                                   These included: Cephalothrix adriatica Senz, 1993, holotype, NHMW-EV 3236;
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               2000, hototype, NHMW-EV 4033; Cephalothrix hongkongiensis Sundberg et al., 2003,
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               holotype, BMNH 1987.2.27; Cephalothrix kefersteini Senz, 2000, holotype, NHMW-
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               EV 4040; Cephalothrix lactea Senz, 1993, holotype, NHMW-EV 3238; Cephalothrix
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               linearis (Rathke, 1799), NHMW-EV 3486, Scotland, 1987, collected and identified by
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               R. Gibson; C. linearis (Rathke, 1799), NHMW-EV 3485, Scotland, 1987, collected
 Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               BMNH 1990.6.2; Cephalothrix orientalis (Gibson, 1990), holotype, BMNH 1987.2.33;
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               Cephalothrix paragermanica Senz, 1993, holotype, NHMW-EV 3237; Cephalothrix
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               rufifrons (Johnston, 1837), NHMW-EV 3481, Scotland, 1987, collected and identi-
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               fied by R. Gibson; C. rufifrons (Johnston, 1837), NHMW-EV 3482, collected and
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               tem could not be traced with certainty in C. gaimardi (NHMW-EV 4033), C. lactea
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               (NHMW-EV 3238), C. linearis (NHMW-EV 3485, 3486), C. paragermanica (NHMW-
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               (Figure 1E), the three specimens identified as C. rufifrons (NHMW-EV 3481, 3482;
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               in cephalotrichids. (A) Cephalothrix adriatica Senz, 1993 (holotype, NHMW-EV 3236);
 Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               narius Gibson, 1990, BMNH 1987.2.27); (C) Cephalothrix kefersteini Senz, 2000 (holotype,
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               NHMW-EV 4040); (D) Cephalothrix oestrymnica (Gibson, 1991) (holotype of Procephalothrix
 Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               oestrymnica Gibson, 1991, BMNH 1990.6.2); (E) Cephalothrix orientalis (Gibson, 1990) (holo-
 Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               type of Procephalothrix orientalis Gibson, 1990, BMNH 1987.2.33); (F) Cephalothrix rufifrons
-Journal-of-Natural-History/00222933.2010.504892.pdf.txt:                                                               I am indebted to Ms Emma Sherlock (BMNH), Dr Helmut Sattman (NHMW-EV) and
 Journal-of-Natural-History/00222930310001613575.pdf.txt:                                                               mid- ventral; NHM, Natural History Museum, London; ZMH, Zoologisches
 Journal-of-Natural-History/00222933.2012.708449.pdf.txt:                                                               Ithaca, NY; BMNH, Natural History Museum, London; MRAC, Musée Royal
 Journal-of-Natural-History/00222933.2012.708449.pdf.txt:                                                               Syntypes. BMNH 1920.5.26.1 (two syntypes, two examined), MRAC 14352–54
@@ -3270,11 +3155,6 @@ Journal-of-Natural-History/00222930802277608.pdf.txt:                           
 Journal-of-Natural-History/00222930802277608.pdf.txt:                                                               6 mm) (NHM 1964.1.21.2769/2962) (for sampling details, see Tattersall 1914).
 Journal-of-Natural-History/00222930903383586.pdf.txt:                                                               (NHMB) and Institute of Zoology, Chinese Academy of Sciences, Beijing, China
 Journal-of-Natural-History/00222930903383586.pdf.txt:                                                               NHMB).
-Journal-of-Natural-History/10503300701579943.pdf.txt:                                                               deposited in the Naturhistorisches Museum in Wien, Vienna, Austria (NHMW). The other
-Journal-of-Natural-History/10503300701579943.pdf.txt:                                                               Holotype: female, CL 4.6 mm, TL 16.8 mm, NHMW 21600, Egypt, Red Sea, Dahab,
-Journal-of-Natural-History/10503300701579943.pdf.txt:                                                               Figure 1. Richalpheus dahabensis n. sp., female holotype (NHMW 21600). (A, B) Frontal region, dorsal and lateral
-Journal-of-Natural-History/10503300701579943.pdf.txt:                                                               Figure 2. Richalpheus dahabensis n. sp., female holotype (NHMW 21600). (A) Right mandible, mesial view; (B)
-Journal-of-Natural-History/10503300701579943.pdf.txt:                                                               Figure 3. Richalpheus dahabensis n. sp., female holotype (NHMW 21600). (A, B) Left (major) cheliped, mesial and
 Journal-of-Natural-History/00222930701437360.pdf.txt:                                                               Albany Museum, Grahamstown, South Africa; BMNH, Natural History Museum,
 Journal-of-Natural-History/00222930701437360.pdf.txt:                                                               Tanytarsus (Stempellina) brevis Edwards 1929, p 420. Lectotype „ (BMNH 236365)
 Journal-of-Natural-History/00222930701437360.pdf.txt:                                                                    Paralectotypes (22) in BMNH [not examined]. Lectotype here designated.
@@ -3926,15 +3806,6 @@ Journal-of-Natural-History/00222930802372482.pdf.txt:                           
 Journal-of-Natural-History/00222930802372482.pdf.txt:                                                               83 (C. Peter) ex blackfly on Murraya (NHM, examined).
 Journal-of-Natural-History/00222930802372482.pdf.txt:                                                               4 R, same data as holotype (NHM, NTU).
 Journal-of-Natural-History/00222930802372482.pdf.txt:                                                               Novermber 1969 ‘ex indet. diaspidids’ on Mangifera indica (NHM, examined).
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               National d’Histoire Naturelle, Laboratoire de Malacologie, Paris, France; NHMW,
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               (BOE 223b)”, 10 shells from the NHMW 107332 labelled as “Paratypen ex BOE
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               FALKNER leg 28 IX 1967”, four shells (dry specimens) NHMW 107331 labelled as
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               in SMF and as “ex BOE 223b” in NHMW alerted us to the existence of a sample
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               below that have been deposited at the NHMW. Localities and collection numbers
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               preparation, Figure 5A,D–G,), MNCN/ADN 34847–34851 (96% ethanol), NHMW
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               219028/10 and the four specimens NHMW 107331 are subsamples of the same sample
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               (ex. BOE 223b) (“Westl. Quellenaustritt”), whereas the provenance of the 10 NHMW
-Journal-of-Natural-History/00222933.2011.623358.pdf.txt:                                                               The authors thank A. Eschner (NHMW, Austria) and R. Janssen (SMF) for kindly loaning
 Journal-of-Natural-History/00222930902807783.pdf.txt:Barylypa sp.                                      Papua New Guinea                      NHM              AY593091
 Journal-of-Natural-History/00222930902807783.pdf.txt:Parania sp.                                       Madagascar                            NHM670774        EU378323
 Journal-of-Natural-History/00222930902807783.pdf.txt:Spilopimpla sp. B                                    Madagascar                            NHM723881        EU378356
@@ -4530,7 +4401,6 @@ Journal-of-Natural-History/00222930802128512.pdf.txt:                           
 Journal-of-Natural-History/00222930802128512.pdf.txt:                                                               5„ [Kirby’s handwritten label]; 63/39 [Blue paper disc, BMNH accession number
 Journal-of-Natural-History/00222930802128512.pdf.txt:                                                               Thanks are due to Michael Kuhlmann and Paul Williams (BMNH) for checking the
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                                   Abbreviations used in the text are as follows: BMNH, Natural History Museum,
-Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               Ahrens, London, UK; CNA, coll. A. Napolov, Riga, Latvia; NHMW, Naturhistorisches
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               spec.” (BMNH).
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               as holotype (TICB, BMNH, CA).
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               W of Bomdila; 2600 m, 27°16¢N, 92°24¢E, 17.v.2005 L. Dembický leg.” (CA, BMNH,
@@ -4541,8 +4411,6 @@ Journal-of-Natural-History/00222930902968809.pdf.txt:                           
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               as holotype (BMNH, CA).
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               10.6.1996 150–200 m lg. A. Napolov & I. Roma” (BMNH). Paratypes. 26 , 18
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               (BMNH). Paratypes. 1  – same data as holotype (CA).
-Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               Nat. Res. E. Jendek & O. Sausa” (NHMW). Paratypes. 2 , 4  same data as
-Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               holotype (NHMW, CA), 2  “China-Yunnan 14.–21.6.1993 100 km W Baoshan,
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               (BMNH). Paratypes. 1  “Burma (Myanmar) SW Shan State; Taunggyi; 1.-18.VI.1997;
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               1932-196./ On flowers of Schima/ 483 Sericini Asia spec.” (BMNH). Paratypes. 2  –
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               same data as holotype (BMNH, CA).
@@ -4554,7 +4422,6 @@ Journal-of-Natural-History/00222930902968809.pdf.txt:                           
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               18.–21.05.1998 leg. S. Murzin & V. Sinaev” (BMNH). Paratypes. 2  “Myanmar
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               & V. Sinaev” (BMNH, CA).
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               Brendell, M. Kerley (both BMNH), G.A. Samuelson (BPBM), H. Schönmann, H. Schill-
-Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               hammer (both NHMW), J. Hajek and J. Jelinek (both NMPC) for the loan of Museum spec-
 Journal-of-Natural-History/00222930902968809.pdf.txt:                                                               to Max Barclay and Chris Lyal (both BMNH) for checking the English of the draft of the
 Journal-of-Natural-History/00222933.2011.622055.pdf.txt:                                                               include MNHN, Musée National d’Histoire Naturelle (Paris, France); NHM, Natural
 Journal-of-Natural-History/00222933.2011.622055.pdf.txt:                                                               in his text. Four are currently housed at the NHM [BMNH 1897.9.30.15 (1 speci-
@@ -4687,7 +4554,6 @@ Journal-of-Natural-History/00222933.2013.802043.pdf.txt:                        
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                                   Material was examined or is cited from following institutions: BMNH, Natural
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               USA; HNHM, Hungarian Natural History Museum, Budapest, Hungary; IAIM,
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               Humboldt UniversitaÈt, Berlin, Germany; NHMB, Naturhistorisches Museum, Basle,
-Journal-of-Natural-History/002229300299688.pdf.txt:                                                               Switzerland; NHMW, Naturhistorisches Museum, Vienna, Austria; SABC, USDA-
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               Dry and slide mounted ( BMNH, HNHM, MHNG, MHNS, NHMB, USNM ).
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               and slide mounted ( MHNG, NHMB).
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                                and slide mounted ( BMNH, MHNG, NHMB, UCVA ).
@@ -4696,7 +4562,6 @@ Journal-of-Natural-History/002229300299688.pdf.txt:                             
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                                   Paratypes. Argentina: 214 larvae, same data as holotype ( BMNH, NHMB,
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               dry and in alcohol (CJBG, NHMB, SABC ).
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                                   Scott coll. 1888.11 ( BMNH ), designated by Burckhardt, 1988
-Journal-of-Natural-History/002229300299688.pdf.txt:                                                               Schinus fasciculatus without further data ( MHNG, NHMW ).
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               10.ii.1994 ( L. E. PenÄa). Dry and slide mounted ( MHNG, MHNS, NHMB).
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               vii.1997 (S. Roig ). Dry and slide mounted ( MHNG, NHMB).
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               ( MHNG, NHMB).
@@ -4738,7 +4603,6 @@ Journal-of-Natural-History/002229300299688.pdf.txt:                             
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               least ® ve Paci® c species (unpublished BMNH data) centred around `Paurocephala’
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               Hollis) ( BMNH ). Two species have been introduced into other continents with their
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               of material we thank D. Hollis ( BMNH ), R. J. Gill ( DFAS ), S. Roig ( IAIM ),
-Journal-of-Natural-History/002229300299688.pdf.txt:                                                               A. Kaltenbach ( NHMW ), H. A. Cordo ( SABC ), F. SaÂ iz ( UCVA ), D. Miller
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               T. Olivares (ConcepcioÂ n) . Access to herbaria was granted by R. Vickery ( BMNH )
 Journal-of-Natural-History/002229300299688.pdf.txt:                                                               ParanaÂ . Comments by D. Hollis ( BMNH ) and C. J. Humphries ( BMNH ) greatly
 Journal-of-Natural-History/00222930601046428.pdf.txt:                                                               CSIRO, Canberra, Australia; BMNH, The Natural History Museum, London, UK; CNC,
@@ -4794,10 +4658,7 @@ Journal-of-Natural-History/713834669.pdf.txt:                                   
 Journal-of-Natural-History/713834669.pdf.txt:                                                               1919, Riestenburg ( Transvaal ), J. Jooke (BMNH ).
 Journal-of-Natural-History/713834669.pdf.txt:                                                               University, Ithaca, USA), K. Kamijo (Hokkaido, Japan), S. Lewis (BMNH, UK ),
 Journal-of-Natural-History/713834669.pdf.txt:                                                               We especially thank J. Noyes (BMNH, UK ) for his helpful comments for the
-Journal-of-Natural-History/00222930802354118.pdf.txt:                                                               type material from the Natural History Museum in Vienna, Austria (NHMW) has
-Journal-of-Natural-History/00222930802354118.pdf.txt:                                                               Two males, two females (NHMW 3595), Japan, Takao, 4 Aug. 1907, leg. H. Sauter.
 Journal-of-Natural-History/00222930802354118.pdf.txt:                                                               Chen; one male (Hungarian Natural History Museum (HNHM), Budapest, Hungary),
-Journal-of-Natural-History/00222930802354118.pdf.txt:                                                               We would like to thank Dr Verena Stagl (NHMW) for having generously lent the type
 Journal-of-Natural-History/00222930802354118.pdf.txt:                                                               material of Habrodesmus inexpectatus under her care. Dr Zolta´n Korso´s (HNHM) kindly
 Journal-of-Natural-History/00222930010005024.pdf.txt:                                                               Natural History Museum, London (BMNH ); Museum and Art Gallery of the
 Journal-of-Natural-History/00222930010005024.pdf.txt:                                                               368), Trou D’eau Douce; Maldive Islands, BMNH NHM 2000.896 from A.
@@ -5129,7 +4990,6 @@ Journal-of-Natural-History/00222930802109116.pdf.txt:                           
 Journal-of-Natural-History/00222930802109116.pdf.txt:                                                               Emmrich (MTD), Ubirajara Martins (MZSP), Michael Webb (BMNH), and Michael Wilson
 Journal-of-Natural-History/00222933.2012.654517.pdf.txt:                                                               to Dr W. G. Tremewan for reading an early draft of this paper, and Dr Gavin Broad (BMNH)
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                                   Specimens examined are deposited in the Natural History Museum (NHM),
-Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               (NHMW), Austria; Zoological Museum of the University of Copenhagen
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               missing major chela), coll. 22 October 2002, 12.4m; 1 ovig. R CL. 6.9 mm (NHM
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               2.8 mm (NHM 2004.2572), coll. 26 October 2002, 16 m.
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               Conic Island Cave, 22u219540N 114u239220E, Hong Kong; 5 specimens (NHM
@@ -5141,7 +5001,6 @@ Journal-of-Natural-History/00222930701850570.pdf.txt:                           
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               1 specimen (NHM 2004.2570), coll. 25 October 2002.
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               Conic Island Cave, 22u219540N 114u239220E, Hong Kong; 1 juv. (NHM 2004.2575),
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               Long Kei Wan, 22u219540N 114u239220E, Hong Kong; 1 „ ? (NHM 2003.1058), 1 R,
-Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               13.7 mm (NHMW 19899), coll. 25 October 2002.
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               Conic Island Cave, 22u219540N 114u239220E, Hong Kong; 1 specimen (NHM
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               Conic Island Cave, 22u219540N 114u239220E, Hong Kong; 1 specimen (NHM
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               Conic Island Cave, 22u219540N 114u239220E, Hong Kong; 1 specimen (NHM
@@ -5166,12 +5025,7 @@ Journal-of-Natural-History/00222930701850570.pdf.txt:                           
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               (4.963.3 mm), 1 ovig. R (3.662.7 mm) (NHM 2003.690–691), coll. 21 October 2002;
 Journal-of-Natural-History/00222930701850570.pdf.txt:                                                               1 „ juv. (NHM 2003.978), coll. 25 October 2002.
 Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               of Helsinki (Ritva Talman); NHM, Museum of Natural History, London (Janet
-Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                                   NHMW, Naturhistorisches Museum, Vienna (Christoph Hörweg); NRM,
 Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               Cott leg., (NHM 1950.3.30.124); JORDAN: 1♀, Dana Natural Reserve, Wadi Dana,
-Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               leg. (NHMW); 1♀, Damascus (ZMB); IRAQ: 1♀, Al-Anbar Province: Lake Tharthar
-Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               ITALY: 1♂, 4 juvenile males, Etruria (1896.VIII.181 NHMW).
-Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               A single male and four juveniles from Etruria, Italy (NHMW) were found to be con-
-Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               ing three immatures from Sicily in NHMW for which somatic characters (presence of
 Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               1♀, IRAQ: Najaf, 19 July 1937, W.P. Kennedy leg. (NHM 1949.1.4.14).
 Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               (NHM 1889.4.25.2-3).
 Journal-of-Natural-History/00222933.2012.707249.pdf.txt:                                                               1 juvenile, Bushehr (sub Bushier), F.W. Townsend leg. (NHM 1882.109); 4 subadult
@@ -5610,11 +5464,6 @@ Journal-of-Natural-History/00222931003678792.pdf.txt:                           
 Journal-of-Natural-History/00222931003678792.pdf.txt:                                                               grateful to Phil Crabb (NHM Photography Unit) for taking the photographs reproduced in
 Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                                   The collections where specimens are located are coded as follows: BMNH, the
 Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               One specimen in BMNH is labeled “Trebizond” (registration number 54–76), which
-Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               Wien, 1 male (NHMW), M. Fikáˇcek det. Mardin, 1300 m, 10/15 May 1969, Asm,
-Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               F. Schubert leg., 1 spec. (NHMW), det. M. Fikáˇcek.
-Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               Turkey: Rize, Ayder (43), 2 June 1989, Schödl leg. 2 males and 1 spec. (NHMW), M.
-Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               (NHMW), M. Fikáˇcek det.; Anat.b., Cangal Dagh, 7–15 June 1960, F. Schubert leg.,
-Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               1 female (NHMW), M. Fikáˇcek det. 1 additional Turkish specimen is in our coll:
 Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               checked an H. nevadensis specimen from BNHM labelled as “6: SPAIN: GRANADA:
 Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               Laccobius obscuratus orchymonti Gentili, 1976; and Ms. Christine Taylor, BNHM who have
 Journal-of-Natural-History/00222933.2010.535916.pdf.txt:                                                               kindly allowed for information of H. aculeatus; and Dr. Robert Angus, BNHM who contributed
@@ -5808,8 +5657,6 @@ Journal-of-Natural-History/00222930310001647442.pdf.txt:                        
 Journal-of-Natural-History/00222930310001647442.pdf.txt:                                                                  No. 149203 and No. 149201; also BMNH Nos 85.11.5.668–670 and No. 77.11.28.10.
 Journal-of-Natural-History/00222930310001647442.pdf.txt:                                                                  1876), No. 149268 and No. 149267; BMNH No. 77.11.28.11.
 Journal-of-Natural-History/00222930310001647442.pdf.txt:                                                                  and is part of the J. E. Cooper collection BMNH Accession No. 2150.)
-Journal-of-Natural-History/0022293031000068419.pdf.txt:                                                               number of museums (Cumberlidge, 1997 [NHMW ], 1998 [ZSM ]; Cumberlidge and
-Journal-of-Natural-History/0022293031000068419.pdf.txt:                                                                   The abbreviations used are: NHMW, Naturhistorisches Museum, Vienna,
 Journal-of-Natural-History/00222933.2012.708452.pdf.txt:                                                               studied. (1) Rovuma (Ruvuma) River, type locality for P. catostoma (Günther 1866) [BMNH
 Journal-of-Natural-History/00222933.2012.708452.pdf.txt:                                                               1863.10.12.4]; (2) Ruvu (Kingani) River, type locality for P. stuhlmanni Boulenger 1909 [BMNH
 Journal-of-Natural-History/00222933.2012.708452.pdf.txt:                                                               1912 [BMNH 1912.4.1.186-188]; (25) Rufiji basin, type locality for P. steindachneri Fowler
@@ -5872,10 +5719,8 @@ Journal-of-Natural-History/00222930802610451.pdf.txt:                           
 Journal-of-Natural-History/00222930802610451.pdf.txt:                                                               paratypes (1700-PO-2005): HNHM, two paratypes: MHNG.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               BMNH               109               90             11             13              63           221               351                3              861
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               NHMB                 4                1                                                                             9                                14
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               NHMW                                  1                                            12             5                18                                36
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               London (BMNH); Deutsches Entomologisches Institut, Mu¨ncheberg (DEI); Institut
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               DC (USNM); Naturhistorisches Museum Basel (NHMB); Naturhistorisches Museum,
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Wien (NHMW); Naturhistoriska Riksmuseet, Stockholm (NHRS); Nationaal
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               coll. Schio¨ (ZMUC); 2 ex., coll. Kraatz (IRSNB); 4 ex., A. Raffray (2 ex, BMNH, 2 ex.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Adama, 8u399N, 39u199E, coll. Laferte´ (BMNH); 4 ex., Kaffa, Jimma, 7u399N, 36u479E,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               1 ex., Sereba, 13u129N, 40u319E, June 1881, Antinori (BMNH); 2 ex., Illubabor, Yamba,
@@ -5897,7 +5742,6 @@ Journal-of-Natural-History/00222930500102611.pdf.txt:                           
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH). Rwanda: 1 ex., Kivu, Ngoma, 2u049S, 29u559E, coll. Clavareau (MRAC); 1 ex.,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               10u559W, June 1912, J. J. Simpson (BMNH); 4 ex., Marampa, 8u449N, 12u289W,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               September 1929, E. Hargreaves (BMNH). Tanzania: 3 ex., Nyange, 4u089S, 30u209E,
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               1908, E. Bayon (IRSNB); 1 ex. Kukoba-Usumbara, 1910, Grauer (NHMW); 1 ex.,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               July 1909, C. Gowdey (BMNH); 1 ex., Tororo, 0u429N, 34u129E, March 1911,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               C. Gowdey (BMNH); 3 ex. Mabira, 1u159S, 30u599E, 1200–1300 m, July 1911, S. A.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Neave (BMNH); 2 ex., Buddu, 1u009N, 34u199E, 1100 m, September 1911, S. A. Neave
@@ -5923,7 +5767,6 @@ Journal-of-Natural-History/00222930500102611.pdf.txt:                           
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 2 ex., Kisumu, 0u39S, 34u479E, March 1936, H. J. A. Turner (NMK); 10 ex.,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 3 ex., Nyanza, Rubona, 2u269S, 29u449E, 1800 m, February 1953, P. Basilewsky
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 1 ex., Rukara, Mohasi, 2u159S, 30u319E, 1400 m, February 1953, P. Basilewsky
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (NHMW). Uganda: 1 ex., Entebbe, 0u059N, 32u299E, 1908, D. Bayon (IRSNB); 2 ex.,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Kampala, 0u199’N, 32u359E, January–December 1915, C. Gowdey (BMNH); 2 ex.,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Serere, 1u319N, 33u279E, March–July 1934, J. Ford (BMNH); 1 ex., Kibanga, 0u139N,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Nakasongola, 1u209N, 32u289E, July 1911, C. Gowdey (BMNH); 19 ex., Kapenguria,
@@ -5934,10 +5777,8 @@ Journal-of-Natural-History/00222930500102611.pdf.txt:                           
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               300 m, August 1911, S. A. Neave (BMNH); 2 ex., Mt Elgon, 1u079N, 34u359E, 1200 m,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               August 1911, S. A. Neave (BMNH); 1 ex., Hoima, 1u259N, 31u229E, 1100 m, December
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               1911, S. A. Neave (BMNH); 1 ex., Kampala, 0u199N, 32u359E, June 1949, E. Pinhey
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Holotype: Monolepta haematura: R, ‘‘Ho¨hnel, Stephanie-See’’, ‘‘Ethiopia 187’’ (NHMW);
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (NHRS); 1 ex., Nairobi, Kikuyu, 1u149S, 36u409E, 2000 m, H. Andrewesen (BMNH); 1
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               ex., Mombasa, 4u049S, 39u409E (BMNH); 1 ex., Witu, 2u249S, 40u289E, G. Dehnhardt
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (MNHU); 4 ex., Kenya, Farm Karundu, 1910, Gotsch (NHMW); 31 Mt Aberdare,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               0u589S, 36u389E, 2300–3300 m, February 1911, S. A. Neave (BMNH); 24 ex., Nyeri,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               0u259S, 36u239E, 2000–2300 m, February 1911, S. A. Neave (BMNH); 9 ex., Embu,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               0u329S, 37u289E, 1500–1600 m, February 1911, S. A. Neave (BMNH); 1 ex., Mt Kenya,
@@ -5995,19 +5836,14 @@ Journal-of-Natural-History/00222930500102611.pdf.txt:                           
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               31u009E, 1902, B. F. Muir (BMNH); 3 ex., Transvaal, Pietersburg, 23u549S, 29u239E,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               1904, J. P. Cregoe (BMNH); 3 ex., Bechuana, Mt Gakarosa, 27u539S, 23u359E, 1915, v.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Turner (BMNH); 1 ex., Empangeni, 28u459S, 31u549E, January 1976, P. E. Reavel
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               7 ex., Zansibar, Schulz (MNHU/IRSNB); 2 ex., Zansibar (NHMW); 7 ex., Zansibar, coll.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Mahonde, 7u009S, 33u199E, May 1898 (BMNH); 2 ex., Rukwa, 8u009S, 32u209E, August
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (MNHU); 2 ex., Umba Fluss, Steind., 1902 (NHMW); 1 ex., Pugu, 6u559S, 39u049E,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               39u149E, 1905, G. Revoil (BMNH); 1 ex., Tanga, 5u079S, 39u59E, February 1905, Ch.
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (NHMW); 1 ex., Ruaha, 7u239S, 36u319E, December 1910, S. A. Neave (BMNH); 16 ex.,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 8 ex., Kilosa, 6u499S, 37u009E, 500–800 m, December 1910, S. A. Neave
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 12 ex., Mt Meru, 3u159S, 36u449E, 1500–2800 m, February 1911, S. A. Neave
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 6 ex., Pugu, 6u559S, 39u049E, 1913, Holtz (MNHU); 4 ex., Kuruti, 7u149S,
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               1933, L. Burgeon (MRAC); 4 ex., Songea, 1100 m, April–May 1936, Zerny (NHMW); 2
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               33u009E, 1947, M. Steele (BMNH); 1 ex., Mwera, 5u319S, 38u589E, February 1949, G. N.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               (BMNH); 1 ex., Mwera, 5u319S, 38u589E, June 1990, G. J. Oduor (NMK); 1 ex., Mts
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               35u469E, July 1993 (BMNH). Uganda: 1 ex., coll. Clavareau (MRAC); 1 ex., Kitwe,
-Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               December 1946, A. F. J. Gedye (NMK). Zambia: 5 ex., Zambezi, Ba(o)roma (NHMW);
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               1 ex., L. Bangweulu, 11u159S, 29u459E (BMNH); 9 ex., Zambesi, 13u339S, 23u089E,
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               Neave (BMNH); 1 ex., Fort Jameson, 13u409S, 32u429E, 1300–1500 m, October 1910, S.
 Journal-of-Natural-History/00222930500102611.pdf.txt:                                                               A. Neave (BMNH); 1 ex., Namwala, 15u449S, 26u259E, June 1914, H. C. Dollman
@@ -6102,14 +5938,12 @@ Journal-of-Natural-History/00222930903094662.pdf.txt:                           
 Journal-of-Natural-History/00222930903094662.pdf.txt:                                                               bed of M. galloprovincialis, collected by E. Kalkan, 6 March 2005. BMNH
 Journal-of-Natural-History/00222930903094662.pdf.txt:                                                               2004. BMNH 2007.9.26.8.
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                      branchiomma zebuensis (McIntosh, 1885 as Sabella, syntype NHML 1921.5.1.4204,
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Laonome spectabilis: Marenzeller, 1885: 213, Cebu Is., Philippines (NHMW 1961).
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Sabella fusca: McIntosh, 1885: 492, Ceylon (NHML 1874.10.2.3).
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Sabellastarte sanctijosephi: Gibbs, 1969, figure 137, 1971, Peleki Is., Solomon Is. (NHML
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                   Additional material. Mauritius, Pte aux Cannoniers (NHML 1950.3.3.1, two
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               refer first to a specimen from Mauritius (NHML 1950.3.3.1) and the second entry
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Tubularia magnifica Shaw, 1800: 228, Jamaica, West Indies (neotype NHML 1998.932;
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                  topotypic specimens NHML 1912.2.28.1–3).
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Sabella melania Schmarda, 1861: 35, figure 188, Jamaica, West Indies (cotypes NHMW
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                   Additional material. Antigua, English Harbour (NHML 1931.6.22.60–62); Haiti,
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Port-au-Prince (NHML 1938.11.29.49 as Laonome spectabilis); Curacao, Caracas
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                   The neotype (NHML 1998.932) figured and described here was chosen from
@@ -6119,17 +5953,12 @@ Journal-of-Natural-History/00222930110120629.pdf.txt:                           
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Islands, Hulule (NHML unregistered, as Sabellidae, collected by Crossland in 1900);
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               South Africa, Natal, Durban (NHML 1932.12.235, as Sabellastarte indica, collected
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               from Natal (figure 4E, NHML 1932.12.235) and like those from New Caledonia
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               is no longer with Schmarda’s other types in NHMW; H. Sattmann, personal com-
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Sabella fusca Grube: McIntosh, 1885 (NHML 85.12.11388), Sydney.
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               above) may be identical with this species, but Baird’s material (NHML 1852.8.16.7)
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Laonome japonica Marenzeller, 1885, Nagasaki, Japan (holotype, NHMW 1959).
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                   Additional material. Japan, Nagasaki (NHMW 1958); China, Xiamen (Amoy,
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               distinct on paler specimen from Nagasaki (NHMW 1958).
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               Lanka (NHML 88.4.13.13) is S. spectabilis. Gravier’s (1906) figures (243–245) are
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               et al., 2000). Rullier and Amoureux’s (1979) record oﬀ Rio de Janeiro (MNHMP
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                                   Sabella grossa Baird, 1865, from St Helena Island (NHML ZB 1972:83 Type) is
 Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               of Wroclaw, Poland (MPW ); Natural History Museum, London (NHML); Natural
-Journal-of-Natural-History/00222930110120629.pdf.txt:                                                               History Museum of Wien, Austria (NHMW ); National Museum of Wales, Cardiﬀ
 Journal-of-Natural-History/00222933.2013.798699.pdf.txt:                                                               paper were: BMNH, Natural History Museum, London, UK; IPBM, Institute of
 Journal-of-Natural-History/00222933.2013.798699.pdf.txt:                                                               angolensis (Boulenger, 1905), BMNH 1905.5.29.64 (holotype); (C) Marcusenius altisambesi, coll.
 Journal-of-Natural-History/00222933.2013.798699.pdf.txt:                                                               Holotype (unique): BMNH 1905.5.29.64, examined.
@@ -6723,10 +6552,8 @@ Journal-of-Systematic-Palaeontology/14772019.2011.623723.pdf.txt:               
 Journal-of-Systematic-Palaeontology/14772019.2011.623723.pdf.txt:                                                               31, values comparable to those from an unweighted analysis          not mention: the postorbital bar of NHMUK R5749 shows
 Journal-of-Systematic-Palaeontology/14772019.2011.623723.pdf.txt:                                                               The holotype of Eosimops newtoni (NHMUK R5749)                      of NMNH 23345 are relatively narrow, but it is hard to
 Journal-of-Systematic-Palaeontology/14772019.2011.623723.pdf.txt:                                                               boonstrai (SAM-PK-6243); K, Kombuisia frerensis (NMQR 1835); L, Tropidostoma microtrema (NHMUK R6963); M, Lystrosaurus sp.
-Journal-of-Systematic-Palaeontology/14772011003603556.pdf.txt:                                                               Vienna (NHMW), or the Natural History Museum, London              analysis being undertaken, and changed one character into
 Journal-of-Systematic-Palaeontology/14772011003603556.pdf.txt:                                                               (NHM).                                                            three independent characters bringing the total to 306. Of
 Journal-of-Systematic-Palaeontology/14772011003603556.pdf.txt:                                                               character scorings using actual specimens in the NHM or             data, the character was scored with a ‘?’. If on the other hand
-Journal-of-Systematic-Palaeontology/14772011003603556.pdf.txt:                                                               the NHMW. In a small number of cases, material that had             the character state was inapplicable in a taxon (i.e. logically
 Journal-of-Systematic-Palaeontology/14772019.2012.699006.pdf.txt:                                                               Harvard, Cambridge; MNHM: Naturhistorisches Museum               ture of vertebral centra, thereupon erecting Temnospondyli
 Journal-of-Systematic-Palaeontology/14772019.2012.699006.pdf.txt:                                                               Museum of Zoology, Cambridge; NHM: Natural History               sp´ondylos, vertebra). A group contained by temnospondyls
 Journal-of-Systematic-Palaeontology/14772019.2012.699006.pdf.txt:                                                               Sclerocephalus haeuseri                      GPIM, ∗ SMNS, ∗ SPG,∗ MNHM                Schoch & Witzmann (2009a)
@@ -7214,30 +7041,7 @@ Journal-of-Systematic-Palaeontology/S1477201906001957.pdf.txt:                  
 Journal-of-Systematic-Palaeontology/S1477201908002460.pdf.txt:                                                                 seum, London, UK (BMNH): Balanerpeton woodi
 Journal-of-Systematic-Palaeontology/14772019.2010.533202.pdf.txt:                                                               Museums. BMNH: Natural History Museum, London,
 Journal-of-Systematic-Palaeontology/14772019.2010.533202.pdf.txt:                                                               Type. Holotype: BMNH 1867.1.9.1A. Paratype: BMNH                Diagnosis. Like C. aegyptiaca, this species is very vari-
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               lata (Lamarck, 1816) and saw them as proof for his point of           1816) from the Gulf of Siam, Mauritius (NHMW, 2nd
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               The other two features listed by him were: (1) a more heart-          from the Red Sea (NHMW, 2nd Zoological Department, col-
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               B¨unde, Germany. 1-3, MB.E4843; 4-7, NHMW 1852.II.1500a; 8 - 9 , MB.E4839; 10,16, NHMW 1855.I.801a. Figs 11-14, Hemipatagus        ocellatus
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               (Defrance, 1827), all Late Eggenburgian (late Early Burdigalian, Early Miocene) of Gr¨ubern, Austria. 11-12, NHMW 1914.VII.22b; 13-14,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               extant, Gulf of Siam, Mauritius, NHMW, 2nd Zoological Department, collection Invertebrata-Varia no. 12715. Figs 3-4, Lovenia elongata (Gray,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               1845), extant, Red Sea, NHMW, 2nd Zoological Department, collection Invertebrata-Varia no. 12714. Figs 5-6, Hemipatagus martensii (Ebert,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Germany (NHMW, Geological-Palaeontological Depart-                      morphological differentiation amongst the taxa investigated
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               the type material of Hemipatagus perornatus (Schaffer                   Eggenburg, Austria; NHMW, Naturhistorisches Museum
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               reinvestigated, along with some new specimens (NHMW                     PIUB, Institute of Palaeontology, University of Bonn,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Figure 2     Oblique view of the subanal fasciole. A, Hemipatagus hoffmanni (Goldfuss, 1829), NHMW 1855.I.801a, Late Oligocene, Doberg,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Germany; B, Hemipatagus ocellatus (Defrance, 1827) NHMW 1914.VII.22b, Early Miocene, Gr¨ubern, Austria.
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Figure 3     Camera lucida drawings of oral plating. A, Hemipatagus hoffmanni (Goldfuss, 1829) NHMW 1855.I.801a, Late Oligocene, Doberg,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Germany; B, Hemipatagus ocellatus (Defrance, 1827) NHMW 1914.VII.22b, Early Miocene, Gr¨ubern, Austria. Interambulacra shaded, fasciole
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Figure 4 Camera lucida drawings of the oral plating. A, Maretia planulata (Lamarck, 1816) NHMW-EV 12715, Recent, Gulf of Siam, Mauritius;
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               B, Lovenia elongata (Gray, 1845) NHMW-EV 12714, Recent, Red Sea. Interambulacra shaded, fasciole finely stippled, small stippled circles are
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               Gulf of Siam, Mauritius, NHMW, 2nd Zoological Department, collection Invertebrata-Varia no. 12715. Figs 2 & 8, Lovenia elongata (Gray, 1845),
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               extant, Red Sea, NHMW, 2nd Zoological Department, collection Invertebrata-Varia no. 12714. Figs3-4,6, Hemipatagus hoffmanni (Goldfuss,
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               1829), all Late Oligocene of Doberg, near B¨unde, Germany. 3, MB.E4839;4, MB.E4843;6, NHMW 1855.I.801a. Figs 5 &7, Hemipatagus ocellatus
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               (Defrance, 1827), all Late Eggenburgian (late Early Burdigalian, Early Miocene) of Gr¨ubern, Austria. 5, 1914.VII.22a;7, NHMW 1914.VII.22b.
 Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               extend to the fourth to sixth ambulacral plates, the loss of the   to Alice Schumacher (NHM Vienna) for taking the photo-
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               LECTOTYPE. NHMW 1970/1336, designated by Henderson                   Thiery: 457; pl. XIII, fig. 5.
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               PARALECTOTYPE. NHMW 1959/335/50, 1970/1337.
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               LECTOTYPE.     NHMW 1959/335/51, figured by Zittel (1867: pl. 83, figs 2a-d); Museum of Comparative Zoology, Har-
-Journal-of-Systematic-Palaeontology/S1477201906002021.pdf.txt:                                                               PARALECTOTYPE. NHMW 1970/1338.
 Journal-of-Systematic-Palaeontology/S1477201907002155.pdf.txt:                                                               London, numbers NHM PD 2209-PD 2215.                             to the Upper Ordovician of North America: Hallopora en-
 Journal-of-Systematic-Palaeontology/S1477201907002155.pdf.txt:                                                               avoid errors because of potential oblique orientations of thin   London (NHM); Senckenberg Museum, Frankfurt am Main,
 Journal-of-Systematic-Palaeontology/S1477201907002155.pdf.txt:                                                               0.51-0.90 mm wide and 0.72-1.08 mm thick, rounded in              HOLOTYPE. NHM PD 2215, Upper Ordovician, Portugal.
@@ -7483,9 +7287,7 @@ Journal-of-Systematic-Palaeontology/14772019.2010.529175.pdf.txt:               
 Journal-of-Systematic-Palaeontology/14772019.2010.529175.pdf.txt:                                                               (BMNH 1919. 7. 7. 3232) of an adult female. It comes
 Journal-of-Systematic-Palaeontology/14772019.2010.529175.pdf.txt:                                                               NHMR. This species is also recorded from the likely MN5          species of the genus) is here considered a junior synonym
 Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                               curred last in the Maastrichtian (46 species) show only close     of the following institutions: BMNH, The Natural History
-Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                               sita di Roma, Italy; NHMW, Naturhistorisches Museum,                                      Maastrichtian of Argentina, Lower Maastrichtian of Mex-
 Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                                    In addition to the re-examination and re-evaluation of                               London (BMNH, collections of Blagrove, Duncan,
-Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                               and NHMW, collections of Beauvais, Felix, Kuhn and                ments, synapticulae and mural structures; septa developed in
 Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                               section, BMNH, AZ 639, Upper Maastrichtian of the UAE/Oman border region, ×5. Fig. 4 Actinastrea hexaphylla (Quenstedt, 1881); 4a, cross thin
 Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                               Maastrichtian of Jamaica, ×10. Fig. 5 Actinastrea elongata Alloiteau, 1954, cross thin section, BMNH, AZ 905, Middle-Upper Maastrichtian of the
 Journal-of-Systematic-Palaeontology/S1477201905001689.pdf.txt:                                                               (courtesy D. Turnˇsek). Fig. 9 Actinastrea ramosa (Sowerby, 1832), cross thin section, BMNH, AZ 365, Middle-Upper Maastrichtian of the
@@ -8177,13 +7979,6 @@ Journal-of-Systematic-Palaeontology/14772019.2012.704948.pdf.txt:               
 Journal-of-Systematic-Palaeontology/14772019.2012.704948.pdf.txt:                                                               displacement most probably arose as an adaptation for            of NHMUK PV R3804 by Andrews (1913); T. lythrodectikos,
 Journal-of-Systematic-Palaeontology/14772019.2012.704948.pdf.txt:                                                               intriguing. The tooth (NHMUK PV R486) and mandible                 evidence from microscopic denticle morphology. Journal of
 Journal-of-Systematic-Palaeontology/14772019.2012.704948.pdf.txt:                                                               We would like to thank L. Steel (NHMUK), R. Schoch                 in fossil archosaurs. Journal of Vertebrate Paleontology, 16,
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                               NHMW: Natural History Museum Vienna; R: rostrum; RL:             along with RLs during growth and thus continuing to
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                               Material. Holotype: NHMW 2003z0026/0662a (speci-                        grade into weak ridges on the radii where their termina-
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                               men A in Fig. 2). Paratype: NHMW 2003z0026/0662b                        tions form a slightly serrated margin. The apical angles of
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                               in different shades of grey in apical (A) and basal (B) views. Specimen A is the holotype (NHMW 2003z0026/0662a) and specimen B the
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                               paratype (NHMW 2003z0026/0662b). Abbreviations: R: rostrum; RL: rostro-lateral; C: carina; CL: carino-lateral, CL2 by replication of
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                               the NHMW.
-Journal-of-Systematic-Palaeontology/14772019.2010.528053.pdf.txt:                                                                                                                                 NHMW) for help with literature and for providing access
 Journal-of-Systematic-Palaeontology/14772019.2012.691559.pdf.txt:                                                               views on membership, not all are strictly comparable to one          given here: NHMUK: Natural History Museum, London,
 Journal-of-Systematic-Palaeontology/14772019.2012.691559.pdf.txt:  NHMUK P62691            315 250     44 187 120 180        52    12      15  38           32   68   30 10 : 08     0.18    0.75    0.48    0.72    0.21   52   43   33
 Journal-of-Systematic-Palaeontology/14772019.2012.691559.pdf.txt:  NHMUK P63234            102 85      16 65 41 56                 11+                      32                                                                             10+
@@ -8685,8 +8480,6 @@ Journal-of-Systematic-Palaeontology/S1477201903001056.pdf.txt:                  
 Journal-of-Systematic-Palaeontology/S1477201903001056.pdf.txt:                                                               of the NHM. U. Schussler (W¨urzburg) carried out the elec-                     353-356.
 Journal-of-Systematic-Palaeontology/14772019.2010.484650.pdf.txt:                                                               suchus galilei, Aetosauroides scagliai, Sillosuchus long-          de La Plata, La Plata, Argentina; NHM: Natural History
 Journal-of-Systematic-Palaeontology/14772019.2010.484650.pdf.txt:                                                               Pantydraco unpublished photographs of BMNH P 24, Yates       Character 240 (0 → 1), Character 242 (1 → 2), Character
-Journal-of-Systematic-Palaeontology/14772019.2012.702691.pdf.txt:                                                                                                                                  1/2, NHMW 2011/0328/0001.
-Journal-of-Systematic-Palaeontology/14772019.2012.702691.pdf.txt:                                                               bourg; NHMW: Naturhistorisches Museum Wien, Vienna,
 Journal-of-Systematic-Palaeontology/14772019.2011.588254.pdf.txt:                                                               ogy Collection, NHMG 009318 (Nanning, Guangxi                         (Norell et al. 1992), and differs from Gobiderma (Gao &
 Journal-of-Systematic-Palaeontology/14772019.2011.588254.pdf.txt:                                                               bases and basal infolding; resembles Lanthanotus in having            NHMG 009318 preserves the tooth-bearing margins of the
 Journal-of-Systematic-Palaeontology/14772019.2011.588254.pdf.txt:                                                               Figure 2. Chianghsia nankangensis gen. et sp. nov. type specimen NHMG 009318 in: A, dorsal; B, anterior; C, ventral; D, right lateral;
@@ -9180,35 +8973,11 @@ JVP/pdfs/2012/02724634.2012.659100.pdf.txt:                                     
 JVP/pdfs/2012/02724634.2012.659100.pdf.txt:                                                                                                                                        (MNHN), F. Farsi (MUSNAF), A. Ziems (NHMB), J. Hooker
 JVP/pdfs/2012/02724634.2012.659100.pdf.txt:                                                                                                                                        (NHM), A. Currant (NHM), and D. Ormezzano (PU) for al-
 JVP/pdfs/2012/02724634.2012.659100.pdf.txt:                                                              NHMB T.J. 458: skull roof, maxillary           Nizza Monferrato, Asti, Italy            Tertiary Piedmont Basin                      A          —
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 1. †Heteronectes chaneti, NHMW 1974.1639.25, lower Eocene (Ypresian, NP 14), Bolca, Italy. A, right half of individual prior to acid-
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 2. †Heteronectes chaneti, NHMW 1974.1639.24, lower Eocene (Ypresian, NP 14), Bolca, Italy. A, left half of individual prior to acid-transfer
 JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              d’Histoire naturelle, Paris, France; NHMUK, The Natural His-
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              tory Museum, London, United Kingdom; NHMW, Naturhis-
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              ity to a reef (Bellwood, 1996, 1997; Landini and Sorbini, 1996).         tology at the Naturhistoriches Museum, Vienna (NHMW), as
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              The Monte Postale site is located less than half a kilometer away        specimens NHMW 1974/1639/0024 and NHMW 1974/1639/0025.
 JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                                 †‘Amphistiidae’—†Amphistium altum, NHMUK P.3940;
 JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              †Amphistium paradoxum, NHMUK P.1982, NHMUK P.10936,
 JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              NHMUK P.16138, NHMUK P.59807, MCSNV 42 + 43, MCSNV
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                                 Material—Part and counterpart NHMW 1974/1639/0024 and
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              NHMW 1974/1639/0025, articulated individual with disrupted
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 3. Cranial anatomy of †Heteronectes chaneti. A, skull in right-lateral view (NHMW 1974.1639.25). B, interpretive drawing. C, skull in
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              left-lateral view (NHMW 1974.1639.24). D, interpretive drawing. Scale bar equals 10 mm.
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 4. Cranial anatomy of †Heteronectes chaneti. A, photographic stereopair, skull in right-lateral view (NHMW 1974.1639.25). B, photographic
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              stereopair, skull in left-lateral view (NHMW 1974.1639.24). Scale bar equals 10 mm.
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 5. Cranial anatomy of †Heteronectes chaneti. A, inverted specimen radiograph, right-lateral view (NHMW 1974.1639.25). B, inverted spec-
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              imen radiograph, left-lateral view (NHMW 1974.1639.24). Scale bar equals 10 mm.
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 6. Interpretive drawings of postcranial anatomy of †Heteronectes chaneti. A, right-lateral view (NHMW 1974.1639.25). B, left-lateral view
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              (NHMW 1974.1639.24). Scale bar equals 50 mm.
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 7. Detailed skeletal anatomy of †Heteronectes chaneti. A, neurocranium in right-lateral view (NHMW 1974.1639.25). B, neurocranium in
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              left-lateral view (NHMW 1974.1639.24). C, vertebral column and disrupted spinous portion of the dorsal ﬁn (NHMW 1974.1639.25). D, anal-ﬁn spines
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              in right-lateral view (NHMW 1974.1639.25). E, pelvic girdle in right-lateral view (NHMW 1974.1639.25). F, pelvic girdle in left-lateral view (NHMW
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 8. Caudal anatomy of †Heteronectes chaneti. A, caudal endoskeleton in left-lateral view (NHMW 1974.1639.24). B, reconstruction of caudal
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              skeleton in left-lateral view, based on NHMW 1974.1639.25 and NHMW 1974.1639.25. Black arrows indicate ﬁrst principal ray in upper and lower
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              pelvic bone is a suprapelvic keel that issues from the dorsal sur-      FIGURE 9. Squamation of †Heteronectes chaneti (NHMW
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              FIGURE 10. Caudal ﬁns of stem pleuronectiforms in right-lateral view. A, †Heteronectes chaneti (NHMW 1974.1639.25). B, †Amphistium paraxodum
 JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              (NHMUK P.16138; photographed using a polarizing ﬁlter). White arrows indicate scales marking the extension of the lateral line on to the caudal-ﬁn
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              1993:ﬁgs. 4–5), and similar processes are present in ﬂatﬁshes          latids. A, †Heteronectes chaneti (NHMW 1974.1639.25), photograph of
-JVP/pdfs/2012/02724634.2012.661352.pdf.txt:                                                              kinds of anatomical details needed to place them precisely rela-          O. Schultz (NHMW) permitted preparation of the specimen
 JVP/pdfs/2012/02724634.2012.702706.pdf.txt:                                                              tive Zoology, Harvard University, Cambridge, U.S.A.; NHMUK,
 JVP/pdfs/2012/02724634.2012.702706.pdf.txt:                                                              berculatus (NHMUK 1971.1222a) for comparison only (Fig. 3);            nostril is not preserved, but based on the dorsal process of the
 JVP/pdfs/2012/02724634.2012.702706.pdf.txt:                                                              D–F, the living species Bunopus tuberculatus (NHMUK 1971.1222a); this species presents a similar bone arrangement in the snout to H. suchanovi.
@@ -9711,21 +9480,6 @@ JVP/pdfs/2011/02724634.2011.557114.pdf.txt:                                     
 JVP/pdfs/2011/02724634.2011.557114.pdf.txt:                                                              dentary is vertically convex as in most ornithischians. In the adult    erodontosaurus (Santa Luca, 1980) and Lesothosaurus (NHMUK
 JVP/pdfs/2011/02724634.2011.557114.pdf.txt:                                                              for other basal ornithopods (Fig. 5E). As in Hypsilophodon, the           silophodon (NHMUK R196) that was estimated as having a body
 JVP/pdfs/2011/02724634.2011.557114.pdf.txt:                                                              (SAM) and A. Milner (NHMUK) for specimen access. This                Jin, L., J. Chen, S. Zan, R. J. Butler, and P. Godefroit. 2010. Cra-
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                                                                                                       France; NHMW, Naturhistorisches Museum Wien, Austria;
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              eruption sequences in Hyaenodon have already been studied by             et Garonne, France) except for one (NHMW 2009z0084/0002),
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              (NHMW 2009z0082/0001, 2009z0082/0001/0002, 2009z0083/0001,                 Lange-Badre´ revised the European species (1979). Neohyaen-
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              FIGURE 1. A–H, X-ray images, digitally reversed. A, Hyaenodon sp., NMHW 2009z0082/0001; B, Hyaenodon sp., NHMW 2009z0084/0001; C,
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              1965; Mellett, 1977; Lange-Badre,                                       cusp that does not lead into a crenulated cingulid like in NHMW
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              the mandible. The talonid has a straight and short cutting blade           The left mandible (NHMW 2009z0084/0002) is broken ante-
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              NHMW 2009z0084/0002, NMHW 2009z0082/0002, NMHW                          ontogenetic stage.
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              FIGURE 3. A–C, Hyaenodon sp., NHMW 2009z0084/0001: A, buccal, B, occlusal, and C, lingual views. D–F, Hyaenodon sp., NMHW
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              last molar. There is no sign of the symphysis. The p3 and dp4,         is represented by the specimens NHMW 2009z0082/0001 (Figs.
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              m1, m2, and m3 are preserved. The third molar is erupting. Its         1A, 2A–C) and NHMW 2009z0084/0001 (Figs. 1B, 3A–C)—both
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              is broken at about the middle of its cutting blade and only the        replaced. NHMW 2009z0083/0001 (small sized; Figs. 1G, 3G–I)
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              morphology of p3 and p4 (Fig. 1C).                                     stage, c, p3, and m3 simultaneously start to erupt. In NHMW
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              The lower jaw has a slight curvature. The p3, dp4, alveoli of m1,      that p1 erupts after the m1. NHMW 2009z0082/0002, NMHW
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              in relation to the North American pattern: in North American            NMHW 2009z0084/0001, NHMW 2009z0084/0002, NMHW
-JVP/pdfs/2011/02724634.2011.540052.pdf.txt:                                                              NHMW 2009z0082/0001, 2009z0082/0001/0002, 2009z0083/0001,                             the Early Oligocene of Ulantatal, Nei Mongol. Vertebrata Palasiat-
 JVP/pdfs/2011/02724634.2011.576732.pdf.txt:                                                              rows. A, left and right DP4-M3 and extra teeth, BMNH 11-5-25-155. B,      Gupta, B. N. 1978. Duplication of lower incisors in a guinea pig. Veteri-
 JVP/pdfs/2011/02724634.2011.576732.pdf.txt:                                                              right dp4–m3 and extra tooth, BMNH 23-12-12-12. Anterior to top. Illus-        nary Pathology 15:683–684.
 JVP/pdfs/2011/02724634.2011.620676.pdf.txt:                                                                                                                                       lections (BMNH, FMNH, MNHN, NMNH), published images of
@@ -10088,7 +9842,6 @@ nz-entomologist/pdfs/00779962.2012.759084.pdf.txt:                              
 nz-entomologist/pdfs/00779962.1999.9722049.pdf.txt:                                                              Canberra. BMNH:The Natural History Museum,               and/or III and/or IV; pair present on abdominal
 nz-entomologist/pdfs/00779962.1999.9722049.pdf.txt:                                                                  BMNH).                                                 aristoteliae, C. canberrae,A. platylobii); and the frontal
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              margins of the lateral pronotal carinae of Cryp-        gary (HNHM, Otto Merkl); Muséum National
-nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              (Leschen 1996) is based on the aedeagus rest-           torisches Museum, Wien (NHMW, Harald Schill-
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              on the prosternum. Further study of the Picro-              Some of the Broun material in the BMNH
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              History Museum, London, UK (BMNH, Roger                    Agnetaria cryptophagoides Bruce 1953: 790
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              females are deposited in the BMNH and were                Type species. Cryptophagus fossulata Bruce,
@@ -10104,8 +9857,6 @@ nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                              
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              2 specimens card-mounted on same card, ‘Type            Type material examined. Holotype (BMNH):
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              Paratype: 1 (BMNH), same as holotype but lack-            was designated from this material.
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              Chiliotis gracilis Grouv [handwritten on light olive-     1 (BMNH), mounted on square card, triangular
-nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                                                                                        NHMW. The Micrambina-like specimen is intact,
-nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              Type locality. Chile.                                     Type material examined. Holotype (NHMW): ‘W
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              collection and the BMNH; ﬁve specimens were               Redtenbacher, 1868 [red label]’.
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              mined to be males) and one located in the BMNH            ‘Cryptophagus’ amoenus Broun, 1912
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              Two specimens were located in the BMNH. One of
@@ -10144,7 +9895,6 @@ nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                              
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              lectotype (BMNH): mounted on card with ‘Picro-        Type material examined. Holotype (BMNH):
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              Paralectotypes (BMNH): 5, with following labels       ovalis Broun, 1893 [red label]’.
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              ‘Picrotus thorac-icus D. S. Bealy. Helms. [hand-      ing queries about Reitter types in the HNHM, and
-nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              ‘Picrotus tho-racicus D. S. Bealy N. Z. Helms.        same. Harald Schillhammer (NHMW) and Roger Booth
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              slide with ‘Picrotus thoracicus trophi & legs ant.    Booth (BMNH) and Alexey Solodovnikov (Zoological
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              guineus: lectotype (BMNH): ‘1953. [handwrit-          this manuscript. Funding for this study was made possi-
 nz-entomologist/pdfs/00779962.2012.649705.pdf.txt:                                                              alectotype (BMNH): same labels as lectotype

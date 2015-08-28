@@ -1,15 +1,12 @@
-DNAResearch/0133.pdf.txt: 3. Warren, W., Hillier, L., Marshall Graves, J., et al. 2008,         18.   NHMRC 2004, Australian Code of Practice for the Care and
 DNAResearch/0479.pdf.txt:could reduce the efficiency of translation of the ZNF219                412    PEFRCQVCGQSFTQSWFLKGHH!KHKASFDHACPVCGRCFKEP»FLKNHM<VHASKL
 DNAResearch/0479.pdf.txt:protein, and that the ZNF219 protein could be translated                343    NEFRCEVCGQVFSQAftFLKGHHRKHKDSFEHCCQICGRRFKEP»IFLKNHM<VHLNKL              399
 DNAResearch/0470.pdf.txt:                 human 2340 EWFRNESHVSCQCNHMTSFAVU'ilSSRRENGEILPLKTLTYVALGVTLAAlflLT] BFLTLLRILRSNQHGIRRNLTAALGLAQLVFLLG
 DNAResearch/0470.pdf.txt:                 mouse 2341 EWFRNESHVSCQCNHMTSFAVLMD|SRRENGEILPLKTLTYVALGVTLAAI§LTI IFLTLLRMLRSNQHGIRRNLTAALGLAQLVFLLG
-DNAResearch/0275.pdf.txt:Ce   206    IYVNAKFDKLKSLDDQIHLVGDHVNHMVAALCAVADDTGSPLVQRYLLDFLVAAFPLDSTNLTNE--------DFVQLLRRCLFVVLRRDMSLNRRLYTWLINRSGETKGVSGLSLGGPDDGIELTFFKERVLGLVHGALGEYLALDTIETPFANHQNSMWGDRKEAEQVQFAEVRVCRLLLYLQDRADIGRTILETVFADFLKK
 MBE/2003/1051.full.pdf.txt:rcc cca raa-39. The resulting fragments were cloned into           [NHM], London), which automates MrBayes analyses of
 MBE/2003/1051.full.pdf.txt:identity.                                                          (Peter Foster, NHM). For bootstrap replicate analyses,
 MBE/2003/278.full.pdf.txt:baboon (Papio cynocephalus anubis) BAC clones orthol-           NHML program of Galtier and Gouy (1998) was applied
 MBE/2003/278.full.pdf.txt:http://www.nisc.nih.gov/) were identified using BLAST                 The NHML program allows the maximum likelihood
 MBE/2008/859.full.pdf.txt:45 °C in a dark moisture chamber in a 0.9 M NaCl, 20 mM              NHML software (Non-homogenous maximum likelihood for
-MBE/2012/1987.full.pdf.txt:(AEC approval number: SCMB/473/09/UQ/NHMRC).
 MBE/2005/1593.full.pdf.txt:Crulckshank, and Johnson 2002; Misof and Fleck 2003).            data. John Noyes (NHM, UK) identified the Encyrtidae.
 MBE/2005/1223.full.pdf.txt:We used the BigDye terminator cycle sequencing kit version                         NHML). This method estimates the ancestral GC content
 MBE/2005/1223.full.pdf.txt:                                                                                    Locus        Remark      Number of Sites      PAML         NHML
@@ -17,7 +14,6 @@ MBE/2005/520.full.pdf.txt:and 342 candidate trees for the 16S data set (57 possi
 MBE/2005/520.full.pdf.txt:those trees, we used the eval_nh program from the NHML                            possible topologies than did the branch-swapping method
 MBE/2005/520.full.pdf.txt:                  were estimated using the eval_nh program in the NHML 3.0 software package (Galtier, Tourasse, and Gouy 1999).
 MBE/2005/520.full.pdf.txt:                                                                providing the NHML program for implementation of
-MBE/2002/1881.full.pdf.txt:                                                                            tralia for support. J.C.W. is a NHMRC Senior Research
 MBE/2002/1792.full.pdf.txt:gram which enabled him to visit the NHM, and A.P.V.                   delids (Insecta, Coleoptera) from an afrotropical region.
 MBE/2001/1970.full.pdf.txt:NHM). Ambiguously aligned regions were removed,                       DNA LogDet/Paralinear distance analyses, as well
 MBE/2001/1970.full.pdf.txt:eukaryote sequences. Bootstrap partitions from 100 resampled data sets were obtained using PHYCON (J. McInerney NHM, London) and
@@ -25,18 +21,12 @@ MBE/2001/1464.full.pdf.txt:grams from the NHML package (Galtier and Gouy        
 MBE/2001/710.full.pdf.txt:exchanged genes with other eubacteria subsequent to the       and D. S. Horner (NHM, London) for critical comments
 MBE/2001/1892.full.pdf.txt:reason for it might be that the studies differ in taxon      NHM/1Zoo/firstpzoologicalpdepartment/web/chemsyst/
 MBE/2001/866.full.pdf.txt:algorithms are available as part of the NHML package
-MBE/2013/1916.full.pdf.txt:and an NHMRC Australia Fellowship to E.C.H.                                      of positive-strand RNA viruses. J Gen Virol. 72:2197–2206.
 MBE/2013/1745.full.pdf.txt:Felsenstein’s phylip package, further improved in the NHML                  Durbin R, Eddy SR, Krogh A, Mitchison G. 1998. Biological sequence
-MBE/2013/123.full.pdf.txt:NHMRC Principal Research Fellow. Patrick Keeling kindly pro-                     mated mRNA transcript assembly and SNP detection in sequenced
-MBE/2013/1263.full.pdf.txt:E.C.H. acknowledges support from an NHMRC Australia                          Kambol R, Kabat P, Tristem M. 2003. Complete nucleotide sequence of
 MBE/2011/2561.full.pdf.txt:in vertebrates and 1,096 sites in angiosperms.                  NHML (Galtier and Gouy 1998), which use a maximum
-MBE/2009/367.full.pdf.txt:Health and Medical Research Council (NHMRC; 496601),                 Genome fragment of Wolbachia endosymbiont transferred to
 MBE/2007/26.full.pdf.txt:Barthels KW, Swinburne NHM, Morris SC. 1990. Solnhofen:                 Beijing: Science Press.
 MBE/2007/294.full.pdf.txt:like evolution is recognized as an important mode of mo-                  been implemented in the software NHML (Galtier and
 MBE/2007/294.full.pdf.txt:sites. The Galtier model is implemented in NHML for                rate classes. Given this overall rate, switching of rate along edges from ON
 MBE/2007/294.full.pdf.txt:(Felsenstein 1981) was based on the NHML package that            where I12 is the entry of the Fisher information matrix corre-
-MBE/2010/1504.full.pdf.txt:ported by grants from the NHMRC and is a Principal Re-
-MBE/2010/1504.full.pdf.txt:search fellow of the NHMRC; S.W.R. was funded by the                         organization of microfilament isoform mRNA and protein.
 MBE/2000/1710.full.pdf.txt:EVALpNH program (NHML package; Galtier and Gouy                 Drosophila as inferred by maximum-likelihood using the
 MBE/2006/352.full.pdf.txt:proximately) when spatial frequency variation was not ac-                           We used the program EVAL_NH in the NHML pack-
 MBE/2006/352.full.pdf.txt:heterogeneous models implemented in NHML, we found                               0.6
@@ -216,8 +206,6 @@ MolluscStudies/0425.pdf.txt:Figure 25. Copulatory spines. A. Jorunna hartleyi (N
 MolluscStudies/0425.pdf.txt:0.2 mm. C. Jorunna evansi (BMNH 1919-10.7.44-45), ventral view, scale bar ¼ 1.0 mm. Abbreviations: m, mouth, ot, oral tentacles.
 MolluscStudies/0425.pdf.txt:   Capt. Spratt, (BMNH 1873.4.19)].                                         indicates that Jorunna marchadi Risbec, 1956 from Vietnam is
 MolluscStudies/0425.pdf.txt:                                                                                     and K. Way (BMNH), T. Schiøtte (ZMUC), C. Bright
-MolluscStudies/0281.pdf.txt:sperm ultrastructure and the nervous system. These results,                  Vienna (NHMW). A specimen of H. suecica (det. Odhner) from
-MolluscStudies/0281.pdf.txt:criticism. Dr K. Edlinger (NHMW) and Dr A. Ware´n (SMNH)                                  MARCUS, E. 1953. Three Brazilian Sand-Opisthobranchia. Boletim da
 MolluscStudies/0141.pdf.txt:7    History Museum of Crete (NHMC).                                                       studied during the period from September 1997 to March
 MolluscStudies/0307.pdf.txt:                                                                             Types: Holotype in Natural History Museum, London (BMNH
 MolluscStudies/0307.pdf.txt:                                                                             (BMNH 20040847); 4 paratypes mounted, sputter coated for
@@ -267,7 +255,6 @@ MolluscStudies/0531.pdf.txt:MrBayes v. 3.12 (Ronquist & Huelsenbeck, 2003).     
 MolluscStudies/0531.pdf.txt:the Akaike Information Criterion. In the initial Bayesian                  miles (2.33 km) below Phantom Cave, 25/6/1968. UMBMNH
 MolluscStudies/0531.pdf.txt:Opercula, outer side (USNM 883953, UMBMNH uncat., respectively). H, I. Opercula, inner side (USNM 883953). Scale bars A ¼ 0.5 mm; D,
 MolluscStudies/0531.pdf.txt:1003865 and UMBMNH uncat. (San Solomon Spring).                                    yellow). Female glandular oviduct and associated structures
-MolluscStudies/0558.pdf.txt:Reischu¨tz (2007).                                                             Natural History Museum, Vienna (NHMW). In total, 327
 MolluscStudies/0500.pdf.txt:acanthodes Watson, 1882, syntype NHM1887.2.9.569; scale bar ¼ 1 cm. G. Protoconch of same specimen. H–J. Three views of one embryo to
 MolluscStudies/0250.pdf.txt:Fernandez & Pergent, 2002; BMNH collections). Although                              (‘Giggenbach Cone’) (Wright et al., 2002b) (Fig. 1).
 MolluscStudies/0250.pdf.txt:7    BMNH, Natural History Museum, London                                             Body wall with anterior pair of curled, lobate extensions. Foot
@@ -446,10 +433,6 @@ MolluscStudies/0207.pdf.txt:                                                    
 MolluscStudies/0207.pdf.txt:9    and photographed by Harry Taylor (NHM Photo Unit).                                 NORDSIECK, H. 1977. Zur Anatomie und Systematik der Clausilien,
 MolluscStudies/0037.pdf.txt:rather different from that of the pteriomorphs      (London) (NHM). A census of individuals of Myo-
 MolluscStudies/0037.pdf.txt:(unregistered specimen (NHM) collected from Two          Myochama anomioides (NMV F80239), attached to a
-MolluscStudies/0198.pdf.txt:Naturhistorisches Museum Wien (NHMW), Forschungsinstitut                       Neritilia sp.: Kano & Kase, 2000: figs 10D, 11.
-MolluscStudies/0198.pdf.txt:5    Samoa (NHMW 100835), ventral view. F. Male gonoduct of P. rufa, paratype from Upolu, Samoa (NHMW 100835), dorsal view. Abbreviations: a, anus;
-MolluscStudies/0198.pdf.txt:Figure 7. Radula of Platynerita rufa new genus, new species, paratype from Upolu, Samoa (NHMW 100836). A. Lateral and marginal teeth; outer lateral with 17
-MolluscStudies/0198.pdf.txt:                                                                                   A. Eschner (NHMW), M. Glaubrecht (ZMB), R. Janssen (SMF), I.
 MolluscStudies/0429.pdf.txt:1978), so that the valid name for Lu’s specimens is Asperoteuthis                  BMNH 20070615. Maturing female, 363 mm ML, with short
 MolluscStudies/0551.pdf.txt:History Museum, London (BMNH); National Museum of
 MolluscStudies/0551.pdf.txt:of Natural History (SBMNH) and the University of Hawaii,
@@ -482,8 +465,6 @@ MolluscStudies/0247.pdf.txt:4                                                   
 MolluscStudies/0247.pdf.txt:6    Figure 3. Cryptoteuthis brevibracchiata n. sp.; holotype BMNH 20040614.                 between Cryptoteuthis brevibracchiata and the other Grimpo-
 MolluscStudies/0247.pdf.txt:Figure 4. Cryptoteuthis brevibracchiata n. sp.; holotype BMNH 20040614. Internal anatomy, illustrating viscera in situ (A), digestive system and optic nerve
 MolluscStudies/0519.pdf.txt:Southward, 1986; Dando, Ridgway & Spiro, 1994).                            deeply grateful to J. Taylor (NHM, UK) as well to R. von
-MolluscStudies/0179.pdf.txt:another, already known species with a more western distribu-                      Naturhistorisches Museum Wien (NHMW) and Zoologische
-MolluscStudies/0179.pdf.txt:(nine specimens), NHMW Moll 101.430 (five specimens), ZSM
 MolluscStudies/0291.pdf.txt:most common during the Jurassic and Cretaceous (e.g.                                (BMNH). In addition, some Jurassic neritopsid opercula
 MolluscStudies/0291.pdf.txt:E. SEM stereographs of the outer surface. F. Side view. G, H. Neritopsid opercula (BMNH PI MG 1111 and 1112 respectively) from the Toarcian
 MolluscStudies/0291.pdf.txt:(Early Jurassic) of May, Normandy, France. G. Inner surface. H. Outer surface. I–K. Neritopsid operculum (BMNH PI MG 1115) from the
@@ -493,12 +474,6 @@ MolluscStudies/0623.pdf.txt:(NHMUK) showed no posterior scar. We have seen no   
 MolluscStudies/0302.pdf.txt:Natural History Museum, London (BMNH), Santa Barbara
 MolluscStudies/0302.pdf.txt:Museum of Natural History (SBMNH), Californian Academy                     Type species: Octopus cocco Verany, 1846 [¼Scaeurgus unicirrhus
 MolluscStudies/0032.pdf.txt:Natural History Museum, London (BMNH); Zoolog-               the single gonopericardial duct and intestine; and
-MolluscStudies/0032.pdf.txt:(NHMW); and Canadian Museum of Nature, Ottowa                cavity with usually paired, small gills (Salvini-Plawen,
-MolluscStudies/0032.pdf.txt:Figure 3. Prochaetoderma raduliferum (Kowalevsky), neotype (NHMW 100486). A. Entire specimen (cf. Fig.
-MolluscStudies/0032.pdf.txt:Figure 4. Prochaetoderma raduliferum (Kowalesky). A-O. Voucher (NHMW 100487) from off Dalmatian
-MolluscStudies/0032.pdf.txt:Figure 5. Eastern Atlantic species of Prochaetoderma. A. P. raduliferum (Kowalevsky), neotype (NHMW
-MolluscStudies/0032.pdf.txt:yongei) or only on posterium. Planes of spicule          Neotype: NHMW 100486. Length 2.3 mm, anterium
-MolluscStudies/0032.pdf.txt:tive to each other. Longitudinal axis straight,          Remarks.] Voucher specimens: NHMW 100487;
 MolluscStudies/0032.pdf.txt:      Prochaetoderma boucheti new species              Paratypes: MNHN; BMNH 19991531, 19991532;
 MolluscStudies/0032.pdf.txt:derma alleni, holotype (BMNH 19991526). E. Claviderma brevicaudatum, holotype (USNM 880675). F, G. S.
 MolluscStudies/0032.pdf.txt:Figure 26. Spathoderma alleni new species. A–C. holotype (BMNH 19991526), Bay of Biscay (cf. Fig. 20D):
@@ -507,11 +482,6 @@ MolluscStudies/0032.pdf.txt:BMNH). B1–8. Radula, jaws, and spicules from weste
 MolluscStudies/0032.pdf.txt:892949: Cape Verde, Angola, Cape Basins; BMNH
 MolluscStudies/0032.pdf.txt:Holotype: BMNH 19991526. Length 1.9 mm, anterium       blade longer than base, to 160 m, and thickest,
 MolluscStudies/0032.pdf.txt:BMNH 19991527, 19991528; MNHN; ZMUM Le1-58.            from very narrow to 12 m wide at base (Fig.
-MolluscStudies/0432.pdf.txt:carnivorously predominantly on Cnidaria (Salvini-Plawen,                            Museum Wien (NHMW). Unless otherwise indicated, material
-MolluscStudies/0432.pdf.txt:Paratype 1: NHMW, reg. no. Moll. 103497; BIOSPEEDO stn                        Figure 1. Helicoradomenia parathermalis n. sp. Mantle sclerites. Scale
-MolluscStudies/0432.pdf.txt:NHMW), all other material is in MNHN, including a section
-MolluscStudies/0432.pdf.txt:spicules in one layer (Scheltema & Kuzirian, 1991;                         NHMW Moll. 103498; same stn 156-08 (sclerites, section series
-MolluscStudies/0432.pdf.txt:PHARE deposited in NHMW, all material is housed in                               with 95–110-mm wide pad of 20–25-mm high cells (Fig. 15B–D).
 MolluscStudies/0477.pdf.txt:Lucina ovum Reeve, 1850 (BMNH reg. no. 1963195/1-2) with
 MolluscStudies/0139.pdf.txt:History Museum, London, UK (NHM), was examined.
 MolluscStudies/0139.pdf.txt:Types (Fig. 3A,B): Holotype NHM 93.2.4.1258 and 2 paratypes

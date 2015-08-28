@@ -31,7 +31,6 @@ ise/v32n4.s2.pdf.txt:Cenozoic age but a few indisputable Mesozoic               
 ise/v32n4.s2.pdf.txt:NHML collection revealed the presence of sever-         NHML collection (PyGCs on file at the AMNH),
 ise/v32n4.s2.pdf.txt:anterior third of pronotum to the pointed humeral        NHML collection, who found the Cretaceous
 ise/v32n4.s2.pdf.txt:in the NHML collection, too, were interpreted as      (which may have been approximately similar).
-ise/v39n2.splitsection5.pdf.txt:NHMW – Naturhistorisches Museum, Wien, Austria         36–38). Thilmanus differs from Lycidae where it
 ise/v39n2.splitsection5.pdf.txt:NHMB – Natural History Museum, Budapest,               36–38).
 ise/v39n2.splitsection5.pdf.txt:NHMP – Natural History Museum, Prague, Czech           General structural description of the adults of
 ise/v39n2.splitsection5.pdf.txt:                                                         Wanka leg. (NHMP). CZECH REPUBLIC: Karov, 9. vi.
@@ -54,7 +53,6 @@ ise/v39n2.splitsection5.pdf.txt:male, Mandl leg. (NHMP). BULGARIA: Sliven, Ra-
 ise/v39n2.splitsection5.pdf.txt:Vel. Trnovo, 30. v. 09, 1 male, Rambousek leg. (NHMP);   habitats from xerothermous shrubs or oak forests
 ise/v39n2.splitsection5.pdf.txt:(NHMP); Stribnec, vi. 1981, 1 male, J. Strejcek leg.     to montane fir and beech forests. The biology of
 ise/v39n2.splitsection5.pdf.txt:scher leg. (NHMP); Obir., vii. 1935, 3 males, Vsetecka   (1988). Adult males are capable of flight, but they
-ise/v39n2.splitsection5.pdf.txt:dibles long, robust, curved. Maxillary palpi slen-       de la Vésubie, 1 male, St. Cl. Deville leg. (NHMW);
 ise/v39n2.splitsection5.pdf.txt:and 3 almost parallel-sided, only slightly widened       leg. (NHMP).
 ise/v39n2.splitsection5.pdf.txt:parallel-sided, dark brown, only elytra light red-      Dalmat., 1 male, (NHMP); Dalmatia, Ragusa
 ise/v39n2.splitsection5.pdf.txt:dish brown. Head small, including eyes apparent-        [=Dubrovnik], 1 male, Dr J. Fleischer leg. (NHMP);
@@ -63,38 +61,25 @@ ise/v39n2.splitsection5.pdf.txt:by wide, rather shallow groove. Surface of crani
 ise/v39n2.splitsection5.pdf.txt:um in most parts densely, quite roughly sculp-          Dalmatia, Dubrovnik, 1 male, (NHMP); Dalmatia,
 ise/v39n2.splitsection5.pdf.txt:                                                        Biokovo, 1 male, (NHMP); Dalmatia, Hercegovi, iv.
 ise/v39n2.splitsection5.pdf.txt:tured, structure finer behind antennal tubercles.       1936, 3 males, A. Matejka leg. (NHMP). MONTENE-
-ise/v39n2.splitsection5.pdf.txt:7. vi. 1906, 1 male, Pinker leg. (NHMW); Turin, 2          gins, shiny in middle part, glabrous or with light
 ise/v39n2.splitsection5.pdf.txt:Mt Rosa, Macugnaga, Borce, 20. vii. 1 male (NHMB).
 ise/v39n2.splitsection5.pdf.txt:0.41 mm, PW 0.61 mm, Ediam 0.19 mm, Edist                 matien, Ragusa [=Dubrovnik], Reitter (BMNH). Holo-
-ise/v39n2.splitsection5.pdf.txt:                                                          Späth (NHMW).
-ise/v39n2.splitsection5.pdf.txt:(LMBC); 3 males, v. 1879 (NHMW); 1 male, Reitter          Redescription. – Male. Body medium-sized, 5.3 –
-ise/v39n2.splitsection5.pdf.txt:(NHMW); 1 male, Collectio Kaufmann (NHMW); 2
-ise/v39n2.splitsection5.pdf.txt:males, Collect. Miller (without further data) (NHMW);     7.9 (n=7), elongate, dorsoventrally flattened.
-ise/v39n2.splitsection5.pdf.txt:Collectio Kaufmann (NHMW); Gobanz, 1 male, Velebrt            croy (Coleoptera, Homalisidae). Polskie Pismo Ento-
-ise/v39n2.splitsection5.pdf.txt:leg. (NHMW); Ragusa [=Dubrovnik], 1 male,                     mologiczne 58: 571–574.
-ise/v39n2.splitsection5.pdf.txt:Kaufmann leg. (identified as O. nigricornis) (NHMW);        Caccone, A., Milinkowitch, M. C., Sbordoni, V. & Po-
 ise/v39n2.splitsection5.pdf.txt:Tapan, 1 male, Dr. J Fleischer leg. (NHMP).                   well, J. R. (1994) Molecular biogeography: using the
 ise/v38n1.splitsection2.pdf.txt:                                                            tions. The authors thanks G. Else (NHM, London), F.
 ise/v31n1.s8.pdf.txt:tous' or 'lamelliform' (LS) pupal setae. In pupal       National Insect Collection; BMNH - British Mu-
 ise/v31n1.s8.pdf.txt:Peulla, 12-13.xii. 1926,F.W. & M. Edwards (BMNH                             for understandingthe NeotropicalChironomidae.
 ise/v35n4.splitsection4.pdf.txt:Caenia extremely large. Pronotum subpentagonal,        BMNH), D. Drugmand (Royal Institute of Natural
 ise/v38n1.splitsection6.pdf.txt:Strand & Grbic, 1997a; Strand & Grbic, 1997b),                         Abbreviations: BMNH, Natural History Mu-
-ise/v38n1.splitsection6.pdf.txt:Huang, 2004). In view of the importance of this                     Sweden; NHMV, Naturhistorisches Museum,
 ise/v38n1.splitsection6.pdf.txt:  (designated by Graham, 1969: 298), England, HDO,          BMNH, not examined.
 ise/v38n1.splitsection6.pdf.txt:                                                            nated by Graham, 1969: 295), England, BMNH, not
 ise/v38n1.splitsection6.pdf.txt:  ignated by Graham, 1958: 168), England, BMNH, not
 ise/v38n1.splitsection6.pdf.txt:  nated by Graham, 1969: 304), England, BMNH, not           Extalimital Material. – ENGLAND, 1 R, Hants,
 ise/v38n1.splitsection6.pdf.txt:   nated by Graham, 1969: 296), England, BMNH, not           2005) and gelechiid (Gelechiidae) (see above). It
-ise/v38n1.splitsection6.pdf.txt:Hosts. – The record as parasitoid of unidentified              R=, Austria, NHMV, not examined.
 ise/v38n1.splitsection6.pdf.txt:Dr. John S. Noyes (BMNH) for loaning and gifting of           (Hym., Chalc., Encyrtidae). Studia Entomologica
 ise/v31n1.s3.pdf.txt:distinguished by the following set of character-         L'Aquila, Italy; BMNH: The Natural History Museum,
 ise/v31n1.s3.pdf.txt:CA : Kwa-Zulu Natal, Frere, 1 0' (holotype) (BMNH);     (Fig. 3); in both sexes antennomeres 1-3 mostly
 ise/v31n1.s3.pdf.txt:    differently shaped (Fig. 35). Spiculum ventrale                           S. L. Shute (BMNH), M. De Meier (MRAC), M. Uhlig
 ise/v41n3.splitsection2.pdf.txt:York, NY, USA; AMSA, Australian Museum, Sydney, NSW, Australia; BMNH, British
-ise/v41n3.splitsection2.pdf.txt:NHMW, Naturhistorisches Museum, Vienna, Austria; NHRS, Naturhistoriska
 ise/v41n3.splitsection2.pdf.txt:McAlpine and M. Moulds (AMSA); N. Wyatt (BMNH); K. Arakaki (BPBM);
-ise/v41n3.splitsection2.pdf.txt:R. Contreras–Lichtenberg (NHMW); C. Sibold (MNHN); P. Sihvonen and G. Ståhls-
-ise/v41n3.splitsection2.pdf.txt:(NHMW); T. Pape (NHRS); D.A. Barraclough (NMSA); P.J. van Helsdingen
 ise/v33n2.s5.pdf.txt:Sarasota, FL, USA; (BMNH) The Natural History          genetically uninformative autapomorphies were
 ise/v33n2.s5.pdf.txt:  Brazil. Syntype males (4) and female BMNH [exam-
 ise/v33n2.s5.pdf.txt:Entre Rios, No specific locality 10', 1Q BMNH.
@@ -407,12 +392,6 @@ ise/1876312X.044_01_S02_text.pdf.txt:Material examined. Pseudoliprus hirtus: Jap
 ise/1876312X.044_01_S02_text.pdf.txt:Pseudoliprus nigritus (Jacoby, 1885): Japan. G. Lewis, B.M. 1926-369 (4, BMNH).
 ise/1876312X.044_01_S02_text.pdf.txt:curators and holders of material treated in this paper S. Shute (BMNH), J. Frisch
 ise/1876312X.044_01_S02_text.pdf.txt:(ZMHB), O. Merkl (HNHM), L. Behne (SDEI), C.-F. Lee (TARI), J. Bezděk, Brno,
-ise/v31n4.s6.pdf.txt:Museum Vienna (NHMW). Additional material                   in future.
-ise/v31n4.s6.pdf.txt:                                                           75°40'E, 900-1200m\ leg. D. Boukal (19)' (NHMW);
-ise/v31n4.s6.pdf.txt:profemur in male only weakly enlarged, broadest            paratypes:7 o*, 5 <?,apterous,same label data (NHMW);
-ise/v31n4.s6.pdf.txt:                                                           D. Boukal (23)' (NHMW);1 9 apterous 'INDIA: Kerala
-ise/v31n4.s6.pdf.txt:both sexes slightly shorter or subequal to                 Boukal (48)' (NHMW); I cr apterous 'INDIA: Nilgiri
-ise/v31n4.s6.pdf.txt:material of aquatic bugs to the NHMW; Prof. Dr. Nils          ComparativePhysiology 80: 255-266.
 ise/v41n3.splitsection1.pdf.txt:viations: BMOC, B.M. OConnor reference number; BMNH, The Natural History
 ise/v41n3.splitsection1.pdf.txt:2001: 255, ﬁgs 6, 12, 19, 26, 27. Type deposition: holotype in BMNH.
 ise/v41n3.splitsection1.pdf.txt:BMNH identiﬁed as Echimys brasiliensis (Lund, 1840) from Brazil (BMNH 5.4.16.4
@@ -427,36 +406,10 @@ ise/v34n1.splitsection5.pdf.txt:(BMNH). One ultimate instar larva: UK: Brands   
 ise/v34n1.splitsection5.pdf.txt:Hatch, Kent, November 1968 (BMNH).                      the following characters: fused labrum forming
 ise/1399560x.v34n4_s6.pdf.txt: 1960) and Viitasaari (1982) were right in recog-        HNHMB: Hungarian Natural History Museum, Buda-
 ise/1399560x.v34n4_s6.pdf.txt:cept of P. vafer, which actually comprises two           NHML: The Natural History Museum, London [C.
-ise/1399560x.v34n4_s6.pdf.txt:depressa agrees with both of the two species, and        NHMW: Naturhistorisches Museum, Wien [S. Schödl].
 ise/1399560x.v34n4_s6.pdf.txt:Pamphilius kontuniemü sp. n. Paratypes. ALBANIA/              [NHML]; 19 "depressa, 9, 26. 7. 04, Nassfeld [in
 ise/1399560x.v34n4_s6.pdf.txt:5.VII." "Alban. montenegr. Grenze, Penther 14" "P.            comm.)]" [NHML]; 19 "depressa, 9, Gastein [probably
-ise/1399560x.v34n4_s6.pdf.txt:depressus Schrk., det. Maidl" [NHMW]; 19 "Vermosa,            meaning whole Gasteiner Tal in Bundesland Salzburg,
-ise/1399560x.v34n4_s6.pdf.txt:depressus Schrk., det. Maidl" [NHMW]; 19 "8.6"                pers. comm.)], 22/7. 04 v" [NHML]; 19 "depressa, 9,
 ise/1399560x.v34n4_s6.pdf.txt:"Vermosa" "Alban. montenegr. Grenze, Penther 14" "P.          Gastein, 13/7. 60" [NHML]; 19 "Wthm." "Gastein 1863
-ise/1399560x.v34n4_s6.pdf.txt:depressus Schrk., det. Maidl" [NHMW]. AUSTRIA: 4o-            [?]" "depressa, det. Rghf." "depressus Sch. det. Konow"
-ise/1399560x.v34n4_s6.pdf.txt:"Vienne, Coll. Giraud 1877" [MHNP]; lo' "Vien., 19.           [NHMW]; 19 "Gastein, 7.7.01" "Coll. Oldenberg" "P.
-ise/1399560x.v34n4_s6.pdf.txt:Rghf." "depressus Sch. det. Konow." [NHMW]; 19                "Styria, Strobl." "P. vafer (L.), 9, det. M. Kraus, 1991"
 ise/1399560x.v34n4_s6.pdf.txt:Clement det." [NSMT]; 19 "Salzb." "Coll. Giraud 1877"         50.03°N, 14.45°E (S. Blank, pers. comm.)]" [NHML];
-ise/1399560x.v34n4_s6.pdf.txt:Au [or Katzenau], 18. 4. 27, Dr. H. Priesner" [NHMW];         Wels ded" "Dania" "P. depressus Schrk., det. F.
-ise/1399560x.v34n4_s6.pdf.txt:14. 4. 27, Dr. H. Priesner" [NHMW]; 19 "Traun, O. Ost.,        [ZSM]. FINLAND: 19 "KE 4/81" "EH: Pälkäne, U-21,
-ise/1399560x.v34n4_s6.pdf.txt:15. 5. 27, Dr. H. Priesner" [NHMW]; 19 "Traun, 0. Öst.,       21.5.1981, leg. J. Kangas" "P. depressus 9, coll. Jaakko
-ise/1399560x.v34n4_s6.pdf.txt:21. 5. 27, Dr. H. Priesner" [NHMW]; 19 "Ob.                   Kangas" [DABUH]; 19 "EH: Pälkäne, 251/V,
-ise/1399560x.v34n4_s6.pdf.txt:Johnsbachtal, Styr. bor., lg. H. Franz" [NHMW]; 19             13.7.1963, leg. J. Kangas" [DABUH]; lo' "EH: Pälkäne,
-ise/1399560x.v34n4_s6.pdf.txt:Schrk., 9 det. H. Franz" [NHMW]; 19 "Admon., Umg.,            "EH: Pälkäne, 28.6.1956, 538, leg. J. Kangas"
-ise/1399560x.v34n4_s6.pdf.txt:leg. H. Franz, A370" [NHMW]; 19 "Umg. Admon., leg.             [DABUH]; 10' "EH: Pälkäne, H-12, 26.5.1983, leg. J.
-ise/1399560x.v34n4_s6.pdf.txt:H. Franz, A560" [NHMW]; 19 "Pürgschachenmoor, b.              Kangas" [DABUH]; lo- "EH: Pälkäne, ex larva,
-ise/1399560x.v34n4_s6.pdf.txt:Selztal, Styr. bor. leg. Couhold" [NHMW]; 19 "Niedere          19.5.1962, 9/61, leg. J. Kangas/Alnus incana"
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "Kleine Sölk, Niedere Tauern, leg. H.              leg. J. Kangas" "P. depressus (Schrk.), 9, coll. J.
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "Purgstall, NÖ, Feichsenbach, Gebusch,             Vikberg" [VV]; lo- "EH: Tampere, 10.6.1964, leg. V.
-ise/1399560x.v34n4_s6.pdf.txt:18.6.62" [NHMW]; 19 "Bosruck-Haus, 6.6.63, H.P."              Vikberg" [NSMT]; 19 "EH: Tampere, 13.6.1964, leg. V.
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "14.5.65" "Damianitsch, Nied.-Oest."               Vikberg" [VV]; 19 "EH: Tampere, ex 1. 9.4,1959, Th.
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "22.6.64" "Damianitsch, Nied.-Oest."               Lammi, 6773:394, 15.7.1975, Martti Koponen leg."
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "10.5.85, Handl." "Austr. inf.,                    "P. depressus Schrk., det. Kontuniemi, 1950" [NHML];
-ise/1399560x.v34n4_s6.pdf.txt:Konow" [NHMW]; lo- "1.5.84, Handl." "Austr. inf.,             "Kangasala, Grönblom, 19.6.43" [DABUH]; 2o-
-ise/1399560x.v34n4_s6.pdf.txt:Konow" [NHMW]; lo- "10.5.88, Handl." "Austr. inf.,             "Kangasala" "V Saarinen" "19.6.34" [DABUH]; 19 "W.
-ise/1399560x.v34n4_s6.pdf.txt:Konow" [NHMW]; lo- "Carinthia, Möderndorf, 15. VII.           Parikkala" " Hellen" "195" [ZMUH]; lo- "Parikkala,
-ise/1399560x.v34n4_s6.pdf.txt:24" [NHMW]; 10" "Gstattenboden, 7. VIII. 1955"                Hellen" "4636" "ab. nigratus m." [ZMUH]; 10'
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "Spitz [in Niederösterreich, 48.35°N,               "Parikkala, E. Kangas, 1937" [VV]; lo' "Parikkala" "I.
 ise/1399560x.v34n4_s6.pdf.txt:Burgstaller (S. Blank, pers. comm.)], 4. 90" [NHML];          leg. Kontuniemi" [VV]; lo' "LK, Parikkala, 23.6.1955,
 ise/1399560x.v34n4_s6.pdf.txt:Blank, pers. comm.)], Bgst, 6. 81" [NHML]; 19 "depres-         16.6.1964, Lindqvist" [DABUH]; 1910' "N. Munksnäs,
 ise/1399560x.v34n4_s6.pdf.txt: Ranin" [VV]; 19 "Liperi, 22.6.1968, leg. V. Vikberg"         varius" [NHML]. FRANCE: 10"'P. vafer, 0 , 20. V 78,
@@ -479,18 +432,12 @@ ise/1399560x.v34n4_s6.pdf.txt:Westerbork, VI-VII-1944, E. A. M. Speijer" "P. vaf
 ise/1399560x.v34n4_s6.pdf.txt:(L.), det. C. v. Achterberg, 1984" [RMNHL]; 19                   Kirälymezö" "1963.V.3, leg. Ermolenko" [HNHMB;
 ise/1399560x.v34n4_s6.pdf.txt:(L.), det. C. v. Achterberg, 1983" [RMNHL]; 19                   "1963.V.4, leg. Ermolenko" [HNHMB]; lo- "Kärpätalja,
 ise/1399560x.v34n4_s6.pdf.txt:(L.), 9, det. C. v. Achterberg, 1983" [RMNHL]; 19                [HNHMB]; 19 "Ukrajna, Jaremcsanszki körzet,
-ise/1399560x.v34n4_s6.pdf.txt:det. Blank" [ZSM]; 19 "Lett. M., 21.5" [DEI]; 19 "Gun.,     "depressus Sch., det. Konow" [NHMW]; I c "depressa,
-ise/1399560x.v34n4_s6.pdf.txt:19.3.20" "P. vafer (L.), det. Muche, 1967" [DEI]; 19        det. Rghf." "depressus Sch. det. Konow" [NHMW]; 2 a
-ise/1399560x.v34n4_s6.pdf.txt:Konow" [NHMW]; 10" "PTp[ (S. Blank, pers. comm.)],          [NHMW]; 19 No data [DEI]; 19 "W. Nylander"
-ise/1399560x.v34n4_s6.pdf.txt:pallipes)" [NHMW]; 19 "Ent. Club, 44-12" [NHML];            "Coll. O. Sichel 1867" [MHNP]; 39 "Coll. Giraud
 ise/1399560x.v34n4_s6.pdf.txt:Zombori 1965" [HNHMB]; 10' "P. depressus Schrk., o',        19 "Ponnee[?] F. Giraud" "1906, Coll. Leon Fairmaire"
 ise/1399560x.v34n4_s6.pdf.txt:[ZSM]; 29 "Sammlung Hiendlmayer" "P. depressus              Logvizhenko" [HNHMB]; lo' "Szvidovec hg.
 ise/1399560x.v34n4_s6.pdf.txt:[DEI]; lo' "Coll. Konow" "P. depressus Schrk., 1.5.96"      [HNHMB]; 19 "Kärpätalja, Rahö körzet, Kosztilevka"
 ise/1399560x.v34n4_s6.pdf.txt:pallipes, Bridoiv[?] det." [NHML]; 29 [19 without det.      1600 m, Pozsizsevszkaja-hegy" "15.VII.1979, leg.
 ise/1399560x.v34n4_s6.pdf.txt:label] "Coll. Simony" "depressus Schrk., det. Konow"        Ermolenko" [HNHMB]; 19 "Pozsizsevszkaja k., Csorna
-ise/1399560x.v34n4_s6.pdf.txt:[NHMW]; 19 "236" "Collect. Graeffe" "Lyda depressa          Hora" "1300-1500 m, 8.VII.1963, leg. Ermolenko"
 ise/1399560x.v34n4_s6.pdf.txt:Schrk., Konow" "P. depressus Schrk. 9, Det. L.              [HNHMB].
-ise/1399560x.v34n4_s6.pdf.txt:Zimgiebl" [NHMW]; 79 "Kolazy" "depressa, det. Kohl"
 ise/v31n2.s6.pdf.txt:family. Although some subsequent authors at-              ral History Museum, London, England (BMNH);
 ise/v31n2.s6.pdf.txt:M. Edwards./B. M. 1927-63' (BMNH).                         Mallochianamyia      penai sp. n.
 ise/v31n2.s6.pdf.txt:and B. R. Pitkin (BMNH) for loans of material. Scott     AgricultureCanada Monograph 32: 1333-1581.
@@ -633,10 +580,8 @@ ise/v33n3.s3.pdf.txt:holotype (BMNH).                                           
 ise/v33n3.s3.pdf.txt:encouragement,and David Hollis (BMNH) for invalu-              in the papilionoideae(family Leguminosae)based on
 ise/v37n1.splitsection1.pdf.txt:BMNH     Natural History Museum, London                 the parsimony ratchet (Nixon 1999) implemented
 ise/v37n1.splitsection1.pdf.txt:NHMB     Naturhistorisches Museum, Basel                mization) and if they were shared by all dicho-
-ise/v37n1.splitsection1.pdf.txt:NHMW     Naturhistorisches Museum, Wien                 tomised most parsimonious trees.
 ise/v37n1.splitsection1.pdf.txt:                                                         Sprecher-Uebersax (all NHMB), M.D. Brendell
 ise/v37n1.splitsection1.pdf.txt:microtrichomes (41:1); (3) median longitudinal           (BMNH), H. Howden (Ottawa), M. Jäch, H. Schönmann
-ise/v37n1.splitsection1.pdf.txt:impression on last and penultimate abdominal             (both NHMW), O. Jäger (SMTD), D. Král (Prague), I.
 ise/v37n1.splitsection1.pdf.txt:sternite present (42:1); and (4) phallobase laterally    Löbl, G. Cuccudoro (both MHNG), O. Merkl (HNHM),
 ise/v34n3.splitsection7.pdf.txt:containing one nominal species. All original labels     HNHM = Hungarian Natural History Museum,
 ise/v34n3.splitsection7.pdf.txt:and the left side of head and thorax; left wing somewhat     ied (in HNHM). Therefore, H. subnotata is a jun-
@@ -669,8 +614,6 @@ ise/v39n1.splitsection3.pdf.txt:Peachester, 10.iii.1974, (R.A. Yule) (BMNH).
 ise/v39n1.splitsection3.pdf.txt:cies described from 11 females from Brazil. Al-        Plaumann) (BMNH). ECUADOR: 1 R, Napo
 ise/v39n1.splitsection3.pdf.txt:                                                            Turner) (BMNH).
 ise/v32n2.s12.pdf.txt:suggests the necessity of reinstating of Kima.          BMNH - Natural History Museum, London
-ise/v32n2.s12.pdf.txt:NHMW - NaturhistorischesMuseum, Wien
-ise/v32n2.s12.pdf.txt:Rogenhofer (NHMW, 12 349); France: Menton, 1 0'         wide at base, pointed.
 ise/v32n2.s12.pdf.txt:carapace dark brown, vicinity of eyes black, ocu-       Hillyard (BMNH); Spain: 2 0' (larger - lectotype, pre-
 ise/v38n4.splitsection1.pdf.txt:these biomes: Aphengoecus Péringuey, 1901 with          BMNH The Natural History Museum, London,
 ise/v38n4.splitsection1.pdf.txt:picked up dead. 2 TMSA; 1 UPSA; 1 NCSA; 1 BMNH             Female: Similar to male but clypeal horns about
@@ -800,53 +743,6 @@ ise/v32n1.s1.pdf.txt:more precise data: 2 (MACN), 10 (BMNH). San Juan:         t
 ise/v32n1.s1.pdf.txt:(CEUNC), 1 (BMNH), 2 (MNNC).                              conspicuous throughout, with edge, anterior quar-
 ise/v32n1.s1.pdf.txt:2 (HNHM), 2 (MNNC), 2 (NHMB). Two paratypes:                  nitis aut novis generis Epipedonotae Sol.
 ise/v32n1.s1.pdf.txt:D.O. King] 1 (NHMB), 3 (BMNH). All the paratypes              and South sAmerica. Part 3. Bulletin of the United
-ise/v35n3.splitsection1.pdf.txt:NHMW Naturhistorisches Museum in Wien, Vienna,         Diagnosis. – Relatively large species (2.7 - 3.3 mm)
-ise/v35n3.splitsection1.pdf.txt:                                                                                       SSW Bandung)\ lg.Schuh 6.8.1994” (NHMW); 2 ==, 3
-ise/v35n3.splitsection1.pdf.txt:                                                                                       SE Rancabali,1400m\ leg. Schuh, 6.8. (9b)” (NHMW).
-ise/v35n3.splitsection1.pdf.txt:P. Pacholatko &/ L. Dembicky leg.” (NHMW).                                                Colour: anterior margin of pronotum brownish
-ise/v35n3.splitsection1.pdf.txt:N.T.- Tai Po N.Res./ 27.VI. leg. Jäch” (NHMW);
-ise/v35n3.splitsection1.pdf.txt:(NHMW); 1 = “HONG KONG 1979/ Tai Po Kau                 cately built, referring to the small and slender appear-
-ise/v35n3.splitsection1.pdf.txt:N.Res./ 8.3. K/ leg. DUDGEON” (NHMW).                   ance of this species.
-ise/v35n3.splitsection1.pdf.txt:lum and metanotal elevation castaneous to dark          leg. Dembicky & Pacholatko” (NHMW); paratypes: 1 =,
-ise/v35n3.splitsection1.pdf.txt:brown; connexiva bright yellow; antenna and legs        1 R, same locality label data as holotype (NHMW);
-ise/v35n3.splitsection1.pdf.txt:                                                        (NHMW).
-ise/v35n3.splitsection1.pdf.txt:(GPS),\ E Jendek & O. Sausa leg.” (NHMW); paratypes:      variable, and, therefore, misidentification as T.
-ise/v35n3.splitsection1.pdf.txt:(NHMW, ZMUC).                                             scribed species to be expected, which are external-
-ise/v35n3.splitsection1.pdf.txt:                                                          Shepard (1075)” (NHMW); paratypes: 3 RR, same local-
-ise/v35n3.splitsection1.pdf.txt:elevation relatively long, with distinct median and       ity label data as holotype (NHMW, CSS); 1 =, 1 R
-ise/v35n3.splitsection1.pdf.txt:metanotal elevation together nearly 0.9 times as          11.IV.1994\ leg. W.D. Shepard (1073)” (NHMW); 1 R
-ise/v35n3.splitsection1.pdf.txt:                                                          800m/ leg.R.Schuh,3.8.1993” (NHMW); 1 R “MALAY-
-ise/v35n3.splitsection1.pdf.txt:elevation directed slightly dorsocaudad, with rela-       Botanical Garden]/ leg. Jäch (9)” (NHMW); 1 = “MA-
-ise/v35n3.splitsection1.pdf.txt:   Structure: buccula with both depressions rela-           12.11.1995\ leg. H. Zettel (13a)” (NHMW); 1 = “20 VII
-ise/v35n3.splitsection1.pdf.txt:body; metanotal elevation relatively small and              leg.W.D.Shepard(1044)” (NHMW, CSS); 1 =, 1 R “Thai-
-ise/v35n3.splitsection1.pdf.txt:together 0.75 times as long as pronotum; metano-            (NHMW); 1 =, 6 RR “Thailand:Chiang Mai Prov.\ Doi
-ise/v35n3.splitsection1.pdf.txt:tal elevation 0.7 times as long as wide at base; in         5.11.1995,leg.H.Zettel(7)” (NHMW, CMUT, ZMUC);
-ise/v35n3.splitsection1.pdf.txt:very short tip (Figs. 41 - 44); abdomen narrower            Zettel (8)” (NHMW);1 = “Thailand: Chiang Mai Pr.\
-ise/v35n3.splitsection1.pdf.txt:ly hooked setae (Fig. 70) with ventrolateral                (9a)” (NHMW); 2 == “Thailand:Chiang Mai Prov.\
-ise/v35n3.splitsection1.pdf.txt:parameres apically angulate; left paramere dorsal-          leg. H. Zettel (10)” (NHMW); 1 R same locality and date,
-ise/v35n3.splitsection1.pdf.txt:towards base, right one with relatively short, less         400m\ leg. H. Zettel (16a)” (NHMW); 1 = “Thailand:
-ise/v35n3.splitsection1.pdf.txt:                                                            leg.W.D.Shepard(1040)” (NHMW); 1 = “Thailand:
-ise/v35n3.splitsection1.pdf.txt:sp.n. has been previously described under the               24.11.1995\ leg. H. Zettel (22)” (NHMW); 1 =
-ise/v35n3.splitsection1.pdf.txt:                                                            Phang, 2.III.1994\ leg.W.D.Shepard (1024)” (NHMW);
-ise/v35n3.splitsection1.pdf.txt:metanotal elevation (directed somewhat dorsocau-            (27)” (NHMW); 7 ==, 4 RR “Thailand: Khao Yai NP\ N
-ise/v35n3.splitsection1.pdf.txt:                                                            (3)” (NHMW); China: 1 =, 5 RR “CHINA- Yunnan,
-ise/v35n3.splitsection1.pdf.txt:                                                            Survey] 354)” (NHMW); 1 = “CHINA: Yünnan,
-ise/v35n3.splitsection1.pdf.txt:“THAILAND: NW\ Chiang Mai\ waterfalls\ 25. Nov.             1000 m\ leg. Jäch, et al. (CWBS 374)” (NHMW); 1 =
-ise/v35n3.splitsection1.pdf.txt:Jäch & Komarek (CWBS 456)” (NHMW); Laos: 3 ==                yellow connexiva; antenna and legs yellowish,
-ise/v35n3.splitsection1.pdf.txt:(NHMW); 1 R“N-LAOS: Prov. Lg. Nam Tha\ ca. 30km              ably (usually very weakly) infuscated.
-ise/v35n3.splitsection1.pdf.txt:hammer (28, 30)” (NHMW).                                     elongate, with posterior depression small, posteri-
-ise/v35n3.splitsection1.pdf.txt:material listed at the end of this paper.                 1000m\ 5.11.1995,leg.H.Zettel(7)” (NHMW); paratypes:
-ise/v35n3.splitsection1.pdf.txt:                                                          2 ==, 1 R same locality label data as holotype (NHMW,
-ise/v35n3.splitsection1.pdf.txt:more frequently collected, so that comments on            leg. H. Zettel (4)” (NHMW); 1 R “Thailand: Chiang Mai\
-ise/v35n3.splitsection1.pdf.txt:Tioman Isl., Tekek\ leg.R.Schuh,16.7.1993” (NHMW);            Mr. Rudolf Schuh (Wiener Neustadt, Austria).
-ise/v35n3.splitsection1.pdf.txt:type (NHMW).
-ise/v35n3.splitsection1.pdf.txt:                                                              Schwendinger” (NHMW).
-ise/v35n3.splitsection1.pdf.txt:Dembicky & Pacholatko leg.” (NHMW); 2 ==, 2 RR                 sp.n.
-ise/v35n3.splitsection1.pdf.txt:(ZRCS, NHMW); 1 = “01 I 1995\ Selangor Prov.\ K.               gor) (Fig. 86).
-ise/v35n3.splitsection1.pdf.txt:Etymology. – Named after its occurence in Yunnan,               ard(1047)” (NHMW): This very characteristic female
-ise/v35n3.splitsection1.pdf.txt:   (NHMW); 1 R “Thailand: P[h]etchabun\ 21 km SE                Connecticut, Storrs) for the linguistic review of the man-
-ise/v35n3.splitsection1.pdf.txt:   W.D. Shepard (1048)” (NHMW): These two very dark             habitus illustration (Figure 1).
-ise/v35n3.splitsection1.pdf.txt:   - 8.6.1996\ leg. Schillhammer (16)” (NHMW): These              sius and Hyrcanus. Systematic Entomology 6: 377-
 ise/v36n3.splitsection7.pdf.txt:The Natural History Museum, London (BMNH),
 ise/v36n3.splitsection7.pdf.txt:                                                           20.9.1919 (P.A. Buxton) (BMNH).
 ise/v36n3.splitsection7.pdf.txt:Haifa, 14.7.1921 (BMNH) (Holotype of S.
@@ -858,10 +754,7 @@ ise/v36n3.splitsection7.pdf.txt:12.8.1972 (S. Salman) (AUBE);                   
 ise/v36n3.splitsection7.pdf.txt:Turkey, Gülek, Taurus (Lederer) (NMW); 4 males and 2         30.8.1931 (B.P. Uvarov) (BMNH).
 ise/v36n3.splitsection7.pdf.txt:                                                        (NHM), Dr Michael Ohl and Isolde Doranth (MNH) for
 ise/v31n3.s2.pdf.txt:BMNH - The Natural History Museum, London,              other X. (Moerophora) species (Hilszczanski
-ise/v31n3.s2.pdf.txt:NHMW- Natural History Museum, Wroc4aw,Poland                                       forest in the Biebrza
 ise/v31n3.s2.pdf.txt:(BMNH).
-ise/v31n3.s2.pdf.txt:                                                        Clement), Parma (coll. Gravenhorst) (NHMW); HUN-
-ise/v31n3.s2.pdf.txt:                                                        (designatedby Clement) (coll. Gravenhorst)(NHMW);
 ise/v31n3.s2.pdf.txt:stout erect setae on segments 22-28. Face densly        (Belshaw) (BMNH); lo', Oxford, I.viii.1969 (Wilson)
 ise/v31n3.s2.pdf.txt:punctate; frons less so and vertex and gena sparse-     (BMNH); 20', Savemake Forest, Wilts. SU 214671,
 ise/v31n3.s2.pdf.txt:(BMNH); GERMANY: 19, holotype of Macro-                       Odontomerini, and Phytodietini. Proc. U.S. natn.
@@ -1121,7 +1014,6 @@ ise/v32n2.s6.pdf.txt:  Lycaenidae (Lepidoptera):A tentative arrangement.        
 ise/v35n2.splitsection7.pdf.txt:BMNH, The Natural History Museum, London (J.          geographical regions, with the exception of the
 ise/v35n2.splitsection7.pdf.txt:  deposited in BMNH 1905.4.28.1298-1307, exam-              Female (FSCA – Golfito, Puntarenas, Costa
 ise/v35n2.splitsection7.pdf.txt:  BMNH 1915.5.27.2-3, examined). Brignoli, 1983:         0.34; PLE 0.36; interdistances: AME-AME 0.12;
-ise/v35n2.splitsection7.pdf.txt:15.X.1938, Reimoser (NHMW); Finca Palo Verde, 1R,
 ise/v35n2.splitsection7.pdf.txt:  (Male holotype from México, deposited in BMNH            Crawford (MCZ); El Zapatale, (3,2 km S Tuxtla
 ise/v31n2.s7.pdf.txt:Fonseca (MEI 032093) (NHM); Sydney, 9, 25.ii.1928,
 ise/v31n2.s7.pdf.txt:                                                        9, 22.i.1958,M.F. Leask (MEI 032092) (NHM).
@@ -1149,27 +1041,12 @@ ise/v38n3.splitsection3.pdf.txt:Cryptinae and Ichneumonidae subfamilies, fe-    
 ise/v38n3.splitsection3.pdf.txt:J.F.P., B.M. 1936-398 (Holotypus, NHM).                      Holotypus (R) and Paratypus examined.
 ise/v40n2.splitsection3.pdf.txt:BMNH        The Natural History Museum, London, UK
 ise/v40n2.splitsection3.pdf.txt:HNHM        Hungarian Natural History Museum, Budapest, Hungary
-ise/v40n2.splitsection3.pdf.txt:NHMW        Natural History Museum Vienna, Austria
 ise/v40n2.splitsection3.pdf.txt:India, H.G.C.” (BMNH). Paratypes: 4 males, 4 females (macropterous), same label
 ise/v40n2.splitsection3.pdf.txt:as holotype (BMNH, MCRI). Others: 8 males, 7 females (macropterous), “India-
-ise/v40n2.splitsection3.pdf.txt:(CFMB, NHMW, ZRC). 2 males, 2 females (macropterous) “INDIA (NW):
-ise/v40n2.splitsection3.pdf.txt:River, 11.XI.2006, 580m, 30°15'N, 78°52'E, leg. M.A. Jäch (9)” (NHMW). 1 male
-ise/v40n2.splitsection3.pdf.txt:(11)” (NHMW). 1 male, 4 females (macropterous), “INDIA (NW): Uttaranchal,
-ise/v40n2.splitsection3.pdf.txt:5 km E Tharali, 1250 m asl, 13.XI.2006, leg. M.A. Jäch (# 14)” (NHMW).
 ise/v40n2.splitsection3.pdf.txt:Dingliang, 2450ft, 11-15 iii.1935, M. Steele” (BMNH). Paratype: 1 female (macro-
 ise/v40n2.splitsection3.pdf.txt:pterous), same label as holotype (BMNH).
-ise/v40n2.splitsection3.pdf.txt:(4a)” (NHMW, ZRC); 1 male, 2 females (apterous), “CHINA: Sichuan, 13.6.1996,
-ise/v40n2.splitsection3.pdf.txt:(NHMW).
-ise/v40n2.splitsection3.pdf.txt:NHMW, ZMHU, ZRC); 1 female (macropterous), “Vietnam, Lao Cai pr., Cat Cat,
 ise/v40n2.splitsection3.pdf.txt:L. Peregovits & T. Vásárhelyi” (HNHM).
-ise/v40n2.splitsection3.pdf.txt:(NHMW).
-ise/v40n2.splitsection3.pdf.txt:   Paratypes: 10 males, 5 females (apterous), same label as holotype (CFMB, NHMW,
-ise/v40n2.splitsection3.pdf.txt:ous), same locality data as holotype (NHMW, ZRC); 1 female (apterous), “Vietnam,
 ise/v40n2.splitsection3.pdf.txt:(HNHM).
-ise/v40n2.splitsection3.pdf.txt:hammer & Wang (CWBS 433)” (NHMW). Paratypes: 6 males, 2 females (apterous),
-ise/v40n2.splitsection3.pdf.txt:same label as holotype (NHMW, ZRC).
-ise/v40n2.splitsection3.pdf.txt:4 females, same label as holotype (NHMW, ZRC).
-ise/v40n2.splitsection3.pdf.txt:Bahrebishe, Bhotekoshi, 6.XI.1993, leg. Sharma & Nesemann (4-6)” (NHMW).
 ise/v38n2.splitsection2.pdf.txt:species. Dossenus redundans belongs to an unde-                    of Natural History, New York, USA; BMNH, The
 ise/v38n2.splitsection2.pdf.txt:                                                             BMNH 1932.9.2.63 (examined). Bonnet, 1956:1550.
 ise/v36n1.splitsection6.pdf.txt:   In this paper, in addition to the major nomencla-   Museum, London, (Mr. M. Brendell) (BMNH);
@@ -1188,7 +1065,6 @@ ise/1876312X_045_01_S002_text.pdf_jsessionid=3ibi67n798xts.x-brill-live-02_itemI
 ise/1876312X_045_01_S002_text.pdf_jsessionid=3ibi67n798xts.x-brill-live-02_itemId=http_%2F%2Fbrill.metastore.ingenta.com%2Fcontent%2Fjournals%2F10.1163%2F1876312x-00002087.pdf.txt:(NHML, London, UK), Roy Danielsson (MZLU, Lund, Sweden), Fritz Gusenleitner
 ise/v33n4.s2.pdf.txt:                                                       HNHM: Hungarian Natural History Museum,
 ise/v33n4.s2.pdf.txt:                                                       NHML: Natural History Museum, London, UK (S.
-ise/v33n4.s2.pdf.txt:                                                       NHMW: NaturhistorischesMuseum, Wien, Austria (S.
 ise/v33n4.s2.pdf.txt:ophrynopus spp. do not come out within or con-        (NHML). Besides acknowledginghis collecting efforts
 ise/v33n4.s2.pdf.txt:21.ii.-14.iii.1987, LD. Gauld (NHML). Paratypes.
 ise/v33n4.s2.pdf.txt:l4.iii.1987, LD. Gauld (NHML).                                verse frontal carina present, dorsal transverse
@@ -1213,8 +1089,6 @@ ise/v33n4.s2.pdf.txt:laterally than medially. Dorsal part of pronotum,          
 ise/v33n4.s2.pdf.txt:(NHML);MEXICO:9, Chiapas, Simojovel, l .viii.l958,         relative positions of the terga, which is preserved
 ise/v33n4.s2.pdf.txt:                                                           found] (NHML); 9, La Rioja [not found], 1919, E.
 ise/v33n4.s2.pdf.txt:(NHML). PARAGUAY:o', San Bernardino, 27.vii.               ages variably coloured, at least some femora and
-ise/v33n4.s2.pdf.txt:Fiebrig (NHMW).                                            or two infuscated bands of various extent (Fig.
-ise/v33n4.s2.pdf.txt:because of the rather weak support for its close        MALAYSIA?: Borneo, 1886. (NHMW), examined.
 ise/v33n4.s2.pdf.txt:bution ranges of the two genera does not overlap        (NHML), examined. Holotype 9 of O. philippinensis
 ise/v33n4.s2.pdf.txt:B.M. Hobby & A.W. Moore (NHML);9, 3 Pelawan,             Stirocorsia rossi: Benson 1955a: 23 (as Stiricorsia!);
 ise/v33n4.s2.pdf.txt:Walshleg. (NHML);2 0', Pelawan,Walshleg. (RMNH);             Guiglia 1965: 14.
@@ -1310,8 +1184,6 @@ ise/v31n1.s2.pdf.txt:IX.1922,N. Jones (BMNH).                                   
 ise/v31n1.s2.pdf.txt:                                                          are due to Sharon Shute (BMNH) for valuable com-
 ise/v32n4.s1.pdf.txt:                                                         HNHM: HungarianNatural History Museum,Budapest
 ise/v32n4.s1.pdf.txt:                                                         NHML: Natural History Museum, London, UK (S.
-ise/v32n4.s1.pdf.txt:                                                         NHMW:NaturhistorischesMuseum, Wien, Austria (S.
-ise/v32n4.s1.pdf.txt:pegs situated dorsally in single row; single hind       NHMW); Delagoa, Rikatla, H. Junod leg. (49, 7cr,
 ise/v32n4.s1.pdf.txt:tibial apical spur less than twice the apical breadth   EITH; 9, MCSN; 2Q, ct,NHML; 9, 20', ZSMC [holo-
 ise/v32n4.s1.pdf.txt:RIA :9, Samberi, 6.viii.1961 (NHML);TANZANIA:9,           Remarks. - Westwood (1874) erroneously stated
 ise/v32n4.s1.pdf.txt:leg. (NHML).                                              from his description and figures; Guiglia (1935b)
@@ -1319,7 +1191,6 @@ ise/v32n4.s1.pdf.txt:                                                           
 ise/v32n4.s1.pdf.txt:                                                           C.I.E. leg. (NHML);0', Voi,Tsavo, 23.iii-4.iv.1997,M.
 ise/v32n4.s1.pdf.txt:overlapping median incurvation in latter; meso-       Islands, Sumbawa (HNHM). Additional material: SRI
 ise/v32n4.s1.pdf.txt:scutellar arm distinct and rectangular, but without   LANKA: 9 (NHML);0' (no data) (OXUM).
-ise/v32n4.s1.pdf.txt:Meidan Ekbes) (NHMW). Additional material:                                 13) .........................................................
 ise/v32n4.s1.pdf.txt:(NHML); 01, Mavromatti Ithomis, ll.vi.1995, Wemer                          (Fig. 1-2).Mesoscutellumwith lateral margins
 ise/v32n4.s1.pdf.txt:(NHML).                                                                    arated by median groove (Fig. 3); frons with
 ise/v35n3.splitsection5.pdf.txt:C. cryptostoma Bechyné, 1959, C. tenebrosa (La-                     Lund University, Sweden; NHMB: Naturhistori-

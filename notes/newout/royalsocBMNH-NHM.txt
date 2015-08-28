@@ -10,7 +10,6 @@ Biol_Letters/pdfs/vol5/557.full.pdf.txt:ranzii, BSP 1994 I 51: (e) mid-cervical 
 Biol_Letters/pdfs/vol5/557.full.pdf.txt:(figure 1e). Although heavily crushed and fractured,                       served cervical vertebrae in NHM R1034 (figure 1f ).
 Biol_Letters/pdfs/vol5/557.full.pdf.txt:to those of R. filisurensis, with long axes oriented antero-               (NHM 41212), but are exposed in ventral view only
 Biol_Letters/pdfs/vol5/647.full.pdf.txt:Smith, Dave Lewis and Andrew Ross (NHM, London),
-Biol_Letters/pdfs/vol5/647.full.pdf.txt:(NHMW, Vienna) for access to and loan of material. J.A.C.          planktic larvae and benthic predators. Geology 33,
 Biol_Letters/pdfs/vol3/331.full.pdf.txt:NHM Entomology DRF grant to P.E. and G.B.                            Maekawa, K., Bandi, C. & Noda, H. 2000 Evidence
 Biol_Letters/pdfs/vol3/323.full.pdf.txt:Museum of Copenhagen; AM, Australian Museum, Sydney; MV, Museum Victoria, Melbourne; NHMT, Natural History
 Biol_Letters/pdfs/vol3/323.full.pdf.txt:Eupetes macrocerus                     Cinclosomatidae            NHMT 1936.4.12.58         EF441217       EF441239      EF441257
@@ -20,7 +19,6 @@ Biol_Letters/pdfs/vol3/309.full.pdf.txt:(BMNH 37001). Abbreviations (the origina
 Biol_Letters/pdfs/vol3/309.full.pdf.txt:Archaeopteryx (BMNH 37001; figure 3) and modern                  material (Marsh 1880; Edinger 1951; Elzanowski &
 Biol_Letters/pdfs/vol3/309.full.pdf.txt:was identified as the ‘cerebellum’ in BMNH 37001                 inferences to be made about mode of life. The large
 Biol_Letters/pdfs/vol3/309.full.pdf.txt:flight’. The anatomy of the brain in BMNH 37001                                                        Federation to a Leading Scientific School’ grant (NSh-
-Biol_Letters/pdfs/vol4/351.full.pdf.txt:ations of PI of skeletal muscle phospholipids in                                                    This study was done in accordance with the NHMRC
 Biol_Letters/pdfs/vol9/20130002.full.pdf.txt:Natural History Museum, London (NHM). Additional material
 Biol_Letters/pdfs/vol9/20130002.full.pdf.txt:cannot be securely homologized with either the paired fins or                                  specimen access and hospitality. Zerina Johanson (NHM), Kallie
 Biol_Letters/pdfs/vol9/20130021.full.pdf.txt:NHMUK PV R6682 (see figure 1 and electronic supple-                 (see figure 2a,b and electronic supplementary material, S4–S12):
@@ -178,8 +176,6 @@ RSPB/pdfs/0482.pdf.txt:Figure 3. Scanning electron micrographs of NHM fossils sh
 RSPB/pdfs/0482.pdf.txt:We examined 56 fossil fragments of Acropora from the NHM,
 RSPB/pdfs/0482.pdf.txt:                                                               NHM Cenozoic collections; J. Darrell (NHM) for specimen
 RSPB/pdfs/0482.pdf.txt:Acropora species groups represented, including five of         loans, and NHM, MTQ and ARC Discovery grant to
-RSPB/pdfs/3577.pdf.txt:than performance without any break, suggesting that               supported by an NHMRC CJ Martin Fellowship 457146
-RSPB/pdfs/3577.pdf.txt:                                                                  and NHMRC project grant no. APP1024800 to J.P. and
 RSPB/pdfs/1085.pdf.txt:Figure 2. ‘Helminthochiton’ thraivensis (a,b) BMNH G.47246, showing ventral spicular surface, marginally slightly
 RSPB/pdfs/1085.pdf.txt:disarticulated, together with head and probably intermediate valve, !2.9. (c,d ) BMNH G.47253, showing (left) ventrolateral
 RSPB/pdfs/1725.pdf.txt:                                                                We thank Dr David Gower (NHM, London, UK) and Mark
@@ -226,9 +222,6 @@ RSPB/pdfs/0238.pdf.txt:(separated 88 Ma), and two in Australia (separated       
 RSPB/pdfs/0916.pdf.txt:(NHM, London), and Vadim Stepanchuk (University of                  (doi:10.1016/j.jhevol.2003.11.007)
 RSPB/pdfs/0916.pdf.txt:SYNTHESYS grant to M.B. at the NHM, London. This                 Carretero, J. M., Arsuaga, J.-L., Martı´nez, I., Quam, R. M.,
 RSPB/pdfs/1776.pdf.txt:paper, so general trends will be described.                       observations; NHM 46013). The distal end of the
-RSPB/pdfs/3038.pdf.txt:(Vienna cranium NHMW 1934 IV 1) and (b) Paranthropus            utely narrower maximum gape, more efficient transfer of
-RSPB/pdfs/3038.pdf.txt:a young adult (NHMW 1934 IV 1, found at Andrahomana                                               total         total     W/B
-RSPB/pdfs/3038.pdf.txt:0.293  0.40 mm. The mandibular fragments (NHMW                        deep masseter                            15.8      1.3
 RSPB/pdfs/2195.pdf.txt:Kansas Natural History Museum (KUNHM).                                Responses were calculated as transfer functions with
 RSPB/pdfs/2563.pdf.txt:electronic supplementary material, Background for more his-      phylogeny. NHML 1939 yielded a sequence of only
 RSPB/pdfs/2563.pdf.txt:(Verona 3988, aDNA no.8) was aged using incisor dental              region in Sudan (NHML1904) exactly matched a
@@ -266,7 +259,6 @@ RSPB/pdfs/4072.pdf.txt:Osedax antarcticus sp. nov. type material. Bransfield Str
 RSPB/pdfs/4072.pdf.txt:female (NHM 2013.435), dissected from rib bone collected              Chaetae, numbering eight, arranged in two pairs laterally,
 RSPB/pdfs/4072.pdf.txt:types: mature adult females (NHM 2013.436 and NHM                     hook with a set of two to four anteriorly sited teeth and
 RSPB/pdfs/4072.pdf.txt:dwarf males from the tube of paratype NHM 2013.436.
-RSPB/pdfs/0101.pdf.txt:(NHMRC) grant to David Vaney; J.S. by the NHMRC                        Mol. Life Sci. 58, 1583–1598.
 RSPB/pdfs/0472.pdf.txt:                                                                       BMNH          Natural History Museum, London
 RSPB/pdfs/0472.pdf.txt:micromegethes holotype male, ZRC 49869, 10.4 mm; arrow points to genital papilla; (d ) paratype female, BMNH 2004.11.16.1-
 RSPB/pdfs/0472.pdf.txt:                                                                    stained paratype, male, BMNH 2004.11.16.41-60,
@@ -280,8 +272,6 @@ RSPB/pdfs/3211.pdf.txt:UK, NHMUK PI G 47241. (c) Acaenoplax hayae [15]; reproduc
 RSPB/pdfs/3211.pdf.txt:dufoei [16], an articulated palaeoloricate, Burpee Museum of Natural History, Rockford, IL, BMNH 1996.045.01. (e) Lateral
 RSPB/pdfs/1660.pdf.txt:1980; Andrews 1985). Although the Cladach a’Ghlinne                The photographs in figure 1 were taken by P. Crabb (NHM
 RSPB/pdfs/1660.pdf.txt:                                                                   provided by R. F. Laws, and P. Kenrick (NHM) provided
-RSPB/pdfs/3346.pdf.txt:                                                               practice as defined by the NHMRC’s (Australia) Statement
-RSPB/pdfs/3346.pdf.txt:and Medical Research Council (NHMRC) and the                    18   Wolff, G. L., Kodell, R. L., Moore, S. R. & Cooney,
 RSPB/pdfs/2647.pdf.txt:NHMUK PB.OC.1068 (Oliver Collection), NHMUK
 RSPB/pdfs/2647.pdf.txt:PB.WC.1144.A, NHMUK PB.WC.1144.D, NHMUK
 RSPB/pdfs/2647.pdf.txt:Natural History Museum, London, UK (NHMUK). Those

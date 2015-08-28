@@ -37,7 +37,6 @@ aust_j_zoology/ZO9820711.pdf.txt:(BMNH 1973.14.143-144) and three from Weipa Cre
 aust_j_zoology/ZO9820711.pdf.txt:material in BMNH, Nos 1980.46.112-120 and 1980.46.121-1 50 respectively.
 aust_j_zoology/ZO9820711.pdf.txt:material in BMNH, Nos 1980.46.151-153 and 1980.46.154-173 respectively.
 aust_j_zoology/ZO9770347.pdf.txt:               BMNH       British Museum (Natural History), London
-aust_j_zoology/ZO9770347.pdf.txt:               NHMV       Naturhistorisches Museum, Vienna
 aust_j_zoology/ZO9770347.pdf.txt:Queensland, Australia, in BMNH. Both types examined by the author.
 aust_j_zoology/ZO9770347.pdf.txt:25.5.1929, T. G. Campbell, 36, 109, ANIC, and 13, 39, BMNH; Burnside, caught on dairy calf,
 aust_j_zoology/ZO9770347.pdf.txt:T. G . Campbell, 18, 49, ANIC, and 19, BMNH; Port Darwin, Jan. 1909, Brunetti Collection,
@@ -95,13 +94,9 @@ aust_j_zoology/ZO9770347.pdf.txt:em. 19.xii.1974 ex cattle faeces coll. 7.xii.19
 aust_j_zoology/ZO9770347.pdf.txt:Howard, 23, BMNH; same data, em. 20.xii.1974, 16, BMNH; same data, em. 21.xii.1974, 29,
 aust_j_zoology/ZO9770347.pdf.txt:BMNH; Lochinvar National Park, Outgate, em. 17.vii.1975 ex cattle faeces coll. 23.vi.1975, G. W.
 aust_j_zoology/ZO9770347.pdf.txt:Howard, 12, BMNH.
-aust_j_zoology/ZO9770347.pdf.txt:  Lectotype       Q of Anthomyia flexa Wiedemann, Tranquebar, India, in NHMV; see
 aust_j_zoology/ZO9770347.pdf.txt:South Africa, in BMNH. Both types seen by the author.
-aust_j_zoology/ZO9770347.pdf.txt:on the female, and one female from Wiedemann's own collection, now in NHMV,
-aust_j_zoology/ZO9770347.pdf.txt:which is evidently a syntype. I have labelled and designate herewith the NHMV
 aust_j_zoology/ZO9770347.pdf.txt:     India: Coimbatore, 25.ii.1913, C.N., 19, BMNH; Hasanur, Biligirirangan Hills, 28.iv.1937,
 aust_j_zoology/ZO9770347.pdf.txt: BM-CM Exped., 19, BMNH; Hyderabad, on buffalo dung, 29.x.1971, A. C. Pont, 109, BMNH,
-aust_j_zoology/ZO9770347.pdf.txt: 9 lectotype 0fJle.x~Wiedemann, NHMV, and 15, UZMC.
 aust_j_zoology/ZO9770347.pdf.txt:     Ghana: Achimota, stable manure, Nov. 1937, G. S. Cotterell, 23, 19, BMNH. Kenya: Kisumu,
 aust_j_zoology/ZO9770347.pdf.txt: ex cowdung, 1939, C. B. Symes, 19, BMNH. Namibia: Otjikoko Siid Farm, 33 miles ENE. Omaruru,
 aust_j_zoology/ZO9770347.pdf.txt: 10-13.ii.1972, BM S. Afr. Exped., 13, BMNH. Nigeria: Zaria, Samaru, on cowdung, 20.vi.1971,
@@ -111,7 +106,6 @@ aust_j_zoology/ZO9770347.pdf.txt: 24"02'S., 27"32'E., 12.viii.1974, E. M. Nevill
 aust_j_zoology/ZO9770347.pdf.txt: A. L. Dyce, 13, BMNH; White River, 5.iii.1953, H. E. Paterson, 9 holotype and 9 paratype of
 aust_j_zoology/ZO9770347.pdf.txt:Jlava Zielke, BMNH. Sudan: Khartoum, July 1915, R. Cottam, 13, 19, BMNH; same locality,
 aust_j_zoology/ZO9770347.pdf.txt: 2.xi.1915, 19, BMNH; Wad Medani, bred from dung, 27.xii.1944, D. J. Lewis, 19, BMNH.
-aust_j_zoology/ZO9770347.pdf.txt:Dr A. Kaltenbach and D r R. Lichtenberg (NHMV); Dr L. Lyneborg (UZMC);
 aust_j_zoology/ZO9671007.pdf.txt:       SNHM            Swedish Natural History Museum, Stockholm.
 aust_j_zoology/ZO9671007.pdf.txt:           SNHM 2999, adult female, collected by E. Mjoberg.
 aust_j_zoology/ZO9860601.pdf.txt:  BMNH       British Museum (Natural History), London
@@ -324,12 +318,8 @@ aust_j_zoology/ZO9780349.pdf.txt:    Ballarat; South Australia: Adelaide, Mt Lof
 aust_j_zoology/ZO9780349.pdf.txt:two labelled 'TYPES' and two labelled 'COTYPES' are in the BMNH and these have
 aust_j_zoology/ZO9780349.pdf.txt:   I am extremely grateful to Dr L. A. Mound (BMNH) for his advice and criticism
 aust_j_zoology/ZO9860753.pdf.txt: BMNH          British Museum of Natural History, London
-aust_j_zoology/ZO9860753.pdf.txt:NHMW           Naturhistorisches Museum, Vienna
-aust_j_zoology/ZO9860753.pdf.txt:F. leleupi Beier and F. indica Chamberlin lodged in NHMW). The apomorphic character
 aust_j_zoology/ZO9860753.pdf.txt:   A male specimen of G. minor in the Keyserling collection (BMNH) possibly labelled
 aust_j_zoology/ZO9860753.pdf.txt:(BMNH, JC-565.01001) and found it to be a tritonymph with a typical complement of seven
-aust_j_zoology/ZO9860753.pdf.txt:an 8/4 complement, but on reexamination of the type material (NHMW), I found that the
-aust_j_zoology/ZO9860753.pdf.txt:P. J. M. Greenslade, Dr J. Gruber (NHMW), Dr P. J. Gullan, Dr J. Heurtault (MNHN),
 aust_j_zoology/ZO9860753.pdf.txt:Mr P. D. Hillyard (BMNH), Dr L. E. Koch (WAM), Mr D. C. Lee (SAM), Dr A. Neboiss
 aust_j_zoology/ZO9860315.pdf.txt:BMNH       British Museum (Natural History), London
 aust_j_zoology/ZO9860315.pdf.txt:   Tasmania: 29, 6 0 , CNC; 7 0 , BMNH; l o w , ANIC, same labels as holotype. Australian Capital
@@ -342,7 +332,6 @@ aust_j_zoology/ZO98033.pdf.txt:   Paratypes.    54 workers, same data as holotyp
 aust_j_zoology/ZO98033.pdf.txt:   Paratypes    29 workers, same data as holotype (ANIC, BMNH, MCZC, WAMP).
 aust_j_zoology/ZO9840261.pdf.txt:      p. 761. Holotype 8,Queensland, Brisbane, BMNH.
 aust_j_zoology/ZO9840261.pdf.txt:   Hydroptila trrloba Kimmms. 1957. pp. 300-1. Holotype 8. Honiara, 4-8.xii.1953. BMNH.
-aust_j_zoology/ZO9930047.pdf.txt:    All surgical procedures were conducted in accordance with the NHMRC/CSIRO Code of Practice
 aust_j_zoology/ZO9870075.pdf.txt:    BMNH         British Museum (Natural History), London
 aust_j_zoology/ZO9870075.pdf.txt:      (3 a1 labelled 'autotypes'), BMNH 1931.10.9.22-28 (6 a1 labelled 'types'); sec, NHR 1963, 1993a, b,
 aust_j_zoology/ZO9870075.pdf.txt:      hundred al), 847 (several hundred al), USNMHC 50399 (5 a1 labelled 'cotypes'), BMNH
@@ -375,7 +364,6 @@ aust_j_zoology/ZO9850715.pdf.txt:3,22.iv. 1982, 185.1983 (BMNH); 3, 18-23.11.198
 aust_j_zoology/ZO9850715.pdf.txt:Moggill Creek, 3.xi.1982, 2 (QM), 1 (BMNH), 2 (USNM). From Anguilla reinhardtii,
 aust_j_zoology/ZO9850715.pdf.txt:Moggill Creek, 8.xi.1982, 1 (QM), 1 (BMNH). QM Nos GL4602-12; BMNH Nos
 aust_j_zoology/ZO9770779.pdf.txt: BMNH               British Museum (Natural History), London
-aust_j_zoology/ZO9770779.pdf.txt: NHMV               Naturhistorisches Museum, Vienna
 aust_j_zoology/ZO9770779.pdf.txt:   No life histories are known but a specimen in the BMNH from Burpengary,
 aust_j_zoology/ZO9770779.pdf.txt:   Holotype $ of Musca exempta Walker, Sarawak, in BMNH [examined]. Holotype
 aust_j_zoology/ZO9770779.pdf.txt:   Walker described Musca exempta from one female which is located in the BMNH.
@@ -384,8 +372,6 @@ aust_j_zoology/ZO9770779.pdf.txt:SPHTM, 59, BMNH; Kuranda, Sept. 1910, 23, 19, B
 aust_j_zoology/ZO9770779.pdf.txt:BMNH; no further data, 19, BMNH. New South Wales: Exeter, Mar.1927, A. H. Murray, 39, AM;
 aust_j_zoology/ZO9770779.pdf.txt:   Holotype    9,F.M.S., Pahang, Lubok Tamang, in BMNH [examined].
 aust_j_zoology/ZO9770779.pdf.txt:of the BMNH a male specimen of Idiella divisa Walker labelled Queensland. I have
-aust_j_zoology/ZO9770779.pdf.txt:   Lectotype ~3of Idia apicalis Wiedemann, Teneriffe, Canary Is, in NHMV; see
-aust_j_zoology/ZO9770779.pdf.txt:'Teneriffa', in Winthem's and his own collections. From the NHMV, where the
 aust_j_zoology/ZO9770779.pdf.txt:Mornington I., 23.v.1931, 13, ANIC; Saibai I., Torres Strait, Aug.1912, 19, BMNH; Middle
 aust_j_zoology/ZO9770779.pdf.txt:24,26.iv.1932, 23, ANIC; Port Darwin, Feb.1909, 16, 19, BMNH.
 aust_j_zoology/ZO9770779.pdf.txt:see note below. Holotype 9 of Idia aequalis Walker, Aru Is, in BMNH. Holotype 8
@@ -432,7 +418,6 @@ aust_j_zoology/ZO9770779.pdf.txt:D.H.Colless, 73, ANIC, 23, BMNH; 5 km SE. of Mi
 aust_j_zoology/ZO9770779.pdf.txt:   Paratypes. Queensland (116, 199): same data as holotype, 116, 179, BMNH; Mt Lewis, 8 miles
 aust_j_zoology/ZO9770779.pdf.txt:F.P.Dodd, 1903-356, 19, BMNH. Northern Territory (38): Bessie Spring, 16" 40'S., 135" 51fE.,
 aust_j_zoology/ZO9770779.pdf.txt:BMNH. Lectotype $? of Idia murina Schiner, 'Sidney' [published in error as
-aust_j_zoology/ZO9770779.pdf.txt:'Neuzeeland'], in NHMV; see designation below. Holotype $2 of Stomorhina cribellata
 aust_j_zoology/ZO9770779.pdf.txt:  Queensland (38,129): Biggenden, ANIC; 40 miles W. of Bollon, ANIC; Brisbane, AM, BMNH;
 aust_j_zoology/ZO9770779.pdf.txt:   New South Wales (413,559): Avalon, ANIC; Batehaven, ANIC, BMNH; 16 km N, of Batemans
 aust_j_zoology/ZO9770779.pdf.txt:Bay, ANIC, BMNH; 4 miles N. of Batemans Bay, ANIC; Beechwood, AM; Bega district, Brown
@@ -492,21 +477,13 @@ aust_j_zoology/ZO9770779.pdf.txt:Erldunda, ANIC, BMNH; Howard Springs, ANIC; NW.
 aust_j_zoology/ZO9770779.pdf.txt:WSW of Mt Cahill, ANIC; Katherine, ANIC, BMNH; Koongarra, ANIC, BMNH; 9km N. of
 aust_j_zoology/ZO9770779.pdf.txt:Creek, 8 km N. of Mt Cahill, ANIC, BMNH; Palm Valley, ANIC; Renners Rock, Orange Creek,
 aust_j_zoology/ZO9770779.pdf.txt:BMNH.
-aust_j_zoology/ZO9770779.pdf.txt:Dr R. Lichtenberg (NHMV), Dr L. Lyneborg (UZMC), Mr L. Matile (MNHNP),
 aust_j_zoology/ZO9791015.pdf.txt:  Conocephalus alienus Walker, 1869, p. 324. London, BMNH. Examined.
 aust_j_zoology/ZO9791015.pdf.txt:  Conocephalus insularis Walker, 1869, p. 32.5. London, BMNH. Examined.
 aust_j_zoology/ZO9791015.pdf.txt:  Conocephalus extensor Walker, 1869, p. 329. London, BMNH. Examined.
 aust_j_zoology/ZO9791015.pdf.txt:  Conocephalus remotus Walker, 1869, p. 33 1. London, BMNH. Examined.
 aust_j_zoology/ZO9791015.pdf.txt:  Conocephalus hawaiiensis Perkins, 1899, p. 13. London, BMNH. Examined.
-aust_j_zoology/ZO9791015.pdf.txt:   Conocephalus indicus Redtenbacher, 1891, p. 408. Vienna, NHMV. Examined.
-aust_j_zoology/ZO9791015.pdf.txt:   Conocephalus cornutus Redtenbacher, 189 1, p. 4 11. Vienna, NHMV.
-aust_j_zoology/ZO9791015.pdf.txt:   Conocephalus longiceps Redtenbacher, 189 1, p. 4 12. Vienna, NHMV.
-aust_j_zoology/ZO9791015.pdf.txt:   Euconocephalus sulcarus Karny, 1907, p. 40. Vienna, NHMV. Examined.
-aust_j_zoology/ZO9791015.pdf.txt:   Euconocephalus inermis Karny, 1907, p. 41. Vienna, NHMV. Examined.
 aust_j_zoology/ZO9791015.pdf.txt:   Pseudorhynchus ?pauperculus Walker, 1869, p. 33 1. London, BMNH. Examined.
-aust_j_zoology/ZO9791015.pdf.txt:   Mygalopsis ferruginea Redtenbacher, 1891, p. 253. Vienna, NHMV. Examined.
 aust_j_zoology/ZO9791015.pdf.txt:British Museum (Natural History) (BMNH), Naturhistorisches Museum, Vienna
-aust_j_zoology/ZO9791015.pdf.txt:(NHMV), and Museum National d'Histoire Naturelle, Paris (MNHN), I have used
 aust_j_zoology/ZO9791015.pdf.txt:tDr David Ragge (BMNH) attempted to locate this type material without success. It is reported on
 aust_j_zoology/ZO9791015.pdf.txt:     Queensland: Brisbane, 9.iii.1963: R. J. Elder, 1 9 , UQ; 4.iv.1965, C. R. Hembrow, 1 , BMNH;
 aust_j_zoology/ZO9791015.pdf.txt:     New South Wales: Cabramatta, 21.ii.1962, 1 p ; 10.iii.1962, M. Nikitin, 1 , BMNH; Clarence
@@ -517,10 +494,7 @@ aust_j_zoology/ZO9791015.pdf.txt:N. B. Tindale, 2 $ , SAM, BMNH; Richmond River,
 aust_j_zoology/ZO9791015.pdf.txt:BMNH; Roseville, 30.iv.1966, C. E. Chadwick, l 2 , AS; Royal National Park, 5.iv.1969, C. E. Chad-
 aust_j_zoology/ZO9791015.pdf.txt:1 6 , 1 ? , ANIC; Sydney, Turramurra, 25.iv.1971, C. N. Smithers, 2 $ , BMNH; Turramurra, 13.ii.1971,
 aust_j_zoology/ZO9791015.pdf.txt:no data, BM 1858, E. Damel, l $ , BMNH.
-aust_j_zoology/ZO9791015.pdf.txt:      NHMV, here designated; examined.
-aust_j_zoology/ZO9791015.pdf.txt:   Euconocephalus sulcatus Karny, 1907, p. 40. Holotype ? , Papua New Guinea, NHMV; examined.
 aust_j_zoology/ZO9791015.pdf.txt:    Papua New Guinea. New Britain: 1930, collector unknown, 1 2 . All in BMNH.
-aust_j_zoology/ZO9791015.pdf.txt:   Euconocephalus inermis Karny, 1907, p. 41. Lecotype,   , Papua New Guinea, Coll. Br.v.W. NHMV,
 aust_j_zoology/ZO9791015.pdf.txt:    New Guinea: Maprik, 19.x.1957, 3 8 ; 17.x.1957, 1 8 ; 28.x.1957, 1 8 , J. Smart, BMNH.
 aust_j_zoology/ZO9791015.pdf.txt:    Christmas 1.: Ross Hill, 12.ix.1908, D r C. W. Andrews, 2 3 , 1 p , BMNH; Flyingfish Cave, Aug.
 aust_j_zoology/ZO9791015.pdf.txt:1908, D r C.W. Andrews, 2 8 , BMNH; no data, 1906-66 same as for 1908 specimens, Dr C. W. Andrews,
@@ -529,7 +503,6 @@ aust_j_zoology/ZO9791015.pdf.txt:    Java: N o data, BM 1860-15, collector unkno
 aust_j_zoology/ZO9791015.pdf.txt:      D. C. A. Gibson-Hill, No. 48, BMNH, here designated: examined.
 aust_j_zoology/ZO9791015.pdf.txt:      wich Islands, BMNH, here designated; examined.
 aust_j_zoology/ZO9791015.pdf.txt:   Conocephalus extensor Walker, 1869, p. 329. Holotype y , locality unknown, BMNH; London,
-aust_j_zoology/ZO9791015.pdf.txt:    Conocephalus longiceps Redtenbacher, 1891, p. 412.          Holotype $ , New Caledonia, NHMV,
 aust_j_zoology/ZO9791015.pdf.txt:no date, BM cat. 1925-380, G. H. Wilkins, 1 3 , BMNH; 12'17'S., 133'13'E., 18 km NE. of Oenpelli,
 aust_j_zoology/ZO9791015.pdf.txt:4.xii.1907, Hamlyn-Harris, 1 ? , QM; Brisbane, Hotel Regatta, 5.iv.1966, J. A. Grant, 1 $ , BMNH; Bun-
 aust_j_zoology/ZO9791015.pdf.txt:district, A. M. Lea, 1 8 , SAM; Cairns, 9.xi.1969, A. Walford-Huggins, 1 ? , BMNH; Cairns, Billingworth
@@ -574,14 +547,12 @@ aust_j_zoology/ZO9791015.pdf.txt:    Christmas I.: BM 1939-40, Dr C. A. Gibson-H
 aust_j_zoology/ZO9791015.pdf.txt:    Malaya: Penang no date, BM 1896-126, collector unknown, 1 8 , BMNH.
 aust_j_zoology/ZO9791015.pdf.txt:    Named material of synonyms of P. lessonii in BMNH: no data, 1 , Conocephalus extensor Walker,
 aust_j_zoology/ZO9791015.pdf.txt:mens in BMNH and am confident that they are lessonii.)
-aust_j_zoology/ZO9791015.pdf.txt:  Conocephalus indicus Redtenbacher, 1891, p. 408. Lectotype 8 , Penang, Malaya, NHMV, here
 aust_j_zoology/ZO9791015.pdf.txt:  India: no data, Himalayas. Sharp, 1 8 ,BMNH.
 aust_j_zoology/ZO9791015.pdf.txt:  Sumatra: Pasir Granting, west coast, 2"S., June 1914, collector unknown, 1 8 , BMNH; Fort de
 aust_j_zoology/ZO9791015.pdf.txt:Kock, 920 m, 1925, E. Jacobson, 1 8 , 1 9 , BMNH.
 aust_j_zoology/ZO9791015.pdf.txt:   Singapore: no data, BM 1906-35, H. N. Ridley. 1 y , BMNH.
 aust_j_zoology/ZO9791015.pdf.txt:identification of a so-called 'type' by G . M. Henry (label information, BMNH) as
 aust_j_zoology/ZO9791015.pdf.txt:        Sound, coll. Capt. Grey, BMNH; examined.
-aust_j_zoology/ZO9791015.pdf.txt:        ? Daniel, NHMV; examined.
 aust_j_zoology/ZO9791015.pdf.txt:L. McK. Burns, 1 9 , WAM; Augusta, 21-23.i.1966, J. A. Grant, 1 y , BMNH; Dillons Bay, 10.i.1976,
 aust_j_zoology/ZO9791015.pdf.txt:J. D. Sandow, 1 8 , UWA; Dunsborough, 25.iv.1976, J. D. Sandow, 4 8,UWA, 3 8 ,BMNH; Doubtful
 aust_j_zoology/ZO9791015.pdf.txt:Cape Hamelin, 25.ii.1976, J. D . Sandow, 2 8 ,UWA, 1 8 , BMNH; New Holland, King George Sound,
@@ -765,7 +736,6 @@ aust_j_zoology/ZO9840573.pdf.txt:  BMNH        British Museum (Natural History),
 aust_j_zoology/ZO9840573.pdf.txt:(BMNH).
 aust_j_zoology/ZO9840379.pdf.txt:Canberra; BMNH, British Museum (Natural History), London; QM, Queensland Museum, Brisbane;
 aust_j_zoology/ZO9840379.pdf.txt:  20, syntypes, Table Cape, 40°56'S., 145"45'E., Tasmania, Mr Dove, BMNH,
-aust_j_zoology/ZO9920035.pdf.txt:virus. This was conducted in accordance with the NHMRC/CSIRO/AAC Code of Practice for the
 aust_j_zoology/ZO9790637.pdf.txt:BMNH. British Museum (Natural History), London; BJ, Jamieson Collection; HM. Zoologisches
 aust_j_zoology/ZO9790637.pdf.txt:(QM G8919), paratype 3 (AM W6649), paratype 4 (BMNH 1979.1.3). Same locality in leaf litter at
 aust_j_zoology/ZO9790637.pdf.txt:  4, paratype 19 QM G8910, posterior field; 5, paratype 1 BMNH 1978.1.14.
@@ -818,11 +788,9 @@ aust_j_zoology/ZO9870173.pdf.txt:Asia: Abu-Ghraib, Iraq, 2 larvae I, 2 larvae I1
 aust_j_zoology/ZO9870173.pdf.txt:    Known from New Zealand, New Caledonia (Jacot-Guillarmod 1970-1975), Greece (BMNH
 aust_j_zoology/ZO9870173.pdf.txt:Queensland, South Australia and Victoria (specimens in BMNH). There are no records of
 aust_j_zoology/ZO9800475.pdf.txt:   BMNH            British Museum (Natural History), London
-aust_j_zoology/ZO9800475.pdf.txt:   NHMV             Naturhistorisches Museum, Vienna
 aust_j_zoology/ZO9800475.pdf.txt:   Holotype and series of paratypes in ANIC; other paratypes in MCZ, BMNH,
 aust_j_zoology/ZO9800475.pdf.txt:    In AM, ANIC, BMNH, MCZ.
 aust_j_zoology/ZO9800475.pdf.txt:   Holotype and series of paratypes in ANIC. Other paratypes in MCZ. BMNH.
-aust_j_zoology/ZO9800475.pdf.txt:  Ectatomma impressum Mayr, 1876. p. 92. Syntype workers, queens, Gayndah, Qld. in NHMV (not
 aust_j_zoology/ZO9800475.pdf.txt:    In AM. ANIC. BMNH. MCSN. MCZ and NMV.
 aust_j_zoology/ZO9800475.pdf.txt:persons for loan of material or access to collections: Mr B. Bolton (BMNH, Lon-
 aust_j_zoology/ZO9880585.pdf.txt:BMNH British Museum (Natural History), London, U.K.
@@ -978,7 +946,6 @@ aust_j_zoology/ZO9821035.pdf.txt:   Holotype, 9, Hillgrove, New South Wales, D r
 aust_j_zoology/ZO9821035.pdf.txt:30.248. 151.54E., Dr Broome, BMNH; 18, Richmond Gap, 28.203. 152.58E., 2.x.1978-22.ii.1979, G.B.&
 aust_j_zoology/ZO98015.pdf.txt:indicated Gilbert series (BMNH xxi.9.a; locality ‘Australia’: Boulenger 1885). However, the
 aust_j_zoology/ZO05039.pdf.txt:History Museum, London (NHM) and the CSIRO Wildlife Collection,               melomys. No trematodes or acanthocephalans were found.
-aust_j_zoology/ZO9910001.pdf.txt:    All work with animals was conducted in accordance with the NHMRCiCSIRO Code of Practice for
 aust_j_zoology/ZO9780001.pdf.txt:                      -               -       Skull                                                              BMNH No. 47.3.5.33
 aust_j_zoology/ZO9780001.pdf.txt:          Bengal                    (33?)"    Skull                                                              BMNH No. 43.8.18.4
 aust_j_zoology/ZO9800301.pdf.txt:      BMNH            British Museum (Natural History), London
@@ -1034,15 +1001,11 @@ aust_j_zoology/ZO9800301.pdf.txt:      in BMNH Colln]
 aust_j_zoology/ZO9800301.pdf.txt:remodesaria Walker, 1862 (Sauris); Ceylon [syn. of hirudinata Guenee in BMNH
 aust_j_zoology/ZO9800301.pdf.txt:      in BMNH Colln]
 aust_j_zoology/ZO9870373.pdf.txt:BMNH         British Museum (Natural History), London
-aust_j_zoology/ZO9870373.pdf.txt:NHMV         Naturhistorisches Museum, Vienna
 aust_j_zoology/ZO9870373.pdf.txt:   Types. Syntypes, Gorontalo and Manado, Sulawesi, 1873, A. B. Meyer, BMNH
 aust_j_zoology/ZO9870373.pdf.txt:H . 0. Forbes, BMNH 1947.2.2.824-6. Holotype of fallax, lost (Daan and Hillenius 1960).
-aust_j_zoology/ZO9870373.pdf.txt:U P 1647    UP 2717        UP 3586       NHMV 16382.1    NHMV 16382.2             ZIV Q216           NHMV 9173        SMF 447 1
-aust_j_zoology/ZO9870373.pdf.txt:voyage, NHMV 16382.1-2 and NHMV 3244.1-7. Holotype of novaebritanniae, [?New
 aust_j_zoology/ZO9870373.pdf.txt:BMNH 1947.2.1.25; paratypes, 2 0 , 19, 5 juv. same data, BMNH 1947.2.1.65-72.
 aust_j_zoology/ZO9870373.pdf.txt:     Types. Syntypes, adult Q , San Cristobal I., Solomon Is, BMNH 55.11.7.26, and adult
 aust_j_zoology/ZO9870373.pdf.txt:D,   Solomon Is, no specific locality, BMNH 71.5.22.10.
-aust_j_zoology/ZO9870373.pdf.txt:      Australia. NHMV: 16382.1, 16382.2 (syntypes). QM: ql-19.
 aust_j_zoology/ZO9870373.pdf.txt:       Timor. BMNH:        1947.2.1.25, 1947.2.1.65-66 (holotype and paratypes of timorensis). UP:
 aust_j_zoology/ZO9870373.pdf.txt:       Irian Jaya: Vogelkop. BMNH: 1971.%LO. RMNH: wail.
 aust_j_zoology/ZO9870373.pdf.txt:       Irian Jaya: Vogelkop. BMNH: 1908.6.30.13-16.
@@ -1573,10 +1536,7 @@ invertsystematics/IT97025.pdf.txt:   Holotype.       BMNH 1908.09.24.043 (fragme
 invertsystematics/IT97025.pdf.txt:   Other material. Andaman Sea: BMNH 1907.08.01.006: same data as holotype. Indonesia: MNHN
 invertsystematics/IT97025.pdf.txt:   Holotype. BMNH 1926.9.3.60. Specific locality unknown, South African coast, probably from the
 invertsystematics/IS05016.pdf.txt:(Walckenaer), N. fenestrata Thorell and N. turneri Blackwall.         BMNH       Museum of Natural History, London, England
-invertsystematics/IS05016.pdf.txt:Amboina), Maluku, Indonesia (3°35′S, 128°20′E) (RMNH and NHMW, not          S28971, S28973); no precise locality (SAM); Palm Jungle, W Dennelli
-invertsystematics/IS05016.pdf.txt:Amboina), Maluku, Indonesia (3°35′S, 128°20′E) (NHMW, not examined).        mouth (QM S28957). Queensland: Amos Bay, near Cooktown (QM
 invertsystematics/IS05016.pdf.txt:BMNH, not examined).                                                        KS33498, KS33639; MV K-3337; QM S28889, S42947, S46670); Cairns,
-invertsystematics/IS05016.pdf.txt:                                                                      (3°35′S, 128°20′E) (NHMW, not examined).
 invertsystematics/IS05016.pdf.txt:                                                                      30.ix.–1.x. no year, J. J. Lister (BMNH 1888.96).
 invertsystematics/IS05016.pdf.txt:135°27′E), Horn Expedition (BMNH 1897.1.18.1); 1 , central Australia,       Cargelligo (AM KS 7836); Lake Cowal (ANIC); Mandurama (AM
 invertsystematics/IS05016.pdf.txt:Montague (BMNH 1924.3.1.242); 1 , same data except 1.vi.1912 (BMNH          Willow Tree, New England Hwy (QM S33687, S33689); Yancannia (MV K-
@@ -1648,8 +1608,6 @@ invertsystematics/IT9950563.pdf.txt:data, 23.iii.1975 (AM, 1); Blackall Range, C
 invertsystematics/IT9950563.pdf.txt:4.i-7.iii.1990, Storey and Halfpapp, malaise trap (QPIM, 1); Kuranda, 18.ii.1909, E. Bryant (BMNH,
 invertsystematics/IT9950563.pdf.txt:1); same, except Feb. 1909 (BMNH, 1); Wongabel S. F., 6 km S of Atherton, malaise trap,
 invertsystematics/IT9950563.pdf.txt:(AAAC), A. C. Ashworth and D. P. Schwert (NDSU), M. J. D. Brendell (BMNH), R. S.
-invertsystematics/IT9911023.pdf.txt:Naturelle, Paris; MVMA: Museum of Victoria, Melbourne, Vic.; NHMV: Naturhistorisches Museum,
-invertsystematics/IT9911023.pdf.txt:   N. lateralis. Holotype. Not located. Inquiries to BMNH, OXUM, MLUH and NHMV. Type
 invertsystematics/IT9911023.pdf.txt:    A. ducens. Holotype. Q , New South Wales, label data: 'New South Wales 54-1.3', in BMNH.
 invertsystematics/IT9911023.pdf.txt:in BMNH. Condition: good, missing right flagellum, right foreleg from trochanter, right midleg
 invertsystematics/IT9911023.pdf.txt:in BMNH. Condition: poor, body covered in fungal hyphae, verdigris around pin, hole in scutellum.
@@ -1659,10 +1617,8 @@ invertsystematics/IT9911023.pdf.txt:unknown, 'W. Australia 47-119 ex Clifton Col
 invertsystematics/IT9911023.pdf.txt:    A. tendens. Lectotype. o , here designated, label data: 'W. Australia 47-109', in BMNH. Con-
 invertsystematics/IT9911023.pdf.txt:   Paralectotype.   Q,   here designated, Western Australia, same label as Lectotype (BMNH).
 invertsystematics/IT9911023.pdf.txt:  A. stria. Holotype. Q , State unknown, label data: 'Australia, Dr A. Sinclair, 45-61', in BMNH.
-invertsystematics/IT9911023.pdf.txt:Holl., Anthrax macroplera (NHMV).
 invertsystematics/IT9911023.pdf.txt:   A. sobria. Holotype. 0 , State unknown, label data: 'Australia, J . Hunter', in BMNH. Condition:
 invertsystematics/IT9911023.pdf.txt:   A . subsenex. Holotype. w , State unknown, label data: 'subsensex', in BMNH. Condition: poor,
-invertsystematics/IT9911023.pdf.txt:Reise, bicolor (NHMV).
 invertsystematics/IT9911023.pdf.txt:   Holotype. 0 , label data: 'S. Australia: Aldgate, 25.xii.1914, A. White', in BMNH. Condition:
 invertsystematics/IT9911023.pdf.txt:   Paratypes.   South Australia, same data as holotype, 3 a 2 9 (BMNH). One a and 1p examined.
 invertsystematics/IT9911023.pdf.txt:    Type material. I have examined the specimens mentioned by Walker (1849) in the BMNH,
@@ -1676,7 +1632,6 @@ invertsystematics/IT9911023.pdf.txt:1910-144', in BMNH. Condition: good, missing
 invertsystematics/IT9911023.pdf.txt:   Holotype. a , State unknown, label data: 'Australia', in BMNH. Condition: poor, greasy, denuded,
 invertsystematics/IT9911023.pdf.txt:   Holotype. o , label data: 'Queensland, F. P. Dodd, 1907-129', in BMNH. Condition: good,
 invertsystematics/IT9911023.pdf.txt:   Other material. Queensland: Herberton, 1 9 (BMNH); Yandina, I Q (UQBA); Lake Broadwater,
-invertsystematics/IT9911023.pdf.txt:lo (AMSA); Syndey, l o (NHMV), l o (SAMA); Pymble, 1 9 (MAMU); Como, l o (MVMA),
 invertsystematics/IT9911023.pdf.txt:Eylandt, 5.iii.1925, G. H. Wilkins'. in BMNH. Condition: fair, denuded, dusted with lepidopteran
 invertsystematics/IT9911023.pdf.txt:   A. cognata. Holotype. u , label data: 'W. Australia, Saunders Coll. 68.4', in BMNH. Condition:
 invertsystematics/IT9911023.pdf.txt:   N. ocellata. Holotype. Not located, inquiries to OXUM, BMNH, MLUH. Edwards (1934) does
@@ -1685,13 +1640,11 @@ invertsystematics/IT9911023.pdf.txt:   Paralectotype.   Q , here designated, 'Ta
 invertsystematics/IT9911023.pdf.txt:   Holotype. 0 , Australia, State unknown, label data: '48 5 N. Holl.', in BMNH. Condition: fair,
 invertsystematics/IT9911023.pdf.txt:Cornptosia moretonii o Macq. n. sp.' in BMNH. Condition: very poor, greasy, mouldy, denuded.
 invertsystematics/IT9911023.pdf.txt:   Holotype. Not located, inquiries to BMNH, OUM and MLUH. As Edwards (1934) saw the type
-invertsystematics/IT9911023.pdf.txt:in NHMV. Condition: very poor; missing: right flagellum, both forelegs except coxae and trochanters,
 invertsystematics/IT9911023.pdf.txt:Macq. ?n+v id D Exot', in BMNH. Condition: poor, missing left hindtarsomeres 4 and 5 , wings
 invertsystematics/IT9911023.pdf.txt:  A sobricula. Holotype. w , State unknown, label data: 'Australia Saunders 68.4', in BMNH.
 invertsystematics/IT9911023.pdf.txt:BMNH, OXUM and HM) (Edwards 1934: 88), and it is a nomen dubium. The description,
 invertsystematics/IT9911023.pdf.txt:  The holotype is apparently lost (inquiries to BMNH, OXUM and MLUH) (Edwards
 invertsystematics/IT9911023.pdf.txt:  Examination of the holotype, in BMNH, reveals that this species belongs to Exoprosopa
-invertsystematics/IT9911023.pdf.txt:QDPI; Mr J. Chainey, BMNH; Dr R. Contreras-Lichtenberg, NHMV; Dr D. Colless, ANIC;
 invertsystematics/IT01025.pdf.txt:millipedes during copulation (Kon et al. 1998). Positive              BMNH The Natural History Museum, Department of Entomology,
 invertsystematics/IT01025.pdf.txt:had described known species as new because they were               Sc. hippias: 1 TMSA, 1 SANC; Sc. augias: 1 BMNH; Sc. adamastor: 1
 invertsystematics/IT01025.pdf.txt:Voucher larvae and females are deposited in UPSA and BMNH.                    of the Scarabaeus (Scarabaeolus) ebenus (Klug, 1885)
@@ -1901,7 +1854,6 @@ invertsystematics/IT9901053.pdf.txt:Western Australia: north-west shelf, NTM W25
 invertsystematics/IT9901053.pdf.txt:Fig. 10. Paralepidonotus indicus, syntype of Lagisca indica (BMNH Z K 1924 3.1.1 11): A , anterior
 invertsystematics/IT9901053.pdf.txt:   The following people kindly provided material on loan, A. Muir (BMNH), P. Hutchings
 invertsystematics/IT9961085.pdf.txt:   BMNH The Natural History Museum, London, England
-invertsystematics/IT9961085.pdf.txt:   NHMW Museum of Natural History, Wrochw University, Wrochw, Poland
 invertsystematics/IT9961085.pdf.txt:   NHML Natural History Museum, Leiden, The Netherlands
 invertsystematics/IT9961085.pdf.txt:Caledonia: AMS C.164351; ANSP 22928, 22933; BMNH 1824 ex Kennard, 1563 ex
 invertsystematics/IT9961085.pdf.txt:    Pfeiffer's and Iredale's original material could not be located; instead topotypes (BMNH ex
@@ -1909,15 +1861,9 @@ invertsystematics/IT9961085.pdf.txt:     Lectotype: SMF 55236. Paralectotypes: S
 invertsystematics/IT9961085.pdf.txt:      Australia. Lectotype: BMNH 1891.11.21.264.Paralectotypes: SAM d.13311. Syn. nov.
 invertsystematics/IT9961085.pdf.txt:those species. Type lots of the supposed Pupa margaretae (SMF 112500, SMF 55236, BMNH
 invertsystematics/IT9961085.pdf.txt:      locality: Milne Bay, Papua, New Guinea. Holotype and paratypes: ANSP 63068. Paratypes: BMNH
-invertsystematics/IT9961085.pdf.txt:     219575 (WA 119), ex 219825 (WA 6), ex 220834 (WA 225); NHMW ex FMNH 219682 (WA 44).
-invertsystematics/IT9961085.pdf.txt:                                                   WA-44, Albert I., Bonaparte Arch., NHMW
-invertsystematics/IT9961085.pdf.txt:     222079 (QLD 66), NHMW ex FMNH 222016.
-invertsystematics/IT9961085.pdf.txt:versions), Professor Dr Andrzej Wiktor, NHMW (for critical comments on the first draft), M s
-invertsystematics/IT9961085.pdf.txt:219682, 1 s; G. stupefaciens, sp. nov., FMNH 219682, 33 s P, NHMW ex FMNH 219682, 10 s Pt;
 invertsystematics/IT9961085.pdf.txt:    292. E Wallaby I.; G. margaretae BMNH 1891.11.21.264-9, 6 s (Lt & Plt of wallabyensis).
 invertsystematics/IT9961085.pdf.txt:    4.   Bet I., Torres Strait; G. macdonnelli ANSP 115542,3 s (St of macleayi);BMNH ex Beddome, 5 s.
 invertsystematics/IT9961085.pdf.txt:    9.   Torres Strait, Admiralty; G. macdonnelli BMNH, 1 s.
-invertsystematics/IT9961085.pdf.txt:G. solemorum, sp. nov., QM ex FMNH 222016, 21 s Pt; FMNH 222016, 102 s Pt; NHMW ex FMNH
 invertsystematics/IT9961085.pdf.txt:Boettger, 2 s; BMNH ex Kennard, 3 s; BMNH 2172 ex Salisbury, 5 s; BMNH ex Ponsonby, 2 s.
 invertsystematics/IT9961085.pdf.txt:G. mussoni: FMNH ex 48818, 3 s, G. macdonnelli: BMNH 1563 ex Macandrew, 3 s; BMNH 2172 ex
 invertsystematics/IT9961085.pdf.txt:Salisbury, 3 s; BMNH ex Ponsonby, 5 s.
@@ -2061,15 +2007,11 @@ invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        CE        Uv
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        CE        Western         Labugama, Colombo distr.         Stubbs, A. E.;     1w            18.ii.1974                                                               06º41'N 080º03'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        CH        Guangdong     Ding-Hu Mts., 60km W               Boucek             3w            .vi.1983; 1st worker with PLI 0.489.                                  23º10'N 112º32'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        ID        Jawa Barat   Tjibodas                            Bolton, B.         1w            22.x.1973. Petiole robust, PLI 0.569.                                 06º45'S 107º01'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        ID        Jawa Tengah   Sigaluh                            Hamann             1w                                                                                  07º23'S 109º45'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        ID        Maluku        Pulau Bacan [as "Batchian"]        c.u.               1w                                                                                  00º35'S 127º30'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        ID        Nusa        Sumba: Waimangura              Exp. Bühler-     1w                                                                                  09º30'S 119º14'E       NHMB
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        ID        Sumatera    D. Tolong                      Modigliani, E.   2w                                                                                  02º17'N 099º01'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Assam       Kaziranga, 75m                 Wittmer, W.;     2w                                                                                  26º35'N 093º25'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Karnataka   25km W Mudigere                Noyes, J.        3w             3.xi.1979                                                            13º04'N 075º27'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Karnataka   Dharwad                        "G. R."          2w             28.vi.1979                                                           15º28'N 075º01'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Kerala        Periyar                           Noyes, J.        1w            15.x.1979                                                          09º32'N 077º12'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Maharashtra   Poona                             c.u.             1w                                                                               18º32'N 073º52'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Meghalaya     Barapani Old Road, 1000m          Wittmer, W.;     6w                                                                               25º40'N 091º53'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Meghalaya     Darugiri, Garo Hills, 450m        Wittmer, W.;     1w                                                                               25º38'N 090º45'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Meghalaya     Shillong                          Wittmer, W.;     3w                                                                               25º34'N 091º53'E       NHMB
@@ -2079,18 +2021,13 @@ invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Si
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Sikkim        Rangeli R., 900m                    Bhakta B.        2w                                                                                   27º12'N 088º43'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Tamil Nadu    Mudumalai Anim. Sanct.             Noyes, J.         1w          24.x.1979.                                                               11º37'N 076º34'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        Tamil Nadu    Valparai                           Noyes, J.         2w, 1dq     22.x.1979                                                                10º22'N 076º58'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        West Bengal   Calcutta                           c.u.              2w                                                                                   22º32'N 088º22'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        IN        West Bengal   Calcutta                           c.u.              1w          No date. Old specimen with round label, "Calcutta" on one side and       22º32'N 088º22'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        LA        Vientiane     Phou Khao Khouay NP, env. Tad      Schillhammer      2w          1-8.vi.1996; HW's 0.680, 0.717.                                          18º22'N 103º06'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        NP        Bagmati       Bajra Barai, Kathmandu V.          Wittmer, W.;      2w                                                                                   27º40'N 085º23'E   C   NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        NP        Bagmati       Godavari, 1450m                    Wittmer, W.;      5w                                                                                   27º36'N 085º24'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        NP        Bagmati       Gokarnaban, Kathmandu              Wittmer, W.;      3w                                                                                   27º43'N 085º24'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        NP        Gandaki        Pokhara, 820m                       Wittmer, W.;     1w                                                                                28º14'N 083º59'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        PP        Madang         Madang [as "Friedrich- Wilh.-       Biró             1w             Year: 1901                                                         05º13'S 145º48'E       HNHM
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        RP        Laguna         Mt. Makiling, above Mad Springs,    Kodada, J.       1w             19-22.xi.1995, degraded rainforest                                 14º08'N 121º12'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        RP        Masbate        3.5km SE Masbate, Tugbo,            Zettel, H.       1w             2.iii.1998                                                         12º20'N 123º37'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        SN                       Mandai                           Murphy, D. H.     3w             2.x.1978. PLI ca. 0.54.                                          01º25'N 103º45'E         BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        TH        Krabi          Ao Nang                          Madl              4w                                                                              08º02'N 098º50'E         NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans        TW        Nantou        Ts'ui-feng [as "Tsuey Feng"]    Gauld, I. D.       1w          18.viii.1979. Slender petiole, PLI 0.479.                   24º06'N 121º12'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans-        CH        Hainan       Tien Fong Mts.                  Boucek            1w          .v.1983. HW 0.657.                                               18º43'N 108º52'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   allaborans-         ID        Sulawesi    Dumoga-Bone N.P., 200-400m        Hammond, P. M. 3w                8.ii.1985. Fog, Plot B. Lowland forest.                                 00º30'N 123º25'E       BMNH
@@ -2099,14 +2036,12 @@ invertsystematics/IT01001_AC.pdf.txt:allaborans   apiculata           MY        
 invertsystematics/IT01001_AC.pdf.txt:allaborans   bita                BX                    Labi                              Gauld, I.          1w            viii.1979                                                               04º23'N 114º26'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   brevis              MY        Negeri      Pasoh For. Res.                   Brendell, M.; et   1w            xi.1994. Holotype worker of brevis Ward. Other collectors are: K.       03º00'N 102º20'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   connectens          TH        Phang Nga   Khao Lak N.P., Thone Chong Fa     Schulz, A.;        1w            15-16.i.1998; canopy fogging, hilltop dipterocarp forest; "T6";         08º40'N 098º18'E   L   BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   connectens          TH        Phangnga    Khao Lak N.P., Thone Chong Fa     Schulz, A.;        2w            15-16.i.1998; canopy fogging, hilltop dipterocarp forest; "T6";         08º40'N 098º18'E   L   NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   crassiuscula        MY        Negeri      Pasoh For. Res.                   Brendell, M.; et 2w              xi.1994, fog sample S-26. Collectors are M. Brendell, K. Jackson, S.    03º00'N 102º20'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata           BX                      Bukit Sulang, nr. Lamunin        Stork, N. E.       2w, 1dq     20.viii.-10.ix.1982; fogging sample.                                  04º39'N 114º44'E        BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata           MY        Negeri        Pasoh For. Res.                  Brendell, M.; et   5w          iii-iv.1994. Other collectors are: K. Jackson, L. Ficken. Fog samples. 03º00'N 102º20'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata           MY        Negeri        Pasoh For. Res.                  Brendell, M.; et   3w          xi.1994. Other collectors are: K. Jackson, S. Lewis. Fog sample S-    03º00'N 102º20'E        BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata         MY        Sarawak      G. Mulu Nat. Pk.                  Bolton, B.       2w            20.x.1977; lowl. rainfor., on tree; with "RGS Expd. Long Pala" also   04º00'N 114º50'E   C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata         MY        Sarawak      G. Mulu Nat. Pk.                   Eastop, V. F.   1w            vi.1978                                                               04º00'N 114º50'E   C   BMNH
-invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata         RP        Bukidnon     Malaybalay, Kaamulan Site, 650m Zettel, H.         4w            12.xi.1996                                                            08º09'N 125º05'E   C   NHMV
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata         SN                     Bukit Timah, 100m                 Ward, P. S.      1w            20.xi.1988; holotype of extenuata Ward (Ward#9570)                    01º21'N 103º47'E   L   BMNH
 invertsystematics/IT01001_AC.pdf.txt:allaborans   extenuata         TH        Nakhon       Sakaerat Exp. Sta.                Franz, I.         1w                                                                             14º35'N 102º01'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:allaborans   modesta      ?    MY        Sabah        Danum Valley                      Eggleton, P.      1w          xi.1986; for.; dark worker                                         04º58'N 117º48'E       BMNH
@@ -2120,42 +2055,29 @@ invertsystematics/IT01001_AC.pdf.txt:allaborans   modesta           MY        Sa
 invertsystematics/IT01001_AC.pdf.txt:allaborans   modesta           SN                     Singapore                         Overbeck, H.       1w          Syntype worker of fulva (Viehmeyer)                                       01º17'N 103º51'E   C   NHMB
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BM        Kachin           Bhamo                          Bingham                1w            .iii.1899. Labeled "U. Burma/Bhamo/3-99/Bingham".                     24º16'N 097º14'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BM        Mandalay         Maymyo, 3000ft.                    Bingham            1w            .v.1899. Labeled "Upper Burma/Maymyo/3000ft-5-99/Bingham".            22º02'N 096º28'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BM        Sagaing          Chattin Wildlife Sanctuary, 200m   Schillhammer       5w            5-17.x.1998                                                           23º32'N 095º39'E   L   NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BM        Sagaing          Tanbya [as "Tanbaiyah"]            c.u.               1w            .x.1943. Labeled "Tanbaiyah/Burma/Oct. 1943"                          22º17'N 095º10'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BM        Tanintharyi      Mergui                             Bingham            1w            .x.1897. Labeled "Sima/fergusoni/For." and "Lower                     12º26'N 098º36'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BM        Tanintharyi      Tenasserim, Thagata                Fea                1w                                                                                  16º09'N 098º31'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BX                         Bukit Sulang, nr. Lamunin          Stork, N. E.       8w            20.viii.-10.ix.1982; fogging samples                                  04º39'N 114º44'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           BX                         K. Belalong, 300m                  Mawdsley, N.       1w            viii.1991; mixed dipt. for., Dryobalanops beccarri , fog sample       04º34'N 115º07'E   L   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           CH        Hainan       Tien Fong Mts.                   Boucek             1w          .v.1983.                                                           18º43'N 108º52'E      BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           ID        Jawa Barat   Cibodas [as "Tjibodas"], 1400m   Hamann, H. H.      1w                                                                             06º45'S 107º01'E      NHMV
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           LA        Sekong      Bolavens-Pl., N-slope, ca. 10km   Schillhammer       4w             29-30.v.1996                                                         15º30'N 106º26'E         NHMV
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           LA        Vientiane   Phou Khao Khouay NP, env. Tad Schillhammer           1w             1-8.vi.1996                                                          18º22'N 103º06'E         NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Negeri      Pasoh For. Res.                   Brendell, M.; et   7w             iii-iv.1994. Other collectors are: K. Jackson, L. Ficken. Fog samples. 03º00'N 102º20'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sabah       Crocker Range NP, Mawar           c.u.               1w             17.vi.1996                                                           04º21'N 117º50'E     C   NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      "Sar."                            c.u.             1w          Syntype worker (unique?) of attenuata F. Smith; labeled "Sar.",                                BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      G. Mulu Nat. Pk.                  Hollis, D.;      1w          .x.1977; Malaise trap, lowland rainfor.; with "RGS Expd. Long Pala"   04º00'N 114º50'E     C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      Gn. Mulu N.P.                     Collins, M.      3w, 2dq     .v.1978; limestone for.                                               04º00'N 114º50'E     C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      Gn. Mulu N.P., Melinau Gorge      Wanless, F.      1w          17.v.1978                                                             04º03'N 114º50'E         BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      Kelabit Highland, 1000-1200m,     c.u.             1w                                                                                03º45'N 115º27'E     C   NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      Mt. Matang                      Bryant, G. E.      1w          .i.1914                                                               01º36'N 110º11'E         BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Sarawak      Mulu NP                         Zettel, H.         1w                                                                                04º00'N 114º50'E     C   NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Selangor     Gombak                            Bolton, B.       3w          7.x.1973                                                              03º18'N 101º47'E         BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           MY        Selangor     Serdang [missp. as "Serdano"]     c.u.             3w          7.i.1982. Label partly illegible ("Malaysia/Serdano[?]/7.I.1982/Prad. l 03º02'N 101º43'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           RP        Palawan        Irawan                          Martin, J. H.      2w          21.i.1988                                                             09º48'N 118º41'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           TH        Chiang Mai     Chiang Mai                      Jackson, D.        3w          12.vii.1975                                                           18º47'N 098º59'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           TH        Phangnga       Khao Lak N.P., Thone Chong Fa   Schulz, A.;        6w          15-16.i.1998; canopy fogging, hilltop dipterocarp forest; 4w: "T1",   08º40'N 098º18'E   L   NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           TH        province       Tenasserim Border               Gairdner, K. G.    3w          13.iii.1914. Labeled "Siam/Tenasserim/Border./13.3.1914/K. G.                                BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           TH        Satun         Thale Ban NP                      Madl               4w                                                                                 06º44'N 100º10'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:nigra        attenuata           TH        Satun         Thale Ban NP, 20-30km E Satun,    Schulz, A.;        1w          1-4.i.1996                                                             06º44'N 100º10'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            BM        Mon              Moulmein                        Bingham           1w            vii.1897.                                                              16º30'N 097º38'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            BM        Mon              Ye Valley                       Bingham           2w            Syntype workers of binghami (Forel); labeled "N.                       15º15'N 097º51'E       NHMB
-invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            BM        state/division   "Birmanien"                     c.u.              1w                                                                                                          NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            BM        Tanintharyi      Mergui                          Bingham         1aq             .vii.1897                                                              12º26'N 098º36'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            BT                         Phuntsholing, 200-400m          NHMB - Bhutan 1w                                                                                       26º51'N 089º23'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            CH        Hong Kong        "Hong Kong"                     Walker, J. J.     1w            ii-v.1893. Labeled "Hong Kong./J. J. Walker./Feb.-May./93 . 145".      22º15'N 114º11'E      BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            IN        Assam            "Assam"                         c.u.              1w            Syntype worker of lindgreeni (Forel)                                                          NHMB
 invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            IN        West Bengal      Tukvar, 4000ft.                 Mallet; Bingham   1w            .iii.1902. Labeled "Sikkim/Tukvar/4000 ft 3/02/Mallet/Bingham"         27º02'N 088º16'E   C   BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        binghami            TH        Mae Hong     15km NW Pai, 700m               Schulz, A.;        3w            5.i.1995                                                              19º26'N 098º21'E        NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        buops               BX                     Bukit Sulang, nr. Lamunin       Stork, N. E.       3w            20.viii.-10.ix.1982; holotype and paratypes of buops Ward; fogging 04º39'N 114º44'E           BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          BX                     Andalau, 50m                    Mawdsley, N.       1w            viii.1991; mixed dipt. for., Dryobalanops beccarri , fog sample       04º40'N 114º30'E    L   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          BX                     Bukit Sulang, nr. Lamunin       Stork, N. E.       1w                                                                                  04º39'N 114º44'E        BMNH
@@ -2163,7 +2085,6 @@ invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          BX        
 invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          MY        Negeri       Pasoh For. Res.                  Brendell, M.; et   2w             iii-iv.1994. Other collectors are: K. Jackson, L. Ficken. Fog sample 2- 03º00'N 102º20'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          MY        Sarawak     Gn. Mulu N.P.                     Hanski, I.         1w                                                                                   04º00'N 114º50'E     C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          RP        Leyte        Baybay                           Vane-Wright, R.     15w                                                                               10º41'N 124º48'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        difficilis          TH        Satun         Thale Ban N.P., 50m               Schulz, A.;          2w          1-5.i.1998; workers small, HW 0.80; REL2 0.48, EL/FL 0.56.         06º42'N 100º07'E   L   NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        inversinodis        MY        Sabah         Danum Valley                      Eggleton, P.         3w          xi.1986; for.                                                      04º58'N 117º48'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        inversinodis        MY        Sabah         Kota Kinabalu                     Lowery, B. B.        2w, 1aq     14.x.1978, mangroves; paratypes inversinodis Ward; ANIC Ants       05º59'N 116º04'E   L   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        inversinodis        MY        Sarawak       G. Mulu Nat. Pk.                Bolton, B.          1w            18.ix.1977; lowl. rainfor., on shrub; with "RGS Expd. Long Pala" also   04º00'N 114º50'E   C   BMNH
@@ -2182,18 +2103,11 @@ invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               CE        
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               CE        Uva           Bibile                        Winney, R.         2w             9.viii.1963; Univ. London Ceylon Expdn.                                07º10'N 081º13'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Kerala        Calicut                           Rosy, A. P.        9w           26.x.1979                                                        11º15'N 075º46'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Maharashtra   Bombay                            Downes             1dq          Apparent holotype (by monotypy) of atrata F. Smith.              18º58'N 072º50'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Maharashtra   Poona                             Wroughton          1w,1q                                                                         18º32'N 073º52'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        state unknown "India"                            Cameron             1w                                                                                                          NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Tamil Nadu    Dohnavur, Tinnevelly Dist., 350 ft. B.M.-C.M.          1w            5.x.1938                                                               08º28'N 077º35'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Tamil Nadu    Mudumalai Anim. Sanct.              Noyes, J.          2dq           24.x.1979. Relatively broad heads, CI 0.82.                            11º37'N 076º34'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Uttar Pradesh vic. Rajaji N.P., 10km NW          Schulz, A.;         3w            11.x.1996                                                              30º10'N 078º13'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        Uttar Pradesh vic. Rajaji N.P., 10km SE Dehra    Schulz, A.;         6w            10.x.1996                                                              30º19'N 078º05'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        West Bengal    Calcutta                          c.u.                1w            No date. Old specimen with round label, "Calcutta" on one side and     22º32'N 088º22'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        West Bengal    Calcutta                          Rothney             4w            Only 1 pin (of 4) with collector name.                                 22º32'N 088º22'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               IN        West Bengal    Calcutta                          Rothney             2w            No date. Labeled "Calcutta/Rothney" and "Ind. Mus./79.64".             22º32'N 088º22'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               MY        Negeri         Pasoh For. Res.                   Brendell, M.; et    1w            xi.1994. Other collectors are: K. Jackson, S. Lewis. Fog sample 3-     03º00'N 102º20'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               TH        Phangnga     Khao Lak                        Schulz, A.;             7w          19.i.1995                                                         08º38'N 098º15'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:nigra        nigra               TH        Satun        Thale Ban NP, 20-30km E Satun, Schulz, A.;              8w          1-4.i.1996                                                        06º44'N 100º10'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              BX                     Labi                               Gauld, I.          1w              viii.1979; MSC ca. 14, CSC 4.                                       04º23'N 114º26'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              CE        Central      Kandy                              Bingham            1dq             .iii.1901                                                           07º18'N 080º38'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              ID        Nusa          Sumba: Melolo                     Exp. Bühler-      2w                                                                                  09º53'S 120º40'E       NHMB
@@ -2201,12 +2115,9 @@ invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              IN        
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              IN        Andaman &     Andaman Is.                       Rogers, G.        1w           30.v.1904. MSC 9 (other setae obscured by glue).                                              BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              IN        Andaman &     S. Andaman Is.                    Rogers, G.        1w           .ii.1904. MSC ca. 21                                                   11º45'N 092º45'E   C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              IN        Kerala        Travancore                        Ferguson          1w           Syntype worker of longiceps (Forel)                                    09º30'N 076º30'E   C   NHMB
-invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              MY        Melaka       Melaka [as "Malacca"]             Saida              1q            Label: "Malacca/1885/Saida"                                02º12'N 102º15'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              MY        Sabah        Danum Valley                      Eggleton, P.       4w            xi.1986; for.; MSC varies: 2, 3, ca. 9, ca. 20; CSC 1-2.   04º58'N 117º48'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              MY        Terengganu   P. Perhentian Besar               Madl               1w                                                                       05º54'N 102º46'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              PP        National      Port Moresby, Paga Hill             Mann, A.; Szent- 3w            23.v.1965                                                             09º29'S 147º08'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              RP        Leyte         Baybay                              Vane-Wright, R. 9w                                                                                   10º41'N 124º48'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        nitida              TH        Krabi          Noppharat Thara                      Madl               2q                                                                                 08º02'N 098º48'E        NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        notabilis           MY        Negeri         Pasoh For. Res.                      Brendell, M.; et   1w          iii-iv.1994, fog sample 2-34; collectors: M. Brendell, K. Jackson, L.   03º00'N 102º20'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        notabilis           TH        Nakhon         Sakaerat lowland                     Yamane, S.         1w          10.vii.1999; holotype worker of notabilis Ward                          14º35'N 102º01'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        polita              MY        Sabah    Danum Valley                    Yamane, S.        1w          30.viii.1995; paratype polita Ward                                   04º58'N 117º48'E       BMNH
@@ -2218,7 +2129,6 @@ invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Indooroopilly                     Boucek, Z.        w                                                       27º30'S 152º59'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Mackay                              Turner           2w          Under "laeviceps " in NHMB colln.                              21º09'S 149º11'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Mackay                              Turner, R. E.    w, dq                                                                      21º09'S 149º11'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Rockhampton                           c.u.            7w, 1q, 1m                                                                        23º23'S 150º30'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Townsville                           Dodd, F. P.      w                                                                                 19º16'S 146º48'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Townsville                           Dodd, F. P.      3w, 1aq         Under "laeviceps " in NHMB colln.                                 19º16'S 146º48'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        Qld      Townsville                            Wheeler, W. M. w                                                                                  19º16'S 146º48'E       BMNH
@@ -2227,71 +2137,49 @@ invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        
 invertsystematics/IT01001_AC.pdf.txt:nigra        punctulata          AS        WA         Parry Harbour                        Walker, J. J.      w                                                                                14º01'S 126º05'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        rotula              AS        Qld          4km ENE Cairns, <5m                 Ward, P. S.       1w            17.i.1989; Ward#10002;        paratype rotula Ward                16º55'S 145º48'E   L   BMNH
 invertsystematics/IT01001_AC.pdf.txt:nigra        rotula              PP        Madang       Laing Is., Bogia                    Pasteels, J.      6w            10.v.1984                                                         04º11'S 144º52'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra        rotula              unknown                "N. Guinea"                         c.u.              1w,1q                                                                                                  NHMV
 invertsystematics/IT01001_AC.pdf.txt:nigra         tucurua             AS        Qld          11km SSE Miriam Vale, 120m         Ward, P. S.        2w          5.i.1989; Ward#9884; paratypes tucurua Ward                           24º26'S 151º36'E   L   BMNH
-invertsystematics/IT01001_AC.pdf.txt:nigra         vivax               ID        Jawa Barat  Bogor                               Hamann             1q                                                                                06º35'S 106º47'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              BX                    Bukit Sulang, nr. Lamunin           Stork, N. E.       5w                                                                                04º39'N 114º44'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              ID        Bengkulu    Bengkulu [as "Benculen"]            Modigliani, E.     1w                                                                                03º48'S 102º16'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              ID        province     "Sumatra"                          Jacobson           1w                                                                                                       NHMB
-invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY        Sabah        Crocker Range NP, Mawar             c.u.               2w            17.vi.1996                                                      04º21'N 117º50'E   C   NHMV
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY        Sarawak      G. Mulu Nat. Pk.                    Bolton, B.         1w                                                                            04º00'N 114º50'E   C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY        Sarawak      G. Mulu Nat. Pk.                    Collins, M.        4w                                                                            04º00'N 114º50'E   C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY        Sarawak      G. Mulu Nat. Pk., Melinau Gorge     Wanless, F.        1w                                                                            04º03'N 114º50'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY        Sarawak        Mt. Dulit, R. Koyan, 2500 ft. Hobby, B. M.;          1w                                                                            03º17'N 114º12'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY        Terengganu     P. Perhentian Besar           Madl                   4w                                                                            05º54'N 102º46'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              MY?                     "Borneo"                           c.u.             1w           Syntype worker (unique?) of pilosa (F. Smith); labeled "Borneo"                                 BMNH
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              SN                      Singapore                          Overbeck, H.     1w, 1q, 1m                                                                            01º17'N 103º51'E   C   NHMB
 invertsystematics/IT01001_AC.pdf.txt:pilosa        pilosa              TH?       province      "Siamese Malay States"         Annandale;           1aq          Siamese Malay States 1903-127                                                                   BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra     rufonigra           BG        Chittagong    Chittagong                     Ross, E. S.;                                                                                               22º20'N 091º50'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra     rufonigra           BG        Dhaka         Dacca                          Leston, D.           1w           26.v.1945. Labeled "India/Dacca/26.v.1945./D. Leston./B.M.1945-          23º43'N 090º25'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra     rufonigra           BM        Ayeyarwady    Res. Forest Area, near Kadonkini   Jackson, J. B.   1w           No date, but last line of label: "B.M.1939-621."                         15º49'N 095º13'E   C   BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra     rufonigra           BM        Kachin        Bhamo                              Fea              1w                                                                                    24º16'N 097º14'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra     rufonigra           BM        Mandalay      Mandalay Maymyo Rd., 2000ft.       Bingham          1w           .iv.1899. Labeled "U. Burma/Mandalay/Maymyo Rd./2000ft                   21º52'N 096º20'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          BM        Sagaing         Chattin Wildlife Sanctuary, 200m   Schillhammer       4w          5-17.x.1998                                                         23º32'N 095º39'E   L   NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          BM        Tanintharyi     Tenasserim, Ataran                 Bingham            1w          .iv.1898. Labeled "L. Burma/Tenasserim/Ataran/4.98 Bingh".          16º31'N 097º40'E   C   BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          BM        Yangon          Rangoon                            Fea                3w                                                                              16º47'N 096º10'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          BT                        Phuntsholing                       NHMB - Bhutan                                                                                      26º51'N 089º23'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          BT                        Samchi                             NHMB - Bhutan                                                                                      26º52'N 089º06'E       NHMB
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        Central         Nalanda                            Pagel              2w                                                                              07º40'N 080º39'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        district        "Ceilon"                           Sichel             1w                                                                                                     NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        district        "Ceylon"                           c.u.               1w          Old specimen, with pale round label: "Ceylon".                                             BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        North Central Mihintale                            Stubbs, A. E.;     2w          20.ii.1974. Mesosoma infuscated.                                    08º21'N 080º30'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        North Eastern Nunaragala, Maha-Oya Dist.        Winney, R.         1w          17.viii.1963; Univ. London Ceylon Expdn. Mesosoma partially       07º29'N 081º26'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        North Western Lunuwila                          Bolton, B.         3w          11.i.1988                                                         07º21'N 079º52'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          CE        Southern       Hambantota                       "T. B. F."         1w          14.iii.1908                                                       06º07'N 081º07'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          ID        Jawa Barat   Pelabuhanratu [as                  Hamann             3w                                                                            06º59'S 106º33'E      NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          ID        Jawa Barat   Salatri                            Walsh, K. M.       1aq         .i.1938                                                           07º25'S 106º55'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          ID        Jawa Barat   Tjisolok [as "Tjisotok"]           Hamann             2w                                                                            06º57'S 106º26'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          ID        Sumatera      Labuhanbilik [as "Labouan Bilik"]   Surbek, K.                                                                                    02º31'N 100º10'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          ID        Sumatera      Medan                               Fulmek, L.                                                                                    03º35'N 098º40'E       NHMB
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Andaman &     Car Nicobar Island [as "Kar         c.u.              1w                                                                          09º10'N 092º47'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Andaman &     Nicobar Is.                         Rogers, G.        2w          Labeled "Nicobar Is./G. Rogers/1906-203."                       07º00'N 093º52'E   C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Assam         "Assam"                             Badgley, W. F.    1w          Labeled "Assam./W. F. Bladgley./1906-185."                                             BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Assam         Gauhauti                            Wittmer, W.;                                                                                  26º11'N 091º44'E       NHMB
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Kerala        Periyar Sanctuary, vic. Thekkady, Schulz, A.;       7w          2-5.i.1997                                        09º32'N 077º12'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Kerala        Tenmalai, Travancore, 500-800 ft. B.M.-C.M.         1dq         11-17.x.1938                                      08º58'N 077º07'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Kerala        Thekkadi, Periyar Dam,            B.M.-C.M.         1w          6-10.v.1037                                       09º36'N 077º12'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Maharashtra   Deesa, Bombay                     Nurse, C. G.      1w          Labeled "Deesa,/Bombay./C. G. Nurse./1913-139."   18º58'N 072º50'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Meghalaya     Songsak, Garo Hills               Wittmer, W.;                                                                    25º39'N 090º36'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Tamil Nadu      10mi NW Satyamangalam               Ross, E. S.;                                                                                      11º35'N 077º08'E        NHMB
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Tamil Nadu      Coimbatore                          c.u.               1w                                                                             11º00'N 076º58'E        NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Tamil Nadu      Dohnavur, Tinnevelly Dist., 350 ft. B.M.-C.M.          1w          1.x.1938                                                           08º28'N 077º35'E        BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Tamil Nadu      Mudumalai Anim. Sanct.             Noyes, J.           3w          24.x.1979                                                          11º37'N 076º34'E        BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Tamil Nadu      Muthikolam, Coimbatore Dist.,      B.M.-C.M.           1w          23-26.ix.1938                                                      11º00'N 076º58'E    C   BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Uttar Pradesh Dimli Pass, Sivalik Hills            Wittmer, W.                                                                                                                NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Uttar Pradesh Kheri Forest                         "H. G. C."          1w          .ii.1916. Labeled "Kheri Forest,/U.P.,India./2.'16. H.G.C."        28º07'N 080º43'E    C   BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        Uttar Pradesh vic. Rajaji N.P., 10km SE Dehra      Schulz, A.;       5w            10.x.1996                                                          30º19'N 078º05'E        NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         Brunetti, E.       1w          14.xi.1904                                                          22º32'N 088º22'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         c.u.               3w                                                                              22º32'N 088º22'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         c.u.                                                                                               22º32'N 088º22'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         c.u.               1w          No date. Labeled "Calcutta" and "Smith Coll./Pres. by/Mrs. Farren   22º32'N 088º22'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         Rothney            2q                                                                              22º32'N 088º22'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         Rothney            1w          No date                                                             22º32'N 088º22'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         Schulthess/Rech    2w                                                                              22º32'N 088º22'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Calcutta                         Stolizka           8w                                                                              22º32'N 088º22'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          IN        West Bengal    Darjeeling                       Bates                                                                                              27º02'N 088º16'E       NHMB
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          LA        Champasak      Bolavens Plateau, M. Paksong -   Schillhammer       8w          26-27.v.1996                                                        15º11'N 106º23'E   C   NHMV
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          MY        Kedah          P. Langkawi, Tarjung Rhu         Madl               1w                                                                              06º22'N 099º48'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          MY        Perak          Gedong, Batang Padang            Annandale;         1w          11.i.1902                                                           04º07'N 101º18'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          MY        Perak          Parit Buntar                     c.u.                                                                                               05º07'N 100º30'E       NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          MY        Perak          Teluk Intan [as "T. Intan"]      Khoo, K. C.        2w          13.ii.1986                                                          04º02'N 101º01'E       BMNH
@@ -2304,13 +2192,9 @@ invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          NP        Ga
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          NP        Janakpur      Jiri-Thodung                    Wittmer, W.;                                                                                        27º37'N 086º18'E         NHMB
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          SE                      Silhouette                      Percy Sladen       3w            Year: 1908.                                                          04º29'S 055º14'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          SN                      Bukit Panjang                   Abraham, H. C.                                                                                      01º22'N 103º45'E         NHMB
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          TH        Chiang Mai    W Mae Rim, Mae Sa NP, Mae Sa Zettel, H.           14w                                                            18º54'N 098º53'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          TH        Krabi         Noppharat Thara                  Madl             5w                                                             08º02'N 098º48'E       NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          TH        Krung Thep    Bangkok [as "Bankok"]            Hillman, H.      1w          No date, but last line of label: "B.M.1928-366."   13º45'N 100º31'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          TH        Krung Thep    Wat Salak                        Ladell, W. R. S. 1w          22.vi.1926                                         13º45'N 100º30'E       BMNH
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          TH        Nakhon        Nong Hoi                         Jackson, D.      2w          25.vii.1975                                        14º59'N 102º17'E       BMNH
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          TH        Tak           Lan Sang NP [as "Larnsang NP"] Madl               1w                                                             16º47'N 099º04'E       NHMV
-invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          VM        province    Phjöng-san, Annam        c.u.              40w, 1m                                                                                               NHMV
 invertsystematics/IT01001_AC.pdf.txt:rufonigra   rufonigra          VM        Yen Bai     Yen Bai [as "Yen Bei"]   Fouquet                                                                                          21º42'N 104º52'E       NHMB
 invertsystematics/IT9870017.pdf.txt:Swan River; Fremantle. Specimens deposited in AMSA, BMNH, CLBC, NMVA, SAMA and WAMA.
 invertsystematics/IT9870017.pdf.txt:Mt Barrow; NE. New River Lagoon; Strahan. Specimens examined from: AMSA, ANIC, BMNH,
@@ -2414,7 +2298,6 @@ invertsystematics/IT9941017.pdf.txt:   Holotype.    8 , Dedari, Western Australi
 invertsystematics/IT9941017.pdf.txt:Evans (JWE); 1 6 , Barren Grounds, 23.ix.1961, M. I. Nikitin, B.M. 1962-101 (BMNH); I d , Cabramatta,
 invertsystematics/IT9941017.pdf.txt:11.i.1959, M. 1. Nikitin, B.M. 1959-43 (BMNH); 3 9 , same data as holotype (UQ).           Tasmania: 2 6
 invertsystematics/IT9960213.pdf.txt:     NHM        Natural History Museum, London
-invertsystematics/IT9960213.pdf.txt:    NHMV        Naturhistorisches Museum, Vienna
 invertsystematics/IT9960213.pdf.txt:(NHM) who studied the type of Acinia fuscata Macquart in MNHP and sent a photograph of
 invertsystematics/IT9960213.pdf.txt:BPBM, MSU, NHM, NMVM, NSWA, UH, UQM.
 invertsystematics/IT9960213.pdf.txt:   Holotype. d , WA, Dongarra, 23.viii-5.ix.1935,R. E. Turner, NHM.
@@ -2424,7 +2307,6 @@ invertsystematics/IT9960213.pdf.txt:by F. A. Perkins for a specimen in the NHM b
 invertsystematics/IT9960213.pdf.txt:  Holotype. 8 ,Tas., Bagdad, 14.xii.1912,A. White, NHM.
 invertsystematics/IT9960213.pdf.txt:  Paratype. Tasmania: Allotype P , same data as holotype, 2.iii.1913, NHM.
 invertsystematics/IT9960213.pdf.txt:calendulae and Waitzia acuminata, I. M. White. Paratypes in ANIC, BPBM, MSU, NHM, QDPI, UH.
-invertsystematics/IT9960213.pdf.txt:   Trypeta bullarzs Wiedemann, 1830: 506. Syntypes in NHMV.
 invertsystematics/IT9960213.pdf.txt:   Tephrella sexirtcisa Malloch, 1939b: 272. Holotype d in NHM.
 invertsystematics/IT9960213.pdf.txt:MSU, NHM, NMVM, NSWA, QDPI, UH, UQM.
 invertsystematics/IT9960213.pdf.txt:  One 4,Mt Wellington, 375-675 m, S Tasmania, 15.i-6.ii.1913, R. E. Turner, NHM.
@@ -2444,12 +2326,10 @@ invertsystematics/IT9960213.pdf.txt:   Specimen in NHM.
 invertsystematics/IT9960213.pdf.txt:   Paratypes in AMS, ANIC, BPBM, MSU, NHM, NMVM, NSWA, QDPI, TAMU, UH, UQM.
 invertsystematics/IT9960213.pdf.txt:     Trypeta amplipennis Walker, 1860: 159. Holotype P in NHM.
 invertsystematics/IT9960213.pdf.txt:Stephen Is, Torres Strait, 21.iii.1984, J. Turner. Paratypes in AMS, ANIC, BPBM, NHM, QDPI, UH.
-invertsystematics/IT9960213.pdf.txt:   Tephritis acroleuca Schiner, 1868: 268. Holotype ? in NHMV.
 invertsystematics/IT9960213.pdf.txt:NHM, QDPI, UH.
 invertsystematics/IT9960213.pdf.txt:Yallingup, Nov. 1913, R. E. Turner. One of the latter specimens in NHM is labelled 'type of an
 invertsystematics/IT9960213.pdf.txt:undescribed, sp. nov., by F. A. Perkins'. Paratypes in AMS, ANIC, BPBM, NHM.
 invertsystematics/IT9960213.pdf.txt:Fortin. Paratypes in AMS, ANIC, BPBM, MSU, NHM, NSWA, NMVM, UH, UQM, USNM.
-invertsystematics/IT9960213.pdf.txt:   Tephritis pelia Schiner, 1868: 271. Holotype 4 in NHMV.
 invertsystematics/IT9960213.pdf.txt:Paratypes in AMS, ANIC, BPBM, MSU, NHM.
 invertsystematics/IT9960213.pdf.txt:   Trypeta poenia Walker, 1849: 1025. Holotype P in NHM.
 invertsystematics/IT9960213.pdf.txt:Bush. Paratypes in AMS, ANIC, BPBM, MSU, NHM, QDPI, UH, UQM.
@@ -2880,7 +2760,6 @@ invertsystematics/IS07032.pdf.txt:      depositories: UCH; BMNH; BME; USNM.     
 invertsystematics/IS07032.pdf.txt:BMNH specimens of Madarococcus. David Morris kindly provided                          Gonzalez, P. (2004). Eriococcidos (Hemiptera: Coccoidea) encontrados en
 invertsystematics/IT98018_LR.pdf.txt:New Guinea. Chrysops australis is the most widely distributed       BMNH       Department of Entomology, The Natural History Museum,
 invertsystematics/IT98018_LR.pdf.txt:active throughout the year, while C. fixissimus flies from          HNHM       Zoological Department, Hungarian Natural History Museum,
-invertsystematics/IT98018_LR.pdf.txt:NHMW     Naturhistorisches Museum Wien, Postfach 417, Burgring 7,
 invertsystematics/IT98018_LR.pdf.txt:cell cu, width of apicocostal infuscation slightly exceeding                                         A. Wollaston (B. O. U. Exped.) (BMNH); 乆, NW Japen [Yapen] Is,
 invertsystematics/IT98018_LR.pdf.txt:extreme lateral margins, tergite 2 entirely yellow, tergites                                         vii.1945, B. Malkin (BMNH); 4乆, ‘Nieuw Guinea’, Lorentz 1909–10,
 invertsystematics/IT98018_LR.pdf.txt:(BMNH, ANIC); 乆, ‘New Guinea’, xii.1944, W. R. Enns (USNM); 3乆,           lobes, above wing bases and transverse band anterior to
@@ -2901,7 +2780,6 @@ invertsystematics/IT98018_LR.pdf.txt:26么 from BMNH, BPBM, CASC, CUIC, MCZC, UN
 invertsystematics/IT98018_LR.pdf.txt:below, thinly grey tomentose above, yellowish grey tomen-          Yunnan, China (BMNH).
 invertsystematics/IT98018_LR.pdf.txt:eye margins. Scape and pedicel of antenna black on outer           16.iii.1934, R. Malaise (BMNH). India: Assam. 乆, Sukna, 55 km S of
 invertsystematics/IT98018_LR.pdf.txt:palpi brown with fuscous outer margins.                            H. T. Pease; Kashmir, 5200 ft, 16–27.vi.1923, Fletcher Coll. (BMNH).
-invertsystematics/IT98018_LR.pdf.txt:                                                                     Chrysops manilensis. Holotype, 乆, Manila, Philippines (NHMW).
 invertsystematics/IT98018_LR.pdf.txt:subshining grey-black. Sternites 1–4 creamy yellow with               Holotype. Chrysops ligatus 乆, North Bengal, India (BMNH).
 invertsystematics/IT98018_LR.pdf.txt:Yerbury (BMNH).
 invertsystematics/IT98018_LR.pdf.txt:mens examined: 50乆, 5么 from BMNH, BPBM, CASC, FSCA,                     short and slender. Abdominal tergites 1–4 pale yellow
@@ -2911,7 +2789,6 @@ invertsystematics/IT98018_LR.pdf.txt:                            (Figs 13, 48)  
 invertsystematics/IT98018_LR.pdf.txt:vertex by grey tomentum and pale yellow hairs. Antenna            B of C. fixissimus is in BMNH. It clearly is the species in which
 invertsystematics/IT98018_LR.pdf.txt:   Silvius fascipennis (HNHM, destroyed).                                below, abdomen lacking indistinct submedian darker stripes.
 invertsystematics/IT98018_LR.pdf.txt:F. M. Thompson (BMNH). Taiwan: 乆, Chaochi, nr. Yilan to Pinglin,         unknown). Kröber’s description very closely agrees with the
-invertsystematics/IT98018_LR.pdf.txt:cell r1 at junction with crossband but poorly defined to apex            Askhabad, Turkmenia (NHMW).
 invertsystematics/IT98018_LR.pdf.txt:   (Description taken from Kröber’s (1922) description of                   Holotype. Chrysops simillima 乆, Harvizeh Anura, Iraq (BMNH).
 invertsystematics/IT98018_LR.pdf.txt:20.vii.1922, Capt. H. E. Cross, on camel (all BMNH).                     Length 7–9 mm.
 invertsystematics/IT98018_LR.pdf.txt:Kong. 6乆, Hong Kong, 1913, H. Macfarlane and A. Gibson (BMNH).
@@ -3246,18 +3123,9 @@ invertsystematics/IT9940767.pdf.txt:l a , det. Bittacus australis by Walker (185
 invertsystematics/IT9940767.pdf.txt:by Walker (1853) (BMNH); Sublime Pt, Bulli Pass, 1 9 (KJL); Sydney, 2 9 , det. H. tillyardi by
 invertsystematics/IT9940767.pdf.txt:(1853) (BMNH).
 invertsystematics/IT9940767.pdf.txt:(BMNH), Dr K. Giinther (BZM), Dr N. Kristensen (CZM), Dr A. Taeger (IPEF), Dr
-invertsystematics/IT9930001.pdf.txt:NHMW       Naturhistorisches Museum, Wien
-invertsystematics/IT9930001.pdf.txt:1°22'N.,103"48'E.], 15.xi.1966, Murthy (NHMW; SP); 1 9 , same data except 20-2l.i.[1986], J . A.
-invertsystematics/IT9930001.pdf.txt:29, same data as holotype (NHMW; SP); l a , same data as holotype (WAM 91/1595; SP); lo',
-invertsystematics/IT9930001.pdf.txt:8.iii.1962, Brinck, Andersson, Cederholm (NHMW; SP); l a , Kantalei [8°22'N.,81000'E.], 2.ii.1970,
-invertsystematics/IT9930001.pdf.txt:(NHMW; SP); 2 tritonymphs, Gampaha Botanical Gardens [7"06'N.,80°00'E.], 5.xii.1972, C. Besuchet,
-invertsystematics/IT9930001.pdf.txt:holotype (NHMW; SP).
-invertsystematics/IT9930001.pdf.txt:Beier (1974) reported 12 paratypes, but I could find only 11 in MHNG and NHMW.
-invertsystematics/IT9930001.pdf.txt:M. Grasshoff (SMF), Dr J. Gruber (NHMW), Dr R. B. Halliday and Mr T. E. Wier
 invertsystematics/IT9890783.pdf.txt:        BMNH       British Museum (Natural History), London, U.K.
 invertsystematics/IS05020_AC.pdf.txt:BMNH         Department of Entomology, The Natural History Museum, Cromwell Rd, London, SW7
 invertsystematics/IS05020_AC.pdf.txt:HNHM         Coleoptera Collection, Department of Zoology, Hungarian Natural History Museum, H-
-invertsystematics/IS05020_AC.pdf.txt:NHMW         Naturhistorisches Museum Wien, Zweite Zoologische Abteilung; Insekten,Burgring 7 A-
 invertsystematics/IS05020_AC.pdf.txt:[FMNH]) 1 paratype ♀ 1 paratype ♂ (London [BMNH]) 1 ♀ 1 ♂ (San Francisco [CASC]) 2
 invertsystematics/IS05020_AC.pdf.txt:1°39′S, 121°21′E, 3–13.iv.1980 (coll. M. J. D. Brendell) BMNH006420Nic.” (London [BMNH]).
 invertsystematics/IS05020_AC.pdf.txt:Kotamobagu, elev. 1200 m [1°N, 123°E] 4.ii.1985; 3 ♂: BMNH83802Nic, BMNH83803Nic,
@@ -3271,8 +3139,6 @@ invertsystematics/IS05020_AC.pdf.txt:1371 m, 1–31.iii.1936 (coll. L. E. Cheesm
 invertsystematics/IS05020_AC.pdf.txt:[BMNH]) 5 ♀ 8 ♂ (Ottawa, priv. coll. [SBPC]); Mt. Dayman, Maneau Range, north slope, elev.
 invertsystematics/IS05020_AC.pdf.txt:MCZC70012Nic; 2 ♂: BMNH002503Nic, BMNH002504Nic, 1 ♀: NSMT002505Nic, 1 ♂:
 invertsystematics/IS05020_AC.pdf.txt:NSMT002502Nic; same data as holotype; 1 ♂: MCZC70009Nic, 1 ♀: BMNH70010Nic; Is.
-invertsystematics/IS05020_AC.pdf.txt:**same locality (coll. P. F. Sijthoff); 2 ♀ (Wien [NHMW]); **Precger [?] (coll. P. F. V...?); 1 ♂
-invertsystematics/IS05020_AC.pdf.txt:Telaga Warna, , elev. 1400 m [6.57°S, 106.75°E] 1.iix.1994 (coll. Schuh); 1 ♂ (Wien [NHMW]);
 invertsystematics/IS05020_AC.pdf.txt:119 ♂, 219 ♀, 5 sex undetermined: CHINA: n China; 1 ♂ (London [BMNH]); Nordwestl. China,
 invertsystematics/IS05020_AC.pdf.txt:probably mislabelled- or misid of these specimens., elev. 309 m; 1 ♂ (London [BMNH]);
 invertsystematics/IS05020_AC.pdf.txt:coll. [SBPC]) (coll. Feckl); 1 ♀ (San Francisco [CASC]); 1901; 2 ♀ (London [BMNH]); Sawara-
@@ -3286,13 +3152,9 @@ invertsystematics/IS05020_AC.pdf.txt:Lewis); 1 ♀ (London [BMNH]); ****Yokohama
 invertsystematics/IS05020_AC.pdf.txt:[33.75°N, 133.5°E]; 1 ♀ (Budapest [HNHM]); Ishizuchi Mt. NP, Tsuchigoya, elev. 1400 m
 invertsystematics/IS05020_AC.pdf.txt:[HNHM]); South Hwanghae Prov., Haeju, Suyong-san [38.07°N, 125.67°E] 16.x.1987 (coll. Z.
 invertsystematics/IS05020_AC.pdf.txt:Korsós & L. Ronkay); 1 ♀ (Budapest [HNHM]) [RUSSIA]: [Åkovdevka, Spask u. Ussur. kr.
-invertsystematics/IS05020_AC.pdf.txt:**Vladivostok [43°8′N, 131°54′E](coll. I. Bryner); 1 ♂ (Wien [NHMW]); **[Vladivostok] –
-invertsystematics/IS05020_AC.pdf.txt:priv.coll [JSC]); **[Siberia], Sibiria or. Tjuijujé; 1 ♂ (Wien [NHMW]); ****Sibiria orient.
-invertsystematics/IS05020_AC.pdf.txt:Arsenev env., 1–30.vi.1991 (coll. Strba); 1 ♀ (Wien [NHMW]); ****Ussuri, elev. 95 m
 invertsystematics/IS05020_AC.pdf.txt:28°10′N, 85°14′E, 20.ix.1995 (coll. B. Herczig Gy. M. Laszló) HNHM003464Nic.” (Budapest
 invertsystematics/IS05020_AC.pdf.txt:[HNHM]).
 invertsystematics/IS05020_AC.pdf.txt:27.vii.1995 (coll. Gy. M. László, G. Ronkay & G. Csorba); 1 ♀: HNHM000628Nic; centr. Nepal:
-invertsystematics/IS05020_AC.pdf.txt:Birethanti Goropani, 4–9.vi.1992 (coll. Ivo Jenis); 1 ♂: NHMW002021Nic; Ganesh Himal, 7 km
 invertsystematics/IS05020_AC.pdf.txt:HNHM003463Nic, HNHM003465Nic; Ganesh Himal, 8 km W Godlang, elev. 3050 m, 28°10′N,
 invertsystematics/IS05020_AC.pdf.txt:85°17′E, 14.x.1995 (coll. L. Peregovits & L. Ronkay); 1 ♀: HNHM000691Nic; Ganesh Himal,
 invertsystematics/IS05020_AC.pdf.txt:Ronkay); 2 ♂: HNHM003469Nic, SMNS003335Nic; Kalobeni Kali Gandaki Valley, elev. 2400
@@ -3308,11 +3170,7 @@ invertsystematics/IS05020_AC.pdf.txt:paralectotype ♂ (London [BMNH]); **Nikko 
 invertsystematics/IS05020_AC.pdf.txt:Tschung-Sen); 1 ♀ (Budapest [HNHM]); **same locality, elev. 2300 m [27°40′N, 117°40′E]
 invertsystematics/IS05020_AC.pdf.txt:15.iix.1946 (coll. Tschung-Sen); 1 ♂ (Budapest [HNHM]); **same locality, elev. 2300 m
 invertsystematics/IS05020_AC.pdf.txt:[27°40′N, 117°40′E] 14.ix.1946 (coll. Tschung-Sen); 2 ♂ (Budapest [HNHM]); Mt. Wuyi:
-invertsystematics/IS05020_AC.pdf.txt:elev. 700–800 m [19.2°N, 109.5°E] 18.i.1996 (coll. Jäch); 1 ♂ (Wien [NHMW]); **[Hebei
 invertsystematics/IS05020_AC.pdf.txt:(London [BMNH]); Sichuan Prov., elev. 2073 m (coll. D. C. Graham); 2 ♀ (Ottawa, priv. coll.
-invertsystematics/IS05020_AC.pdf.txt:[NHMW]); **Szechuan, Mukue Tatsienlu [30.05°N, 102.03°E](coll. Em. Reitter); 3 ♀ 2 ♂
-invertsystematics/IS05020_AC.pdf.txt:1 ♀ (Praha, priv.coll [JRC]) 1 ♀ (Wien [NHMW]); **Szechuan, Tatsienlu Yüling Süd [30°3′N,
-invertsystematics/IS05020_AC.pdf.txt:102°2′E]; 1 ♂ (Praha [NMPC]) 1 ♂ (Praha, priv.coll [JRC]) 1 ♀ (Wien [NHMW]); Szechwan
 invertsystematics/IS05020_AC.pdf.txt:3500 m, 27°19′N, 100°8′E, 16–18.vi.2004 (coll. Fouquet R. + H.); 1 ♀ (London [BMNH]);
 invertsystematics/IS05020_AC.pdf.txt:(Budapest [HNHM]); W. Bengal, Darjeeling Distr. Lopch and Ghum, [27.02°N, 88.23°E]
 invertsystematics/IS05020_AC.pdf.txt:22.x.1967 (coll. Gy. Topál); 2 ♀ (Budapest [HNHM]); W. Bengal, Darjeeling North Point, elev.
@@ -3357,9 +3215,7 @@ invertsystematics/IS05020_AC.pdf.txt:19.iii.1996 (coll. T. Csövári & P. Stége
 invertsystematics/IS05020_AC.pdf.txt:Herczig); 1 ♀ (Budapest [HNHM]); Shuili [23°48′N, 120°51′E] 31.vii.1990 (coll. C. M. Lin); 1
 invertsystematics/IS05020_AC.pdf.txt:(coll. Wong Tet Fatt); 2 ♀ 2 ♂ (Budapest [HNHM]); Nan, Do Phu Ka N.P. 34.4 km from HQ,
 invertsystematics/IS05020_AC.pdf.txt:elev. 1685 m, 24.xii.1991 (coll. I. Kitching); 1 ♀ (London [BMNH]); NW THAILAND, Doi
-invertsystematics/IS05020_AC.pdf.txt:Chantaramongkot); 1 ♂ (Wien [NHMW]); TV relay station 7 km north of Ranong, elev. 300–500
 invertsystematics/IS05020_AC.pdf.txt:m, 28–29.xi.1991 (coll. I. Kitching); 1 ♀ (London [BMNH]); VIETNAM: Loa Cal: Sapa Muong
-invertsystematics/IS05020_AC.pdf.txt:Dembicky); 3 ♀ (Wien [NHMW]); **Tonkin, Montes Manson [Bac Phan], elev. 609–914 m
 invertsystematics/IS05020_AC.pdf.txt:150 m, 2–3.xii.1993 (coll. Bankovics & Csorba); 1 ♀ (Budapest [HNHM]); Lam Dong Prov., Da
 invertsystematics/IS05020_AC.pdf.txt:Lat, , 15.x.1988 (coll. S. Mahunka & T. Vásárhelyi); 1 ♀ (Budapest [HNHM]); Lao Cai Prov., 14
 invertsystematics/IS05020_AC.pdf.txt:L. Peregovits, G. L. Ronkay); 2 ♀ (Budapest [HNHM]); 16km W of Sa Pa, elev. 1800 m
@@ -3372,8 +3228,6 @@ invertsystematics/IS05020_AC.pdf.txt:(London [BMNH]); **same locality [4.05°N, 
 invertsystematics/IS05020_AC.pdf.txt:(London [BMNH]); **Sarawak: Gunong Mulu Nat. Park, elev. 1780 m [4.05°N, 114.93°E]
 invertsystematics/IS05020_AC.pdf.txt:1.i.1977; 31.i.1978 (coll. J. D. Holloway et al.); 1 ♂ (London [BMNH]); **Borneo; 3 ♂
 invertsystematics/IS05020_AC.pdf.txt:(Budapest [HNHM]) 5 ♀ 6 ♂ (Kobenhavn [ZMUC]) 1 paralectotype ♀ 1 lectotype ♂ (Paris
-invertsystematics/IS05020_AC.pdf.txt:27.iv.1993 (coll. Strba & Jenis); 4 ♀ 2 ♂ (Wien [NHMW]); Sabah: Borneo Is., Kiau Gap, elev.
-invertsystematics/IS05020_AC.pdf.txt:116.33°E] 6–18.vii.1996 (coll. a.s.l.); 2 ♂ (Calgary [DSSC]) 6 ♀ 2 ♂ (Wien [NHMW]); Sabah,
 invertsystematics/IS05020_AC.pdf.txt:Whitehead); 1 ♀ (London [BMNH]); ****[Sabah]: Kinabalu [5.98°N, 116.07°E]; 1 ♂
 invertsystematics/IS05020_AC.pdf.txt:(Amsterdam [ZMAN]) 4 ♀ 2 ♂ (Budapest [HNHM]); **[Sabah:] Kinabalu [5.98°N, 116.07°E]; 1
 invertsystematics/IS05020_AC.pdf.txt:[6.08°N, 116.55°E] 6.ii.1964 (coll. J. Smart); 2 ♀ (London [BMNH]); **[Sabah]: N. Borneo,
@@ -3390,12 +3244,10 @@ invertsystematics/IS05020_AC.pdf.txt:(London [BMNH]); Hachiioji Shr., Kowakama F
 invertsystematics/IS05020_AC.pdf.txt:(coll. G. Lewis); 1 ♂ (London [BMNH]); **Hakone (Kanagawa) [39.02°N, 141.7°E] 15.iix.1969
 invertsystematics/IS05020_AC.pdf.txt:♂ (London [BMNH]); Ibaragi Pref., Suifu-mura, Adera [34.81°N, 135.56°E] 21–23.iix.1995
 invertsystematics/IS05020_AC.pdf.txt:♀ 1 ♂ (London [BMNH]); **Kyoto [35°N, 135.75°E] 20.vii.1957 (coll. M. A. Z.); 1 ♀ (Chicago
-invertsystematics/IS05020_AC.pdf.txt:**same locality [34.33°N, 129.33°E]; 1 ♀ (Wien [NHMW]); **Wakayama-pref. [34°N,
 invertsystematics/IS05020_AC.pdf.txt:Lewis); 1 ♀ 2 ♂ (London [BMNH]); **same locality [35.47°N, 139.63°E] 25.iix.1928; 1 ♂
 invertsystematics/IS05020_AC.pdf.txt:129.9°E](coll. G. Lewis); 1 ♀ 1 ♂ (London [BMNH]); ****Oita pref., Mt. Kurodake (dead meat)
 invertsystematics/IS05020_AC.pdf.txt:130.5°E]1899; 1 ♀ (London [BMNH]) 16 ♀ 6 ♂ (Paris [MNHN]); Shikoku, Ishizuchi Mt. NP,
 invertsystematics/IS05020_AC.pdf.txt:KOREA: Kekki, 5.ix.1956 (coll. Dr. M. Magyar); 1 ♀ (Budapest [HNHM]); Mt. Taebaek,
-invertsystematics/IS05020_AC.pdf.txt:[NHMW]); **Seishin, Corea [41.83°N, 129.92°E]; 1 ♂ (Frankfurt [SMFD]); Seishin; Olto, Nord-
 invertsystematics/IS05020_AC.pdf.txt:(coll. Dr. M. Magyar); 1 ♂ (Budapest [HNHM]); Yankovsrey?; 1 ♂ (USNM); Cheju Prov.,
 invertsystematics/IS05020_AC.pdf.txt:Vojnits); 1 ♀ (Budapest [HNHM]); Cheju-do, Halla-san N.P., elev. 1280 m [33.36°N, 126.53°E]
 invertsystematics/IS05020_AC.pdf.txt:24.iix.1992 (coll. L. Ronkay & A. Vojnits); 2 ♀ (Budapest [HNHM]); Cheju-do, Halla-san
@@ -3415,7 +3267,6 @@ invertsystematics/IS05020_AC.pdf.txt:(Budapest [HNHM]); South Hwanghae Prov., Ha
 invertsystematics/IS05020_AC.pdf.txt:(coll. Z. Korsós & L. Ronkay); 1 ♂ (Budapest [HNHM]); RUSSIA: [Åkovlevka Spas. u. Ussur.
 invertsystematics/IS05020_AC.pdf.txt:Gy. Sziráki); 1 ♀ (Budapest [HNHM]); **same locality [54.13°N, 126.72°E] 11.vii.1990 (coll.
 invertsystematics/IS05020_AC.pdf.txt:Gy. Sziráki); 1 ♂ (Budapest [HNHM]); ****Primorje : Sib. or. -m. Komarowka flum.
-invertsystematics/IS05020_AC.pdf.txt:Primorsk Kraj, Arsenev env., 1–30.vi.1991 (coll. Strba); 1 ♀ 1 ♂ (Wien [NHMW]); ****Ussuri,
 invertsystematics/IS05020_AC.pdf.txt:5000′[1524 m] [9.7°S, 160.07°E] 20.x.1965 (coll. P. Greenslade) BMNH000895Nic.” (London
 invertsystematics/IS05020_AC.pdf.txt:[BMNH]).
 invertsystematics/IS05020_AC.pdf.txt:19.vi.1965; 1 ♂: BMNH000898Nic; same locality as holotype, 24.x.1965 (coll. P. Greenslade); 1
@@ -3888,7 +3739,6 @@ invertsystematics/IS05020.pdf.txt:2200 m, 23.vi.1930 (coll. G. Heinrich), 1 : B
 invertsystematics/IS05020.pdf.txt:BMNH002503Nic, BMNH002504Nic, 1 : NSMT002505Nic, 1 :                      margin swollen near middle (e.g. Fig. 15A, C, D); females:
 invertsystematics/IS05020.pdf.txt:BMNH70010Nic; Island Nusa, Tenggara, near Ruteng, elev. 1200 m,
 invertsystematics/IS05020.pdf.txt:       Nicrophorus melissae Sikes & Madge, sp. nov.                       G. Ronkay & G. Csorba), 1 : HNHM000628Nic; centr. Nepal:
-invertsystematics/IS05020.pdf.txt:             (Figs 8C, D, 9C, 11C, D, 13C, D, 36)                         NHMW002021Nic; Ganesh Himal, 7 km W Godlang, elev. 2950 m,
 invertsystematics/IS05020.pdf.txt:      1975: 230; Schawaller, 1977: 260 [infrasubspecific, unavailable,    HNHM003463Nic, HNHM003465Nic; Ganesh Himal, 8 km W
 invertsystematics/IS05020.pdf.txt:                                                                          L. Peregovits & L. Ronkay), 1 : HNHM000691Nic; Ganesh Himal,
 invertsystematics/IS05020.pdf.txt:                                                                          21.v.1995 (coll. Gy. Fábián & L. Ronkay), 2 : HNHM003469Nic,
@@ -3902,11 +3752,9 @@ invertsystematics/IS05020.pdf.txt:orange spot and region adjacent to apex of ely
 invertsystematics/IS05020.pdf.txt:107°49′E] 5–15 August 2005, 1 : BMNH123518Nic, 2 :                       Nic, (Praha (NMPC)); W, Daxue Shan Hailuogou, Glacier Park
 invertsystematics/IS05020.pdf.txt:BMNH123519Nic, BMNH123520Nic, (London (BMNH)); Sichuan                     (Gongga Shan) Camp 2, elev. 2500–2700 m, [29°21′N, 101°1′E]
 invertsystematics/IS05020.pdf.txt:(MNHN), M. Brendell & M. Barclay (BMNH), R. W. Brooks                    Anduaga, S., and Huerta, C. (2001). Effect of parental care on the dura-
-invertsystematics/IS05020.pdf.txt:G. N. House (NMNH, USNM), M. Jäch (NHMW), O. Jäger                          Entomological Society of Washington 48, 207–209.
 invertsystematics/IS05020.pdf.txt:(HNHM), M. Nishikawa (MNC), S. Nomura (NSMT),                            Arnett, R. H., Jr, Samuelson, G. A., and Nishida, G. M. (1993). ‘The
 invertsystematics/IS05020.pdf.txt:BMNH                   Department of Entomology, The Natural History Museum, Cromwell Rd, London, SW7 5BD, UNITED KINGDOM
 invertsystematics/IS05020.pdf.txt:HNHM                   Coleoptera Collection, Department of Zoology, Hungarian Natural History Museum, H-1088, Budapest, Baross u. 13,
-invertsystematics/IS05020.pdf.txt:NHMW                   Naturhistorisches Museum Wien, Zweite Zoologische Abteilung-Insekten, Burgring 7 A-1014, Wien, AUSTRIA
 invertsystematics/IS11030.pdf.txt:and thorax, smooth texture of the abdomen, and the elongate                                                     Lectotype. <, AUSTRALIA: Queensland: Townsville [BMNH].
 invertsystematics/IS11030.pdf.txt:dark brown legs and antennae (aside for the light brown                Lectotype. <, New Holland (BMNH). Paralectotypes: 2,, New Holland
 invertsystematics/IS11030.pdf.txt:apicolateral spot on AI), and lack of any orangey brown                (BMNH).
@@ -3965,7 +3813,6 @@ invertsystematics/IT9900159.pdf.txt:  Holotype. 'S. Australia', BMNH.
 invertsystematics/IT9900159.pdf.txt:  Holotype.   'Tropical Queensland', BMNH.
 invertsystematics/IT9900159.pdf.txt:  Holotype. 'Southern Queensland', BMNH.
 invertsystematics/IT01001.pdf.txt:progress on the species-level taxonomy of these ants requires                   NHMB Naturhistorisches Museum, Basel, Switzerland
-invertsystematics/IT01001.pdf.txt:the analysis of geographically extensive population samples,                    NHMV Naturhistorisches Museum, Vienna, Austria
 invertsystematics/IT01001.pdf.txt:   BMNH      Natural History Museum, London, UK                                       Russia
 invertsystematics/IT01001.pdf.txt:   HNHM      Hungarian Natural History Museum, Budapest, Hungary             urements was taken on a representative sample of Tetraponera workers
 invertsystematics/IT01001.pdf.txt:                                                                  queen, ‘Ceylon’ (BMNH). Note: original description also included
@@ -3978,31 +3825,25 @@ invertsystematics/IT01001.pdf.txt:Kotoka, 1400–2600 m (NHMB – Bhutan Expedit
 invertsystematics/IT01001.pdf.txt:23 km E Wangdiphodrang [as ‘Tan Chu, 23 km O Wangdi P.’] (NHMB            (A. Schellerich); Ulu Gombak, nr Kuala Lumpur, 800 ft (R. W. Taylor).
 invertsystematics/IT01001.pdf.txt:(T. F. Halstead); Western: Colombo (Simon); Colombo (U. Maschwitz);          (Collections: AMSA, ANIC, ASIC, BMNH, CASC, CESB, CMNH,
 invertsystematics/IT01001.pdf.txt:Colombo (T. F. Halstead); Labugama, Colombo distr. (A. E. Stubbs;          DZUC, HNHM, HZIC, KFBG, KUBC, KUEC, KUES, LACM, MCSN,
-invertsystematics/IT01001.pdf.txt:P. J. Chandler); Laxapathiya, nr Colombo (K. L. A. Perera); Yakkala        MCZC, MHNG, NHMB, NHMV, NTUC, PSWC, RMBR, SAMC,
 invertsystematics/IT01001.pdf.txt:Eggleton) (BMNH).
 invertsystematics/IT01001.pdf.txt:bust; pronotum not laterally margined, and in posterior view       Brunei: Labi (I. Gauld) (1 worker) (BMNH).
 invertsystematics/IT01001.pdf.txt:xi.1994 (M. Brendell, K. Jackson & S. Lewis) (BMNH).                Sarawak, Malaysia, 28–31.v.1968 (R. W. Taylor #68.166) (ANIC).
 invertsystematics/IT01001.pdf.txt:(BMNH).                                                               slender profemur (FI 0.36–0.45 v. 0.47–0.48; FL/HL 0.58–
-invertsystematics/IT01001.pdf.txt:   Paratypes. 5 workers, same data as holotype (KUBC, NHMV,
 invertsystematics/IT01001.pdf.txt:   (Collections: BMNH, KUES, MCZC, PSWC, SMNK).                        all collections can be easily assigned to one of these three
 invertsystematics/IT01001.pdf.txt:103°47´E, 20.xi.1988 (P. S. Ward #9570) (BMNH).                          plate; propodeum high and narrow (Fig. 39), such that PDI
 invertsystematics/IT01001.pdf.txt:    (Collections: AMNH, ANIC, ASIC, BMNH, HZIC, KUES, LACM,              and soft-edged than in most T. allaborans, and the maximum
-invertsystematics/IT01001.pdf.txt:MCZC, MHNG, MZLU, NHMB, NHMV, PSWC, RMBR, SMNK,                          width of the pronotum occurs at the pronotal margins (Fig.
 invertsystematics/IT01001.pdf.txt:   Also characteristic (but not absolutely diagnostic) of T.                 (Collections: ANIC, ASIC, BMNH, KFBG, KUES, LACM,
 invertsystematics/IT01001.pdf.txt:                                                                          Malaysia: Sabah: Danum Valley (P. Eggleton) (BMNH); Poring
 invertsystematics/IT01001.pdf.txt:Singapore (H. Overbeck) (MHNG, NHMB).                                     Integument smooth and shiny, with scattered fine punctures
 invertsystematics/IT01001.pdf.txt:                                                                 Sarawak (labeled ‘Sar.’), Malaysia (BMNH).
 invertsystematics/IT01001.pdf.txt:(R. W. Taylor); Tawau Residency, Kalabakan R., 30 mi. W Tawau (L. W.            (Collections: AMNH, ANIC, ASIC, BMNH, CASC, CMNH,
-invertsystematics/IT01001.pdf.txt:Pk, 0–250 m (B. B. Lowery); Umas Umas, nr Tawau (R. W. Taylor);             MHNG, NHMV, PSWC, RMBR, ROME, SMNK, UASK, UMSC,
 invertsystematics/IT01001.pdf.txt:                                                                workers, N. Konkan, Myanmar (Wroughton) (NHMB); syntypes, 8
 invertsystematics/IT01001.pdf.txt:suberect and decumbent pubescence which forms a dense           Delbrugarh, India (Lindgreen) (MCSN, MHNG, NHMB).
 invertsystematics/IT01001.pdf.txt:and first several funicular segments often lighter (medium-     Bhutan: Phuntsholing, 200–400 m (NHMB – Bhutan Expedition
 invertsystematics/IT01001.pdf.txt:                                                                    (Collections: AMNH, ASIC, BMNH, KFBG, KUES, LACM,
-invertsystematics/IT01001.pdf.txt:                                                                MCSN, MCZC, NHMB, NHMV, PSWC, UASK).
 invertsystematics/IT01001.pdf.txt:smooth and shiny; punctures on dorsum of head and                 10.ix.1982, fogging (N. E. Stork) (BMNH).
 invertsystematics/IT01001.pdf.txt:mesosoma mostly 0.005–0.015 mm in diameter and                        Paratypes. 5 workers, same data as holotype (BMNH, PSWC,
 invertsystematics/IT01001.pdf.txt:   Sima (Tetraponera) dilatata Karavaiev, 1933: 267. Syn. nov.          (Collections: ANIC, ASIC, BMNH, CASC, HZIC, KUBC, KUES,
-invertsystematics/IT01001.pdf.txt:   Sima (Tetraponera) difficilis Emery; Emery, 1921: 26.            LACM, MCSN, MCZC, MHNG, NHMV, PSWC, UMSC, USNM).
 invertsystematics/IT01001.pdf.txt:extensively) to sparse (hairs separated by more than their        holotype (ANIC, BMNH, FRCK, KUBC, KUEC, KUES, MCZC,
 invertsystematics/IT01001.pdf.txt:characteristic. Workers show modest variation in size, shape         (Collections: ANIC, BMNH, KUES, LACM, MCZC, PSWC,
 invertsystematics/IT01001.pdf.txt:given size class; hind leg shorter, LHT/HL 0.61–0.71               Indonesia (Wallace) (BMNH, OXUM).
@@ -4010,31 +3851,23 @@ invertsystematics/IT01001.pdf.txt:  (Collections: AMNH, ANIC, BMNH, CASC, KUEC, 
 invertsystematics/IT01001.pdf.txt:occupying a little more than half the length of the basitarsus.     (Downes) (BMNH).
 invertsystematics/IT01001.pdf.txt:dense (subcontiguous) on anteriormost portions of head and          (BMNH). Note: original description also includes worker and male.
 invertsystematics/IT01001.pdf.txt:    (Collections: AMNH, ANIC, BMNH, CASC, CESB, DZUC,
-invertsystematics/IT01001.pdf.txt:NHMV, PSWC, UMSC, USNM).                                                 binghami and T. buops by the better-developed background
 invertsystematics/IT01001.pdf.txt:second Stereospermum nest series from the same locality (D.             India (Ferguson) (MCSN, MHNG, NHMB).
 invertsystematics/IT01001.pdf.txt:    (Collections: ANIC, ASIC, BMNH, CASC, HZIC, JDMC, KUEC,            petiole and postpetiole, but more abundant in some workers
-invertsystematics/IT01001.pdf.txt:KUES, LACM, MCSN, MCZC, MHNG, NHMB, NHMV, PSWC,                        (MSC ≥10; see discussion below); short appressed
 invertsystematics/IT01001.pdf.txt:Thailand, 10.vii.1999 (S. Yamane) (BMNH).
 invertsystematics/IT01001.pdf.txt:worker) (BMNH).
 invertsystematics/IT01001.pdf.txt:broad (FI >0.50); mesosoma elongate, with well defined                   Paratypes. 7 workers, same data as holotype (ANIC, BMNH,
 invertsystematics/IT01001.pdf.txt:posterior view; in lateral profile, dorsal face rounding           (MNHG, NHMB).
 invertsystematics/IT01001.pdf.txt:   (Collections: AMNH, AMSA ANIC, BMNH, CPDC, CUIC,                      propodeum (0–17), petiole (0–7) and postpetiole (0–8); ap-
-invertsystematics/IT01001.pdf.txt:MZLU, NHMB, NHMV, PSWC, TERC, UASK, UCDC, USNM).                         dense on postpetiole and gastric tergites. Black to dark
 invertsystematics/IT01001.pdf.txt:                                                                  (AMSA ANIC, BMNH, KUBC, KUEC, KUES, LACM, MCZC,
-invertsystematics/IT01001.pdf.txt:Papua New Guinea.                                                    (Collections: ANIC, BMNH, MCSN, MHNG, NHMV, PSWC,
 invertsystematics/IT01001.pdf.txt:diagnostic in the queen caste (see key to queens).              holotype (AMSA, ANIC, BMNH, KUBC, KUEC, KUES, LACM,
-invertsystematics/IT01001.pdf.txt:Indonesia: Jawa Barat: Bogor (Hamann) (1 queen) (NHMV).
 invertsystematics/IT01001.pdf.txt:separated by about their lengths or less. Dark brownish-           (BMNH).
 invertsystematics/IT01001.pdf.txt:    (Collections: AMNH, ANIC, ASIC, BMNH, CASC, HZIC, KUEC,
-invertsystematics/IT01001.pdf.txt:KUES, LACM, MCSN, MCZC, MHNG, NHMB, NHMV, PSWC,
 invertsystematics/IT01001.pdf.txt:Dhaka: ‘Dacca’ (D. Leston). Bhutan Phuntsholing (NHMB – Bhutan               L. H. Krauss); Kuala Lumpur (Lea et al.); Kuala Lumpur (U.
 invertsystematics/IT01001.pdf.txt:Expedition 1972); Samchi (NHMB – Bhutan Expedition 1972). China              Maschwitz); Kuala Lumpur (H. M. Pendlebury); Kuala Lumpur (E. S.
 invertsystematics/IT01001.pdf.txt:   (Collections: AMNH, ANIC, BMNH, CASC, CESB, CUIC,                    (especially the sheen of the head), petiole shape (see range of
-invertsystematics/IT01001.pdf.txt:MNHN, MZLU, NHMB, NHMV, PSWC, RMBR, RMNH, SAMC,                         values). More striking is the variation in the color of the
 invertsystematics/IT01001.pdf.txt:                                                                           Taylor (ANIC; includes HNHM and RMNH material in
 invertsystematics/IT01001.pdf.txt:The ant genus Tetraponera occurs throughout most of the                    Barry Bolton (BMNH), Wojciech Pulawski (CASC),
 invertsystematics/IT01001.pdf.txt:Danielsson (MZLU), Michel Brancucci (NHMB), Max                          Andersen, Alex Wild, and two anonymous reviewers for
-invertsystematics/IT01001.pdf.txt:Fischer and Stefan Schödl (NHMV), Chung-Chi Lin                          helpful comments on the manuscript. This research was
 invertsystematics/IT9930961.pdf.txt:BMNH       The Natural History Museum, London
 invertsystematics/IT9930961.pdf.txt:   Holotype.    Q , South Australia: Gawler (BMNH, Pascoe Coll. 93-60).
 invertsystematics/IT9930961.pdf.txt:   P. angasi. Lectotype (here designated), a , Gawler, South Australia (BMNH, Pascoe Coll. 93-60);
@@ -4217,10 +4050,8 @@ invertsystematics/IT96036.pdf.txt:Floatoblast of Plumatella velata (NHML 1299), 
 invertsystematics/IT96036.pdf.txt:Scale bar = 100 µm. Fig. 18. Floatoblast of Plumatella velata (NHML 1283), dorsal edge showing
 invertsystematics/IT96036.pdf.txt:Floatoblast of Plumatella velata (NHML 1283), lateral view showing suture and lateral symmetry; scanning
 invertsystematics/IS09015.pdf.txt:was accepted by most coleopterists (Blackwelder 1952; Frank           NHMB Natural History Museum, Basel, Switzerland
-invertsystematics/IS09015.pdf.txt:described three new species, P. yunnanensis Willers from              NHMW Naturhistorisches Museum, Wien, Austria
 invertsystematics/IS09015.pdf.txt:moderately dense, laterally denser. Punctation of base of each         Paratypes. 5 ,, 1 <, same data as holotype (all deposited in NHMB).
 invertsystematics/IS09015.pdf.txt:                                                                             Dr Michel Brancucci (NHMB), Dr Boris Kataev, Dr Mark G. Volkovitsh
-invertsystematics/IS09015.pdf.txt:                                                                             Dr Manfred Uhlig (ZMHB), Dr Harald Schillhammer (NHMW), Dr Giulio
 invertsystematics/IS09015.pdf.txt:11.1999), 25–28.vi.1992, coll. David Král (all deposited in NHMB).           from this laboratory.
 invertsystematics/IS09015.pdf.txt:Willers 8.2001), 2.i.1998 (deposited in NHMB).                                   LX. Sur quelques paederini de la dorsale congolaise. Revue de
 invertsystematics/IS09015.pdf.txt:   Paratypes. 2 ,, 1 <, same date as holotype (all deposited in NHMB);           Zoologie et de Botanique Africaines 61, 189–204.
@@ -4308,9 +4139,7 @@ invertsystematics/IT9891005.pdf.txt:Brown (BCRI), G. Nishida (BPBM), Dr I. Gauld
 invertsystematics/IT9891005.pdf.txt:   The manuscript was reviewed by Drs A. Austin (WARI), I. Gauld (BMNH). T.
 invertsystematics/IT9941117.pdf.txt:England where his material was deposited in BMNH. It is worth noting that shortly before
 invertsystematics/IT9941117.pdf.txt: BMNH The Natural History Museum, London
-invertsystematics/IT9941117.pdf.txt: NHMW Natural History Museum, Vienna
 invertsystematics/IT9941117.pdf.txt:      Wellington, Tas; BMNH (coll. JWE, Feb. 1942).
-invertsystematics/IT9941117.pdf.txt:   Dorydium foveolatum Signoret, 1880: 44; 'Australie (ouest)' (Western Australia); NHMW (Scott colln).
 invertsystematics/IT9941117.pdf.txt:      Sydney, NSW; BMNH.
 invertsystematics/IT9941117.pdf.txt:   Note: Three syntypes, one bearing a holotype label, are in the BMNH collection. The one
 invertsystematics/IT9941117.pdf.txt:   Ledra claudenda Walker, 1858a: 359; holotype 8,Moreton Bay, Qld; BMNH (571130).
@@ -4333,15 +4162,12 @@ invertsystematics/IT9941117.pdf.txt:  Ledra ferruginea Walker, 1851: 817; synony
 invertsystematics/IT9941117.pdf.txt:  Ledra conferta Walker, 1851: 818; synonymised by Evans, 1966: 105; holotype 9 , Hong Kong; BMNH
 invertsystematics/IT9941117.pdf.txt:  Ledra unicolor Walker, 1851: 819; synonymised by Evans, 1966: 105; holotype 9 , Philippines; BMNH
 invertsystematics/IT9941117.pdf.txt:      'New Holland'; BMNH.
-invertsystematics/IT9941117.pdf.txt:      Hollandia'; NHMW?.
-invertsystematics/IT9941117.pdf.txt:      NHMW?.
 invertsystematics/IT9941117.pdf.txt:      BMNH (Mr Stevens' colln).
 invertsystematics/IT9941117.pdf.txt:       BMNH has six specimens of Walker's species ferruginea labelled 'VDL' (Van Diemen's
 invertsystematics/IT9941117.pdf.txt:      1 nymph, 'New Holland'; BMNH.
 invertsystematics/IT9941117.pdf.txt:   Note: Walker (1851: 830) refers to a 'pupa?'. BMNH contains two specimens here regarded
 invertsystematics/IT9941117.pdf.txt:   Hackeriana elegantula Evans, 1969a: 749; holotype 8, King George Sound, WA; BMNH (coll.
 invertsystematics/IT9941117.pdf.txt:   Hackeriana translucens Evans, 1942a: 152; holotype        6,Burracoppin, WA; BMNH (coll. RET,
-invertsystematics/IT9941117.pdf.txt:   Macrocepsfasciatus Signoret, 1880: 364; syntype(s), 'Australia'; NHMW.
 invertsystematics/IT9941117.pdf.txt:       44-4.'; BMNH (Haslar Hospital).
 invertsystematics/IT9941117.pdf.txt:       Melbourne, Vic; BMNH (Mr Stevens' colln).
 invertsystematics/IT9941117.pdf.txt:      BMNH.
@@ -4357,14 +4183,11 @@ invertsystematics/IT9941117.pdf.txt:    Ledra teliformis Walker, 1851: 826; holo
 invertsystematics/IT9941117.pdf.txt:       Qld; BMNH.
 invertsystematics/IT9941117.pdf.txt:   used by Walker, is present in BMNH. Walker, however, indicated only a single specimen of
 invertsystematics/IT9941117.pdf.txt:   Thymbrella tamminensis Evans, 1969a: 747; holotype 8, Tammin, WA, BMNH (coll. RET, Dec. 1935).
-invertsystematics/IT9941117.pdf.txt:  Rhothidus convivus St& 1865: 157; syntype(s), Moreton Bay, Qld; NHMW.
-invertsystematics/IT9941117.pdf.txt:      NHMW.
 invertsystematics/IT9941117.pdf.txt:   Rhotidus aequalis Distant, 1907: 193; synonymised by Evans, 1966: 125; syntypes 6 9 , Qld; BMNH
 invertsystematics/IT9941117.pdf.txt:  Jukaruka typica Distant, 1907: 190; syntypes 2 8 , Qld; BMNH (coll. F. P. Dodd).
 invertsystematics/IT9941117.pdf.txt:  Ledra concolor Walker, 1851: 826; holotype, 'Van Dieman's Land'; BMNH (pres. Entomological
 invertsystematics/IT9941117.pdf.txt:      BMNH.
 invertsystematics/IT9941117.pdf.txt:      BMNH.
-invertsystematics/IT9941117.pdf.txt:      NHMW?.
 invertsystematics/IT9941117.pdf.txt:   Ledropsisfroggatti Distant, 1907: 192; holotype 9 , Sydney, NSW, BMNH,.
 invertsystematics/IT9941117.pdf.txt:      NSW; BMNH (coil. Lea, Dec. 1892).
 invertsystematics/IT9941117.pdf.txt:   Note: Distant did not indicate how many specimens of this species he examined but BMNH
@@ -4373,13 +4196,10 @@ invertsystematics/IT9941117.pdf.txt:   Note: there is only one specimen in BMNH 
 invertsystematics/IT9941117.pdf.txt:     BMNH.
 invertsystematics/IT9941117.pdf.txt:   Note: there is only one specimen of this species in BMNH and it is here regarded as the
 invertsystematics/IT9941117.pdf.txt:   Ledra brevifrons Walker, 1851: 825; holotype 8, 'New Holland'; BMNH.
-invertsystematics/IT9941117.pdf.txt:   Petalocephala sanguinosa St& 1865: 158; syntypes P , 'Australia borealis'; NHMW (coll. A. Dohm).
-invertsystematics/IT9941117.pdf.txt:   Rubria carnosa Stll, 1865: 159; synonymised by Evans, 1966: 102; syntype(s) P , Australia; NHMW.
 invertsystematics/IT9941117.pdf.txt:      BMNH (Saunders colln).
 invertsystematics/IT9941117.pdf.txt:   Note: BMNH contains only one specimen of this species that could have been available to
 invertsystematics/IT9941117.pdf.txt:   teneral nature. There are also no specimens in BMNH, including the Joseph Banks
 invertsystematics/IT9941117.pdf.txt:      Metcalf (1965: 145) as Cape of Good Hope, India, Senegambia and Australia]; BMNH (Evans
-invertsystematics/IT9941117.pdf.txt:       Calcutta, India; NHMW (Signoret colln).
 invertsystematics/IT9941117.pdf.txt:       Nth Pine, Qld; BMNH (coll. 1900).
 invertsystematics/IT9941117.pdf.txt:   Tettigonia quadrata Walker, 1851: 781; holotype, Tas: missing from BMNH.
 invertsystematics/IT9941117.pdf.txt:      Evans (1966) noted that the holotype was missing from BMNH.
@@ -4503,7 +4323,6 @@ invertsystematics/IT9941117.pdf.txt:  Anipo darwini Evans, 1942a: 144; holotype 
 invertsystematics/IT9941117.pdf.txt:   Anipoflavens Evans, 194%: 144; holotype 8,Dedari, WA, BMNH (coll. RET, Jan. 1936).
 invertsystematics/IT9941117.pdf.txt:   Ipoellafilva Evans, 1942a: 144; holotype 8, Dedari, WA; BMNH (coll. RET, Nov. 1935).
 invertsystematics/IT9941117.pdf.txt:   Eurymeloides insignis Distant, 1908a: 103; holotype 9 , 'Qld'; BMNH.
-invertsystematics/IT9941117.pdf.txt:  Eurymelaporriginosa Signoret, 1850: 512; syntype(s), 'New Holland'; NHMW.
 invertsystematics/IT9941117.pdf.txt:     Wales'; BMNH (Pamplin colln).
 invertsystematics/IT9941117.pdf.txt:      BMNH (coll. RET, Jan. 1936).
 invertsystematics/IT9941117.pdf.txt:  Ipoides melaleucae Evans, 1947c: 226; holotype 8, Sogeri, PNG; BMNH (call. D. C. Swan, May 1945).
@@ -4519,16 +4338,13 @@ invertsystematics/IT9941117.pdf.txt:      NSW, BMNH (coll. WWF).
 invertsystematics/IT9941117.pdf.txt:     'Australia?'; BMNH.
 invertsystematics/IT9941117.pdf.txt:  Eurymeloides moruyana Distant, 1917a: 188; syntype(s), Moruya, NSW; BMNH (coll. Murray).
 invertsystematics/IT9941117.pdf.txt:   Eurymela terminalis Walker, 1851: 642; 4 syntypes, Adelaide, SA; BMNH.
-invertsystematics/IT9941117.pdf.txt:       NHMW (Signoret colln).
 invertsystematics/IT9941117.pdf.txt:       Holland' (probably Port Stevens, NSW); BMNH.
 invertsystematics/IT9941117.pdf.txt:       BMNH.
 invertsystematics/IT9941117.pdf.txt:  Bythoscopus nigroaeneus Walker, 1851: 867; synonymised by Stil, 1862: 495; holotype, Tas; BMNH.
 invertsystematics/IT9941117.pdf.txt:       Holland'; BMNH.
 invertsystematics/IT9941117.pdf.txt:       BMNH.
 invertsystematics/IT9941117.pdf.txt:   Eurymelaperpusilla Walker, 18586: 83; syntype(s), Tasmania; BMNH.
-invertsystematics/IT9941117.pdf.txt:      NHMW (Signoret colln).
 invertsystematics/IT9941117.pdf.txt:      Qld and 'New Holland'; BMNH.
-invertsystematics/IT9941117.pdf.txt:      NHMW.
 invertsystematics/IT9941117.pdf.txt:      WA, 'New Holland'; BMNH.
 invertsystematics/IT9941117.pdf.txt:      land'; BMNH (coll. F. P. Dodd).
 invertsystematics/IT9941117.pdf.txt:      'N. S. Wales'; BMNH.
@@ -4619,7 +4435,6 @@ invertsystematics/IT9890697.pdf.txt:   Holotype. w from Kuranda, 1913, R. E. Tur
 invertsystematics/IT9890697.pdf.txt:but sex checked by R. T. Thompson, BMNH, London).
 invertsystematics/IT98018.pdf.txt:New Guinea. Chrysops australis is the most widely distributed       BMNH       Department of Entomology, The Natural History Museum,
 invertsystematics/IT98018.pdf.txt:active throughout the year, while C. fixissimus flies from          HNHM       Zoological Department, Hungarian Natural History Museum,
-invertsystematics/IT98018.pdf.txt:NHMW     Naturhistorisches Museum Wien, Postfach 417, Burgring 7,
 invertsystematics/IT98018.pdf.txt:cell cu, width of apicocostal infuscation slightly exceeding                                         A. Wollaston (B. O. U. Exped.) (BMNH); 乆, NW Japen [Yapen] Is,
 invertsystematics/IT98018.pdf.txt:extreme lateral margins, tergite 2 entirely yellow, tergites                                         vii.1945, B. Malkin (BMNH); 4乆, ‘Nieuw Guinea’, Lorentz 1909–10,
 invertsystematics/IT98018.pdf.txt:(BMNH, ANIC); 乆, ‘New Guinea’, xii.1944, W. R. Enns (USNM); 3乆,           lobes, above wing bases and transverse band anterior to
@@ -4640,7 +4455,6 @@ invertsystematics/IT98018.pdf.txt:26么 from BMNH, BPBM, CASC, CUIC, MCZC, UNHC,
 invertsystematics/IT98018.pdf.txt:below, thinly grey tomentose above, yellowish grey tomen-          Yunnan, China (BMNH).
 invertsystematics/IT98018.pdf.txt:eye margins. Scape and pedicel of antenna black on outer           16.iii.1934, R. Malaise (BMNH). India: Assam. 乆, Sukna, 55 km S of
 invertsystematics/IT98018.pdf.txt:palpi brown with fuscous outer margins.                            H. T. Pease; Kashmir, 5200 ft, 16–27.vi.1923, Fletcher Coll. (BMNH).
-invertsystematics/IT98018.pdf.txt:                                                                     Chrysops manilensis. Holotype, 乆, Manila, Philippines (NHMW).
 invertsystematics/IT98018.pdf.txt:subshining grey-black. Sternites 1–4 creamy yellow with               Holotype. Chrysops ligatus 乆, North Bengal, India (BMNH).
 invertsystematics/IT98018.pdf.txt:Yerbury (BMNH).
 invertsystematics/IT98018.pdf.txt:mens examined: 50乆, 5么 from BMNH, BPBM, CASC, FSCA,                     short and slender. Abdominal tergites 1–4 pale yellow
@@ -4650,7 +4464,6 @@ invertsystematics/IT98018.pdf.txt:                            (Figs 13, 48)     
 invertsystematics/IT98018.pdf.txt:vertex by grey tomentum and pale yellow hairs. Antenna            B of C. fixissimus is in BMNH. It clearly is the species in which
 invertsystematics/IT98018.pdf.txt:   Silvius fascipennis (HNHM, destroyed).                                below, abdomen lacking indistinct submedian darker stripes.
 invertsystematics/IT98018.pdf.txt:F. M. Thompson (BMNH). Taiwan: 乆, Chaochi, nr. Yilan to Pinglin,         unknown). Kröber’s description very closely agrees with the
-invertsystematics/IT98018.pdf.txt:cell r1 at junction with crossband but poorly defined to apex            Askhabad, Turkmenia (NHMW).
 invertsystematics/IT98018.pdf.txt:   (Description taken from Kröber’s (1922) description of                   Holotype. Chrysops simillima 乆, Harvizeh Anura, Iraq (BMNH).
 invertsystematics/IT98018.pdf.txt:20.vii.1922, Capt. H. E. Cross, on camel (all BMNH).                     Length 7–9 mm.
 invertsystematics/IT98018.pdf.txt:Kong. 6乆, Hong Kong, 1913, H. Macfarlane and A. Gibson (BMNH).
@@ -4792,17 +4605,10 @@ invertsystematics/IT97034.pdf.txt:coral at half tide mark, common. J.J. Walker
 invertsystematics/IT97034.pdf.txt:   China (1957) designated a male from the type series (in BMNH) as the lectotype for
 invertsystematics/IT97034.pdf.txt:JTPC; Miss M.A. Schneider, UQIC; Dr J. van Tol, RNHL; Mr M.D. Webb, BMNH. This work
 invertsystematics/IT9950279.pdf.txt:       BMNH         Natural History Museum, London
-invertsystematics/IT9950279.pdf.txt:       NHMW         Naturhistorisches Museum, Wien
-invertsystematics/IT9950279.pdf.txt:(NMV); 1 6 , no further data (NHMW); 1 9 , no further data, E. Reimoser collection (MCZ); 1 9 ,
 invertsystematics/IT9950279.pdf.txt:[32"02'S,122"48'E], Elder Explor. Expedition (BMNH 1924,111.1.855); 1 2 , Fraser Ranges
 invertsystematics/IT9950279.pdf.txt:(BMNH). Victoria: 1 6 ,Beaumaris [37"59'S,145"02'E], 18.iv.1925, A. S. Cudmore (NMV); 1 6 , 2
 invertsystematics/IT9950279.pdf.txt:Youngson (WAM 9311913); 1 juv. 6,Pingelly [32%'S,lI7"05'E], A. Fyson (BMNH); 1 4,50 mi E
-invertsystematics/IT9950279.pdf.txt:[33"50'S,150"40'E] (NHMW); 1 8 ,10 km S of Narooma [36"18'S,150'08'E], 9.xi.1985, D. Bickel
 invertsystematics/IT9950279.pdf.txt:(BMNH 1928.IV.26.4-5); 1 8 , Pymble [33"45'S,151%9'E], 16.v.1954, W. Black (AM KS22047); 1
-invertsystematics/IT9950279.pdf.txt:27.ix.1914 (MCZ); 2 9 , Sydney [as Sidney], 1860 (NHMW); 1 8 ,Sydney [33'53'S,15l013'E], A. M.
-invertsystematics/IT9950279.pdf.txt:GSH (AM KS23084); 1 8 , 1 juv. 8 , without further data, 1882 (NHMW, Museum Goddefroy 305); 1
-invertsystematics/IT9950279.pdf.txt:   T h e two females from Sydney lodged in NHMW were misidentified b y L. Koch (1872) as
-invertsystematics/IT9950279.pdf.txt:Griswold (CAS), Dr J. Gruber (NHMW), Dr R. B. Halliday (ANIC), Dr A. Harris (OM), Dr
 invertsystematics/IT9950279.pdf.txt:J. L. Hickman (University of Tasmania), Mr P. D. Hillyard (BMNH), Mr D. Hirst (SAM),
 invertsystematics/IS06013.pdf.txt:  A                                                                            BMNH         National History Museum, London, England
 invertsystematics/IS06013.pdf.txt:148°14′E, Queensland, Australia] (BMNH 1919.9.18.1384).
@@ -4831,7 +4637,6 @@ invertsystematics/IT9930033.pdf.txt:N1991657-8; Q , (holotype of Zsopeda ardross
 invertsystematics/IT9930033.pdf.txt:tietzi from Adelaide and environs, BMNH, have not been examined. The syntype male of
 invertsystematics/IT9930033.pdf.txt:I. tietzi from Victoria, BMNH 1924.3.1.723-5 (part), which was examined, is considered to
 invertsystematics/IT9930033.pdf.txt:   Leetotype (here designated).   Q, Chapman R., c. 28O4s1S.,114°39'E., W.A., W. Saunders, BMNH
-invertsystematics/IT9930033.pdf.txt:AM; Ms J. Grimshaw, DPI; Dr J. Gruber, NHMW; Dr P. J. van Helsdingen, RMNH;
 invertsystematics/IT9930033.pdf.txt:M r P. Hillyard, BMNH; Dr T. Kronested, NHRM; Dr B. Y. Main, Zoology Department,
 invertsystematics/IT99009_LRj.pdf.txt:Onthophagus auritus Erichson, Onthophagus bicavicollis Lea,                        BMNH        British Museum (Natural History), London
 invertsystematics/IT99009_LRj.pdf.txt:BMNH).                                                                                        Mollymook, 26.i.1971, on P. lacrymosa, E. B. Britton. Northern
@@ -5261,12 +5066,6 @@ invertsystematics/IS06010.pdf.txt:                                              
 invertsystematics/IS06010.pdf.txt:                                                                               peninsularis Cameron            Malaysia                    BMNH
 invertsystematics/IS06010.pdf.txt:                                                                               kishimotoi Naomi*               Japan                       NHMC
 invertsystematics/IS06010.pdf.txt:We are grateful to Mr Martin Brendell (BMNH), Dr Harald Schillhammer             the allied groups (Coleoptera, Staphylinoidea), I. Introduction, Head
-invertsystematics/IS09022.pdf.txt:Naturhistorisches Museum Wien, Austria (NHMW); Museum                           R. Stefanini-Jim (1985) but could not be located; it may have possibly
-invertsystematics/IS09022.pdf.txt:                                                                               (Gruta do Tatu), 1 ma and 4 fe (NHMW21179), P. Gnaspini et al. leg.,
-invertsystematics/IS09022.pdf.txt:(NHMW21180), M.R. Hara leg., II/2001; São José dos Pinhais                small, like a callus.
-invertsystematics/IS09022.pdf.txt:                                                                                                                      do Instituto Oceanográﬁco da USP), 3 ma and 1 fe (NHMW21181),
-invertsystematics/IS09022.pdf.txt:    Leg IV. Prolateral apical apophysis of coxa transversal,           (Esta¸c ão Biológica de Boracéia, Rio dos Pilões), 1 ma (NHMW21182),
-invertsystematics/IS09022.pdf.txt:minute granules (giving a smooth aspect). Patella and tibia            Três Picos), 1 ma and 1 fe paratypes (NHMW21183), M.B. DaSilva &
 invertsystematics/IS05021.pdf.txt:have close-set eyes, the eyes of Plynops females are widely          NHML        Natural History Museum, London
 invertsystematics/IS05021.pdf.txt:mesopleuron having distinctly smooth areas both dorsally and         (1, NHML 5110; 1, NZAC 5140; 1 5141, 1 5174, UWIM).
 invertsystematics/IT99005_LRj.pdf.txt:throughout the country since 1978, together with the oppor-                   BMNH         Natural History Museum, London, UK
@@ -5337,26 +5136,21 @@ invertsystematics/IT9880841.pdf.txt:not actually on Kosciusko (all BMNH) (seen).
 invertsystematics/IT9880841.pdf.txt:Mts; New South Wales: Sandy Flat, nr Tenterfield (BMNH, ANIC, NMV); lu, Mi Tamborine
 invertsystematics/IT9880841.pdf.txt:queries: Dr P. C. Barnard and Mr S. J. Brooks (BMNH), Miss J. C. Cardale (ANIC),
 invertsystematics/IT9910133.pdf.txt:Canberra, A.C.T.; BMNH, The Natural History Museum, London; BPBM, Bernice P . Bishop
-invertsystematics/IT9910133.pdf.txt:(NSWA), 1 w , Novara Reise, tricellata Alte Sammlung (NHMV); La Perouse, 1w , 1Q Wahroonga,
 invertsystematics/IT9910133.pdf.txt:   Types. Unsuccessful inquiries to BMNH, OXUM and MLUH. Edwards (1934) wrote that the type
 invertsystematics/IT9910133.pdf.txt:1910-194, in BMNH. Condition, good, right hind pretarsus missing, some verdigris. Measurements,
-invertsystematics/IT9910133.pdf.txt:   Holotype. 0 , New South Wales: label data, Sidney [sic.], Novara Reise, in NHMV. Condition,
 invertsystematics/IT9910133.pdf.txt:    N. atherix. Not located after inquiries to BMNH, MLUH and OXUM. Probably lost. Type locality
 invertsystematics/IT9910133.pdf.txt:writing], in BMNH. Condition poor, denuded, mouldy, headless, legs except coxae and hind femora
 invertsystematics/IT9910133.pdf.txt:Walk., in BMNH. Condition, poor, large hole in head and scutum, vestiture denuded, antennae
 invertsystematics/IT9910133.pdf.txt:Macq., Van Diemen [Tasmania], [some illegible writing], in BMNH. Condition, poor, covered in fungal
 invertsystematics/IT9910133.pdf.txt:Tasmania, ex Bigot Coll. BM 1960-539, in BMNH. Condition, poor, missing: head, wings, all legs
 invertsystematics/IT9910133.pdf.txt:in BMNH. Condition, fair, vestiture mostly intact, scutum greasy, missing: right wing and mid leg.
-invertsystematics/IT9910133.pdf.txt:    Holotype. w , Western Australia: label data, Swan River, Coll. Winthem, in NHMV. Condition,
 invertsystematics/IT9910133.pdf.txt:BMNH. Condition, fair, thorax and abdomen denuded, greasy, verdigris present, antenna1 flagella
 invertsystematics/IT9910133.pdf.txt:Holland, in BMNH. Condition, poor, badly denuded, head crushed, right wing removed and glued to
-invertsystematics/IT9910133.pdf.txt:[?g.g.], in NHMV. Condition, poor, denuded head glued onto thorax; missing: antenna1 flagella,
 invertsystematics/IT9910133.pdf.txt:in BMNH. Condition, fair, some verdigris, missing left flagellum, left fore tarsal claws, mid tarsi,
 invertsystematics/IT9910133.pdf.txt:   Paralectotype. w , here designated, Western Australia: label data as for holotype, in BMNH.
 invertsystematics/IT9910133.pdf.txt:made t o BMNH, OXUM and MLUH. Type locality 'Swan River' [Perth]. I accept Edwards' concept
 invertsystematics/IT9910133.pdf.txt:Australia, in BMNH. Condition, poor, mouldy and greasy, vestiture mostly intact, missing right wing
 invertsystematics/IT9910133.pdf.txt:   Paralectotype.   Male, here designated, Western Australia: same data as lectotype (BMNH).
-invertsystematics/IT9910133.pdf.txt:J. Chainey, BMNH; Dr R. Contreras-Lichtenberg, NHMV; Dr D. Colless, ANIC; Mr
 invertsystematics/IT9950827.pdf.txt:Museum, London; BMNH 1965.9.28.1; on slide).
 invertsystematics/IS03020_AC.pdf.txt:   BMNH          The Natural History Museum, London.
 invertsystematics/IS03020_AC.pdf.txt:1038 (BMNH).
@@ -5471,23 +5265,6 @@ invertsystematics/IT9940017.pdf.txt:lectotype label, in BMNH.
 invertsystematics/IT9940017.pdf.txt:B.M. 1910-236', and with our lectotype label, in BMNH.
 invertsystematics/IT9940017.pdf.txt:BMNH.
 invertsystematics/IT9940017.pdf.txt:   Type. Q, labelled 'Type, H.T.','Australia, Blackburn's coll., B.M. 1910-236', in BMNH.
-invertsystematics/IS10014.pdf.txt:the respective ND1-haplotypes are indicated (see Jesse et al. 2009). Abbreviations: NHMW = Naturhistorisches Museum, Wien; MZUF = Museo Zoologico dell’
-invertsystematics/IS10014.pdf.txt:  LAN                           Greece, Peloponnesus, Arcadia, 24 km         HM244846           HM244857          HM244831           NHMW 4323
-invertsystematics/IS10014.pdf.txt:  TAY                           Greece, Peloponnesus, Laconia,               HM244849           HM244860               –             NHMW 4305
-invertsystematics/IS10014.pdf.txt:  EUB; H9                       Greece, Euboea                               EU908234           EU908257          HM244835           NHMW 17041
-invertsystematics/IS10014.pdf.txt:  STP; H10                      Greece, Stephanos                            EU908235           EU908258             –               NHMW 4327
-invertsystematics/IS10014.pdf.txt:  PAT; H14                      Greece, Patíopulon                           EU908240           EU908262             –               NHMW 21248
-invertsystematics/IS10014.pdf.txt:Potamon ibericum                Greece, Island of Chios                      HM244850              –              HM244839           NHMW 5694
-invertsystematics/IS10014.pdf.txt:Potamon rhodium                 Greece, Island of Rhodos                     HM244851           HM244861          HM244840           NHMW 17028
-invertsystematics/IS10014.pdf.txt:from a previous study (Jesse et al. 2009; see Table 1 for                             NHMW Naturhistorisches Museum Wien
-invertsystematics/IS10014.pdf.txt:CAT AAA GAT ATY GG-30 ) and COH6 (50 -TAD ACT TCD                              Natural History Museum Vienna (NHMW 4305, 4306, 3119).
-invertsystematics/IS10014.pdf.txt:    Although we could not detect any discernible differences in                   leg Malicky; 2 <, 2 ,, NHMW 3119, Laconia, Taygetos mountains, 1937 leg.
-invertsystematics/IS10014.pdf.txt:the outer morphology of specimens from either clade (including                    Werner (paratype natio laconis); 1 <, 1 ,, NHMW 4305, Laconia, Taygetos
-invertsystematics/IS10014.pdf.txt:biogeographic consideration (see ‘Discussion’). 1 ,, NHMW 4303,
-invertsystematics/IS10014.pdf.txt:Stymphalos, 1965 leg. Kinzelbach; 5 <, NHMW 4323, Arcadia, 24 km E                Balss 1914; Bott 1970; Ng 1988). Brandis et al. (2000) revised
-invertsystematics/IS10014.pdf.txt:of Langadia 1978 leg. Pretzmann; 4 <, NHMW 3120, Arcadia, 1926 leg.               the genus Potamon by means of ﬁrst gonopod morphology, and
-invertsystematics/IS10014.pdf.txt:Beier; 2 <, 1 ,, NHMW 4306, Laconia, Parnon mountains, 1976 leg. Aspöck           considered especially the shape of the ﬁrst gonopod’s terminal
-invertsystematics/IS10014.pdf.txt:(paratype natio laconis); 1 <, NHMW 4780, Laconia, Agios Ellisseos, 1980          part and of the ﬂexible zone between terminal and subterminal
 invertsystematics/IT9910289.pdf.txt: BMNH        The Natural History Museum, London, U.K.
 invertsystematics/IT9910289.pdf.txt:  Lectotype 0 : Cooktown, Queensland, January 1908, R. J. Tillyard (BMNH) (cf.
 invertsystematics/IT9910289.pdf.txt:  Lectotype 0 : Waroona, Western Australia, 7.xi.1911, G. F. Berthoud (BMNH) (cf.
@@ -6007,7 +5784,6 @@ invertsystematics/IS03032.pdf.txt:    HNHM      Hungarian Natural History Museum
 invertsystematics/IS03032.pdf.txt:        or shorter than pronotum (Fig. 2). Only apterous form known                                      type (ANIC, BMNH, NTM, QM, SAM, ZMUC); 5, 5 apt., Roaring
 invertsystematics/IS03032.pdf.txt:from Cairo and Abukir, Egypt (types deposited in HNHM).              apt., 4 nymphs, Swim Ck Crossing, Point Stuart Station; 2 apt., Mudg-
 invertsystematics/IS03032.pdf.txt:Georgina R. at Urandangie (DNRQ); 1 macr., Pine Mt (ANIC); 1           1 micr., Millstream HS (ANIC); 3, 1, Swan R. (BMNH); 1, 3
-invertsystematics/IS03032.pdf.txt:described H. insularis from the same area (type in NHMV),        Andersen, N. M., and Weir, T. A. (1997). The gerrine water striders of
 invertsystematics/IS05029.pdf.txt:  collection, BCPM – Royal British Columbia Museum (former British Columbia Provincial Museum), Victoria; BMNH – The Natural History
 invertsystematics/IS05029.pdf.txt:*Abietinella operculata (Jäderholm, 1903) (holotype BMNH 1960.8.29.41; part of holotype SMNH 5708)
 invertsystematics/IS05029.pdf.txt:Acryptolaria crassicaulis (Allman, 1888) (holotype BMNH 1888.11.13.29)
@@ -6535,7 +6311,6 @@ invertsystematics/IT01008.pdf.txt:1974a), Palm Ck, Central Australia (BMNH 1924,
 invertsystematics/IT01008.pdf.txt:mountainous rivers, and mound springs or sandy river banks                     Beccaloni (BMNH), David Hirst (SAM), Mark Harvey and
 invertsystematics/IT98020_LR.pdf.txt:   BMNH The Natural History Museum, London
 invertsystematics/IT98020_LR.pdf.txt:   HNHM Hungarian Natural History Museum, Budapest
-invertsystematics/IT98020_LR.pdf.txt:   NHMW Naturhistorisches Museum, Wien
 invertsystematics/IT98020_LR.pdf.txt:species from Africa (BMNH). The genus is known from those species listed below and three
 invertsystematics/IT98020_LR.pdf.txt:undescribed species from Japan (BMNH), Laos (BPBM) and the Philippines (BMNH). The
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Afrotropical – Tanzania. (Holotype HNHM, non-type examined.)
@@ -6544,18 +6319,13 @@ invertsystematics/IT98020_LR.pdf.txt:(BMNH), not included in the phylogenetic an
 invertsystematics/IT98020_LR.pdf.txt:(Lectotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:tulbaghata (Geometridae). (Holotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Afrotropical – Burkina Faso, Sahel, Africa. (Holotype BMNH, examined.)
-invertsystematics/IT98020_LR.pdf.txt:Distribution: Palaearctic – Egypt. (Holotype NHMW, examined.)
-invertsystematics/IT98020_LR.pdf.txt:   C. aterrimus Fischer, 1958: 33. Distribution: Neotropical – Ecuador. (Holotype NHMW,
 invertsystematics/IT98020_LR.pdf.txt:275. Distribution: Neotropical – St Vincent, Granada. (Holotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:   C. erythronotus Cameron, 1906: 102. Distribution: Oriental – Pakistan. (Holotype BMNH,
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Australasian – Australia, New Guinea; Oriental – Indonesia. (Lectotype HNHM,
 invertsystematics/IT98020_LR.pdf.txt:Host: Phostria obscurata (Moore) (Pyralidae). (Holotype BMNH, examined.)
-invertsystematics/IT98020_LR.pdf.txt:   C. priesneri Fischer, 1958: 30. Distribution: Palaearctic – Egypt. (Holotype NHMW,
-invertsystematics/IT98020_LR.pdf.txt:   C. purpureus Fischer, 1958: 34. Distribution: Neotropical – Ecuador. (Holotype NHMW,
 invertsystematics/IT98020_LR.pdf.txt:(Holotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Etiella zinckenella (Pyralidae), Loxostege sticticalis (Pyralidae). (Holotype BMNH, examined.)
-invertsystematics/IT98020_LR.pdf.txt:   C. weidholzi Fischer, 1958: 25. Distribution: Palaearctic – Egypt. (Holotype NHMW,
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Australasian – Western Australia, Northern Territory. (Holotype BMNH,
 invertsystematics/IT98020_LR.pdf.txt:Philippines (BPBM) and India (BMNH). This genus comprises 5% of the described world
 invertsystematics/IT98020_LR.pdf.txt:(Holotype BMNH, examined.)
@@ -6563,18 +6333,13 @@ invertsystematics/IT98020_LR.pdf.txt:Distribution: Neotropical – Surinam. (Hol
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Neotropical – Brazil. (Holotype HNHM, examined.)
 invertsystematics/IT98020_LR.pdf.txt:from the type species Psi. sumatranus and three undescribed species from Brunei (BMNH),
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Oriental – Sumatra. (Holotype BMNH, examined.)
-invertsystematics/IT98020_LR.pdf.txt:Distribution: Palaearctic – Egypt. (Holotype NHMW, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Neotropical – St Vincent, Grenada. (Holotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:s. l. Distribution: Afrotropical. (Holotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Hymenia recurvalis (F.) (Pyralidae), Syllepte lunalis (Guenée) (Pyralidae). (Holotype BMNH,
 invertsystematics/IT98020_LR.pdf.txt:(Pyralidae). (Holotype BMNH, examined.)
-invertsystematics/IT98020_LR.pdf.txt:Palaearctic – Egypt. (Holotype NHMW, examined.) The holotype has the apex of the glossa
-invertsystematics/IT98020_LR.pdf.txt:l. Distribution: Oriental – India. Host: Hymenia recurvalis (Pyralidae). (Holotype NHMW,
-invertsystematics/IT98020_LR.pdf.txt:Palaearctic – Egypt. (Holotype NHMW, examined.)
 invertsystematics/IT98020_LR.pdf.txt:ZMHU and BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Afrotropical. (Holotype Grahamstown, BMNH non-type examined.)
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Oriental – Pakistan; Afrotropical. (Holotype BMNH, examined.)
-invertsystematics/IT98020_LR.pdf.txt:Distribution: Palaearctic – Egypt. (Holotype NHMW, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Afrotropical. (Holotype HNHM, examined.)
 invertsystematics/IT98020_LR.pdf.txt:(Noctuidae). (Holotype BMNH, examined.)
 invertsystematics/IT98020_LR.pdf.txt:Distribution: Afrotropical – Natal. (Holotype BMNH, examined.)
@@ -6814,13 +6579,9 @@ invertsystematics/IT97011.pdf.txt:Clarence River sample (BMNH) were examined by 
 invertsystematics/IT97011.pdf.txt:      Clarence River population (BMNH). B, C, showing three basal denticles on central teeth; DE,
 invertsystematics/IT97011.pdf.txt:K. Way of the BMNH kindly loaned material. Thanks also go to M. Haase for providing us with
 invertsystematics/IS05024.pdf.txt:                                                                                BMNH       British Museum of Natural History, London, UK; Janet
-invertsystematics/IS05024.pdf.txt:                                                                               NHMW        Naturhistorisches Museum Wien, Vienna, Austria;
 invertsystematics/IS05024.pdf.txt:         Epigynum with round chambers (Figs 16G, 29C) . . . . . . . . . 10                                Hampson) — he093/f1 ( BMNH); Assam, 4 mi W Kochugaon,
 invertsystematics/IS05024.pdf.txt:10.      Epigynal septum thick (Fig. 29C); Papua New Guinea . . . . . . .                                 (3 BMNH); Maharashtra, 20 mi N Bombay, 19°15′N, 72°50′E, 50 m,
-invertsystematics/IS05024.pdf.txt:1.       EC thin (Fig. 30A–B); Papua New Guinea. H. papuana, Thorell                                      6°35′S, 106°47′E — he066/f1 ( MNHN) — he092/f1 (10 NHMW),
-invertsystematics/IS05024.pdf.txt:         EC broad, with a subdistal apophysis (Figs 4A–B, 12–13,                                          he092/m1 ( NHMW); (coll. J Barbour) — he033/f1 (3 MCZ),
 invertsystematics/IS05024.pdf.txt:                                                                                                          ( BMNH); Sumatera Utara, Sibaulangit, 3°19′N, 98°34′E (coll.
-invertsystematics/IS05024.pdf.txt:                   Herennia multipuncta (Doleschall)                                                      — he091/f1 ( NHMW); xi.1913 (coll. E Jacobson) — he079/f1
 invertsystematics/IS05024.pdf.txt:      Herennia multipuncta Thorell, 1877: 370 (first reviser); 1890: 101.                                 ( BMNH), he108/m1 (2 BMNH); Sebisi, 26.i.1922 — he132/f1
 invertsystematics/IS05024.pdf.txt:         of male and female). – Roewer, 1942: 925; Bonnet, 1957: 2159,                                    (coll. RH Kiew) — he106/f1 (2 BMNH); 2 mi. E Gopeng, 4°27′N,
 invertsystematics/IS05024.pdf.txt:S Hower) — he095/f1 ( BMNH); Perak: Senggong (?) [Lenggong],               the chambers (Figs 2A–B, 10E, 11A, C, E). Further, they
@@ -6953,7 +6714,6 @@ invertsystematics/IT9910953.pdf.txt:  Sarawak. BMNH: foot of Mt Dulit, junction 
 invertsystematics/IT9910953.pdf.txt:(personal communication) examined the type (BMNH) and concluded that the specimen
 invertsystematics/IT9910953.pdf.txt:(this was confirmed by M r G. W . Beccaloni who examined m y types in the BMNH), a n d
 invertsystematics/IT01001_LR.pdf.txt:progress on the species-level taxonomy of these ants requires                   NHMB Naturhistorisches Museum, Basel, Switzerland
-invertsystematics/IT01001_LR.pdf.txt:the analysis of geographically extensive population samples,                    NHMV Naturhistorisches Museum, Vienna, Austria
 invertsystematics/IT01001_LR.pdf.txt:   BMNH Natural History Museum, London, UK                                            Russia
 invertsystematics/IT01001_LR.pdf.txt:   HNHM Hungarian Natural History Museum, Budapest, Hungary                  urements was taken on a representative sample of Tetraponera workers
 invertsystematics/IT01001_LR.pdf.txt:                                                                  queen, ‘Ceylon’ (BMNH). Note: original description also included
@@ -6966,31 +6726,25 @@ invertsystematics/IT01001_LR.pdf.txt:Kotoka, 1400–2600 m (NHMB – Bhutan Expe
 invertsystematics/IT01001_LR.pdf.txt:23 km E Wangdiphodrang [as ‘Tan Chu, 23 km O Wangdi P.’] (NHMB            (A. Schellerich); Ulu Gombak, nr Kuala Lumpur, 800 ft (R. W. Taylor).
 invertsystematics/IT01001_LR.pdf.txt:(T. F. Halstead); Western: Colombo (Simon); Colombo (U. Maschwitz);          (Collections: AMSA, ANIC, ASIC, BMNH, CASC, CESB, CMNH,
 invertsystematics/IT01001_LR.pdf.txt:Colombo (T. F. Halstead); Labugama, Colombo distr. (A. E. Stubbs;          DZUC, HNHM, HZIC, KFBG, KUBC, KUEC, KUES, LACM, MCSN,
-invertsystematics/IT01001_LR.pdf.txt:P. J. Chandler); Laxapathiya, nr Colombo (K. L. A. Perera); Yakkala        MCZC, MHNG, NHMB, NHMV, NTUC, PSWC, RMBR, SAMC,
 invertsystematics/IT01001_LR.pdf.txt:Eggleton) (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:bust; pronotum not laterally margined, and in posterior view       Brunei: Labi (I. Gauld) (1 worker) (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:xi.1994 (M. Brendell, K. Jackson & S. Lewis) (BMNH).                Sarawak, Malaysia, 28–31.v.1968 (R. W. Taylor #68.166) (ANIC).
 invertsystematics/IT01001_LR.pdf.txt:(BMNH).                                                               slender profemur (FI 0.36–0.45 v. 0.47–0.48; FL/HL 0.58–
-invertsystematics/IT01001_LR.pdf.txt:   Paratypes. 5 workers, same data as holotype (KUBC, NHMV,
 invertsystematics/IT01001_LR.pdf.txt:   (Collections: BMNH, KUES, MCZC, PSWC, SMNK).                        all collections can be easily assigned to one of these three
 invertsystematics/IT01001_LR.pdf.txt:103°47´E, 20.xi.1988 (P. S. Ward #9570) (BMNH).                          plate; propodeum high and narrow (Fig. 39), such that PDI
 invertsystematics/IT01001_LR.pdf.txt:    (Collections: AMNH, ANIC, ASIC, BMNH, HZIC, KUES, LACM,              and soft-edged than in most T. allaborans, and the maximum
-invertsystematics/IT01001_LR.pdf.txt:MCZC, MHNG, MZLU, NHMB, NHMV, PSWC, RMBR, SMNK,                          width of the pronotum occurs at the pronotal margins (Fig.
 invertsystematics/IT01001_LR.pdf.txt:   Also characteristic (but not absolutely diagnostic) of T.                 (Collections: ANIC, ASIC, BMNH, KFBG, KUES, LACM,
 invertsystematics/IT01001_LR.pdf.txt:                                                                          Malaysia: Sabah: Danum Valley (P. Eggleton) (BMNH); Poring
 invertsystematics/IT01001_LR.pdf.txt:Singapore (H. Overbeck) (MHNG, NHMB).                                     Integument smooth and shiny, with scattered fine punctures
 invertsystematics/IT01001_LR.pdf.txt:                                                                 Sarawak (labeled ‘Sar.’), Malaysia (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:(R. W. Taylor); Tawau Residency, Kalabakan R., 30 mi. W Tawau (L. W.            (Collections: AMNH, ANIC, ASIC, BMNH, CASC, CMNH,
-invertsystematics/IT01001_LR.pdf.txt:Pk, 0–250 m (B. B. Lowery); Umas Umas, nr Tawau (R. W. Taylor);             MHNG, NHMV, PSWC, RMBR, ROME, SMNK, UASK, UMSC,
 invertsystematics/IT01001_LR.pdf.txt:                                                                workers, N. Konkan, Myanmar (Wroughton) (NHMB); syntypes, 8
 invertsystematics/IT01001_LR.pdf.txt:suberect and decumbent pubescence which forms a dense           Delbrugarh, India (Lindgreen) (MCSN, MHNG, NHMB).
 invertsystematics/IT01001_LR.pdf.txt:and first several funicular segments often lighter (medium-     Bhutan: Phuntsholing, 200–400 m (NHMB – Bhutan Expedition
 invertsystematics/IT01001_LR.pdf.txt:                                                                    (Collections: AMNH, ASIC, BMNH, KFBG, KUES, LACM,
-invertsystematics/IT01001_LR.pdf.txt:                                                                MCSN, MCZC, NHMB, NHMV, PSWC, UASK).
 invertsystematics/IT01001_LR.pdf.txt:smooth and shiny; punctures on dorsum of head and                 10.ix.1982, fogging (N. E. Stork) (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:mesosoma mostly 0.005–0.015 mm in diameter and                        Paratypes. 5 workers, same data as holotype (BMNH, PSWC,
 invertsystematics/IT01001_LR.pdf.txt:   Sima (Tetraponera) dilatata Karavaiev, 1933: 267. Syn. nov.          (Collections: ANIC, ASIC, BMNH, CASC, HZIC, KUBC, KUES,
-invertsystematics/IT01001_LR.pdf.txt:   Sima (Tetraponera) difficilis Emery; Emery, 1921: 26.            LACM, MCSN, MCZC, MHNG, NHMV, PSWC, UMSC, USNM).
 invertsystematics/IT01001_LR.pdf.txt:extensively) to sparse (hairs separated by more than their        holotype (ANIC, BMNH, FRCK, KUBC, KUEC, KUES, MCZC,
 invertsystematics/IT01001_LR.pdf.txt:characteristic. Workers show modest variation in size, shape         (Collections: ANIC, BMNH, KUES, LACM, MCZC, PSWC,
 invertsystematics/IT01001_LR.pdf.txt:given size class; hind leg shorter, LHT/HL 0.61–0.71               Indonesia (Wallace) (BMNH, OXUM).
@@ -6998,31 +6752,23 @@ invertsystematics/IT01001_LR.pdf.txt:  (Collections: AMNH, ANIC, BMNH, CASC, KUE
 invertsystematics/IT01001_LR.pdf.txt:occupying a little more than half the length of the basitarsus.     (Downes) (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:dense (subcontiguous) on anteriormost portions of head and          (BMNH). Note: original description also includes worker and male.
 invertsystematics/IT01001_LR.pdf.txt:    (Collections: AMNH, ANIC, BMNH, CASC, CESB, DZUC,
-invertsystematics/IT01001_LR.pdf.txt:NHMV, PSWC, UMSC, USNM).                                                 binghami and T. buops by the better-developed background
 invertsystematics/IT01001_LR.pdf.txt:second Stereospermum nest series from the same locality (D.             India (Ferguson) (MCSN, MHNG, NHMB).
 invertsystematics/IT01001_LR.pdf.txt:    (Collections: ANIC, ASIC, BMNH, CASC, HZIC, JDMC, KUEC,            petiole and postpetiole, but more abundant in some workers
-invertsystematics/IT01001_LR.pdf.txt:KUES, LACM, MCSN, MCZC, MHNG, NHMB, NHMV, PSWC,                        (MSC ≥10; see discussion below); short appressed
 invertsystematics/IT01001_LR.pdf.txt:Thailand, 10.vii.1999 (S. Yamane) (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:worker) (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:broad (FI >0.50); mesosoma elongate, with well defined                   Paratypes. 7 workers, same data as holotype (ANIC, BMNH,
 invertsystematics/IT01001_LR.pdf.txt:posterior view; in lateral profile, dorsal face rounding           (MNHG, NHMB).
 invertsystematics/IT01001_LR.pdf.txt:   (Collections: AMNH, AMSA ANIC, BMNH, CPDC, CUIC,                      propodeum (0–17), petiole (0–7) and postpetiole (0–8); ap-
-invertsystematics/IT01001_LR.pdf.txt:MZLU, NHMB, NHMV, PSWC, TERC, UASK, UCDC, USNM).                         dense on postpetiole and gastric tergites. Black to dark
 invertsystematics/IT01001_LR.pdf.txt:                                                                  (AMSA ANIC, BMNH, KUBC, KUEC, KUES, LACM, MCZC,
-invertsystematics/IT01001_LR.pdf.txt:Papua New Guinea.                                                    (Collections: ANIC, BMNH, MCSN, MHNG, NHMV, PSWC,
 invertsystematics/IT01001_LR.pdf.txt:diagnostic in the queen caste (see key to queens).              holotype (AMSA, ANIC, BMNH, KUBC, KUEC, KUES, LACM,
-invertsystematics/IT01001_LR.pdf.txt:Indonesia: Jawa Barat: Bogor (Hamann) (1 queen) (NHMV).
 invertsystematics/IT01001_LR.pdf.txt:separated by about their lengths or less. Dark brownish-           (BMNH).
 invertsystematics/IT01001_LR.pdf.txt:    (Collections: AMNH, ANIC, ASIC, BMNH, CASC, HZIC, KUEC,
-invertsystematics/IT01001_LR.pdf.txt:KUES, LACM, MCSN, MCZC, MHNG, NHMB, NHMV, PSWC,
 invertsystematics/IT01001_LR.pdf.txt:Dhaka: ‘Dacca’ (D. Leston). Bhutan Phuntsholing (NHMB – Bhutan               L. H. Krauss); Kuala Lumpur (Lea et al.); Kuala Lumpur (U.
 invertsystematics/IT01001_LR.pdf.txt:Expedition 1972); Samchi (NHMB – Bhutan Expedition 1972). China              Maschwitz); Kuala Lumpur (H. M. Pendlebury); Kuala Lumpur (E. S.
 invertsystematics/IT01001_LR.pdf.txt:   (Collections: AMNH, ANIC, BMNH, CASC, CESB, CUIC,                    (especially the sheen of the head), petiole shape (see range of
-invertsystematics/IT01001_LR.pdf.txt:MNHN, MZLU, NHMB, NHMV, PSWC, RMBR, RMNH, SAMC,                         values). More striking is the variation in the color of the
 invertsystematics/IT01001_LR.pdf.txt:                                                                           Taylor (ANIC; includes HNHM and RMNH material in
 invertsystematics/IT01001_LR.pdf.txt:The ant genus Tetraponera occurs throughout most of the                    Barry Bolton (BMNH), Wojciech Pulawski (CASC),
 invertsystematics/IT01001_LR.pdf.txt:Danielsson (MZLU), Michel Brancucci (NHMB), Max                          Andersen, Alex Wild, and two anonymous reviewers for
-invertsystematics/IT01001_LR.pdf.txt:Fischer and Stefan Schödl (NHMV), Chung-Chi Lin                          helpful comments on the manuscript. This research was
 invertsystematics/IT9960097.pdf.txt:       BMNH The British Museum (Natural History), London; M. D. Kerley
 invertsystematics/IT9960097.pdf.txt:       HNHM Hungarian Natural History Museum, Budapest; 0. Merkl
 invertsystematics/IT9960097.pdf.txt:Blackburn coll. B. M. 1910-236' and with our lectotype label, in BMNH.
@@ -7122,7 +6868,6 @@ invertsystematics/IT99004.pdf.txt:contour converging apically to lipped extremit
 invertsystematics/IT99004.pdf.txt:                                                                         the MNHN or in the NHM. Hustache (1921) likewise was
 invertsystematics/IT98020.pdf.txt:   BMNH The Natural History Museum, London
 invertsystematics/IT98020.pdf.txt:   HNHM Hungarian Natural History Museum, Budapest
-invertsystematics/IT98020.pdf.txt:   NHMW Naturhistorisches Museum, Wien
 invertsystematics/IT98020.pdf.txt:species from Africa (BMNH). The genus is known from those species listed below and three
 invertsystematics/IT98020.pdf.txt:undescribed species from Japan (BMNH), Laos (BPBM) and the Philippines (BMNH). The
 invertsystematics/IT98020.pdf.txt:Distribution: Afrotropical – Tanzania. (Holotype HNHM, non-type examined.)
@@ -7131,18 +6876,13 @@ invertsystematics/IT98020.pdf.txt:(BMNH), not included in the phylogenetic analy
 invertsystematics/IT98020.pdf.txt:(Lectotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:tulbaghata (Geometridae). (Holotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:Distribution: Afrotropical – Burkina Faso, Sahel, Africa. (Holotype BMNH, examined.)
-invertsystematics/IT98020.pdf.txt:Distribution: Palaearctic – Egypt. (Holotype NHMW, examined.)
-invertsystematics/IT98020.pdf.txt:   C. aterrimus Fischer, 1958: 33. Distribution: Neotropical – Ecuador. (Holotype NHMW,
 invertsystematics/IT98020.pdf.txt:275. Distribution: Neotropical – St Vincent, Granada. (Holotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:   C. erythronotus Cameron, 1906: 102. Distribution: Oriental – Pakistan. (Holotype BMNH,
 invertsystematics/IT98020.pdf.txt:Distribution: Australasian – Australia, New Guinea; Oriental – Indonesia. (Lectotype HNHM,
 invertsystematics/IT98020.pdf.txt:Host: Phostria obscurata (Moore) (Pyralidae). (Holotype BMNH, examined.)
-invertsystematics/IT98020.pdf.txt:   C. priesneri Fischer, 1958: 30. Distribution: Palaearctic – Egypt. (Holotype NHMW,
-invertsystematics/IT98020.pdf.txt:   C. purpureus Fischer, 1958: 34. Distribution: Neotropical – Ecuador. (Holotype NHMW,
 invertsystematics/IT98020.pdf.txt:(Holotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:Etiella zinckenella (Pyralidae), Loxostege sticticalis (Pyralidae). (Holotype BMNH, examined.)
-invertsystematics/IT98020.pdf.txt:   C. weidholzi Fischer, 1958: 25. Distribution: Palaearctic – Egypt. (Holotype NHMW,
 invertsystematics/IT98020.pdf.txt:Distribution: Australasian – Western Australia, Northern Territory. (Holotype BMNH,
 invertsystematics/IT98020.pdf.txt:Philippines (BPBM) and India (BMNH). This genus comprises 5% of the described world
 invertsystematics/IT98020.pdf.txt:(Holotype BMNH, examined.)
@@ -7150,18 +6890,13 @@ invertsystematics/IT98020.pdf.txt:Distribution: Neotropical – Surinam. (Holoty
 invertsystematics/IT98020.pdf.txt:Distribution: Neotropical – Brazil. (Holotype HNHM, examined.)
 invertsystematics/IT98020.pdf.txt:from the type species Psi. sumatranus and three undescribed species from Brunei (BMNH),
 invertsystematics/IT98020.pdf.txt:Distribution: Oriental – Sumatra. (Holotype BMNH, examined.)
-invertsystematics/IT98020.pdf.txt:Distribution: Palaearctic – Egypt. (Holotype NHMW, examined.)
 invertsystematics/IT98020.pdf.txt:Distribution: Neotropical – St Vincent, Grenada. (Holotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:s. l. Distribution: Afrotropical. (Holotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:Hymenia recurvalis (F.) (Pyralidae), Syllepte lunalis (Guenée) (Pyralidae). (Holotype BMNH,
 invertsystematics/IT98020.pdf.txt:(Pyralidae). (Holotype BMNH, examined.)
-invertsystematics/IT98020.pdf.txt:Palaearctic – Egypt. (Holotype NHMW, examined.) The holotype has the apex of the glossa
-invertsystematics/IT98020.pdf.txt:l. Distribution: Oriental – India. Host: Hymenia recurvalis (Pyralidae). (Holotype NHMW,
-invertsystematics/IT98020.pdf.txt:Palaearctic – Egypt. (Holotype NHMW, examined.)
 invertsystematics/IT98020.pdf.txt:ZMHU and BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:Afrotropical. (Holotype Grahamstown, BMNH non-type examined.)
 invertsystematics/IT98020.pdf.txt:Distribution: Oriental – Pakistan; Afrotropical. (Holotype BMNH, examined.)
-invertsystematics/IT98020.pdf.txt:Distribution: Palaearctic – Egypt. (Holotype NHMW, examined.)
 invertsystematics/IT98020.pdf.txt:Distribution: Afrotropical. (Holotype HNHM, examined.)
 invertsystematics/IT98020.pdf.txt:(Noctuidae). (Holotype BMNH, examined.)
 invertsystematics/IT98020.pdf.txt:Distribution: Afrotropical – Natal. (Holotype BMNH, examined.)
@@ -7374,20 +7109,13 @@ invertsystematics/IS08013.pdf.txt:Please note that full accounts of the material
 invertsystematics/IS08013.pdf.txt:   BMNH  The Natural History Museum, London, UK                              MNHP Muséum national d’Histoire naturelle, Paris,
 invertsystematics/IS08013.pdf.txt:   CIK   Collection Ivo Karaman, Department of Biology                       NHMB Naturhistorisches Museum Basel, Switzerland
 invertsystematics/IS08013.pdf.txt:T. lusitanicus agg.          BMNH 2              Spain                       UK, Gibraltar                     FJ373229               –
-invertsystematics/IS08013.pdf.txt:   NHMW Naturhistorisches Museum, Vienna, Austria                    extension in 72C for 8 min were used (M. Hedin, pers comm.,
 invertsystematics/IS08013.pdf.txt:                                                                                               70/39             BMNH 2, Gibraltar
 invertsystematics/IS08013.pdf.txt:22   T. lusitanicus,                 BMNH 2     33.1    28.9    28.89 22.58 20.29 17.73 23.82 23.6              22.63 21.74 21.21 21.84 21.85 21.36 24.88 23.79 23.9                    19.2    25.36 21.15      0.18
-invertsystematics/IS08013.pdf.txt:      distributed along the western and southern coast of the Iberian                                             (MNHP); Col de Vergio, 1, (NHMW 4732); Storage lake of Ospedale, 1,
-invertsystematics/IS08013.pdf.txt:6. Body size of males: 10.45–10.8 mm, females: 11.8 mm; opisthosoma from                                          de Valdo-Niello, 1< (NHMW 8177); 2 km E Col de Vergio, 1, (CJM 5446);
 invertsystematics/IS08013.pdf.txt:are known to us (Fig. 1).                                                         (NHMP 2191), because Simon (1879) mentioned the nine
 invertsystematics/IS08013.pdf.txt:1310 E), 1<, J. A. Murphy leg. 31.xii.1981 (BMNH); El Vidrá, leg. 7.vii.1936,
 invertsystematics/IS08013.pdf.txt:Grosa, SMF 11816; (g–h) paratype, Ibiza, NW Santa Eulalia, BMNH. Upper row, scale lines 2.0 mm, bottom row 1.0 mm.
 invertsystematics/IS08013.pdf.txt:   Trogulus coriziformis C. L. Koch, 1839: 128–130, ﬁgs 420a–c. –                  d’Abruzzo, Val Fondillo SE Opi, 1< (MV). Prov.Teramo: 1< (NHMB 56-a).
 invertsystematics/IS08013.pdf.txt:                      Grosa, SMF 11816; (k–m ) paratype, Ibiza, northwest Santa Eulalia, BMNH. (a, d, g, k) Right pedipalpus; (b, e, h, l )
-invertsystematics/IS08013.pdf.txt:Naturale Bosco della Frattona, 1< (MSNB). Prov. Forlì-Cesena: Parco                       Torricchio, l’Abbeveratoio, 1< (NHMW); 1< (NHMW); 1< (NHMW); 1,
-invertsystematics/IS08013.pdf.txt:Nazionale Foreste Casentinesi, Bagno di Romagna, N di Sasso Fratino,                      (NHMW); Castelsantangelo sul Nera, Gualdo, 1, (MSNB); Rapegna, 1<
-invertsystematics/IS08013.pdf.txt:(CJM 1057); Comune Trevi nel Lazio, 1<, 1 juv. (CJM 1065); Piglio, 1<                     2<, 2, (MSNB). Prov. Di Pistoia: Scesta/Lima, 1, (NHMW 3156).
-invertsystematics/IS08013.pdf.txt:(MV). Prov. Latina: Monte Circeo, 1<, 1, (CJM 5055). Prov. Rieti,                         Prov. Di Siena: 3 km W Radicofani, 2<, 4, (NHMW 3157).
 invertsystematics/IS08013.pdf.txt:                   11816; (e–h) paratype, Ibiza, NW Santa Eulalia, BMNH. (a, b, e, f ) Glans and distal part of truncus; (c, d, g, h) penis;
 invertsystematics/IS08013.pdf.txt:Trogulus types of Koch (1839) are located in BMNH). Koch                               this species in general. We have not seen Trogulus salﬁi
 invertsystematics/IS08013.pdf.txt:                                                                                      (NHMB 56-b); (The next four lots were recently collected and not
@@ -7582,10 +7310,8 @@ invertsystematics/IS08003.pdf.txt:York, USA; (BMNH) Natural History Museum, Lond
 invertsystematics/IS08003.pdf.txt:as monophyletic. The representatives of the obscurinervis-group       P. Wyatt (BMNH), Jaime Solerviscens (CEUM), Jorge N. Artigas (CEUC),
 invertsystematics/IT01012.pdf.txt:1994b, 1994c, 1996, 1999; Wu and Chen 1994, 1995, 1996,                 BMNH       The Natural History Museum, London
 invertsystematics/IT01012.pdf.txt:                                                                        HNHM       Hungarian Natural History Museum, Budapest
-invertsystematics/IT01012.pdf.txt:Only two of these works (Papp 1977, Fischer 1993a) include              NHMW Naturhistorisches Museum, Wien
 invertsystematics/IT01012.pdf.txt:     Unknown.                                                             ‘1977.XII.14–31 leg.Dr.Szelényi’, Australia (HNHM).
 invertsystematics/IT01012.pdf.txt:                                                                          BMNH); 1么, Upper Allyn, near Eccleston (AMSA).
-invertsystematics/IT01012.pdf.txt:Wharton (ANIC, BMNH, HNHM, NHMW, RMNH, TAMU).
 invertsystematics/IT01012.pdf.txt:field on each side of areola usually smooth, areola rugulose;   km S Mylor, 8.vi and 14.ix.1980, coll. Austin (BMNH). Tasmania:
 invertsystematics/IT01012.pdf.txt:crenulate. Mesopleuron otherwise and metapleuron smooth,         (CNCI), T. Huddleston (BMNH), F. Koch (ZMHB), J. Papp
 invertsystematics/IT01012.pdf.txt:polished.                                                        (HNHM), C. van Achterberg (RMNH) and D. Wahl
@@ -7715,7 +7441,6 @@ invertsystematics/IT9890647.pdf.txt:1924-97', in BMNH.
 invertsystematics/IT9890647.pdf.txt:25.ii.1924), 39, 1 unknown sex in BMNH, 19, 1 unknown sex in NCI, 10 in WARI; 3p, 30.
 invertsystematics/IT9890647.pdf.txt:  I t h a n k D r Lubomir Masner (CNC), D r J o h n Noyes (BMNH) a n d Dr Ian N a u m a n n
 invertsystematics/IT9870473.pdf.txt: BMNH         British Museum (Natural History), London
-invertsystematics/IT9870473.pdf.txt:NHMW          Naturhistorisches Museum, Vienna
 invertsystematics/IT9870473.pdf.txt:  Holotype    0,paratype 0 ,Herberton,       Queensland, F. P. Dodd, in BMNH.
 invertsystematics/IT9870473.pdf.txt:Perkins (20, UQIC), Jan. 1926, H. Hacker (20, 1 9 , QM, l o , BMNH).
 invertsystematics/IT9870473.pdf.txt:1 9 , BMNH, 200, 5 9 , GD, l o , 1 9 , QM), 14.xi.1982 (400, 209, GD), all G. and
@@ -7792,7 +7517,6 @@ invertsystematics/IT9870473.pdf.txt:   maso: holotype Q in BMNH; in good conditi
 invertsystematics/IT9870473.pdf.txt:nr Menai (GD); Oxford Falls (ANIC); 3 miles [5 km] W. of Penrith (ANIC); Katoomba (AM, BMNH,
 invertsystematics/IT9870473.pdf.txt:(ANIC); Nowra (BMNH); Bendalong (GD); Cudmirah Faunal Reserve, nr Bendalong (GD); 6 miles
 invertsystematics/IT9870473.pdf.txt:information: Dr B. K. Cantrell (DPI); Mr J. Chainey (BMNH); Dr D. H. Colless (ANIC);
-invertsystematics/IT9870473.pdf.txt:Dr Contreras-Lichtenberg (NHMW); Mr E. C. Dahms (QM); Miss A. J. Green (TMH);
 invertsystematics/IT9870473.pdf.txt:(MNK); Dr M. Scobie (OUM); Mr K. G. V. Smith (BMNH); Dr L. Tsacas (MNHN);
 invertsystematics/IT9900197.pdf.txt:BMNH        British Museum (Natural History), London
 invertsystematics/IT9900197.pdf.txt:Bouvier Montandon Coll. 1901-233 (BMNH).
@@ -7895,56 +7619,41 @@ invertsystematics/IT97019.pdf.txt:1?, Brisbane, 14.1.1913, H. Hacker, 1914-267 (
 invertsystematics/IT97019.pdf.txt:320 m (GDCB); 1?, Mackay, 1894, G. Turner, 61 (BMNH); 1?, Mt Marlay, nr Stanthorpe, 16.i.1988,
 invertsystematics/IT97019.pdf.txt:and Ian Naumann (ANIC), John Chainey (BMNH), Greg Daniels (GDCB and UQIC), Don
 invertsystematics/IT9880223.pdf.txt: BMNH         British Museum (Natural History), London
-invertsystematics/IT9880223.pdf.txt: NHMV         Naturhistorisches Museum, Vienna
 invertsystematics/IT9880223.pdf.txt:        specimen 'd' [ =Durban, South Africa]. Lectotype in BMNH; paralectotype series includes 5 a ,
-invertsystematics/IT9880223.pdf.txt:        Br. v.W. 5267'. Lectotype in NHMV; see below for further discussion. See Figs 11, 15, 20, 33,
 invertsystematics/IT9880223.pdf.txt:        R[oss]'. Lectotype in BMNH; the paralectotype series consists of 1a and 1 last instar Q bearing
 invertsystematics/IT9880223.pdf.txt:(PPRI); nr S. coast, xi-xii.1968, P . S. Nathan, l a (BMNH); 19 km S. of Empangeni, [Zululand],
 invertsystematics/IT9880223.pdf.txt:Mtunzini, 8.i.1982, R. Toms, F214, U235, 2 0 , 1 9 (TNMU); Durban, 1902, F. Muir, 1 9 (BMNH).
 invertsystematics/IT9880223.pdf.txt:time). Specimens listed 'd-k' bear two BMNH acquisition numbers, 1855-96 and 1858-13.
 invertsystematics/IT9880223.pdf.txt:data except collected 31.xii.1980 (R. Toms) (BMNH).
 invertsystematics/IT9880223.pdf.txt:PPRI); Pondoland, Embotyi Forest, 25-28.ii.1957, G. van Son, 2 0 (BMNH, TVMU). Questionable
-invertsystematics/IT9880223.pdf.txt:(ANIC, ANSP, BMNH, NHMV, PPRI, TVMU). Transvaal: Barberton, 19-26.iii.1920, G. van Dam,
 invertsystematics/IT9880223.pdf.txt:        1912, Dr Stannus. Holotype in BMNH. See Figs 41, 45.
 invertsystematics/IT9880223.pdf.txt:Zimbabwe, Umtali, 1900, Marshall Collection 1909, lo (BMNH).
 invertsystematics/IT9880223.pdf.txt:BMNH. Mt Chirinda is in Manicaland Province, lg014'S. ,32°14'E.
 invertsystematics/IT9880223.pdf.txt:Whellan, 1 9 (BMNH).
 invertsystematics/IT9880223.pdf.txt:   S. Rhodesia [=Zimbabwe], Mt Selinda, December 1935, G . van Son, 1 Q (BMNH).
-invertsystematics/IT9880223.pdf.txt:   Port Natal (NHMV)
 invertsystematics/IT9880223.pdf.txt:Natal: Weenen, nr Katoombe Mt, 900 m, 30.i.1927, H. F. Thomasset, lo (BMNH); White
-invertsystematics/IT9880223.pdf.txt:BMNH, NHMV). Two males, not designated as paratypes are placed here provisionally.
-invertsystematics/IT9880223.pdf.txt:BMNH, NHMV, PPRI, TVMU). Additional paratypes as follows. Transvaal: Duiwelskloof,
-invertsystematics/IT9880223.pdf.txt:   In addition to the holtoype there are 3 0 bearing the same data (ANIC, ANSP, NHMV).
 invertsystematics/IT9880223.pdf.txt:D. Otte, l a (BMNH); Balgowan, Yellow Woods, 18-28.ii.1960, G. van Son, la (TVMU).
-invertsystematics/IT9880223.pdf.txt:   230, 6 9 with same data as holotype (ANSP, ANIC, BMNH, PPRI, NHMV, TVMU).
 invertsystematics/IT9880223.pdf.txt:      South Africa, '55.96', from collection of M. Guenzius. Lectotype in BMNH. The lectotype and
-invertsystematics/IT9880223.pdf.txt:      in the NHMV which bears essentially the same data, but there is no indication that it was part
 invertsystematics/IT9880223.pdf.txt:    2 0 paralectotypes, same data as lectotype (BMNH). 3 p syntypes of Thyreonotus basalis Walker,
 invertsystematics/IT9880223.pdf.txt:no locality but collected by Dr A. Smith, Walker's specimens 'a-c' (BMNH). Natal: Zululand,
 invertsystematics/IT9880223.pdf.txt:Mtunzini Twin Streams, 12.xi.1982, R. Toms, 9 0 (BMNH, TVMU); Uvongo, ll.ii.1974, D. C. Rentz,
-invertsystematics/IT9880223.pdf.txt:(NHMV). Lower Unfolosi Dist., 1922, H. H. Carson, 1 9 (BMNH); Kokstad-Harding Rd, 20 km NE.
-invertsystematics/IT9880223.pdf.txt:13.ii.1974, D. C. Rentz, K. R. Brodey, Stop 33, 8 0 , 5 p (ANIC, PPRI, NHMV, TVMU); same
 invertsystematics/IT9880223.pdf.txt:Balfour-Brown, 1~ (BMNH); East London, Nahoon Mouth, 3.iii.1963, D. Otte, 10 (BMNH); East
 invertsystematics/IT9880223.pdf.txt:London, Kidd's Beach, 15.ii.1974, D. C. Rentz, K. R. Brodey, Stop 34, 100- (ANIC, ANSP, BMNH,
 invertsystematics/IT9880223.pdf.txt:(PPRI); same locality, Mt Thesiger, l.i.1981, R. Toms, 1 9 (BMNH).
 invertsystematics/IT9880223.pdf.txt:   Cape Province: Trappes Valley, Nov. 1924, H. Cronwright, lo-, 1 9 (BMNH).
-invertsystematics/IT9880223.pdf.txt:Coll. NHMV). Cape Point, 26.iv.1958, E. S. Ross, R. E. Leech, l a (CASC); Cape Town, iv.1912,
 invertsystematics/IT9880223.pdf.txt:Lord Gladstone, 1~ (TVMU); Kirstenbosch, 1 0 (BMNH); Newlands, ii.1930, K. H. L. Key, 19
 invertsystematics/IT9880223.pdf.txt:(BMNH); nr Hermanus, 2 0 (BMNH); 3 km N, of Riversdale, Garcias Pass Rd, 240 m, 18.ii.1974,
 invertsystematics/IT9880223.pdf.txt:(BMNH).
 invertsystematics/IT9880223.pdf.txt:   Cape Province: Resolutia, Fort Brown, Miss Walton, 10 (BMNH).
-invertsystematics/IT9880223.pdf.txt:and photographs respectively. Drs A. Kaltenbach (NHMV), T. H. Hubbell (Museum of
 invertsystematics/IT9880223.pdf.txt:Zoology, University of Michigan), D. R. Ragge (BMNH), V. Whitehead (SAMU), Mrs
 invertsystematics/IT9880223.pdf.txt:J. M. Marshall (BMNH) and Dr B. Hauser (Museum d'Histoire Naturelle, Geneva) have
 invertsystematics/IT9951047.pdf.txt:   BMNH        The Natural History Museum, London
-invertsystematics/IT9951047.pdf.txt:   NHMV        Naturhistorisches Museum, Wien
 invertsystematics/IT9951047.pdf.txt:    Dacus lateralis Walker, 1865a: 123. Type locality 'New Guinea'. Holotype 9 in BMNH [not
 invertsystematics/IT9951047.pdf.txt:   Rioxaflava Edwards, 1915: 421. Type locality Mimika River, Irian Jaya. Holotype 9 in BMNH [not
 invertsystematics/IT9951047.pdf.txt:      BMNH [not examined]. -Hardy, 1986b: 56 (as syn.)
 invertsystematics/IT9951047.pdf.txt:   Trypeta pornia Walker, 1849: 1039. Type locality Port Stephens, NSW. Holotype ? in BMNH [not
 invertsystematics/IT9951047.pdf.txt:      BMNH [not examined].
 invertsystematics/IT9951047.pdf.txt:   Rabaulia fascifacies Malloch, 1939a: 257. Type locality Lunga, Guadalcanal. Holotype d in BMNH
-invertsystematics/IT9951047.pdf.txt:       NHMV [not examined]. -Hardy and Foote, 1989: 51 1.
 invertsystematics/IT9951047.pdf.txt:   Rioxa termitoxena Bezzi, 1919: 2, fig. 1. Type locality Port Darwin, NT. Syntypes (8and 9 ) in BMNH
 invertsystematics/IT9951047.pdf.txt:      P in BMNH [not examined]. -Hardy, 1986b: 171; Hardy and Foote, 1989: 516.
 invertsystematics/IT9951047.pdf.txt:      BMNH [not examined]. - Malloch, 1939d: 440; Hardy, 19866: 181; Hardy and Foote, 1989: 516.
@@ -7955,7 +7664,6 @@ invertsystematics/IT9951047.pdf.txt:   Soita psiloides Walker, 18656: 136. Type 
 invertsystematics/IT9951047.pdf.txt:   Euphranta rivulosa Bezzi, 1928: 109. Type locality Suva, Fiji. Holotype 6 in BMNH [not examined].
 invertsystematics/IT9951047.pdf.txt:      BMNH [not examined].
 invertsystematics/IT9951047.pdf.txt:   Adrama magister Lee, 1991: 11 I. Type locality Lim Chu Kang, Singapore. Holotype 6 in BMNH [not
-invertsystematics/IT9951047.pdf.txt:      Holotype 6 in NHMV [not examined]. -Malloch, 1939d: 447; Hardy, 1951: 173; Hardy, 1988: 87;
 invertsystematics/IT9951047.pdf.txt:   Anomoia elimia Walker, 1849: 1033. Type locality Philippines. Holotype 0 in BMNH [not examined].
 invertsystematics/IT9951047.pdf.txt:   Anomoia quadrata Malloch, l939a: 275. Type locality Tulagi, Solomon Is. Holotype d in BMNH [not
 invertsystematics/IT00034.pdf.txt:Institute, Chiba (CBM-ZC); Natural History Museum, London (NHM);
@@ -7972,9 +7680,6 @@ invertsystematics/IT96015.pdf.txt:Fig. 4. Fenestulipora cassiformis (Harmer); NH
 invertsystematics/IT9950247.pdf.txt:     BMNH The Natural History Museum, London, UK
 invertsystematics/IT9950247.pdf.txt:   Holotype in ARC, on indefinite loan to ZSM. Paratypes deposited in ARC, CWOB, BMNH, BPBM.
 invertsystematics/IT9920337.pdf.txt:the South Australian Museum, Adelaide (SAMA). Other abbreviations are BMNH, The Natural History
-invertsystematics/IT9920337.pdf.txt:Nedlands; NHMW, Naturhistorisches Museum, Wein, Austria; SMNS, Stadtliches Museum fiir
-invertsystematics/IT9920337.pdf.txt:QM S15567; Q , Brisbane, NHMW 1882.11.6; w, penult. Q , same locality, BMNH 1890.7.1.3127-8;
-invertsystematics/IT9920337.pdf.txt:   Hirst (1990) discussed the type designations, in which a female from Brisbane, NHMW
 invertsystematics/IT9920337.pdf.txt:8.50. A further male from Brisbane (BMNH 1890.7.1.3127-8) has a carapace length of
 invertsystematics/IT9920337.pdf.txt:  Syntype. cr , Mt Macedon, Vic. [37°25'S.,144034'E.],BMNH 1924.3.1.708-9.
 invertsystematics/IT9920337.pdf.txt:  BMNH 1924.3.1.706-7, female; 31, female SAMA N199039, epigynum and spermathecal sacs,
@@ -7991,7 +7696,6 @@ invertsystematics/IT9920337.pdf.txt:ventral; 79, syntype female I. pengellya Hog
 invertsystematics/IT9920337.pdf.txt:Syntype Female, I. pengellya BMNH 99.4.4.2.
 invertsystematics/IT9920337.pdf.txt:    Values are for male BYM 56/A52 with syntype I. pengellya BMNH 99.4.4.2 in parentheses
 invertsystematics/IT9920337.pdf.txt:   The syntype male and female, BMNH, have not been located. One female, BMNH
-invertsystematics/IT9920337.pdf.txt:(NHMW), Dr B. Halliday (ANIC), Mr P . Hillyard (BMNH), Dr B. Y. Main, (Zoology
 invertsystematics/IS06019.pdf.txt:have metasomal acarinaria), African Ceratina with                        BMNH      The Natural History Museum (= British Museum
 invertsystematics/IS06019.pdf.txt:tributed on the bodies of their hosts. We discuss two salient           HNHM       Hungarian Natural History Museum, Budapest,
 invertsystematics/IS06019.pdf.txt:         Xylocopa (Biluna): X. nasalis, X. auripennis, X. fallax,                          USNM, CUIC, HNHM, OSU, UMMZ.
@@ -8003,12 +7707,9 @@ invertsystematics/IT9920843.pdf.txt:                                            
 invertsystematics/IT9920843.pdf.txt:dredge, l.iv.1874 (HMS Challenger stn 161), BMNH 1889.4.27:93 (29 of 5 specimens listed by
 invertsystematics/IT9951009.pdf.txt:  BMNH        The Natural History Museum, London, UK
 invertsystematics/IT9951009.pdf.txt:  NHMG        Naturhistorisches Museum Genf, Switzerland
-invertsystematics/IT9951009.pdf.txt:  NHMW        Naturhistorisches Museum, Vienna, Austria
-invertsystematics/IT9951009.pdf.txt:(in NHMW and CPZ).]
 invertsystematics/IT9951009.pdf.txt:Lae, 330 m, 27-30.i.1965, M. E. Bacchus, BMNH. Eastern Highland Province: 1 8 ,2 9 , Kainantu
 invertsystematics/IT9951009.pdf.txt:area, Onerunka, 4.ii., 14.viii. and 13.x.1979, W. Ulrich, CMB and NHMG.
 invertsystematics/IT9951009.pdf.txt:v.1979, W. Ulrich, leg, NHMG.
-invertsystematics/IT9951009.pdf.txt:   I thank Drs F. Hieke and B. Jaeger (ZMB), S. J. Hine (BMNH), M. A. Jach (NHMW), J.
 invertsystematics/IT9951009.pdf.txt:Krikken (NNML), I. Lobl (NHMG), L. H. Herman (AMNH), R. Poggi (MCSN), G. A.
 invertsystematics/IT9890595.pdf.txt:   The following abbreviations are used for institutions: BMNH, British Museum (Natural History),
 invertsystematics/IT9890595.pdf.txt:    Solomon Is. Guadalcanal: Popamanasiu, 5000 ft, J G 21444, Oct. 1965, 40, 3 9 (BMNH), la
@@ -8030,7 +7731,6 @@ invertsystematics/IS12022.pdf.txt:grey, middle pair with tarsi ringed with grey.
 invertsystematics/IS12022.pdf.txt:parallel-sided, widest beyond middle, saccus moderately long,                 DEMV, BMNH).
 invertsystematics/IT9960001.pdf.txt:   ANIC, Australian National Insect Collection, Canberra, Australian Capital Territory; BMNH, Natural
 invertsystematics/IT9960001.pdf.txt:   C. nigriceps: BMNH, 1 worker labelled 'Holotype' from Entomology Club Australia (1 1.620 Series
-invertsystematics/IT9960001.pdf.txt:(BMNH); Dr W. Raineri (MCG); Dr D. Burckhardt (GMNH); Dr M. Fischer (NHMW);
 invertsystematics/IT9920131.pdf.txt:   ANIC: Australian National Insect Collection, CSIRO, Canberra; BMNH: The Natural History
 invertsystematics/IT9920131.pdf.txt:distributed: l a , 1p in BMNH; 2 a , 19 in WARI; l a , 1p in TM.
 invertsystematics/IT9960433.pdf.txt:    BMNH         The Natural History Museum, London, UK

@@ -1,7 +1,6 @@
 bio-conservation/pdfs/1-s2.0-S0006320711001315-main.txt:Natural History Museum in London, UK – NHM, and University of
 bio-conservation/pdfs/1-s2.0-S0006320711001315-main.txt:from the NHM collection as well as Prof. Chen Xue-xin and Dr. Tan
 bio-conservation/pdfs/1-s2.0-S0006320705003976-main.txt:(BMNH.ZD.1976.1792) was excluded owing to its questionable
-bio-conservation/pdfs/1-s2.0-S0006320702001404-main.txt:(NHMRC, 1997).
 bio-conservation/pdfs/1-s2.0-S0006320701002038-main.txt:NHM records)
 bio-conservation/pdfs/1-s2.0-S0006320701002038-main.txt:NHM records; A.F.G. Dixon,
 bio-conservation/pdfs/1-s2.0-S0006320701002038-main.txt:(NHM, records), not host speciﬁc and
@@ -13,32 +12,12 @@ bio-conservation/pdfs/1-s2.0-S0006320705005483-main.txt:(BMNH 39.687, between On
 bio-conservation/pdfs/1-s2.0-S0006320709004029-main.txt:chestnut mouse (ECM), new holland mouse (NHM), Hastings River mouse (HRM),
 bio-conservation/pdfs/1-s2.0-S0006320709004091-main.txt:1941–1945), and ‘‘Rio de la Plata” (specimen at BMNH)] difﬁcult
 current-biology/pdfs/1-s2.0-S096098220100118X-main.txt:We thank G. Knight for the generous gift of Z-Ala-Ala-Asn-NHMec, A. Lanzavecchia for T cell clones, and W. Knapp for the VIC␥1 antibody. This work
-current-biology/pdfs/1-s2.0-S0960982203002926-main.txt:This work was supported by the National Health and Medical Research Council of Australia (NHMRC) to M.W.P., B.E.K., and D.S.,
-current-biology/pdfs/1-s2.0-S0960982203002926-main.txt:L.A.W. S.M. is a Dora Lush NHMRC Scholar, G.P. and D.S. are
-current-biology/pdfs/1-s2.0-S0960982203002926-main.txt:NHMRC RD Wright Fellows, D.J.C. is recipient of a Career Development Fellowship (Award CR 02M 0829) from the National Heart
-current-biology/pdfs/1-s2.0-S0960982203002926-main.txt:Foundation of Australia, and M.W.P. and B.E.K. are NHMRC Fellows.
-current-biology/pdfs/1-s2.0-S0960982205008377-main.txt:Great Britain and the NHMRC of
-current-biology/pdfs/1-s2.0-S0960982206012656-main.txt:NHMRC.
 current-biology/pdfs/1-s2.0-S0960982206024912-main.txt:from Palawan in the Philippines (BMNH.1898.3.11.3),
 current-biology/pdfs/1-s2.0-S0960982206024912-main.txt:Malaya (BMNH.1908.7.20.76) is of the mainland form.
 current-biology/pdfs/1-s2.0-S0960982206025735-main.txt:Richard Lane, the NHM director of
 current-biology/pdfs/1-s2.0-S0960982206025735-main.txt:The NHM holds the British
 current-biology/pdfs/1-s2.0-S0960982206025747-main.txt:The NHM holds the British
-current-biology/pdfs/1-s2.0-S0960982207012055-main.txt:Research Council (NHMRC) of Australia. B.K.C. is supported by
-current-biology/pdfs/1-s2.0-S0960982207015795-main.txt:National Health and Medical Research Council (NHMRC) C.J. Martin
-current-biology/pdfs/1-s2.0-S0960982207015795-main.txt:Fellow. This work was supported by an Australian NHMRC grant to
-current-biology/pdfs/1-s2.0-S0960982208007239-main.txt:Council Discovery Project Grant to C.C., and an NHMRC (Australian) CJ
-current-biology/pdfs/1-s2.0-S0960982208007495-main.txt:This research was funded by an NHMRC (Australia) CJ Martin Fellowship
-current-biology/pdfs/1-s2.0-S0960982208012426-main.txt:Health and Medical Research Council (NHMRC) of Australia; the Howard
-current-biology/pdfs/1-s2.0-S0960982208012426-main.txt:the NHMRC.
-current-biology/pdfs/1-s2.0-S0960982208015571-main.txt:This work was supported by the NHMRC
 current-biology/pdfs/1-s2.0-S0960982209016959-main.txt:(BMNH), Cody Fraser (Otago Museum,
-current-biology/pdfs/1-s2.0-S096098221000151X-main.txt:and Medical Research Council (NHMRC) and the Human Frontier Science
-current-biology/pdfs/1-s2.0-S096098221000151X-main.txt:Program. This work was supported by Australian NHMRC grants #350369
-current-biology/pdfs/1-s2.0-S0960982210005877-main.txt:NHMRC Research Fellowship and K.F.H. by a Sylvia and Charles
-current-biology/pdfs/1-s2.0-S0960982211002090-main.txt:(NHMRC) of Australia. S.M. was supported by an ANZ Trustees PhD scholarship; S.K.W. is supported by a University of Queensland International
-current-biology/pdfs/1-s2.0-S0960982211002090-main.txt:NHMRC. Confocal imaging was performed at the Australian Cancer
-current-biology/pdfs/1-s2.0-S096098221100279X-main.txt:and this work was supported by a grant from the NHMRC to P.W.G. and
 current-biology/pdfs/1-s2.0-S0960982212011943-main.txt:The wing of Anchiornis huxleyi was studied and reconstructed on the basis of BMNHC (Beijing Museum of Natural
 current-biology/pdfs/1-s2.0-S0960982212011943-main.txt:Figure 3. Wing of Anchiornis huxleyi BMNHC PH828
 current-biology/pdfs/1-s2.0-S0960982212011943-main.txt:rachises in BMNHC PH828, the distal rachis does appear to
@@ -47,7 +26,6 @@ current-biology/pdfs/1-s2.0-S0960982213005666-main.txt:other specimens (USNM 230
 current-biology/pdfs/1-s2.0-S0960982213005666-main.txt:A tapering anterior portion cannot be confirmed in NHM PV R
 current-biology/pdfs/1-s2.0-S0960982213005666-main.txt:NHM PV R 4949 appearing more robust overall. In this specimen, growth marks are visible in the cortical bone as light
 current-biology/pdfs/1-s2.0-S0960982213005666-main.txt:ventral, finally touching the internal cortical bone (NHM PV R
-current-biology/pdfs/1-s2.0-S0960982213007021-main.txt:EI 852/3 to W.E.), the Australian NHMRC
 current-biology/pdfs/1-s2.0-S0960982214001997-main.txt:the SDNHM (R.A. Cerutti, B.O. Riney, P.L. Sena, and D.R. Swanson) for
 current-biology/pdfs/1-s2.0-S0960982214002012-main.txt:by the BBSRC and NERC, as well as NHM funding. C.B. and D.B. were supported by NERC grant NE/H009426/1 and NERC grant (NE/H000887/1).
 current-biology/pdfs/1-s2.0-S0960982214002012-main.txt:(NHM), and Kristina Hamilton and Bryony Williams (University of Exeter).
@@ -333,18 +311,6 @@ mpe/pdfs/1-s2.0-S1055790304003811-main.txt:1869.9.12.22; BMNH 1952.2.; MNHN 1876
 mpe/pdfs/1-s2.0-S1055790304003811-main.txt:Aburria jacutinga: BMNH 1959.19.2; NMW 179; and
 mpe/pdfs/1-s2.0-S1055790304003811-main.txt:13638; LSUMZ 169273; BMNH 1849.12.6.9; BMNH
 mpe/pdfs/1-s2.0-S1055790304003811-main.txt:1849.6.20.18; BMNH 1866.8.6.6; NMW 4970; and
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35385:2
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35360:1
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35356:1
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35339:13
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35339:25
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35339:5
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35340:9
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35340:5
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35371:12
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:MCZ FS, Museum of Comparative Zoology, Harvard University ﬁeld series (corresponding voucher specimens pending accession in the National Museum of Namibia); NHMW, Naturhistorisches
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35341:8
-mpe/pdfs/1-s2.0-S105579030700139X-main.txt:NHMW 35351:20
 mpe/pdfs/1-s2.0-S1055790310001235-main.txt:SBMNH
 mpe/pdfs/1-s2.0-S1055790310001235-main.txt:SBMNH
 mpe/pdfs/1-s2.0-S1055790310001235-main.txt:SBMNH
@@ -435,17 +401,14 @@ mpe/pdfs/1-s2.0-S1055790307003181-main.txt:BMNH no number
 mpe/pdfs/1-s2.0-S1055790307003181-main.txt:BMNH 20020188
 mpe/pdfs/1-s2.0-S1055790307003181-main.txt:Abbreviations: AM, Australian Museum, Sydney; BMNH, British Museum (Natural History), London; FMNH, Field Museum of Natural History, Chicago; NMSA, Natal Museum, South Africa;
 mpe/pdfs/1-s2.0-S1055790310000904-main.txt:(‘‘BMNH” followed by six digits) was included in the GenBank submission with each sequence. After DNA extraction, specimens were
-mpe/pdfs/1-s2.0-S1055790309004072-main.txt:NHMW
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:HNHM DL
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:HNHM DL
-mpe/pdfs/1-s2.0-S1055790309004072-main.txt:by the Croatian Natural History Museum (CNHM), Zagreb, Croatia; HNHM: Hungarian Natural History Museum, Budapest, Hungary (Dr. Jenö Kontschán); NHMW: Naturhistorisches Museum, Vienna, Austria (Dr. Jürgen Gruber, Christoph Hörweg); ZMC: Zoological Museum, Copenhagen, Denmark (Dr. Nikolaj Scharff).
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Trogulus sp. Albania HNHM-DL106
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Trogulus sp. Albania HNHM-DL106
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Trogulus sp. Albania HNHM-DL106
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Trogulus sp. Albania HNHM-DL106
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Trogulus cf. tricarinatus Serbia HNHM-DL180
 mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Trogulus sp. Albania HNHM-DL106
-mpe/pdfs/1-s2.0-S1055790309004072-main.txt:Calathocratus africanus Tunesia NHMW-TU15
 mpe/pdfs/1-s2.0-S1055790311004830-main.txt:Poulakakis (Natural History Museum of Crete, NHMC) for allowing
 mpe/pdfs/1-s2.0-S1055790311004830-main.txt:3.1.2 running on the NHMC computer cluster maintained in his
 mpe/pdfs/1-s2.0-S1055790311004180-main.txt:accession numbers of sequences published previously are followed by their references. Museum acronyms: AJN Ajtte Swedish Mountain and Sami Museum, Jokkmokk; BMNH The
@@ -485,7 +448,6 @@ mpe/pdfs/1-s2.0-S105579031500113X-main.txt:NHMUK 20030791/1 DQ974680
 mpe/pdfs/1-s2.0-S105579031500113X-main.txt:NHMUK 20020723
 mpe/pdfs/1-s2.0-S105579031500113X-main.txt:Sugarloaf Canal, Sugarloaf NHMUK
 mpe/pdfs/1-s2.0-S105579031500113X-main.txt:NHMUK
-mpe/pdfs/1-s2.0-S1055790313002054-main.txt:The University of Melbourne Faculty of Science Animal Ethics Committees and conformed to the National Health and Medical Research Council code of practice (NHMRC Australia, Australian code
 mpe/pdfs/1-s2.0-S1055790304001423-main.txt:(NHM1929.6.27.87) classiﬁed as granti by the collector (J.
 mpe/pdfs/1-s2.0-S1055790304001423-main.txt:the presence of another bird (NHM1947.5.62) that, while
 mpe/pdfs/1-s2.0-S1055790312001777-main.txt:accession numbers of sequences published previously are followed by their references. Museum acronyms: BMNH, The Natural History Museum, Tring; IAR, Institute of Avian
@@ -539,7 +501,6 @@ mpe/pdfs/1-s2.0-S105579030800314X-main.txt:MNHN = Muséum National d´Histoire N
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.742
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.775, 777
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.776
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW29870:1
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.755
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.758, 760
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.761
@@ -556,19 +517,12 @@ mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.693
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.694
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.75
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.73
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW29867:5
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW29867:9
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.86
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.745
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.32
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.12
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW17358:4
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW17358:9
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW17367:8
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.14
 mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMC80.3.85.44
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:NHMW32321:1,2,4
-mpe/pdfs/1-s2.0-S1055790305000448-main.txt:Specimens with museum numbers starting with NHMC are deposited in the Natural History Museum of Crete, with NHMW in the Natural History
 mpe/pdfs/1-s2.0-S1055790308004223-main.txt:from vouchers in the Natural History Museum of Erfurt (NME, Germany), the Natural History Museum of Crete (NHMC, Heraklion,
 mpe/pdfs/1-s2.0-S1055790308004223-main.txt:arborea kretensis_NHMC_80275_Crete
 mpe/pdfs/1-s2.0-S1055790308004223-main.txt:arborea kretensis_NHMC_802721_Crete
@@ -605,8 +559,6 @@ mpe/pdfs/1-s2.0-S1055790312002862-main.txt:KUNHM
 mpe/pdfs/1-s2.0-S1055790312002862-main.txt:KUNHM
 mpe/pdfs/1-s2.0-S1055790312002862-main.txt:KUNHM
 mpe/pdfs/1-s2.0-S1055790312002862-main.txt:KUNHM
-mpe/pdfs/1-s2.0-S1055790310004446-main.txt:County (LACM), Natural History Museum of Vienna (NHMW),
-mpe/pdfs/1-s2.0-S1055790310004446-main.txt:NHMW
 mpe/pdfs/1-s2.0-S1055790305001995-main.txt:NHMC 80.3.51.327
 mpe/pdfs/1-s2.0-S1055790305001995-main.txt:NHMC 80.3.51.260
 mpe/pdfs/1-s2.0-S1055790305001995-main.txt:NHMC 80.3.51.100
@@ -1034,56 +986,6 @@ mpe/pdfs/1-s2.0-S1055790312003752-main.txt:Améziane (MNHM) for tissue samples o
 mpe/pdfs/1-s2.0-S1055790312003752-main.txt:and Thalassocrinus; Tim Littlewood (BMNH) for Endoxocrinus parrae and Rich Mooi (CAS) for Pentametrocrinus and Notocrinus.
 mpe/pdfs/1-s2.0-S1055790311000236-main.txt:Australia; BMNH, British Museum of Natural History; FMNH, Field Museum of Natural History, Chicago, USA; MNHN EP, Eric Pasquet, Muséum
 mpe/pdfs/1-s2.0-S1055790311000236-main.txt:BMNH 1904.7.21.47
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:Locality data, GenBank accession numbers and voucher material (MNHN, Muséum National d’Histoire Naturelle, Paris; NHMW,
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790315001220-main.txt:NHMW
 mpe/pdfs/1-s2.0-S1055790306002727-main.txt:KUNHM 9352
 mpe/pdfs/1-s2.0-S1055790306002727-main.txt:KUNHM 4390
 mpe/pdfs/1-s2.0-S1055790306002727-main.txt:KUNHM B-1896
@@ -1899,7 +1801,6 @@ mpe/pdfs/1-s2.0-S1055790310000096-main.txt:NHMC 80.3.92.4
 mpe/pdfs/1-s2.0-S1055790310000096-main.txt:NHMC 80.3.92.18-19
 mpe/pdfs/1-s2.0-S1055790310000096-main.txt:NHMC 80.3.92.5
 mpe/pdfs/1-s2.0-S1055790310000096-main.txt:J.M. Meik (University of Texas at Arlington) for improving the language, and A. Vogler (NHM London), A. Larson (Washington University in St. Louis) and three anonymous reviewers for their
-mpe/pdfs/1-s2.0-S1055790308002121-main.txt:(HNHM) as N. praedator. Other species that have been misidentiﬁed as N. praedator include specimens of N. chilensis (SMFD), N. nigricornis (SMFD), and N. japonicus (NHMW, FMNH, SMFD)—all of
 mpe/pdfs/1-s2.0-S1055790314003947-main.txt:KUNHM
 mpe/pdfs/1-s2.0-S1055790314003947-main.txt:KUNHM
 mpe/pdfs/1-s2.0-S1055790314003947-main.txt:KUNHM
@@ -2347,84 +2248,6 @@ mpe/pdfs/1-s2.0-S1055790306002405-main.txt:SBMNH 145123
 mpe/pdfs/1-s2.0-S1055790306002405-main.txt:Territory, Australia; RMNH, Nationaal Natuurhistorisch Museum, formerly Rijksmuseum van Natuurlijke Historie, Leiden, The Netherlands; UF, Florida Natural History Museum, FL, USA; USNM, National Museum of Natural History, Smithsonian Institution, USA; SBMNH, Santa Barbara Museum
 mpe/pdfs/1-s2.0-S1055790304000302-main.txt:London NHM
 mpe/pdfs/1-s2.0-S105579031200070X-main.txt:Samples used for mtDNA analysis in this study togeher with the information on species identiﬁcation, voucher, sex and age, present or absent of lateral stripes, locality, and GenBank accession numbers. BMNH = The Natural History
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3785
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4326/1
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4784
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4794
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17041
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4327
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 21248
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4088
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4806
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4507
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4507
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4507
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4505
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4798
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4798
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4296
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3839
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4351
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 1699
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 1697
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 1697
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 1697
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 1697
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4091
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4295
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4083
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4807
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17045
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4790
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3214
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3216
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4509
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4509
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17054
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3220
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4133
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4134
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17050
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4108
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4293
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4294
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17044
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17044
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4796
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4801
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 21905
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 21905
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4501
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3263
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 3263
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4127
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17028
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17028
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 17028
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW 4292
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW
-mpe/pdfs/1-s2.0-S1055790310004926-main.txt:NHMW = Naturhistorisches Museum, Wien; MZUF = Museo Zoologico dell’ Università, Firenze; SMF = Senckenberg Museum, Frankfurt; ULLZ = University of Louisiana,
 mpe/pdfs/1-s2.0-S1055790304002921-main.txt:BMNH S/2002.45.1
 mpe/pdfs/1-s2.0-S1055790304002921-main.txt:BMNH S/2002.44.1
 mpe/pdfs/1-s2.0-S1055790304002921-main.txt:Collections: BMNH—British Museum Natural History, Tring, UK; MVM—Museum Victoria, Melbourne, Australia; ROM—Royal Ontario
@@ -2687,13 +2510,10 @@ org-div-evo/pdfs/10.1007%2Fs13127-010-0019-x.txt:McCarthy (BMNH). Markus Auer (M
 org-div-evo/pdfs/1-s2.0-S1439609206000432-main.txt:Natural History Museum, London (BMNH), and the
 org-div-evo/pdfs/1-s2.0-S1439609206000560-main.txt:Sydney; BMNH ¼ The Natural History Museum, London; DBL ¼ Danish Bilharziasis Laboratory, Charlottenlund; MCZ ¼ Museum of Comparative Zoology,
 org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:USA; BMNH ¼ The Natural History Museum, Lon-
-org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:Arachnida, Plant Protection Research Institute, Pretoria, South Africa; NHMW ¼ Naturhistorisches Museum
 org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:Forest [011510 N 291580 E], Mr. Barnes, 1 ~ (BMNH
 org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:Christy, 1 # (BMNH 1928.4.24.11). ZAMBIA: Luapula
 org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:P.D.L. Guilbride, 1 ~ (BMNH 1946.12.31.271). ZIMBABWE: 30.xi.1989, J. Rechter, probably from wood, 1
-org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:Sedith, Palme, 1 # (NHMW 1439).
 org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:Beccaloni (BMNH); Petra Sierwald, Phil Parrillo
-org-div-evo/pdfs/1-s2.0-S1439609205000425-main.txt:(NCAP); Ju¨rgen Gruber (NHMW); Eryn Grifﬁn
 org-div-evo/pdfs/1-s2.0-S1439609206000225-main.txt:depositories: KUNHM – Kansas University Natural
 org-div-evo/pdfs/1-s2.0-S1439609206000225-main.txt:History Museum, Lawrence, Kansas USA; UPLBMNH
 org-div-evo/pdfs/1-s2.0-S1439609206000225-main.txt:and A. Castillo. Paratypes (KUNHM 002175): four
@@ -2837,9 +2657,7 @@ org-div-evo/pdfs/10.1007%2Fs13127-011-0046-2.txt:1951 (GNHM Polych. 10999).
 org-div-evo/pdfs/10.1007%2Fs13127-011-0046-2.txt:Eliason, 1951 (syntype, GNHM
 org-div-evo/pdfs/1-s2.0-S1439609206000250-main.txt:NHML
 org-div-evo/pdfs/1-s2.0-S1439609206000250-main.txt:NHML
-org-div-evo/pdfs/1-s2.0-S1439609206000250-main.txt:NHMW 13371
 org-div-evo/pdfs/1-s2.0-S1439609206000250-main.txt:MNHN ¼ Muse´um National d’Histoire Naturelle, Paris; MZUF ¼ Museo Zoologico, Universita` di Firenze; NHML ¼ Natural History Museum,
-org-div-evo/pdfs/1-s2.0-S1439609206000250-main.txt:London; NHMW ¼ Naturhistorisches Museum Wien; SMF ¼ Senckenberg Museum, Frankfurt a.M.; ZRC ¼ Zoological Reference Collection,
 org-div-evo/pdfs/1-s2.0-S1439609205000565-main.txt:BMNH ¼ The Natural History Museum, London;
 org-div-evo/pdfs/1-s2.0-S1439609205000565-main.txt:NHMB ¼ Naturhistorisches Museum, Basel; SMTD ¼
 org-div-evo/pdfs/1-s2.0-S1439609205000565-main.txt:BMNH, CA
@@ -2905,7 +2723,6 @@ quat-res/pdfs/1-s2.0-S0033589404000262-main.txt:Fig. 2. Hemibos triqueticornis, 
 quat-res/pdfs/1-s2.0-S0033589404000262-main.txt:Fig. 3. Right horn-core basal sections of: Hemibos galerianus (left); BMNH 39560, Hemibos acuticornis (center); and BMNH 40886, Hemibos triqueticornis
 Binary file studies-in-mycology/pdfs/1-s2.0-S0166061614601809-main.pdf.1 matches
 Binary file studies-in-mycology/pdfs/1-s2.0-S0166061614000062-main.pdf.1 matches
-syst-app-microbiology/pdfs/1-s2.0-S0723202006000233-main.txt:NHMRC (Grant No. 290526).
 tree/pdfs/1-s2.0-S0169534706000231-main.txt:white arrow; (c) Triceratops pelvis, bitten repeatedly by T. rex (arrow indicates a ‘pull’ scrape); (d) tyrannosaurid tooth [Natural History Museum (BMNH) specimen
 tree/pdfs/1-s2.0-S0169534706000231-main.txt:Crabb (NHM Image Resources) provided the photograph in Figure Id,
 tree/pdfs/1-s2.0-S0169534709002006-main.txt:widely available from natural history museum (NHM)
@@ -2938,8 +2755,6 @@ zoo-anzeiger/pdfs/1-s2.0-S0044523114000473-main.txt:6212a, BMNH
 zoo-anzeiger/pdfs/1-s2.0-S0044523114000473-main.txt:6212b, BMNH
 zoo-anzeiger/pdfs/1-s2.0-S0044523114000473-main.txt:UK (BMNH); Museum national d’Histoire naturelle, Paris, France
 zoo-anzeiger/pdfs/1-s2.0-S0044523114000473-main.txt:A. Brown (BMNH, London, UK); Georges Remaudière, Danièle
-zoo-anzeiger/pdfs/1-s2.0-S0044523111000465-main.txt:NHMW 10263
-zoo-anzeiger/pdfs/1-s2.0-S0044523111000465-main.txt:Singapore; NHMW, Naturhistorisches Museum Wien, Austria; MZUF, Museo Zoologico Universitá di Firenze, Italy (sequences from genetic databases are not included here).
 zoo-anzeiger/pdfs/1-s2.0-S004452311100057X-main.txt:(NHM). As a general rule, we used the right first pereiopod, occasionally supplemented by or substituted by the left
 zoo-anzeiger/pdfs/1-s2.0-S0044523111000519-main.txt:London (NHM), Florida Museum of Natural History, University of Florida, Gainesville (UF), Muséum national
 zoo-anzeiger/pdfs/1-s2.0-S0044523111000519-main.txt:NHM 2010.477
@@ -3005,12 +2820,7 @@ zoo-anzeiger/pdfs/1-s2.0-S0044523113000053-main.txt:holotype, Reg. No. NHMUK 201
 zoo-anzeiger/pdfs/1-s2.0-S0044523113000028-main.txt:Mayer, 2012). Syntypes of E. horsti (BMNH 1004909–1004914),
 zoo-anzeiger/pdfs/1-s2.0-S0044523113000028-main.txt:E. weldoni (BMNH 1004884–1004894; 1004896–1004907) and
 zoo-anzeiger/pdfs/1-s2.0-S0044523113000028-main.txt:E. butleri (BMNH 1004908), held in the Onychophora collection
-zoo-anzeiger/pdfs/1-s2.0-S0044523110000537-main.txt:MNHN = National Museum of Natural History Paris, MZLA = Museum of Zoology Lausanne, NHMB = Natural History Museum Basel, NHMV = Museum of Natural History Vienna,
-zoo-anzeiger/pdfs/1-s2.0-S0044523110000537-main.txt:BSFS NHMV
-zoo-anzeiger/pdfs/1-s2.0-S0044523110000537-main.txt:BSFS NHMV
-zoo-anzeiger/pdfs/1-s2.0-S0044523110000537-main.txt:BSFS NHMV
 zoo-anzeiger/pdfs/1-s2.0-S0044523110000537-main.txt:NHMB
-zoo-anzeiger/pdfs/1-s2.0-S0044523110000537-main.txt:0.5 mm. ©NHMW Image Database and www.antbase.net (A and B), and Senckenberg Museum of Natural History Görlitz (C), published
 zoo-anzeiger/pdfs/1-s2.0-S0044523105000641-main.txt:Museum fu¨r Naturkunde, Stuttgart (SMNS); Naturhistorisches Museum, Basel (NHMB); Natural History Museum, London (BMNH); Zoologisches Museum der
 zoo-anzeiger/pdfs/1-s2.0-S0044523105000641-main.txt:BMNH
 zoo-anzeiger/pdfs/1-s2.0-S0044523105000641-main.txt:NHMB, CA

@@ -404,10 +404,8 @@ Cladistics/0633.pdf.txt:                    Onychoteuthidae       Moroteuthis sp
 Cladistics/0633.pdf.txt:                                          Pyroteuthis sp.                                   SBMNH;NH-2 93, Hawaii                       f
 Cladistics/0633.pdf.txt:                                          Ptergioteuthis gemmata Chun, 1908                 SBMNH #64434                                m
 Cladistics/0633.pdf.txt:Museum of Natural History; SBMNH, Santa Barbara Museum of Natural History. Where catalog number not available, collection information has
-Cladistics/0773.pdf.txt:   Perilla Thorell (1895)             P. teres, Sumatra (NHMW), Kuntner (2002)              Kuntner (2002)
 Cladistics/0773.pdf.txt:   Singafrotypa Benoit (1962)         S. acanthopus, Nigeria (BMNH), Kuntner and            Kuntner and Hormiga (2002)
 Cladistics/0773.pdf.txt:  Museum abbreviations: BMNH—The Natural History Museum, London, UK; CAS—California Academy of Sciences, San Francisco, USA;
-Cladistics/0773.pdf.txt:NHMW—Naturhistorisches Museum Wien, Vienna, Austria; RMNH—Rijksmuseum van Natuurlijke Historie, Leiden, The Netherlands;
 Cladistics/0683.pdf.txt:FMNH 142816, 142818. Pteralopex atrata: BMNH                      et al. (2000): NC_002612; Pumo et al. (1998): AF061340;
 Cladistics/0101.pdf.txt:amination of male fore legs in the families Pieridae (1 Pierk rupm male, BMNH
 Cladistics/0101.pdf.txt:of Hesperideae(R.G.Eusch raJ&ia males BMNH Rhopalocera Slide no. 18767). The
@@ -586,7 +584,6 @@ Cladistics/0715.pdf.txt:                                                        
 Cladistics/0715.pdf.txt:Fig. 11. Cast of humerus of Palaeeudyptes antarcticus (BMNH A 4079) and humeri of Paraptenodytes antarcticus (AMNH 3338) and Pygoscelis
 Cladistics/0715.pdf.txt:Ordered.                                                               antarcticus (BMNH A 1048) in plantar view. Abbreviations: cih, crista
 Environmental-Microbiology/j.1462-2920.2008.01598.x.pdf.txt:media LNHM (Connon and Giovannoni, 2002). The media                  reconnection, and a starting tree obtained by stepwise addi-
-Environmental-Microbiology/j.1462-2920.2011.02671.x.pdf.txt:(NHMRC), the Human Frontier Science Program and the US               Fiore, A., Laevens, S., Bevivino, A., Dalmastri, C., Tabac-
 Environmental-Microbiology/j.1462-2920.2004.00614.x.pdf.txt:ing hexoses, disaccharides, sugar alcohols, and sugar                      LNHM plus 1¥ MC medium (Fig. 3) (see Experimental
 Environmental-Microbiology/j.1462-2920.2004.00614.x.pdf.txt:LNHM basal media, the highest viscosity (1.14 mm2 s-1)                       in batch culture.
 Environmental-Microbiology/j.1462-2920.2004.00614.x.pdf.txt:was observed in LNHM plus 0.75¥ MC medium (ca.                                  The TEP produced by strain HTCC2155T stained bright
@@ -609,7 +606,6 @@ Environmental-Microbiology/j.1462-2920.2007.01264.x.pdf.txt:the cell lysates, so
 Environmental-Microbiology/j.1462-2920.2007.01264.x.pdf.txt:LNHM-based medium with 80 mM (䊊, 䊉), 3.0 mM (䉮, 䉲) and              rophyll fluorescence, indicated that they contribute 2–5%
 Environmental-Microbiology/j.1462-2920.2007.01264.x.pdf.txt:clade are adapted to oligotrophy, express photosynthetic           (44°39.1′N, 124°24.7′W) by HTC using LNHM as
 Environmental-Microbiology/j.1462-2920.2007.01264.x.pdf.txt:phylogenetic trees were inferred with the ARB package               3.0 mM, 14.7 mM) in LNHM basal medium. Cell densities,
-Environmental-Microbiology/j.1462-2920.2007.01320.x.pdf.txt:This work was supported by an NHMRC Program Grant                   Kim, C., Lorenz, W.W., Hoopes, J.T., and Dean, J.F.D.
 Environmental-Microbiology/j.1462-2920.2011.02605.x.pdf.txt:compounds (Oelgeschlager and Rother, 2009). A second                media LNHM (Connon and Giovannoni, 2002) amended with
 Environmental-Microbiology/j.1462-2920.2011.02605.x.pdf.txt:                                                                    LNHM. A dimensionless Henry’s constant of 0.27 (Gossett,
 Environmental-Microbiology/j.1462-2920.2011.02605.x.pdf.txt:                                                                    Cells were grown in LNHM with 10 or 50 mM methanol or
@@ -641,7 +637,6 @@ Evolution/j.1558-5646.2011.01550.x.pdf.txt:File S3. Foudia morphological data fr
 Evolution/j.1558-5646.2009.00720.x.pdf.txt:Brunet (BMNH), M. Hafner (LSUMZ), P. C. A. Sim˜oes-Lopes and M.                           species of didelphid marsupials. Acta Theriol. 52:101–111.
 Evolution/j.1558-5646.2007.00131.x.pdf.txt:Currant (NHM). M. Spaulding, and G. Bever collected some measure-                      54:317–337.
 Evolution/evo.12104.pdf.txt:Rodiles-Hern´andez, J. P. Sullivan, KUNHM, AMNH, and CUMV for                          Acanthomorpha (Teleostei) with larger number of taxa. Mol. Phylogenet.
-Evolution/evo.12063.pdf.txt:resistance could have a significant impact on the effectiveness of      MLG was supported by an NHMRC Career Development Award. NC
 Evolution/j.1558-5646.2011.01255.x.pdf.txt:among genes and gene-specific nucleotide substitution model pa-        to the NHM by Susumu Tomida). This species is found in late
 Evolution/j.1558-5646.2011.01255.x.pdf.txt:12,000 trees). Length of burnin was determined by examination          Izumi-cho, Mizunami City, Gifu Prefecture, Japan (NHM PI TG
 Evolution/j.1558-5646.2011.01255.x.pdf.txt:cesses or rising sea levels would have resulted in the isolation             the NHM. We are grateful to the following people for providing samples,
@@ -1027,14 +1022,6 @@ J-Evolutionary-Biology/jeb.12279.pdf.txt:and placental taxa that fall outside th
 J-Evolutionary-Biology/j.1420-9101.2010.02117.x.pdf.txt:(AMNH, New York), P. Jenkins and L. Tomsset (NHM,                         Bookstein, F.L. 1991. Morphometric Tools for Landmarks Data.
 J-Evolutionary-Biology/j.1420-9101.2004.00770.x.pdf.txt:model of evolution, viviparity would eventually reach a        J. Simmons (KU), C. McCarthy (BMNH), B. Hollings-
 J-Evolutionary-Biology/j.1420-9101.2006.01276.x.pdf.txt:Sokal, R.R. & Rohlf, F.J. 1995. Biometry, 3rd edn. W.H. Freeman      Natural History of Berne, Switzerland (NHMBE)
-J-Medical-Virology/jmv.23236.pdf.txt:                                                             Grant sponsor: NHMRC Centre for Clinical Research
-J-Medical-Virology/jmv.23236.pdf.txt:cal advice. J.A. is an NHMRC Clinical Research                          py as part of HAART. Clin Infect Dis 39:129–132.
-J-Medical-Virology/jmv.23236.pdf.txt:Training Fellow and S.R.L. is an NHMRC Practition-                  Giannini E, Ceppa P, Botta F, Fasoli A, Romagnoli P, Ansaldi F,
-J-Medical-Virology/jmv.20740.pdf.txt:    persistence of infection while clearance of infec-         Dr. Karen Vickery was in receipt of a NHMRC Industry
-J-Medical-Virology/jmv.20150.pdf.txt:                                                             Grant sponsor: NHMRC; Grant sponsor: NHMRC Dora Lush
-J-Medical-Virology/jmv.22223.pdf.txt:cause of cancer death in females [NHMRC National                    MATERIALS AND METHODS
-J-Medical-Virology/jmv.22223.pdf.txt:    carcinomas. Breast Cancer Res Treat 84:131–137.                    NHMRC National Breast, & Ovarian Cancer Centre. 2009. cited;
-J-Medical-Virology/jmv.21160.pdf.txt:  Dr. Kirkwood is supported by an NHMRC RD Wright             Ruiz-Palacios GM, Perez-Schael I, Velazquez FR, Abate H, Breuer T,
 J-Medical-Virology/jmv.20517.pdf.txt:et al. [1993] and others observed that the role of HCV in        Chen DS, Hsu NHM, Sung JL, Hsu TC, Hsu ST, Kuo YT, Lo KJ, Shih
 J-Phycology/j.1529-8817.2005.04066.x.pdf.txt:ille species, if any, deserves the epithet costatum. Two             wood Finder; M1, Morph 1; M2, Morph 2; NHM,
 J-Phycology/j.1529-8817.2005.04066.x.pdf.txt:(NHM), upon which the species was based by Greville
@@ -1087,9 +1074,6 @@ J-ZooSystematics/j.1439-0469.2012.00654.x.pdf.txt:                              
 J-ZooSystematics/j.1439-0469.2012.00654.x.pdf.txt:                                                    BMNH1926.12.3.1
 J-ZooSystematics/j.1439-0469.2012.00654.x.pdf.txt:                                                    BMNH1911.11.16.112
 J-ZooSystematics/j.1439-0469.2012.00654.x.pdf.txt:                                                    BMNH1897.5.13.502
-J-ZooSystematics/j.1439-0469.2009.00554.x.pdf.txt:Paratype                   #              19.94   ·   13.78           28.79 · 11.07               7.17                 NHMW 24935
-J-ZooSystematics/j.1439-0469.2009.00554.x.pdf.txt:SMF, Senckenberg-Museum Frankfurt a.M.; UCR, Museo Zoolo´gico de la Universidad de Costa Rica, San Jose´; NHMW, Naturhistorisches
-J-ZooSystematics/j.1439-0469.2009.00554.x.pdf.txt:Fig. 4. Right gonopod tip of Uca osa sp. n. (NHMW 24935) in antero-       Gattung Minuca, in die sie eingeordnet wird. Mehrere morphologische
 J-ZooSystematics/j.1439-0469.2005.00341.x.pdf.txt:Pauly D.: Darwin’s Fishes. An Encyclopedia of Ichthyology,                    Fish of the Beagle in the BMNH, London (pp. 234–236) and III.
 J-ZooSystematics/jzs.12016.pdf.txt:100 years after its description Moody (1980) elevated Xenagama                  USA; The Natural History Museum (BMNH), London, England; Califor-
 J-ZooSystematics/jzs.12016.pdf.txt:Paralectotype BMNH 1946.8.29.25 from the same locality
@@ -1125,9 +1109,6 @@ J-ZooSystematics/jzs.12019.pdf.txt:                                             
 J-ZooSystematics/jzs.12019.pdf.txt:                                                                                   M148057–M148058); Allotype: adult female (NHMUK
 J-ZooSystematics/jzs.12019.pdf.txt:                                                                                   four males and four females (NHMUK 2012.9.13.3–10), from El Hi-
 J-ZooSystematics/jzs.12019.pdf.txt:Vouchers: four males and ﬁve females (NHMUK                                   Mouth opening triangular, enclosed by six labial plates in males
-J-ZooSystematics/j.1439-0469.2011.00636.x.pdf.txt:of Vienna, Austria (NHMW) using the JEOL 6400 electron micro-
-J-ZooSystematics/j.1439-0469.2011.00636.x.pdf.txt:preserved in the collections of the NHMW and the Departamento de           in individuals of 6.1 mm TD (Fig. 2c) or larger. However,
-J-ZooSystematics/j.1439-0469.2011.00636.x.pdf.txt:ratus (GenBank accession number X12631) were included for com-             Museum of Vienna, Austria (NHMW 20087a)], B: 1.77 mm (NHMW
 J-ZooSystematics/j.1439-0469.2011.00636.x.pdf.txt:Da¨ubl, Luise Kruckenhauser (NHM Vienna), Anto´nio de Frias                   bei mediterranen Echiniden und Ru¨ckschlu¨sse auf die O¨kologie
 J-ZooSystematics/j.1439-0469.2003.00205.x.pdf.txt:Afrixalus, while Tachycnemis has often been considered as                    Other museum acronyms used are BMNH (The Natural History
 J-ZooSystematics/j.1439-0469.2003.00205.x.pdf.txt:BMNH 1976.1958).
@@ -1176,9 +1157,6 @@ J-ZooSystematics/j.1439-0469.2008.00498.x.pdf.txt:  Boletina sp.                
 J-ZooSystematics/j.1439-0469.2008.00498.x.pdf.txt:  Docosia sp.                                           NHM_MYC_ER_072               EU219592         DQ787900          DQ787926         DQ787875
 J-ZooSystematics/j.1439-0469.2008.00498.x.pdf.txt:  Leia sp.                                              NHM_MYC_ER_066               EU219591         DQ787899          DQ787924         DQ787874
 J-ZooSystematics/j.1439-0469.2009.00524.x.pdf.txt:Museum (ROM) and colleagues conducted ﬁeldwork on bats             Specimens were examined from several diﬀerent museums: BMNH –
-J-ZooSystematics/j.1439-0469.2004.00249.x.pdf.txt:caspius                       Zamenis1, Hierophis2            Greece, Serifos                                        NHMW KCC1
-J-ZooSystematics/j.1439-0469.2004.00249.x.pdf.txt:rogersi                       Platyceps1,2                    Egypt, Sinai                                           NHMW KCR2
-J-ZooSystematics/j.1439-0469.2004.00249.x.pdf.txt:Berkeley; MZFC, Museo de Zoologı´ a de la Facultad de Ciencias la Universidad Nacional Auto´noma de Me´xico; NHMW, Naturhistorisches
 J-ZooSystematics/j.1439-0469.2012.00657.x.pdf.txt:Museum (NHM, London, UK) has around 70 million spec-                     manipulated, sectioned and dissected as though in the hand.
 J-ZooSystematics/j.1439-0469.2012.00657.x.pdf.txt:creeper skins, stored in the NHM out-station at Tring, UK. These         recoverable DNA from a collection of dried preserved
 J-ZooSystematics/j.1439-0469.2012.00657.x.pdf.txt:specimens were taken by a number of diﬀerent collectors during the       Hawaiian honeycreeper skins housed at the NHM, London.
@@ -1199,7 +1177,6 @@ J-ZooSystematics/j.1439-0469.2004.00250.x.pdf.txt:                             P
 J-ZooSystematics/j.1439-0469.2004.00250.x.pdf.txt:from cold to warm) is the most plausible scenario, in the case of     Museum/BMNH, Tring, UK), G. Barrowclough, P. Sweet (AMNH,
 J-ZooSystematics/j.1439-0469.2005.00342.x.pdf.txt:Pauly D.: Darwin’s Fishes. An Encyclopedia of Ichthyology,                    Fish of the Beagle in the BMNH, London (pp. 234–236) and III.
 J-ZooSystematics/j.1439-0469.2010.00583.x.pdf.txt:   This study aims to ﬁll this gap of knowledge. Incorporating                  species: NHML Aq Zoo-2010-115).
-J-ZooSystematics/j.1439-0469.2008.00515.x.pdf.txt:We want to express our thanks to E. Haring (NHMW, Vienna) for             Estes R, de Queiros K, Gauthier J (1988) Phylogenetic relationships
 J-ZooSystematics/j.1439-0469.2008.00464.x.pdf.txt:ZMB, AE DV. (c) Flabelligera luctator BMNH, AE in ventral view (VV). (d) Semiodera caribea ZMB, AE, lateral view (LV). (e) Therochaeta
 J-ZooSystematics/j.1439-0469.2008.00464.x.pdf.txt:                                                                        (BMNH), Elin Sigvaldadottir (SMNH), Galina Buzhinskaja
 J-ZooSystematics/j.1439-0469.2005.00340.x.pdf.txt:                                                                           Brussels (ISNB); Natural History Museum, London (BMNH); Natur-
@@ -1498,7 +1475,6 @@ Molecular-Ecology/j.1365-294X.2010.04986.x.pdf.txt:22         BMNH ZD 1939.1685 
 Molecular-Ecology/j.1365-294X.2010.04986.x.pdf.txt:23         ZMB 56277                      Maxillot. bone            Western Sahara (EH)                    NHM Berlin, DE
 Molecular-Ecology/j.1365-294X.2010.04986.x.pdf.txt:24         ZMB 42242                      Hide                      EH, Rio d’Oro                          NHM Berlin, DE
 Molecular-Ecology/j.1365-294X.2010.04986.x.pdf.txt:Tabas, IR; Sarjah: Breeding Centre for Endangered Arabian Wildlife, Sharjah, AE; HZM: Harrison Institute, Sevenoaks, GB; NHM:
-Molecular-Ecology/mec.12309.pdf.txt:                                                               ARC, NHMRC and the J.S. McDonnell Foundation and SP and
 Molecular-Ecology/j.1365-294X.2008.03739.x.pdf.txt:Vare H, Lampinen R, Humphries CJ, Williams P (2003) Taxonomic              head of the Botany Department at the NHM.
 Molecular-Ecology/j.1365-294X.2009.04407.x.pdf.txt: 1               England              NHM                 33              F         240               0.0              19.2
 Molecular-Ecology/j.1365-294X.2009.04407.x.pdf.txt: 4               Scotland             NHM                 33              F         390               0.0              14.5
@@ -1568,7 +1544,6 @@ Molecular-Ecology/j.1365-294X.2009.04309.x.pdf.txt:(Tervuren) and NHM (London) v
 Molecular-Ecology/j.1365-294X.2009.04259.x.pdf.txt:terminal name are the final three digits of the BMNH number (Table S2).
 Molecular-Ecology/j.1365-294X.2009.04259.x.pdf.txt:available, with dark-grey bars. Specimen numbers are the final three digits of the BMNH number (Table S3).
 Molecular-Ecology/j.1365-294X.2008.04049.x.pdf.txt:of polar bears is similar to that of other bears in several          NHM. Samples were provided by the Norwegian Polar Institute
-Molecular-Ecology/mec.12596.pdf.txt:NHMRC Australia Fellowship and by NIH Grant R01
 Molecular-Ecology/j.1365-294X.2006.03015.x.pdf.txt:                                                                      (UTEP); G. Binczik (UF); B. Hollingsworth (SDNHM); R. W. Murphy,
 Molecular-Ecology/j.1365-294X.2005.02665.x.pdf.txt:(SMF); Museo de Historia Natural de El Salvador (MUHNES); The Natural History Museum, London (BMNH); Museo de la Universidad
 Molecular-Ecology/j.1365-294X.2005.02665.x.pdf.txt:BMNH               2000.5               ES6                13°49.31′N, 87°57.6′W          1) Corinto, Morazán, El Salvador
@@ -1639,7 +1614,6 @@ Molecular-Ecology/j.1365-294X.2006.02982.x.pdf.txt:Natural History Museum of Cre
 Molecular-Ecology/j.1365-294X.2007.03634.x.pdf.txt:Distribution of P. squarrosa and distribution of sexual reproduction   of the NHM sequencing facilities for generating DNA sequences
 Molecular-Ecology/j.1365-294X.2007.03634.x.pdf.txt:  The Bryologist, 98, 261–264.                                          Group in the Botany Department at NHM and are focusing on
 Molecular-Ecology/j.1365-294X.2007.03634.x.pdf.txt:Soltis DE, Haufler CH, Darrow DC, Gastony GJ (1983) Starch gel          at NHM and part of that group. M.A.K. is director at the
-Molecular-Ecology/j.1365-294X.2012.05690.x.pdf.txt:Flagship as well as the NHMRC Project Grant 117102. The               Beehler BM, Swaby RJ (1991) Phylogeny and biogeography of
 Molecular-Ecology/j.0962-1083.2001.01397.x.pdf.txt:        (EP, EQ, ER, EX, EY); 12. 30 mi NE Lowell, Eagle Mt. Pack            Tamias townsendii, Washington, Pierce Co., n = 1 (BMNHC,
 Molecular-Ecology/j.0962-1083.2001.01397.x.pdf.txt:        EZ, EA2(2)]; 15. 30 mi E Pierce, Twelve-Mile Saddle                  Culture (BMNHC), Field Museum of Natural History
 Molecular-Ecology/j.1365-294X.2002.01583.x.pdf.txt:        Williams NHM- Worldmap/AFE provided maps. This work was                        Ceterach species. Pteridophyte Symposium 1995 (17– 21 July),
@@ -1825,34 +1799,6 @@ Palaeontology/0342.pdf.txt:nudum. We were unable to trace the type specimen in  
 Palaeontology/0364.pdf.txt:accession numbers: A, ONHM3654; B, ONHM3655; C, ONHM3656; D, ONHM3657; E, ONHM3658; F, ONHM3659; G,
 Palaeontology/0364.pdf.txt:ONHM3660.
 Palaeontology/0225.pdf.txt:                                                                               figured material (Boehm 1927, plate 14, figs 1–7; NHM accession
-Palaeontology/0094.pdf.txt:national d’Histoire naturelle, Paris, France; NHMW, Naturhisto-     ble. When dealing with fossils, the subfamilial assignment
-Palaeontology/0094.pdf.txt:(NHMW 24967) has five spines on the upper margin of the
-Palaeontology/0094.pdf.txt:between two and four spines. In this respect, it should be noted       acanthochirus Stimpson, 1866 (NHMW 15342), with
-Palaeontology/0094.pdf.txt:F I G . 2 . Propodal spination in Glypturus and Eoglypturus. A–C, Glypturus acanthochirus Stimpson, 1866 (NHMW 24967), major
-Palaeontology/0094.pdf.txt:      1987 Glypturus acanthochirus Stimpson; Manning, p. 390,          Material. NHMW 6770 (Fig. 3A), NHMW 15338, NHMW
-Palaeontology/0094.pdf.txt:           fig. 3.                                                     15342 (Fig. 3G), NHMW 24967 (Fig. 2A–C), NHMW 24968
-Palaeontology/0094.pdf.txt:FIG. 3.   Extant species of Glypturus. A, G. acanthochirus Stimpson, 1866, NHMW 6770 (major), left propodus and dactylus. B,
-Palaeontology/0094.pdf.txt:G. acanthochirus Stimpson, 1866, NHMW 24968 (major), left propodus and dactylus. C, G. acanthochirus Stimpson, 1866, NHMW
-Palaeontology/0094.pdf.txt:Edwards, 1870), NHMW 23822 (major), left cheliped. E, G. armatus (A. Milne-Edwards, 1870), NHMW 21941 (major), left propodus
-Palaeontology/0094.pdf.txt:Edwards, 1870), NHMW 21941 (major), left merus. H, G. armatus (A. Milne-Edwards, 1870), NMCR 39031 (major), left merus. I,
-Palaeontology/0094.pdf.txt:G. acanthochirus Stimpson, 1866, NHMW 15342 (major), left merus. J, G. laurae (de Saint Laurent in de Vaugelas and de Saint
-Palaeontology/0094.pdf.txt:Laurent, 1984), NHMW 6973 (major), left merus and carpus; note missing spines on the lower margin of the carpus. In all figures,
-Palaeontology/0094.pdf.txt:on NHMW 21941). B, G. laurae (de Saint Laurent in de Vaugelas and de Saint Laurent, 1984) (based on NHMW 6973). C,
-Palaeontology/0094.pdf.txt:G. acanthochirus Stimpson, 1866 (based on NHMW 15338). D, G. munieri (Brocchi, 1883) comb. nov. (based on M.86.309, see also
-Palaeontology/0094.pdf.txt:Material. Extant examples include NHMW 21941 (Fig. 3E, G),
-Palaeontology/0094.pdf.txt:NHMW 23822 (Fig. 3D) and NMCR 39031 (Fig. 3F, H). Fossil            Material. NHMW 6973 (Fig. 3J).
-Palaeontology/0094.pdf.txt:                                                                    sole specimen that we have examined ourselves (NHMW
-Palaeontology/0094.pdf.txt:             figs 19–23 (non fig. 24).                                in Austria: Baden-Sooss (NHMW 2012 ⁄ 0010 ⁄ 0001; one right
-Palaeontology/0094.pdf.txt:                                   orenthey (partim) in L}orenthey    propodus, Fig. 8I); Wagna bei Aflenz (NHMW 2012 ⁄ 0008 ⁄ 0001,
-Palaeontology/0094.pdf.txt:             and Beurlen, p. 173, pl. 12, figs 22–23.                 one right propodus, Fig. 8A–B) and Po¨ls (NHMW 1861 ⁄ 0001 ⁄
-Palaeontology/0094.pdf.txt:    ?1953    Callianassa spec. ind.; Bachmayer, p. 242.               0325, one left merus articulated with carpus; NHMW
-Palaeontology/0094.pdf.txt:FIG. 8.   Glypturus munieri (Brocchi, 1883) comb. nov. A–B, Right major propodus in inner and outer views, respectively (NHMW
-Palaeontology/0094.pdf.txt:2012 ⁄ 0008 ⁄ 0001), Wagna bei Aflenz, Austria. C, Right major propodus in outer view (NHMW 2012 ⁄ 0009 ⁄ 0001), Po¨ls, Austria. D–E,
-Palaeontology/0094.pdf.txt:and E, respectively. G, The same specimen in distal view. I, Right major propodus in outer view (NHMW 2012 ⁄ 0010 ⁄ 0001), Baden-
-Palaeontology/0094.pdf.txt:NHMW 2012 ⁄ 0010 ⁄ 0001   Propodus   R             19.4   17.0     and stout.
-Palaeontology/0094.pdf.txt:NHMW 2012 ⁄ 0009 ⁄ 0001   Propodus   R             15.0   15.6
-Palaeontology/0094.pdf.txt:NHMW 2012 ⁄ 0008 ⁄ 0001   Propodus   R             16.5   17.3     Remarks. The similarity between Callianassa munieri and
-Palaeontology/0094.pdf.txt:to the NHMW collections of extant callianassids, extensive dis-   —— 1971. The genus Callianassa (Crustacea, Decapoda, Thalas-
 Palaeontology/0359.pdf.txt:Museo Olsacher, Neuque´n, Argentina; NHM, The Natural His-        preserved in oclussion (Text-fig. 1; Text-fig. 2A; Text-fig. 3A–E).
 Palaeontology/0359.pdf.txt:BMNH R.), Palaeontology Department, London, UK; PETMG,            fig. 3F).
 Palaeontology/0359.pdf.txt:T E X T - F I G . 1 . Gallardosaurus iturraldei gen. nov. et sp. nov.     is slightly (BMNH R. 4058) or strongly (BMNH R. 3803 and
@@ -2231,34 +2177,6 @@ Palaeontology/0332.pdf.txt:E77751), Melonechinus (BMNH E82729) Hyattechinus     
 Palaeontology/0332.pdf.txt:(BMHN E12262) and Lepidesthes (BMNH E10699).                sumably a simple vertical stack of elements. Some tooth
 Palaeontology/0260.pdf.txt:Shale Formation (Burrellian) of the Shelve Inlier.                   for facilities, and particularly to Phil Crabb of the NHM Image
 Palaeontology/0825.pdf.txt:large (2 mm high) rib plates of the I. whitteryi holotype (NHM E49603). This feature is of uncertain
-Palaeontology/0090.pdf.txt:Holotype. Specimen NHMW1859 ⁄ 45 ⁄ 555 from Podjarkow at                                     Figures 5A–H, 6B–C
-Palaeontology/0090.pdf.txt:chivka: NHMW1859 ⁄ 45 ⁄ 555, Wieliczka: NHMW1867 ⁄ 7 ⁄ 97, 1867 ⁄
-Palaeontology/0090.pdf.txt:7 ⁄ 96, Opava: NHMW1866 ⁄ 8 ⁄ 8, Vienna Nussdorf: NHMW2010 ⁄
-Palaeontology/0090.pdf.txt:                                                                        Holotype. Natural     History      Museum      Vienna,    NHMW
-Palaeontology/0090.pdf.txt:Remarks. The scuta are quite variable in shape and size,                Paratypes. Natural      History    Museum      Vienna,    NHMW
-Palaeontology/0090.pdf.txt:crest-like to rounded.                                                  (NHMW 2003z0026 ⁄ 0487, NHMW 2003z0026 ⁄ 0296); >20 scuta
-Palaeontology/0090.pdf.txt:FIG. 3.   Poecilasma miocaenica Reuss, 1864; scuta (Middle Miocene, Badenian). A, Holotype. NHMW1859 ⁄ 45 ⁄ 555, Podjarkow at
-Palaeontology/0090.pdf.txt:Hanachivka, Ukraine. B, NHMW2010 ⁄ 0084 ⁄ 0001, Vienna, Austria. C–E, NHMW1867 ⁄ 7 ⁄ 97, Wieliczka, Poland, illustrated in Reuss,
-Palaeontology/0090.pdf.txt:(NHMW1866 ⁄ 8 ⁄ 8). P, Poecilasma, M, molluscs, Scale bar             eny and nearly flat increments are added along the tergo-lateral
-Palaeontology/0090.pdf.txt:FIG. 5. A–H, Lepas sattmanni sp. nov. (Pucking, Upper Austria, Lower Miocene, Aquitanian). A, carina, paratype, NHMW
-Palaeontology/0090.pdf.txt:2003z0026 ⁄ 0487 (probably same individual as holotype). B, left scutum, holotype, NHMW2003z0026 ⁄ 0487. C, terga, paratype,
-Palaeontology/0090.pdf.txt:NHMW2003z0026 ⁄ 0487. D, left scutum, paratype NHMW2003z0026 ⁄ 0487. E–G, left scuta in different stages of growth,
-Palaeontology/0090.pdf.txt:NHMW2003z0026 ⁄ 0296. H, left tergum, NHMW2003z0026 ⁄ 0296. All scale bars represent 1 mm.
-Palaeontology/0090.pdf.txt:sp. nov. (Pucking, Upper Austria, Lower Miocene, Aquitanian). B, subadult colony attached to driftwood, NHMW2003z0026 ⁄ 0296. C,
-Palaeontology/0090.pdf.txt:fully grown colony attached to driftwood, NHMW2003z0026 ⁄ 0487. D–E, Arcoscalpellum renevieri (Mayer and Gu¨mbel in Gu¨mbel,
-Palaeontology/0090.pdf.txt:1861) (Bad Ha¨ring in Tyrol, Austria, Lower Oligocene, Kiscellian). D, carinae, NHMW1884 ⁄ 0500 ⁄ 2730. E, scuta and terga, neotype,
-Palaeontology/0090.pdf.txt:NHMW2010 ⁄ 0085 ⁄ 0001. F, capitulum of Scalpellum pfeifferi Weithofer, 1887 (Kremsmu¨nster, Lower Miocene, Ottnangian), lectotype,
-Palaeontology/0090.pdf.txt:allows a clear distinction. The Late Miocene Lepas mal-             Neotype. Natural History Museum Vienna, NHMW2010 ⁄
-Palaeontology/0090.pdf.txt:                                                                    nae (NHMW 1884 ⁄ 0500 ⁄ 2730, NHMW 2010 ⁄ 0085 ⁄ 0001,
-Palaeontology/0090.pdf.txt:                                                                    NHMW 2010 ⁄ 0085 ⁄ 0002, NHMW 2010 ⁄ 0085 ⁄ 0003) from Bad
-Palaeontology/0090.pdf.txt:Holotype. Natural History Museum Vienna, NHMW2010 ⁄                    projecting tergo-lateral angle. Tergal margin straight to feebly con-
-Palaeontology/0090.pdf.txt:Paratypes. NHMW2010 ⁄ 0086 ⁄ 0002, (Fig. 7D), right tergum             area between the ridge and the tergal margin. A distinct apico-
-Palaeontology/0090.pdf.txt:length: 6.3 mm; NHMW 2010 ⁄ 0086 ⁄ 0003, text-fig. 7F, upper           basal ridge is accompanied by numerous delicate longitudinal ri-
-Palaeontology/0090.pdf.txt:holotype, NHMW2010 ⁄ 0086 ⁄ 0001. B–C, left carinal latus. D, right tergum, paratype (probably from the same individual as holotype)
-Palaeontology/0090.pdf.txt:NHMW2010 ⁄ 0086 ⁄ 0002. E, right tergum. F, upper latus, paratype NHMW2010 ⁄ 0086 ⁄ 0003. G, upper latus. H–J, K–L and M–O three
-Palaeontology/0090.pdf.txt:carinae in left, right and plan views. P, Scalpellum burdigalense Des Moulins, 1875, right scutum, NHMW1858 ⁄ 18 ⁄ 5 (Salles, France,
-Palaeontology/0090.pdf.txt:Badenian), NHMW2010 ⁄ 0087 ⁄ 0001. All scale bars represent 1 mm.
-Palaeontology/0090.pdf.txt:Remarks. Withers (1953) mentions nine species of Scalpel-             Material. One carina, NHMW 2010 ⁄ 0087 ⁄ 0001, length: 14 mm,
 Palaeontology/0090.pdf.txt:Andreas Kroh (NHM Vienna), Peter C. Dworschak (NHM                         D E A L E S S A N D R I , G. 1894. Contribuzione allo studio dei
 Palaeontology/0090.pdf.txt:Vienna) for rare literature and Ortwin Schultz (NHM Vienna)                   cirripedi fossili d’Italia. Bollettino della Societa Geologica Itali-
 Palaeontology/0817.pdf.txt:  Louis opencast pit, Montceau-les-Mines, SaoÃne-et-Loire, France. 1±2, MNHM-SOT 84379, paratype, external
@@ -2537,12 +2455,6 @@ Palaeontology/0135.pdf.txt:leads to the new reconstruction presented here (Fig. 
 Palaeontology/0135.pdf.txt:                                                                      (NHM) assisted with the casting and conservation of the mate-
 Palaeontology/0035.pdf.txt:tioned (Langer et al. 2009). Here, we provide a complete         ral History, New York; NHMUK, Natural History Museum,
 Palaeontology/0035.pdf.txt:Holotype. BMNH R1646, anterior portion of a skull and corre-          located at the junction of the zygomatic arch and postorbital
-Palaeontology/0965.pdf.txt:Bundesanstalt (GBAW) and the Naturhistorisches Museum (NHMW) in Vienna (Austria).
-Palaeontology/0965.pdf.txt:Fig. 6. Pseudoplacunopsis schlotheimii (von Klipstein, 1843). NHMW (without coll. no.), original of Bittner 1895,
-Palaeontology/0965.pdf.txt:Fig. 8. Pseudoplacunopsis af®xa Bittner, 1895; lectotype, NHMW (without coll. no.), original of Bittner 1895, pl. 23,
-Palaeontology/0965.pdf.txt:Vienna (NHMW).
-Palaeontology/0965.pdf.txt:GBAW and NHMW.
-Palaeontology/0965.pdf.txt:Stojaspal (GBAW) and Dr H. Summersberger (NHMW) kindly made the material of the Alpine Triassic
 Palaeontology/0952.pdf.txt:Museum of Natural History, New York; BMNH, The Natural History Museum, London [previously
 Palaeontology/0952.pdf.txt:Fig. 1. Bolodon osborni Simpson, BMNH 47735A; right M1 and M2; Purbeck Limestone Group (Berriasian), Marly
 Palaeontology/0599.pdf.txt:Institutional abbreviations. BMNH, The Natural History Museum,     Lower Cretaceous, Khoboor, Guchin Us Somon, Gobi Desert,
@@ -2857,40 +2769,6 @@ Palaeontology/0765.pdf.txt:Holotype. BMNH P. 66141.
 Palaeontology/0765.pdf.txt:Material. At least 350 complete and partial teeth including BMNH P. 66123±66146.
 Palaeontology/0765.pdf.txt:Holotype. BMNH P. 66147.
 Palaeontology/0765.pdf.txt:Material. At least 150 complete and partial teeth including BMNH P. 66148±66153.
-Palaeontology/0017.pdf.txt:Institutional abbreviation. NHMW, Naturhistorisches Museum          subrounded to acute venter with a high and serrated
-Palaeontology/0017.pdf.txt:Department in the Natural History Museum, Vienna (NHMW).
-Palaeontology/0017.pdf.txt:Type species. Ammonites trautscholdi Sinzow, 1870 (= Ammonites      Holotype. NHMW 2008z0280/0001(Figs 3A–I, 4A–D), steinkern
-Palaeontology/0017.pdf.txt:Material. One specimen (NHMW 2008z0280/0001) preserved as               chamber. Narrow umbilicus with steep walls and sharp
-Palaeontology/0017.pdf.txt:steinkern and additional negative from the NHMW collection.             edge.
-Palaeontology/0017.pdf.txt:omites are the morphologically closest genera to Giuma-               Holotype. NHMW 2008z0281/0001 (Fig. 5A–B), steinkern
-Palaeontology/0017.pdf.txt:                                                                      Paratypes. NHMW 2008z0281/0006 (Fig. 5C–E), NHMW
-Palaeontology/0017.pdf.txt:                                                                      2008z0281/0007 (Fig. 5F–G), NHMW 2008z0281/0039 (Fig. 5H–
-Palaeontology/0017.pdf.txt:                                                                      J), NHMW 2008z0281/0002 (Fig. 6F), NHMW 2008z0281/0004
-Palaeontology/0017.pdf.txt:shows stronger and more distinct ribbing than Giumalic-               casts) (NHMW 2008z0281/0001–274). No shell is preserved in
-Palaeontology/0017.pdf.txt:ogy of the whorls and ribbing. Both Blanfordiceras and                line is visible in only few specimens (paratype NHMW
-Palaeontology/0017.pdf.txt:Holotype. NHMW 2008z0282/0001 (Fig. 8A–D), steinkern                    The species G. giumaliense sp. nov. and G. bhargavai sp.
-Palaeontology/0017.pdf.txt:Paratype. NHMW 2008z0282/0002 (Fig. 8E).                                only bifurcated ribbing in early whorls and a more angu-
-Palaeontology/0017.pdf.txt:lites privasensis var. picteti Jacob in Kilian, 1906’ as B. (B.)   Holotype. NHMW 2008z0283/0001 (Fig. 9A–E), steinkern (diam-
-Palaeontology/0017.pdf.txt:malbosi (Pictet, 1876).                                            Material. One specimen (NHMW 2008z0283/0001) preserved as
-Palaeontology/0017.pdf.txt:                                                                   steinkern and additional negative from the NHMW collection.
-Palaeontology/0017.pdf.txt:Holotype. NHMW 2008z0284/0001 (Figs 10A–B, M), steinkern
-Palaeontology/0017.pdf.txt:Paratypes. NHMW       2008z0284/0033   (Fig. 10C), NHMW               oniceras oberhauseri sp. nov. by its coarser ribbing. Spath
-Palaeontology/0017.pdf.txt:2008z0284/0027 (Fig. 10D), NHMW 2008z0284/0030 (Fig. 10E),            (1923–1930a, pl. 5, fig. 8) figured a specimen assigned to
-Palaeontology/0017.pdf.txt:NHMW 2008z0284/0028 (Fig. 10F–H), NHMW 2008z0284/0025                 Cleoniceras aff. cleon (d’Orbigny, 1850) from the Gault of
-Palaeontology/0017.pdf.txt:(Fig. 10I), NHMW 2008z0284/0040 (Fig. 10R).                           England (Douvilleiceras mammillatum Zone of the early
-Palaeontology/0017.pdf.txt:Material. Forty-four specimens (NHMW 2008z0284/0001–44)               pl. 4, fig. 6; text-fig. 20) figured a specimen of Cleoniceras
-Palaeontology/0017.pdf.txt:preserved as steinkerns and negatives from the NHMW collec-           baylei (Jacob, 1908) from England characterized by stron-
-Palaeontology/0017.pdf.txt:this based on their phylogenetic considerations and used               Holotype. NHMW 2008z0285/0001 (Fig. 11A–D), steinkern
-Palaeontology/0017.pdf.txt:Aptian. For stratigraphic distribution and phylogeny, see              One fragment of a body chamber, adult stage (NHMW
-Palaeontology/0017.pdf.txt:and adult stage missing in the holotype (NHMW 2008z0285/0001;          (1960, with synonymy) from the Isle of Wight as A. gigas
-Palaeontology/0017.pdf.txt:(NHMW 2008z0285/0006; Fig. 11I) shows a somewhat different             the tuberculated ribs, which are stronger and show bigger
-Palaeontology/0017.pdf.txt:variable coiling, from the juvenile holotype (NHMW                     whorls and the fact that the whorls are only separated by
-Palaeontology/0017.pdf.txt:ment (NHMW 2008z0285/0006; Fig. 11I) with criocone-                    specimen without tuberculate ribbing in adult stages
-Palaeontology/0017.pdf.txt:(Tension-Woods, 1883) differs from A. himalayense                the corresponding younger part (NHMW 2008z0285/
-Palaeontology/0017.pdf.txt:sp. nov. in showing different ribbing features in juvenile       0005; Fig. 11E) to the adult fragment (NHMW
-Palaeontology/0017.pdf.txt:Dufrenoyia. Dufrenoyia also shows a tabulate and not                  Holotype. NHMW 2008z0286/0001 (Fig. 12A–F), steinkern
-Palaeontology/0017.pdf.txt:                                                                      Material. One specimen (NHMW 2008z0286/0001) preserved as
-Palaeontology/0017.pdf.txt:                                                                      a steinkern and additional negative from the NHMW collection.
 Palaeontology/0365.pdf.txt:Accordingly and by analogy with the Acritarchs, this              atropis and P. cardiiformis. Jeremy Young (NHM London) and
 Palaeontology/0834.pdf.txt:London (BMNH); UniversiteÂ Claude Bernard-Lyon 1, UFR Sciences de la Terre, Villeurbanne (FSL); Institut de
 Palaeontology/0834.pdf.txt:1913; BMNH E23395, Star®sh Bed (Upper Ordovician), Ayrshire (Scotland); aulacophore and lower thecal
@@ -3428,19 +3306,6 @@ Palaeontology/0034.pdf.txt:was therefore part of the extinction event. However, 
 Palaeontology/0283.pdf.txt:tology, Ghost Ranch, New Mexico; NHM, Natural History
 Palaeontology/0283.pdf.txt:                                                                       suevicus (NHM 38646) and is hypothesized to have carried the
 Palaeontology/0283.pdf.txt:absent in others, such as Pantydraco, NHM P24]: Barrett and
-Palaeontology/0433.pdf.txt:ture to determine if the observed reduction represents        bear the NHMW prefix. Other repositories mentioned in
-Palaeontology/0433.pdf.txt:All specimen numbers prefixed by NHMW 2007z0111 ⁄ . Scale bars represent 10 mm.
-Palaeontology/0433.pdf.txt:species (e.g. Ichikawa 1958) was not observed in our Hern-              Types. Holotype NHMW 2007z0111 ⁄ 0009 (Pl. 1, figs 10–11), a
-Palaeontology/0433.pdf.txt:stein specimens. The Monotis described by Mostler et al.                left valve; paratypes NHMW 2007z0111 ⁄ 0010–2007z0111 ⁄ 0014
-Palaeontology/0433.pdf.txt:                                                A                                               Kittl, 1912 (H–I). A, NHMW
-Palaeontology/0433.pdf.txt:                                                                                                2007z0111 ⁄ 0011; B, NHMW
-Palaeontology/0433.pdf.txt:                                                                                                2007z0111 ⁄ 0010; C, NHMW
-Palaeontology/0433.pdf.txt:                                                                                                2007z0111 ⁄ 0014; D, NHMW
-Palaeontology/0433.pdf.txt:                                                                                                2007z0111 ⁄ 0012; E, NHMW
-Palaeontology/0433.pdf.txt:                                                                                                MGUP 002.316; H, NHMW 1897 I 41;
-Palaeontology/0433.pdf.txt:                                                                                                I, NHMW 1897 I 42.
-Palaeontology/0433.pdf.txt:NHMW 162 ⁄ 1956.                                                      Mackie (1978a) commented on the similarity, but noted
-Palaeontology/0433.pdf.txt:                                                                      outcrop. We are indebted to Alexander Lukeneder (NHMW,
 Palaeontology/0429.pdf.txt:History Museum, London (NHM) and the National                                                                 doc debris flow deposits formed by down-slope move-
 Palaeontology/0429.pdf.txt:                                                   pacificus                                                                                          NHM PG5075–5076;
 Palaeontology/0429.pdf.txt:                Pusgillian                                                                                                        Mill Fm             NHM 44497–44501
@@ -3690,13 +3555,6 @@ Palaeontology/0232.pdf.txt:Additional material. NHM I. 15857 (the scanned specim
 Palaeontology/0232.pdf.txt:NHM I. 15896 (holotype of C. plautus), J. G. 8938 (holotype         while the endite on leg 1 is either absent or not resolved.
 Palaeontology/0232.pdf.txt:text-fig. 32) original reconstruction of the Coseley fossils    Acknowledgements. We thank Claire Mellish (NHM), John Nud-
 Palaeontology/0232.pdf.txt:NHM collections preserve small gaps between the scle-              Saint John, New Brunswick, Canada. Neues Jahrbuch fu¨r Geol-
-Palaeontology/0247.pdf.txt:Museo Nacional de Ciencias Naturales-CSIC (Madrid): Batall-      (PMU), Naturhistorisches Museum Vienna, Austria (NHMW),
-Palaeontology/0247.pdf.txt:  NHMW            C        MAR     17.00    9.60   41.44        –           well-developed parastyle and a relatively reduced proto-
-Palaeontology/0247.pdf.txt:  NHMW            P3       MAR     15.00    7.05    –           –           clearly smaller than p4; m1 with a very much reduced
-Palaeontology/0247.pdf.txt:  NHMW            P4       MAR     28.00 13.75      –           –           sis without flange, but clearly verticalized, with a flat and
-Palaeontology/0247.pdf.txt:Holotype. NHMW 2007z0172 ⁄ 0001, partial skull from the Late      buccal basal expansion on the crown of p4, by a reduced
-Palaeontology/0247.pdf.txt:Figs 1–3. Paramachaerodus orientalis (Kittl, 1887), Holotype, NHMW 2007z0172 ⁄ 0001, partial skull from Upper Maragheh (Iran). 1,
-Palaeontology/0247.pdf.txt:T E X T - F I G . 6 . Detailed views of the holotype of Paramachaerodus orientalis (Kittl, 1887), NHMW 2007z0172 ⁄ 0001. A, buccal view of
 Palaeontology/0886.pdf.txt:Natural History Museum, London (NHM) and the Oxford University Museum of Natural History (OUM).
 Palaeontology/0196.pdf.txt:thic faunas (Hallam 1961, 1967; Little and Benton 1995;        under the prefix NHMUK PAL PI. Some not illustrated speci-
 Palaeontology/0519.pdf.txt:Institutional abbreviations. BMNH (for specimen numbers) or
@@ -3936,49 +3794,6 @@ Palaeontology/0908.pdf.txt:Nicrosaurus kapf® (Meyer, 1860): SMNS 4378, 4379, 57
 Palaeontology/0908.pdf.txt:Nicrosaurus meyeri HungerbuÈhler and Hunt, 2000: SMNS 12598 (holotype), 4059; BMNH 42745.
 Palaeontology/0397.pdf.txt:Institutional abbreviations. BMNH, Natural History Museum,        Aalma (Text-fig. 5A). However, the taxon Calaı¨s was pre-
 Palaeontology/0397.pdf.txt:holotype, BMNH C.32324. This was recognized as an ancestor of living octopods on the basis of exceptionally well-preserved soft parts
-Palaeontology/0072.pdf.txt:                                                                    Vienna under the prefix NHMW 2011 ⁄ 0138.
-Palaeontology/0072.pdf.txt:FIG. 3.  Neritidae, each in front, back and apical view. A–C, Theodoxus imbricatus (Brusina, 1878); NHMW 2011 ⁄ 0138 ⁄ 0098; smooth
-Palaeontology/0072.pdf.txt:phenotype with distinctly developed shoulder. D–F, Theodoxus imbricatus (Brusina, 1878); NHMW 2011 ⁄ 0138 ⁄ 0098; shell with vast
-Palaeontology/0072.pdf.txt:F I G . 4 . Melanopsidae, in front and rear view. A–B, Melanopsis angulata Neumayr, 1880; NHMW 2011 ⁄ 0138 ⁄ 0099; C–D, Melanopsis
-Palaeontology/0072.pdf.txt:geniculata Brusina, 1874; NHMW 2011 ⁄ 0138 ⁄ 0104; E–F, Melanopsis corici sp. nov.; Paratype 1, NHMW 2011 ⁄ 0138 ⁄ 0101; G–H,
-Palaeontology/0072.pdf.txt:Melanopsis corici sp. nov.; Holotype, NHMW 2011 ⁄ 0138 ⁄ 0100; I–J, Melanopsis cvijici Brusina, 1902; NHMW 2011 ⁄ 0138 ⁄ 0103; K–L,
-Palaeontology/0072.pdf.txt:Melanopsis cvijici Brusina, 1902; NHMW 2011 ⁄ 0138 ⁄ 0103. All specimens are from debris of Unit 3. Scale bars represent 5 mm.
-Palaeontology/0072.pdf.txt:Holotype. NHMW 2011 ⁄ 0138 ⁄ 0100 (Fig. 4G–H).                         suture. This results in a distinctly stepped morphology. The last
-Palaeontology/0072.pdf.txt:Paratypes. NHMW 2011 ⁄ 0138 ⁄ 0101 (Fig. 4E–F); NHMW 2011 ⁄            aperture exhibits a strong callus pad without any columellar
-Palaeontology/0072.pdf.txt:F I G . 5 . Melanopsidae, in front and rear view. A–B, Melanopsis medinae nom. nov.; NHMW 2011 ⁄ 0138 ⁄ 0106; C–D, Melanopsis
-Palaeontology/0072.pdf.txt:medinae nom. nov.; NHMW 2011 ⁄ 0138 ⁄ 0106; E–F, Melanopsis mojsisovicsi (Neumayr, 1880); NHMW 2011 ⁄ 0138 ⁄ 0107; G–H,
-Palaeontology/0072.pdf.txt:Melanopsis lyrata Neumayr, 1869; NHMW 2011 ⁄ 0138 ⁄ 0105; I–J, Melanopsis mojsisovicsi (Neumayr, 1880); NHMW 2011 ⁄ 0138 ⁄ 0107;
-Palaeontology/0072.pdf.txt:K, Melanopsis mojsisovicsi (Neumayr, 1880); NHMW 2011 ⁄ 0138 ⁄ 0107; protoconch. All specimens are from debris of Unit 3. Scale bars
-Palaeontology/0072.pdf.txt:convex whorls. Shell up to 4 mm in height and 1.5 mm in                 Holotype. NHMW 2011 ⁄ 0138 ⁄ 0108 (Fig. 6A, I).
-Palaeontology/0072.pdf.txt:consisting of about one whorl, without distinct separation from         Paratypes. NHMW 2011 ⁄ 0138 ⁄ 0109; NHMW 2011 ⁄ 0138 ⁄ 0110;
-Palaeontology/0072.pdf.txt:F I G . 6 . Hydrobiidae and Planorbidae. A, I, Nematurella vrabaci sp. nov.; Holotype, Sample 090709 ⁄ 4, NHMW 2011 ⁄ 0138 ⁄ 0108;
-Palaeontology/0072.pdf.txt:NHMW 2011 ⁄ 0138 ⁄ 0116; front view with everted aperture; C, K, Bania obliquaecostata sp. nov.; Holotype, Sample 090709 ⁄ 4, NHMW
-Palaeontology/0072.pdf.txt:NHMW 2011 ⁄ 0138 ⁄ 0127; sculptured morphotype (fractured) exhibiting widely spaced and weak rings; E, Orygoceras dentaliforme
-Palaeontology/0072.pdf.txt:Brusina, 1882; Sample 090709 ⁄ 5, NHMW 2011 ⁄ 0138 ⁄ 0127; smooth phenotype; F, Nematurella vrabaci sp. nov.; from debris of Unit 3,
-Palaeontology/0072.pdf.txt:NHMW 2011 ⁄ 0138 ⁄ 0111; apical view; G, J, Cyclothyrella tryoniopsis (Brusina, 1874); Sample 090709 ⁄ 4, NHMW 2011 ⁄ 0138 ⁄ 0116;
-Palaeontology/0072.pdf.txt:apical view (G) with detail picture of juvenile shell; H, Bania obliquaecostata sp. nov.; Sample 090709 ⁄ 4, NHMW 2011 ⁄ 0138 ⁄ 0115.
-Palaeontology/0072.pdf.txt:Type species. Hydrobia tietzei Neumayr, 1880; Middle Miocene;          Holotype. NHMW 2011 ⁄ 0138 ⁄ 0118 (Fig. 8E).
-Palaeontology/0072.pdf.txt:                                                                       Paratypes. NHMW 2011 ⁄ 0138 ⁄ 0119; NHMW 2011 ⁄ 0138 ⁄ 0120;
-Palaeontology/0072.pdf.txt:FIG. 7.   Pyrgulinae (Hydrobiidae). A, F–G, Marticia hidalgoi Brusina, 1902; NHMW 2011 ⁄ 0138 ⁄ 0117; highly keeled specimen in
-Palaeontology/0072.pdf.txt:apertural view (A) with magnification of apical region (F) and protoconch (G); B–C, Pseudodianella haueri (Neumayr, 1869); NHMW
-Palaeontology/0072.pdf.txt:2011 ⁄ 0138 ⁄ 0126; front and back view; D, H–J, Pseudodianella haueri (Neumayr, 1869); NHMW 2011 ⁄ 0138 ⁄ 0126; back view (D),
-Palaeontology/0072.pdf.txt:quadrate nodules (I), and apical region (J); E, Marticia hidalgoi Brusina, 1902; NHMW 2011 ⁄ 0138 ⁄ 0117; apical view. All specimens
-Palaeontology/0072.pdf.txt:FIG. 8.   Prososthenia species (Hydrobiidae). A, F, P. undocostata sp. nov.; holotype, from debris of Unit 3, NHMW
-Palaeontology/0072.pdf.txt:from debris of Unit 3, NHMW 2011 ⁄ 0138 ⁄ 0124; apical view (B) with magnification of protoconch (H); C, I, P. eburnea Brusina,
-Palaeontology/0072.pdf.txt:1884; Sample 090709 ⁄ 5, NHMW 2011 ⁄ 0138 ⁄ 0122; apical view (C) with magnification of protoconch (I); D, G, P. eburnea Brusina,
-Palaeontology/0072.pdf.txt:1884; Sample 090709 ⁄ 5, NHMW 2011 ⁄ 0138 ⁄ 0122; apertural view (D) and detail of apical region (G); E, P. diaphoros sp. nov.;
-Palaeontology/0072.pdf.txt:Holotype, Sample 090709 ⁄ 4, NHMW 2011 ⁄ 0138 ⁄ 0118; apertural view; J, P. diaphoros sp. nov.; Sample 090709 ⁄ 4, NHMW
-Palaeontology/0072.pdf.txt:                                                                       Holotype. NHMW 2011 ⁄ 0138 ⁄ 0123 (Fig. 8A–B).
-Palaeontology/0072.pdf.txt:                                                                       Paratypes. NHMW 2011 ⁄ 0138 ⁄ 0124; NHMW 2011 ⁄ 0138 ⁄ 0125;
-Palaeontology/0072.pdf.txt:                                                                             damnicola lucensis (Issel, 1866), NHMW Malacological
-Palaeontology/0072.pdf.txt:Holotype. NHMW 2011 ⁄ 0138 ⁄ 0112 (Fig. 6C, K).
-Palaeontology/0072.pdf.txt:Paratypes. NHMW 2011 ⁄ 0138 ⁄ 0113; NHMW 2011 ⁄ 0138 ⁄ 0114;           cene; Dalmatia, SE Croatia.
-Palaeontology/0072.pdf.txt:F I G . 9 . Mytilopsis aletici (Brusina, 1907; Bivalvia: Dreissenidae). A–B, NHMW 2011 ⁄ 0138 ⁄ 0128; right valve with view of
-Palaeontology/0072.pdf.txt:protodissoconch (A) and hinge plate with apophysis (B); C, NHMW 2011 ⁄ 0138 ⁄ 0049; right valve of a subadult morphotype with two
-Palaeontology/0072.pdf.txt:weak keels (the arrow signals the anterodorsal protrusion); D, NHMW 2011 ⁄ 0138 ⁄ 0053; right valve of a subadult specimen; E,
-Palaeontology/0072.pdf.txt:NHMW 2011 ⁄ 0138 ⁄ 0047; right valves of two subadult individuals; F, NHMW 2011 ⁄ 0138 ⁄ 0066; right valve of a fully grown specimen;
-Palaeontology/0072.pdf.txt:G, NHMW 2011 ⁄ 0138 ⁄ 0066; articulated adult specimen with fragmented right valve and view on the interior side of the left valve. All
-Palaeontology/0072.pdf.txt:er (NHMW) for the photographs, and Reinhard Zetter (Univer-           anopsiden-Mergel Dalmatiens. Beitrage zur Pala¨ontologie O    ¨ st-
 Palaeontology/0635.pdf.txt:Geological Collections, Newcastle, UK; NHM P, Natural History            dontids lived in the freshwater lakes and rivers of a ‘coas-
 Palaeontology/0635.pdf.txt:recurved, not sigmoid. The base of the crown preserves the foldings caused by plicidentine. C–D, Strepsodus NHM P11542 in lateral
 Palaeontology/0635.pdf.txt:Strepsodus hardingi (Dawson, 1868). This was originally          (NHM P13124, 13127 and 13128) are similar to Archicht-
@@ -4504,25 +4319,14 @@ Systematic-Entomology/j.1365-3113.2000.00094.x.pdf.txt:Prosciara ungulata (Winne
 Systematic-Entomology/j.1365-3113.2008.00444.x.pdf.txt: NHM – Natural History Museum, London, U.K. (Maxwell
 Systematic-Entomology/j.1365-3113.2008.00444.x.pdf.txt:and A. mimicum (Fig. 12B) stored in MRAC and NHM,                   scutellum absent; transverse row of 12–13 round punctures
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:in the Cicadellaria key (China, 1938). In this work, Tettigonia          (BMNH); Department of Entomology, Moravian Museum,
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:Balacha.                                                                 Naturhistorisches Museum Wien, Vienna, Austria (NHMW);
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:collection (NHMW), the male lectotype of Tettigonia distincta                   markings (Fig. 8A); paraphyses absent (Figs 5F; 7F),
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:Fig. 3. Balacha distincta (Signoret). A, Dorsal habitus of male lectotype, NHMW, scale bar ¼ 3 mm. B–F, Male genitalia, specimen from Sa˜o
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:attaining costal margin, and transverse transcommissural              c. 71 m]’, NHMW, specimen with malformed genitalia; 1 /,
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:pleural carinae to lateral lobes. Mesonotum (Fig. 3A) black.         Signoret’, ‘distincta \ det. Signoret’, NHMW, specimen
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:clavus bordered with dark brown; clavus with (lectotype) or          1 /, ‘Brazil \ M. Alvarenga \ B.M. 1971–165’, BMNH; 1 /,
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:longitudinal row, proximal macula located near base of               1970 \ M. Alvarenga \ 1971–165’, BMNH; 1 ?, ‘S[a˜o]. Jose´
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:black; 4 transverse bluish-white stripes, basalmost one              NHMW; 2 ?? and 2 //, ‘Reimoser \ Paraguay \ Santa
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:transcommisural, not attaining costal margin, second origin-         Sofia’, NHMW; 1 ?, ‘Rep[resa da]. Vossoroca \ PR – 23-
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:ity on posterior region; macrosetae distributed throughout           BMNH; 1 /, ‘Argentina \ Punto [sic, Punta] Lara
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:on anterior and posterior margins; anterior concavity very           Maldonado \ B.M. 1971–313.’, BMNH; 1 ? and 2 //,
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:of pygofer; each with a row of short macrosetae from near            Turica \ B.M. 1971–313.’, BMNH; 2 //, ‘Argentina \
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:outer margin; basal portion of inner margin with short,              BMNH; 2 ?? and 2 //, ‘Ibicuycito B[ueno]s A[ire]s \ 28-
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:round, dorsally projected process. Connective (Fig. 5F)              II-938 \ S.R. Castillo col.’, BMNH; 1 ? and 1/, ‘Santa Cruz
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:with apex broadly rounded. Second valvulae (Fig. 5K) in              NHMW, they did not assign a type specimen for this species.
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:  Distribution. ARGENTINA: Distrito Federal (Buenos                  NHMW, one from Uruguay and one from Colombia, and
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:‘melanoceph \ det Signoret’, NHMW; 1 /, ‘Tettigonia \                in the other minor depositories of the Signoret collection,
 Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:placed where the stripes would be. Thoracic pleurites and           12-VI-1992 \ G. Mejdalani’, BMNH; 9 ?? and 5 //,
-Systematic-Entomology/j.1365-3113.2004.00231.x.pdf.txt:M. Webb (BMNH), and H. Zettel (NHMW) for information                     Melichar (Homoptera, Cicadellidae, Cicadellinae). Revista
 Systematic-Entomology/j.1365-3113.2003.00208.x.pdf.txt:Because of the critical importance of the carnea group to the         (BMNH); the collection of Peter Duelli, Birmensdorf,
 Systematic-Entomology/j.1365-3113.2003.00208.x.pdf.txt:                                                                      (P. Duelli) (BMNH).
 Systematic-Entomology/j.1365-3113.2003.00208.x.pdf.txt:logical species based on its unique mating song. Additionally,        BMNH; 2 second-instar, 2 third-instar larvae, BMNH;
@@ -4726,7 +4530,6 @@ Systematic-Entomology/j.1365-3113.2005.00312.x.pdf.txt:symmetrical; shaft in lat
 Systematic-Entomology/j.1365-3113.2005.00312.x.pdf.txt:                                                                        in any collections. The only specimen of the BMNH bears
 Systematic-Entomology/j.1365-3113.2005.00312.x.pdf.txt:‘Sandwich Is., 1913–323’, in BMNH. – Additional material.                anomala (Drake); 1?, Hawaii Nat. Park, 4000 ft, iii.1954
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:of Psylloidea (Hemiptera), namely, Aphycus Mayr, Aschitus              U.K.; HNHM, Hungarian Natural History Museum, Buda-
-Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:Ashmead, Sectiliclava Hoffer and Trechnites Thomson as                 d’Histoire Naturelle, Paris, France; NHMW, Naturhistor-
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:tories of the material examined in the study: BMNH,
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:but can be separated by a number of characters other than the       nated by Noyes (1981), Spain, BMNH, examined.
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:USSR; USSR-Central Asia (Trjapitzin, 1978).                                1$ (Guichard Harvey). Material in BMNH.
@@ -4737,8 +4540,6 @@ Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:Wood NNR, 17–28.vii.197
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:1.viii.1984, 3$, 1# (J. S. Noyes); West Glamorgan Oxwich            Material in BMNH. 5$ paratypes at DEZA.
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:2it,1.vii.1952, 1$ (Z. Boucˇek). Material in BMNH.                  those of T. insidiosus. They can be separated by the relative
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:pedicel paler; fore wing weakly and uniformly infuscate,            Noyes, N. Rodgers, T. Huddlestone). Material in BMNH.
-Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:relative measurements: MT ¼ 62, OL ¼ 54, GL ¼ 19.                   NHMW?, lost, not examined, see below. Syn.n.
-Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:                                                                     missing. It cannot be located in the NHMW (S. Scho¨dl,
 Systematic-Entomology/j.1365-3113.2009.00473.x.pdf.txt:Gahan. Material in BMNH.                                               winter, spring and summer. Entomophaga, 36, 287–294.
 Systematic-Entomology/j.1365-3113.2001.00157.x.pdf.txt:the subject of this paper.                                          of Natural History, Brighton, U.K.; BMNH, The Natural
 Systematic-Entomology/j.1365-3113.2001.00157.x.pdf.txt:                                                                             Lectotype Y (here designated by G.L.), BMNH (examined).
@@ -4958,14 +4759,12 @@ Systematic-Entomology/j.0307-6970.2001.00161.x.pdf.txt:Antioquia, Valdivia, 1X, 
 Systematic-Entomology/j.0307-6970.2001.00161.x.pdf.txt:MNHN (Y: JH# MN±2); Cundinamarca, BogotaÂ, 2Y BMNH;
 Systematic-Entomology/j.0307-6970.2001.00161.x.pdf.txt:Paramba, 1Y, BMNH. No locality data, 4Y, 2X, BMNH,            BreÂvignon, C. & Gallard, J.-Y. (1998) Inventaire des Riodinidae de
 Systematic-Entomology/j.0307-6970.2001.00161.x.pdf.txt:riodinid collections in their care: Phillip Ackery (BMNH),       Grossense. Anais do 1° SimpoÂsio Sobre Recursos Naturais e Socio-
-Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:taxa of Staphylininae, does not intend to reconstruct the              Tervuren (M. De Meyer); NHMW, Naturhistorisches Museum
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:London (BMNH). The rest of the Arrowinus material for                  oxide–ammonia mixture (Blackwelder, 1936) and lightly
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:   tarsunguli of middle and posterior legs with six spines                             partly hand written by Bernhauer)/Chicago NHMus M.
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:   and posterior legs with four spines (two at base and two                            Natal. (BMNH label, blue line under Natal and no other
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:   length 11–21.5 mm ...................................................... 2          Sharp Coll. 1905–313. (printed BMNH label)/Natal (old
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:   1.4; HW: 1.1–1.2; PL: 0.9–1.0; PW: 1.1–1.2; ML: 0.5–                                1999 (written)’ (BMNH).
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:and is examined here; the other is deposited in the BMNH in                Head capsule (HL/HW: 0.74–0.86) with dorsal and
-Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:Natal (NHMW).                                                           various lengths.
 Systematic-Entomology/j.1365-3113.2004.00283.x.pdf.txt:riad and posteriad; microsculpture and punctation of                  menalis in BMNH. Our special thanks are also due to Vasily
 Systematic-Entomology/j.1365-3113.2010.00546.x.pdf.txt:   The mealybug tribe Xenococcini comprises three genera:              Insect Collection, CSIRO, Canberra, Australia; BMNH,
 Systematic-Entomology/j.1365-3113.2010.00546.x.pdf.txt:long; metatibia + tarsus, 148–160 μm; ratio of length of                               female pupae (BMNH).
@@ -5287,15 +5086,6 @@ Systematic-Entomology/syen.12009.pdf.txt:Taeniochauliodes minutus Liu & Hayashi 
 Systematic-Entomology/syen.12009.pdf.txt:Town), R. Urban (SANC, Pretoria), D. Goodger (BMNH,                        Sciences, Stockholm.
 Systematic-Entomology/j.1365-3113.2005.00301.x.pdf.txt:                                                                      Museum, London (BMNH).
 Systematic-Entomology/j.1365-3113.2011.00612.x.pdf.txt:organs) in larvae (Makarov, 1997).                                    BMNH – Natural History Museum (formerly British Museum
-Systematic-Entomology/j.1365-3113.2001.00136.x.pdf.txt:pre-adaptation for the evolution of the sucking mouthparts            (NHMW) and Horst & Ulrike AspoÈck collection (HUAC).
-Systematic-Entomology/j.1365-3113.2001.00136.x.pdf.txt:although not Nevrorthidae. Two groups clearly emerged from            Elmidae (NHMW); Neuropterida: larvae of Nemopteridae
-Systematic-Entomology/j.1365-3113.2001.00136.x.pdf.txt:specialized head. Thereafter, only Myrmeleontiformia                  available adults of Corydalidae from the NHMW and
-Systematic-Entomology/j.1365-3113.2001.00136.x.pdf.txt:Sincere thanks go to M. JaÈch (NHMW), B. Klausnitzer                 Entomologen, 40, 1±13.
-Systematic-Entomology/j.1365-3113.2001.00136.x.pdf.txt:H. Schillhammer (NHMW) for constructive discussions on               Raphidioptera, Megaloptera, Neuroptera). Stap®a, 60 (Neue Folge
-Systematic-Entomology/j.1365-3113.2001.00136.x.pdf.txt:the morphology of male Coleoptera; Roswitha Safar (NHMW)             Nr, 138), 1±34.
-Systematic-Entomology/j.1365-3113.2005.00299.x.pdf.txt:   Specimens were collected by sight only, by night and day,          isches Museum, Basel, Switzerland; NHMW, Naturhis-
-Systematic-Entomology/j.1365-3113.2005.00299.x.pdf.txt:New Caledonia (without precision). Type ? NHMW, con-                                       ter-Grandcolas (MNHN).
-Systematic-Entomology/j.1365-3113.2005.00299.x.pdf.txt:length (Fig. 2H). Ovipositor more than 18 mm long, much              Col Boa, Niaouli forest. Holotype ? NHMW (examined
 Systematic-Entomology/j.1365-3113.2003.00199.x.pdf.txt:while dissecting the genitalia of one male (BMNH sphingid             Panogena lingens (Butler, 1877) and Xanthopan morganii
 Systematic-Entomology/j.1365-3113.2003.00199.x.pdf.txt:Cocytius [which then included Neococytius], is unmistakable'.         Museum, London (BMNH). However, only larvae of Agrius
 Systematic-Entomology/j.1365-3113.2003.00199.x.pdf.txt:However, re-examination of the series in the BMNH showed              process. However, such a process lacking in Acherontia
@@ -5365,11 +5155,9 @@ Systematic-Entomology/j.0307-6970.2001.00162.x.pdf.txt:Natural History Museum, L
 Systematic-Entomology/j.0307-6970.2001.00162.x.pdf.txt:whitish knob; knob with small blackish spot.                                  Paratypes were sent to NHM and NMW.
 Systematic-Entomology/j.1365-3113.2007.00410.x.pdf.txt:A. stygiana and A. unisigna.                                            the Natural History Museum (NHM) in London. Very little
 Systematic-Entomology/j.1365-3113.2007.00410.x.pdf.txt:  International Trust for Zoological Nomenclature (BMNH),               Moulton, J.K. & Wiegmann, B.M. (2004) Evolution and phyloge-
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:of a key that was based mainly on inadequate original                 d’Histoire Naturelle, Paris, France; NHMV, Naturhistor-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   BMNH, The Natural History Museum, London, U.K.;                    claviger Mercet, by subsequent designation by Peck, 1951:
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:University of Oxford, U.K.; HNHM, Hungarian Natural                   of type species to Copidosoma.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:80 (79). Clava (Fig. 215) not more than 5 as long as                                                      nated by Graham, 1969: 300), England, BMNH, examined.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:pods. Require confirmation: Chloroclystis v-ata (Geometri-            BMNH, DEZP, HNHM, ITZ, LUZN, MNHN, NHMV,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:HYM. 5. 2454’ (BMNH). Lectotype of truncatulus: ‘Lito-                and can be separated from them by the relative lengths of
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Eupithecia centaureata on ragwort; 51/, 2? ex Eupithecia              designated, United Kingdom, BMNH. Synonymy with
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Linaria vulgaris; 34/ ex ?Chloroclystis v-ata on Angelica             (designated by Graham, 1969: 299), England, BMNH,
@@ -5378,46 +5166,32 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:erlands, Norway, Scotland
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:‘Mitreus’ (BMNH). Lectotype ? of phithra: ‘phithra’                   tions, scutellum shiny black with faint golden reflections;
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:HYM. 5.2456’ (BMNH).                                                  tibia somewhat paler; gaster shiny black, with blue green
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:land, Wales. Material in BMNH, DEZP, HNHM, ITZ,                       2.2 as long as broad, venation as in Fig. 14. Gaster
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:JPCS, LUZN, MNHN, NHMV, NHRM, RRAC, ZMC.                              with ovipositor (Fig. 15) slightly but distinctly exserted.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:5.2455’ (BMNH). Lectotype / of cidariae: ‘Cop. cidariae               Zolnerowich, in press, for latter two).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:1/, ‘Cidar. variat. Kriechb.’ ‘Cop. Cidariae G. Mayr, Type’           (J.S. Noyes) (BMNH). Paratypes of Copidosoma cuproviride:
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:‘Collect. G. Mayr’ (NHMV).                                            5/, 2?, same data as holotype (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Thera obeliscata; SCOTLAND, 46/, 156? ex Pennithera                   lands. Material in BMNH, ITZ.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Hungary, Sweden. Material in BMNH, HNHM, ITZ,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:MKCF, NHMV, NHRM, NMS, RRAC, ZMC.                                     Copidosoma agrotis (Fonscolombe) (Figs 23–28)
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Holotype /, Wales, BMNH, examined.                                      Copidosoma agrotis (Fonscolombe); Trjapitzin, 1978: 351.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:det. J.S. Noyes 1979 PARALECTOTYPE’ (BMNH).                              Non-type material. Not reared: 1/ from Portugal. Mate-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Non-type material. Reared: AUSTRIA, 3/, 2? ex Euxoa                rial in BMNH. Material in BMNH, NMP.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Material in BMNH, HNHM, ITZ, JPCS, LUZN, MKCF,                        sculpture, which is coarse on the mesoscutum (e.g. Fig. 245)
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:NHMV, NHRM, RRAC, ZMC.                                                and more or less striate on the scutellum, and a solid clava,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Copidosoma thebe (Walker) (Figs 29–34)                              rev. 1958’ ‘HYM TYPE 5.2453’ (BMNH). Lectotype ? of
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:by Graham, 1969: 296), England, BMNH, examined.                     house’ ‘? Encyrtus camirus Walk der Boucek & Graham
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:nated by Boucˇek & Graham, 1978: 230), England, BMNH,               (BMNH). Lectotype / of pulchellus: SPAIN ‘Madrid G.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:1978: 230.                                                          types: SPAIN, 1? Madrid 30.v.1911 (Mercet) (NHMV).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:HNHM, examined. Syn. nov.                                           ‘Kasza´lo´’ ‘Litomastix fulvipes Erd. det. Erdo¨s’ ‘/’ ‘Typus’
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                    fulvipes (Erdo¨s) / Det. Trjapitzin 1980’ (HNHM).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:funicle, scape with a slight metallic sheen; mesoscutum             BMNH, DEZP, HNHM, ITZ, JPCS, LUZN, NHRM,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                    nated by Boucˇek & Graham, 1978: 230), England, BMNH,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:old B.M. Coll. C. Waterhouse’ ‘Litomastix pulchellus?               (designated by Graham, 1969: 304), England, BMNH,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Lectotype /, here designated, Germany, NHMV, exam-                   ‘Stood under this name in old B.M. Coll. C. Waterhouse’
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:/ (designated by Graham, 1969: 297), Sweden, LUZN,                   V.Graham det. 1968’ B.M. TYPE HYM. 5.2463’ (BMNH).
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:gary, HNHM, examined. Syn. nov.                                      Mayr’ ‘Cop. Kriechbaumeri G. Mayr, Type’ (NHMV).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:as broad and nearly 0.5 as long as pedicel; clava solid,            (Erdo¨s) / Det. Trjapitzin 1989’ (HNHM).
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:1.4 mm). Very similar to female, but for antenna (Fig. 38)           rial in BMNH, ITZ, LUZN, MNHN, NHMV, NMS.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:nopterix sp. on Centaurea nigra, Agonopterix sp. on                  (NHMV) is a single female. For nomenclatural stability this
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Graham 1978: 230’ ‘B.M. TYPE HYM. 5.2979’ (BMNH).                    the scutellum (Fig. 249). Males of the two species can be
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:nated by Graham, 1969: 296), England, BMNH, examined.                 Republic, Denmark, England, Finland, France, Germany,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(designated by Graham, 1969: 297), England, BMNH,                     Scotland, Slovakia, Spain, Sweden, Wales. Unconfirmed:
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:NHMV, examined. Syn. nov.                                             ‘Encyrtus sosares Walker’ ‘Stood under this name in old B.M.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(designated by Graham, 1969: 297), Sweden, LUZN,                      HYM. 5.2457’ (BMNH). Lectotype / of molos: ‘Encyrtus
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(designated by Graham, 1969: 297), Spain, MNCN:                       HYM. 5.2475’ (BMNH). Lectotype / of hartmanni (here
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Kirgizia, ZISP, not examined. Syn. nov.                               (NHMV). Paralectotypes of hartmanni: 1/, 1?, ‘Depress.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Diagnosis. Female (length 1.3–1.9 mm). Head and thorax             manni G. Mayr Type’(NHMV). Lectotype / of latifrons:
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:pitzin’ (BMNH). Paratypes of pastinacella: RUSSIA, 7/ 3?,             or green reflections; mesoscutum and scutellum with blue-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Logvinoskaya’ ‘Brit. Mus. 1989–128’ (BMNH).                           about 1.2 as wide as frontovertex; mandible massive;
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Wales. Material in BMNH, HNHM, ITZ, LUZN,                             Uol’shan, 11.iii.1954, is guc xlopkovoi covli (ex larva on
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:MNHN, NHMV, NHRM, NMS, RRAC, ZMC.                                     cotton); SUDAN, 158/, 86? ex Raghuva albipunctella on
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Comments. As the primary types of hartmanni and pasti-             BMNH, NHMV.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:the clava and fore wing venation as sosares (see Fig. 41) we             Comments. We have examined material (BMNH) com-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(BMNH) clearly belong to sosares.                                     (MLP) (see Noyes, 1988a), which is very close to primulum
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:berlain & Kok, 1986: 629, misidentifications.                       body /, v.1908 (S.I. Kuwana) (BMNH). Lectotype / of
@@ -5425,11 +5199,8 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Calpodes ethlius, 20.Vii.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:? of javae: JAVA, 2?, Salatiga, ex larva of Plusia (BMNH).            has a pair of button-like structures subapically (Fig. 55), in
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:SPAIN, 1?, El Pardo, 10.v.1918 (BMNH). Lectotype / of                 (designated by Graham, 1959: 170), Sweden, NHRM,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:201–202) for details. Syntypes of phytometrae: see Noyes &            England, BMNH, not examined. Synonymy with truncatel-
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:BMNH, DEZP, HNHM, ITZ, LUZN, MNHN, NHMV,                              as broad, venation as in Fig. 52. Gaster with ovipositor
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Turkey, Wales. Material in BMNH, DEZP, HNHM, ITZ,                    iosa: SPAIN, Navalperal, 18.vii.1915 (Mercet) (MNCN).
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:LUZN, MNCN, MNHN, NHMV, NHRM, RRAC.                                     Non-type material. Not reared: 152/, 72?, from Austria,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                     Czech Republic, France, Spain. Material in BMNH, ITZ,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Comments. Graham (1969) commented that although he                MNCN, MNHN, NHMV, ZMC.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:CROATIA, 3/, Biograd nad morom, 22.vii.1966 (Hoffer);                 HYM. 5.2458’ (BMNH). Lectotype ? of machaeras (here
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Denmark, England, Finland, France, Hungary, Sweden,                   1968’ ‘B.M. TYPE HYM. 5.2459’ (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Wales. Material in BMNH, HNHM, ITZ, LUZN,                               Non-type material. Not reared: 6/, 2? from England,
@@ -5447,7 +5218,6 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                         
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(HNHM). Holotype / of igneum: ‘Copidosoma igneum                         Comments. Copidosoma athepi is close to sashegyense
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:maritimus. Not reared: 387/, 5? from Austria, Denmark,                (designated by Thuro´czy, 1992: 147), HNHM, examined.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:den, Wales. Material in BMNH, DEZP, HNHM, ITZ,                        with metallic blue-green reflections, gena suffused with pur-
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:LUZN, MKCF, MNHN, NHMR, NHMV, NMS,                                    ple; antenna brown, scape with a metallic green sheen;
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                      nyi’ ‘Hym. Typ. no. 6871 Mus. Budapest’ (HNHM).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:data as holotype (BMNH).                                              10.vi.1917, 21.vi.1917 and 26.vi.1917 (Biro´) ‘Copidosoma
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:27.vi.1921 (Biro´). Material in BMNH, HNHM.                           detailed enough (especially with regards to general coloura-
@@ -5458,32 +5228,23 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Sweden. Material in BMNH,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:those of sashegyense, especially in antennal structure                in BMNH, DEZP, HNHM, ITZ.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:BMNH).                                                                   Variation. Very little in the material available. One specimen,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:El Pardo, no date (G. Mercet) (BMNH). Lectotype of minor:            Wales. Unconfirmed: Bulgaria, Federal Yugoslav Republic,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:minor: 1/, 1?, Madrid, 15.v.1920 (G. Mercet) (NHMV).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:in BMNH, ITZ, MNCN.                                                  lis: ‘Litomastis genalis Th. / Lectotype des.by A. Jansson’
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Litomastix genalis Thomson, 1876: 178. Lectotype / (desig-           Switzerland, Wales. Material in BMNH, CIRAD, HNHM,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:BMNH, ITZ.                                                            LECTOTYPE’ ‘MNCN Cat. Tipos no. 10544’ (MNCN).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:  Comments. This species is similar in general habitus to             (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:depth of sculpture on the scutellum (see key, p. 00).                 Spain. Material in BMNH, CIRAD, HNHM, ITZ, LUZN,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:brown and clearly paler than clava; tegula white pale                 nated by Graham, 1969: 304), England, BMNH, examined.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:F1 about 1.4 as long as broad and about 0.7 as long as              NHMV, examined. Synonymy with peticus by Graham,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:sculpture as in peticus (Fig. 259), composed of very small,           here designated, NHMV, examined. Syn. nov.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:brown; antenna (Fig. 128) with scape about 4.2 as long               /, here designated, England, BMNH: examined. Syn. nov.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:sheen or very dark green, contrasting with mesoscutum;                HYM. 5.2464’ (BMNH). Lectotype / of triangularis: ‘O¨.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:6 as long as broad, F1 about 1.7 as long as broad and               slide vi.2003’ (NHMV). Paralectotypes of coleophorae: 10/,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:the exserted part about 0.5 as long as mid tibial spur;              (NHMV). Paralectotypes of buyssoni: 1?, ‘Collect.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:18, GL 6. Male (length 0.8–1.0 mm). Very similar to female            Buyssoni’ (NHMV); 1/, 1?, slide mounted, ‘Copid. Buys-
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:but for colour of tegula, and structure of antenna and                soni m. in Coleop Stefanii Palermo Buysson’ (NHMV); 14/
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Variation. Apart from size, very little in the material            1901 (J. de Joannis) (BMNH). 17/, 8?, ‘Syntypes of buys-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:on Ulmus, C. lutipennella, C. pennella, C. saturatella on             J.S. Noyes 2003’ (BMNH). Paratypes of jamansaiense:
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Anthonomus pomorum (Coleoptera: Curculionidae).                       (BMNH). Paratypes of kisilkumense: UZBEKISTAN, 2/,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Islands, Czech Republic, Denmark, England, Federal                    holotype) (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:den. Material in BMNH, CIRAD, HNHM, ITZ, LUZN,                      fore wing (infuscate in genale) and narrower frontovertex.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:MKCF, NHMV, NHRM, NMS, ZMC.                                         Copidosoma peticus is also similar to shawi (see comments
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:BMNH there is some material identified by Ferrie`re as              Copidosoma radnense Erdo¨s, 1957a: 372. Holotype /,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:flavomaculatus that fits the description of that species by         Hungary, HNHM, examined.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:deposited in BMNH and have no doubts that both these                firmed: Romania.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:1957’ ‘Hym. Typ. no. 8597 Mus. Budapest’ (HNHM).                      wide at base, with digiti and parameres small and stout;
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:France, Hungary, Netherlands, Spain, Sweden, Switzer-                 1/, El Escorial, 25.vi.1919 (G. Mercet) (NHMV).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:land, Wales. Material in BMNH, ITZ, LUZN, MKCF,                         Non-type material. Not reared: 46/, 19? from Andorra,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:NMP, ZMC.                                                             France, Italy, Portugal, Spain, Turkey. Material in BMNH,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:about 7 as long as broad, F1 about 1.4 as long as                   Hungary, HNHM, lost (see Thuro´czy, 1992: 142), not
@@ -5491,10 +5252,8 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:ventral surface of apical
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Senegal, Spain, Zimbabwe. Material in HNHM, NHM,                     talia, that are undistinguishable from those of varicorne
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(BMNH, NMP).                                                          Copidosoma albipes (Westwood) (Figs 148–152)
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Russia, Sweden, Wales. Material in BMNH, NHRM,                          Encyrtus citripes Ratzeburg, 1852: 192. Type material,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:den. Material in BMNH, LUZN, MKCF, NHMV,                              345/, 243? ex Phthorimaea operculella; CANARY
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:innocuellae from that of albipes and therefore propose the            Zimbabwe. Material in BMNH, DEZP, ITZ.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:rial in BMNH, LUZN.                                                   trix sp. on Quercus sp.; AUSTRIA(?), 4/, ex? Acleris
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:apical half. Until now, C. songinum has been known only               BMNH, LUZN, MKCF, NHMV, NHRM, ZMC.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:and stout, pointed at apex.                                           Castellon, Benicasim, 22–24.vi.1974 (Z. Boucˇek) (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:6.v.1988 (L. Masner) (BMNH).                                          and genitalia. Antenna (Fig. 170) with clava pointed at
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                      M.de V. Graham’ ‘B.M. TYPE HYM. 5.2452’ (BMNH).
@@ -5504,18 +5263,12 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:by Graham, 1969: 295), En
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:designated, UK, BMNH, examined. Synonymy with aretas                  berry tortrix) (F.R.Petherbridge) ‘Copidosoma tortricis
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:by Trjapitzin, 1989: 348.                                             Waterst. (1920) Paratype’ (BMNH). Holotype ? of suspec-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:England, BMNH, lost, not examined. Synonymy with are-                 (Walker) ? det P.B. Jensen, 1983’ (on slide) (ZMC). Para-
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Diagnosis. Female (length 1.0–1.2 mm). Head black with             Material in BMNH, ITZ, LUZN, MNHN, NHMV,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:formly and weakly infuscate, venation brown; legs brown,              male specimen found in the BMNH collection under aretas
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:aretas (Fig. 263) and in males by the relative length of the          Spain. Material in BMNH, CIRAD, HNHM, ITZ, LUZN,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:than 4.5 as long as broad.                                              Comments. In BMNH, there are six non-type specimens
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:nated by Graham, 1969: 301), England, BMNH, examined.                 (1925b). Of the material that we have examined, we have
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:infuscate, legs brown the joints yellow; antenna with                 Germany, NHMV (?lost), not examined (but see comments
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:G.’ ‘B.M. TYPE HYM. 5.2883’ (BMNH).                                   vertex; ocelli forming an angle of less than 90 (65–70 );
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Doubtful/erroneous: Pemphigus bursarius (Hemiptera,                Austria, NHMV, not examined.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:BMNH, HNHM, ITZ, LUZN, MNHN, NHMV, NMS,                            about 4 as long as broad and about 1 as long as pedicel,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Sweden. Material in BMNH, HNHM, LUZN, MKCF,                           material especially in distal 2/3; fore wing about 2.4 as
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:NHMV, NHRM, NMP.                                                      long as broad, venation as in Fig. 187. Gaster long, with
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:identified by Mayr (NHMV). These specimens agree well                 cutum and scutellum. Antenna (Fig. 189) with clava obli-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:is about 2.7 as long as the mid tibia with the exserted part         ‘B.M. TYPE HYM. 5.1089’ (BMNH). Lectotype / of
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                      5.1121’ (BMNH). Lectotype / of globiceps: ‘Budapest
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(designated by Graham, 1969: 302), England, BMNH,                     articulii simul sunoprix longior!!! Litomastix /.’ ‘/Copido-
@@ -5526,41 +5279,31 @@ Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:mesoscutum with emerald g
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:with golden reflections along its sides, gena with purple-            HNHM, ITZ.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:clava, which is not more than half the length of clava in             BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:species, but in fact it has a combination of characters               Netherlands, Sweden. Material in BMNH, HNHM, ITZ,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:states (F1 and ovipositor) that places it between the two.            LUZN, MKCF, NHMV, NHRM, NMP.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:rial in BMNH.                                                         PORTUGAL, Odiaxere, 22.-27.ix.1983 (Noyes) (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:                                                                      Paratype: 1/, same data as holotype (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:ham) (BMNH). Paratypes: FINLAND, 1/, Tva¨rminne                       green reflections, medially emerald green and posteriorly
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:no data (R.W.Schlick). Material in BMNH, LUZN,                        pointed.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:MKCF, MNHN, NHMV, NHRM, RRAC, ZMC.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:NHMV.                                                                 holostes, C. vicinella, C. viscariella, Deltophora glandiferella,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:BMNH, here designated. Synonymy with C. filicorne by                  Moldova, Romania, Tajikistan, USA (introduced in Con-
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:V.G.’ B.M. TYPE HYM. 5.2884’ (BMNH). Lectotype of                     of hind tibia paler.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:17791’(BMNH).                                                         tellum (Fig. 253), cells irregular and polygonal, sculpture on
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Eire. England, Finland, France, Germany, Greece,                      (on slide) (BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Spain, Sweden, Wales. Material in BMNH, CNC, ITZ,                        Comments. This species has a unique conformation
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:LUZN, MKCF, MNCN, MNHN, NHMV, NHRM,                                   of antenna (Fig. 208) with clava 3-segmented, almost
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:three names as synonyms.                                              Hungary, HNHM, examined.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:dapest’ (HNHM).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Wales. Material in BMNH, HNHM, ITZ, LUZN,                             (designated by Noyes, 1981: 171), Spain, MNCN, examined.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:as this species by Trjapitzin (BMNH). We could find no                mesoscutum and scutellum with metallic emerald-green
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:J.S. Noyes 1979 Paralectotype’ (NHMV).                                didyma (Nymphalidae). Doubtful/erroneous: Cephaloglypta
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:senticetella. Material in BMNH, MNCN, NHMV.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:   Diagnosis. Female (length 1.3–1.7 mm). Head with emer-             Netherlands, Spain, Wales. Material BMNH, HNHM,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:ald green or blue reflections, gena purple-gold, a violet             ITZ, LUZN, MKCF, MNHN, NHMV, NHRM, NMS,
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:with scape long and slender, about 8 as long as broad, F1            nated by Graham, 1959: 168), England, BMNH, examined.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:1958’ ‘B.M. TYPE HYM 5.2059’ (BMNH). Paralectotype /,                   gellare, both species having females with a similar green
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Coll. C. Waterhouse’ (BMNH). Lectotype / of caniculare:                 with a brown apex, similar thoracic sculpture (as in
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Sweden. Material in BMNH, HNHM, ITZ, MNHN,                              long as stigmal vein in anceus, 0.3 as long as stigmal
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:NHMV, NHRM, NMS, RRAC, ZMC.                                             vein in flagellare).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:0.9–1.1 mm). Head and thorax with metallic blue-green                   (NMP and BMNH).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:joints paler. Antenna (Fig. 234) with F1 about 4 as                    Republic, Hungary, Spain. Material in BMNH, HNHM,
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:long as broad and 2 as long as pedicel; genitalia                      ITZ, NHMV, NMP.
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(designated by Thuro´czy, 1992: 141), Hungary, HNHM:                   der, about 7 as long as broad, F1 about 1.4 as long as
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Mus. Budapest’ (HNHM). Paralectotypes of budense:                   Museums of Scotland) for providing most of the reared
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Tudo´sdomb, 5.vii.1931 (Biro´) (BMNH, HNHM).
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:Hungary. Material in BMNH, HNHM.                                    References
 Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:exchange of material: Z. Boucˇek (BMNH), M.J. Gijswijt                105–187.
-Systematic-Entomology/j.1365-3113.2005.00271.x.pdf.txt:(NHMV), C. Thuro´czy (HNHM), J.-L. Nieves Aldrey, I.                  of Entomological Research, 89, 209–215.
 Systematic-Entomology/syen.12037.pdf.txt:1 Departmentof Life Sciences, NHM, London, U.K., 2 Department of Zoology, Faculty of Science UP, Olomouc, Czech Republic,
 Systematic-Entomology/j.1365-3113.2009.00474.x.pdf.txt:Mycetophilidae                             NHM, Oslo                        28S                  18S                16S
 Systematic-Entomology/j.1365-3113.2009.00474.x.pdf.txt: Anatella lenis                            NHM_MYC_ER_125                   EU219582             DQ787911           DQ787936
@@ -5636,28 +5379,9 @@ Systematic-Entomology/j.1365-3113.2010.00528.x.pdf.txt:male, same data as holoty
 Systematic-Entomology/j.1365-3113.2010.00528.x.pdf.txt:holotype, NHML. One male, same data as holotype, EDNMK.                as sculptured as in M. usambarensis sp.n. and not as long. The
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                       are used in the text: BMNH – Natural History Museum, Lon-
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:for identical haplotypes between taxa are retained polymor-            d’Histoire Naturelle, Paris, France; NHMBEO – Prirodnjacki
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:   Adults of Merodon feed on pollen and nectar and visit               Serbia; NHMW – Naturhistorisches Museum Wien, Aus-
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                                  uyki), leg. R.M. Velitchkovsky (NHMW).
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                            Additional records. Albania: 8♂♂, 5♀♀ (RMNH, NHMW);
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                         Austria: 3♂♂ (NHMW, ZHMB); Bosnia and Herzegovina:
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                         (BMNH, NHMW, ZAG, ZMUC); France: ♂, 9♀♀ (TAU,
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:(at least on metaleg). Male metaleg (Fig. 10): process on                many: 3♂♂ (NHMW, FSUNS); Greece: 7♂♂, ♀ (ZMUC,
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:FSUNS, BMNH, NHMW); Montenegro: 114♂♂, 36♀♀                           are paler than in M. loewi (often brownish or even black in
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:(FSUNS, BMNH, NHMW); Romania: 2♂♂, 4♀♀ (ZHMB);                        eastern populations in M. loewi ). This is the main difference
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:(BEO, RMNH, M.J.S. coll., NHMW); Turkey: 6♂♂, 1♀                      protuberance on metafemur (tarsomeres always dark-brown to
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:(ZMA, FSUNS, BMNH, A.S.coll.).                                        black in M. planiceps).
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                           Additional records. Albania: ♂ (NHMW); Austria: ♂, 3♀♀
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:                                                                        (NHMW); Bosnia AND Herzegovina: 4♂♂, 3♀♀ (FSUNS,
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:BMNH, TAU, A.S. coll., D.D. coll.); Israel: ♂ (TAU); Italy:                brown at apical end of femora, basal end of tibiae and, in some
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:3♂♂, 2♀♀ (ZMA, NHMW, RMNH); Russia: ♂, ♀ (RMNH,                            specimens, ventral surface of basal three tarsomeres. Male
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:NHMW); Serbia: 8♂♂, 3♀♀ (ZMA, FSUNS); Turkey: 69♂♂,                        genitalia: posterior surstyle lobe rounded (Fig. 25A); anterior
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:22♀♀ (ZMA, ZHMB, FSUSN, EMIT, NHMW, BMNH, SAR,                             surstyle lobe with medium-sized inner thorn (Fig. 25B); cercus
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:tarsomeres of all legs pale yellow. Metatrochanter in male               (NHMW, FSUNS); Turkey: ♀, Kars, Sarıkamıs¸, Kars Deresi,
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:thorn (Fig. 30B); cercus rectangular (Fig. 30A). Similar to           (ZMA, BMNH); Ukraine: ♂ (NHMW).
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:tinct (Fig. 5D, E). Females are morphologically inseparable,            Additional records. Austria: 2♂♂, 3♀♀ (ZMA, NHMW,
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:except by the range: M. ruficornis is distributed in south Euro-      BMNH); Bulgaria: 3♂♂, 3♀♀ (ZMA, ZMUC, SAR); Croatia:
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:pean mountains, and M. abruzzensis is a local endemic of              2♂♂, ♀ (ZAH, ZMA, NHMW); FYR Macedonia: ♀ (RMNH);
-Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:   Additional records. Austria: 5♂♂, (ZMA, NHMW); Bosnia              exhibits variability in the shape of metalegs, especially in
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:BMNH); Germany: ♂ (ZMA); Greece: 6♂♂, 2♀♀ (FSUNS,                     ventral protuberance and usually covered with long and dense
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:BMNH); Hungary: ♂, 3♀♀ (RMNH); Italy: ♂, ♀ (ZMA);                     ventral hairs (Fig. 29A). Metatibia with one distinct apical
 Systematic-Entomology/j.1365-3113.2012.00631.x.pdf.txt:♀ (ZMUC, BMNH); Serbia: 34 ♂♂, 9♀♀ (ZMA, BEO,                         of metatibia (Fig. 29A–C) and one small inner posterior spur
@@ -5691,8 +5415,6 @@ Systematic-Entomology/j.1365-3113.2000.252111.x.pdf.txt:Edited by M. J. Scoble. 
 Systematic-Entomology/j.1365-3113.2000.252111.x.pdf.txt:                                                                         managers, a list of genera as they appear in the BMNH
 Systematic-Entomology/j.1365-3113.2000.252111.x.pdf.txt:HOSTS database being compiled at the BMNH. The inclusion           systematists to ®nd ways¼ of providing taxonomic data of this
 Systematic-Entomology/j.1365-3113.2001.00142.x.pdf.txt:Chainey, The Natural History Museum, London (NHM); Ruth                      South Wales, 75, 345±359.
-Systematic-Entomology/j.1365-3113.2001.00142.x.pdf.txt:(NHMW); Peter Cranston, Australian National Insect                           Stockholms Universitet, Stockholm, Sweden.
-Systematic-Entomology/j.1365-3113.2001.00142.x.pdf.txt:Acatopygia KroÈber, 1912a                                           dioctriaeformis Schiner, 1868: 151 (NHMW)*
 Systematic-Entomology/j.1365-3113.2001.00142.x.pdf.txt:Acraspisa KroÈber, 1912f                                            quatiens White, 1915: 27, syntype series (NHM)*
 Systematic-Entomology/j.1365-3113.2001.00142.x.pdf.txt:  trifasciata KroÈber, 1912f: 286, type destroyed                   occulta White, 1915: 51 (NHM)*
 Systematic-Entomology/j.1365-3113.2001.00142.x.pdf.txt:  albitarsa Mann, 1929: 24 (QM)*                                    actuosa White, 1915: 35 (NHM)*
@@ -5714,25 +5436,8 @@ Systematic-Entomology/j.1365-3113.2009.00477.x.pdf.txt:                         
 Systematic-Entomology/j.1365-3113.2009.00477.x.pdf.txt:punctures each side set in irregularly wrinkled surface; median         clothorax tantalus E.B. Britton 1940 (BMNH).
 Systematic-Entomology/j.1365-3113.2009.00477.x.pdf.txt:(Figs 5; 7; 10; 13; 16) are known from distributions con-             (ANIC); Conrad P.D.T. Gillett (BMNH); G. Allan Samuelson
 Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:collections (Appendix 1): BMNH, The Natural History                       (3) with rounded ends, forming 2 fields on each side of
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:fuÈr Naturkunde Berlin, Germany; NHMW, Naturhistor-                   pied by microfolds, hairs and micropapillae (Fig. 1A,B).
 Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:competition by sperm displacement occur; Waage, 1984;                 I also thank Jan van Tol (NML), David Goodger (BMNH),
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:Siva-Jothy, 1987; Miller, 1991; Garrison, 1994). Tillyard             Ulrike AspoÈck (NHMW), Axel Bachmann (MACN), Hector
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                                 A.   vigintipunctata Ris                                       GB; MLP; NHMW; NML Schmidt, 1936, 1950; Peters, 1987;
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                                 A. tumidula Lieftinck                                          NHMW; NML                   Lieftinck, 1937                                     Aus; Or
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           Amphiaeschna *        A. ampla (Rambur)                                              NHMW; NML                   Martin, 1908±1909; Fraser, 1926                     Or
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                                 A. montivagans Lieftinck; A. triangulifera McLachlan           MLP; NHMW; NML              Martin, 1908±1909                                   Aus; Or; Pal
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           `Anaciaeschna' (L.)   `A'. isosceles (MuÈller)                                       NHMW; SMNS                  Schmidt, 1950; Butler, 1998                         Pal
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                                 A. subapicalis Theischinger; A. unicornis (Martin)             GB; MNB; NHMW; NML Theischinger, 1975, 1982                             Aus
 Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           Basiaeschna *         B. janata (Say)                                                BMNH,              Walker, 1958                                         Nea
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                                 B. maclachlani Selys; B. vinosa (Say)                          NHMW; NML              Schmidt, 1952; Walker, 1958; Peters, 1991        Hol
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           Brachytron * (L.)     B. pratense (MuÈller)                                          MNB; NHMW              Schmidt, 1950; Butler, 1998                      Pal
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           Caliaeschna * (L.)    C. microstigma (Schneider)                                     BMNH; NHMW;            Schmidt, 1950; Asahina, 1983;                    Pal
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                               C. viriditas Calvert                                             MLP; NHMW              Paulson, 1994                                    Neo
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                               H. uninervulata Martin                                           NHMW; NML              Martin, 1908±1909; Fraser, 1936                  Eth; Or
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                               O. uropetala Lieftinck; O. venatrix (FoÈrster)                       MNB; NHMW; NML    Lieftinck, 1968                                   Or
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           Polycanthagyna (L.) P. erytthromelas (McLachlan); P. melanictera (Selys)                 BMNH; NHMW; NML   Martin, 1908±1909; Asahina, 1985, 1986            Or; Pal
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                           Remartinia (L.)     R. luteipennis (Burmeister)                                          MLP; NHMW         Carvalho, 1992a                                   Neo
-Systematic-Entomology/j.1365-3113.2002.00190.x.pdf.txt:                                                                                                T. trifida Rambur                                                   NHMW; NML         Williamson, 1923; Needham et al., 2000           Neo
 Systematic-Entomology/j.1365-3113.2000.00090.x.pdf.txt:    London (BMNH); Hungarian Natural History Museum,                    long tube and look very much like small tubular ducts in
 Systematic-Entomology/j.1365-3113.2000.00090.x.pdf.txt:    Budapest (HNHM); MuseÂum National d'Histoire Naturelle,             other families of scale insects and do not have a projection
 Systematic-Entomology/j.1365-3113.2000.00090.x.pdf.txt:    U.K., which is deposited in BMNH. Measurements and
@@ -5812,12 +5517,9 @@ Systematic-Entomology/j.1365-3113.2010.00538.x.pdf.txt:Museum (Natural History),
 Systematic-Entomology/j.1365-3113.2010.00538.x.pdf.txt:new synonym                                                           BMNH; 100 males and females, Colombia, Dept. Nari˜no,
 Systematic-Entomology/j.1365-3113.2010.00538.x.pdf.txt:22/09/2001, MNHM, MLPA (Fig. 9(4)).                                   tera, 2400 m, (Amedegnato & Poulain), 21/09/2001, MNHN,
 Systematic-Entomology/j.1365-3113.2006.00348.x.pdf.txt:Materials and methods                                                    BMNH The Natural History Museum, London, U.K.
-Systematic-Entomology/j.1365-3113.2006.00348.x.pdf.txt:   NHMW Naturhistorisches Museum Wien, Vienna, Aus-                  glue and copper wire, and then sputter coated. Female
 Systematic-Entomology/j.1365-3113.2006.00348.x.pdf.txt:female (from Brazil); type(s) not found in BMNH, pre-                         Epeira rhodosternon: van Hasselt, 1875 (see Dahl, 1912;
 Systematic-Entomology/j.1365-3113.2006.00348.x.pdf.txt:scription of their species varied. For example, Dahl (1912)        (ng269) in BMNH, labelled ‘76.13, Nephila cruentata Fabr.,
 Systematic-Entomology/j.1365-3113.2006.00348.x.pdf.txt:BMNH, labelled ‘1924.III.I.260 DIIA, Nephilengys rainbowi
-Systematic-Entomology/j.1365-3113.2010.00542.x.pdf.txt:from Mexico and southern U.S.A. was interpreted as the sis-            Vienna (NHMW). Remaining DNA extractions are stored at
-Systematic-Entomology/j.1365-3113.2010.00542.x.pdf.txt:ter group of the rest. The large Asian genus Mongoloraphidia           the laboratory of Molecular Systematics at the NHMW.
 Systematic-Entomology/j.1365-3113.2000.00109.x.pdf.txt:Gerromorpha, providing descriptive notes or re-descriptions        History Museum (NHM), London, and this book represents a
 Systematic-Entomology/j.1365-3113.2000.00109.x.pdf.txt:the assignment of Engynabis to Gerromorpha, is silent as to        Harvey, Entomology Librarian, NHM) reviews abstracting
 Systematic-Entomology/j.1365-3113.2000.00109.x.pdf.txt:diversity, distinguishing characteristics of adults and some-            (BMNH) and entered into a database (or `Global
@@ -5882,8 +5584,6 @@ Systematic-Entomology/j.1365-3113.2005.00268.x.pdf.txt:mesal lobe; proctiger pal
 Systematic-Entomology/j.1365-3113.2005.00268.x.pdf.txt:ternum with 1 outstanding dark brown seta; mediotergite               Omilteme, 8000 ft, viii (H. H. Smith) (BMNH), with the
 Systematic-Entomology/j.1365-3113.2005.00268.x.pdf.txt:female (BMNH), which is therefore the holotype. Bearing                  cell cu1, sometimes paler in cell dm, posterobasal corner of
 Systematic-Entomology/syen.12026.pdf.txt:in continuous characters other than colour clearly exceeded             Museum, Budapest, Hungary (HNHM), Zoological Museum,
-Systematic-Entomology/syen.12026.pdf.txt:analysis to describe intraspecific variation in T. cyanescens           Vienna, Austria (NHMV), G´erard Delvare, Montpellier, private
-Systematic-Entomology/syen.12026.pdf.txt:(NHMV). We also thank two anonymous reviewers for most                  Klingenberg, C.P. (1998) Heterochrony and allometry: the analysis of
 Systematic-Entomology/j.1365-3113.2006.00352.x.pdf.txt:a disjunctive amphitropical distribution. Larrea tridentata is      boldt Universita¨t, Berlin, Germany; NHMB, Naturhistor-
 Systematic-Entomology/j.1365-3113.2006.00352.x.pdf.txt:collections and institutions: BMNH, The Natural History             venter with free sternites (Fig. 7A) or penultimate medial
 Systematic-Entomology/j.1365-3113.2006.00352.x.pdf.txt:(Solanaceae), including larvae (data of BMNH, MHNG,
@@ -5984,14 +5684,12 @@ Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        gallar
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        iniquum           12      Cinchona, St. Andrew, Jamaica                            ALWC, BMNH
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        iniquum           73      Ban˜os, Tungurahua, Ecuador                              BMNH, MZSP
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        iniquum           74      Nanegalito, Pichincha, Ecuador                           ALWC, BMNH, CASC,
-Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:                                                                                                      NHMW, USNM
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        iniquum           24      Maricao Forest Res, Puerto Rico, U.S.A.                  ALWC, BMNH
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        keiteli           9       1 km E Ebano Verde, La Vega, Dominican Republic          ALWC, BMNH, MCZC
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        micans            41      Res. Costanera Sur, Buenos Aires, Argentina              ALWC, BMNH, IFML,
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        neotropicum       75      6 km SE Archidona, Napo, Ecuador                         ALWC, BMNH, USNM
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        piliferum         68      8 km W Baeza, Pichincha, Ecuador                         ALWC, BMNH, CASC,
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:                                                                                                      MHNG, MZSP, NHMB,
-Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Linepithema        pulex             54      Reserva Mbaracayu´, Canindeyu´, Paraguay                 MHNG, NHMW
 Systematic-Entomology/j.1365-3113.2008.00435.x.pdf.txt:Technomyrmex      pallipes        34       Suurberg, Eastern Cape, South Africa                    UCDC, BMNH
 Systematic-Entomology/j.1365-3113.2003.00214.x.pdf.txt:29, 1000 Brussels, Belgium. E-mail: cdaugeron@naturalsciences.be   Natural History Museum (BMNH, London), the
 Systematic-Entomology/j.1365-3113.2003.00214.x.pdf.txt:material from the BMNH. The male hypopygium is identical,                  E. kafira Smith, 1969, South Africa (PT male examined);
@@ -6236,8 +5934,6 @@ Systematic-Entomology/j.1365-3113.2012.00635.x.pdf.txt:(HNHM, Budapest), A. Taeg
 Systematic-Entomology/j.1365-3113.2002.00174.x.pdf.txt:London (BMNH); University of Chile, College of Agricul-                               ±        Anterior suranal setae bristle-shaped; femora of
 Systematic-Entomology/j.1365-3113.2002.00174.x.pdf.txt:first-instar embryos (BMNH, UCH, USNM).                                posterior suranal seta slightly enlarged, 37 mm long; also,
 Systematic-Entomology/j.1365-3113.2002.00174.x.pdf.txt:on the eggs of halimococcids.                                         BMNH, MNHN, UCD, UCH, USNM).
-Systematic-Entomology/j.0307-6970.2004.00263.x.pdf.txt:Museum of Natural History Vienna (NHMW). The remain-
-Systematic-Entomology/j.0307-6970.2004.00263.x.pdf.txt:atics, NHMW. Abbreviations of specimens are derived
 Systematic-Entomology/j.1365-3113.2005.00289.x.pdf.txt:(Fig. 4H). Eyes subequal in size, about 0.11 in diameter.             (1878.11.1.22) in BMNH (examined) labelled ‘Aldabra
 Systematic-Entomology/j.1365-3113.2003.00221.x.pdf.txt:Abbreviations: AMNH, American Museum of Natural History, U.S.A.; BMNH, The Natural History Museum, U.K.;
 Systematic-Entomology/j.1365-3113.2003.00221.x.pdf.txt:  Anartia jatrophae (Linnaeus)                  Caymans                                     ?, / – BMNH
@@ -6275,7 +5971,6 @@ Systematic-Entomology/j.1365-3113.2001.00153.x.pdf.txt:Theresa Howard (NHM) for 
 Systematic-Entomology/j.1365-3113.2001.00153.x.pdf.txt:Smith (NHM) for assisting in DNA sequence generation; to the             Harbach, R.E. & Knight, K.L. (1982) Corrections and additions to
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:with the software MEGA3.1 (Kumar et al., 2004).                       BMNH, Natural History Museum, London, U.K.;
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:the holotype of the synonym C. particularenotata; 50 specimens        HNHM, National Museum of Natural History, Budapest,
-Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:NHMW, Naturhistorische Museum, Wien, Austria;                        female of A. guttata from South Africa, Western Cape [road
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:of C. waziristanica (BMNH). This species is characterized by         sousgenre Coryna’]. This group is greatly heterogeneous
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:Pardo Alcaide, 1959), is in BMNH (Pic, 1932). Syntypes of           19.60008S, 14.91678E (SMWN); Kamanjab, 19.63338S,
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:18.01678S, 21.36678E (SMWN); Manghetti Forest between               (HNHM). Caffraria (Fa¨rhaeus, 1872). Transvaal (Pe´ri-
@@ -6304,8 +5999,6 @@ Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:Plaats (NMB). North-West.
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:                                                                        (HNHM), ‘Actenodia mirabilis Kaszab’ (white with red
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:                                                                         409S–168589E (CB, HNHM); Richtersveld, Brandkaros
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:                                                                         Farm 288299S–168419E (HNHM); Porth Nolloth, 20 km E,
-Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:  Remarks. None of the described infraspecific variations           Murcia, Caravaca (CB, NHMW); Valencia, Tordesillas
-Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:1914). SPAIN. Spain (MNHN, MTR, MUB, NHMW,                          2002); Zaragoza, Pina de Ebro (Recalde et al., 2002; Pe´rez-
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:billbergi, as proposed by some authors. The record is               Rabat, Sale´ (ISR); Casablanca (BMNH, ISR); Fidala,
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:ITALY (Sicily). Sicilia (MZR, NMPC; Romano, 1849 as                 Rbia (ISR); Azrou (BMNH, ISR, MSNV); Azrou, Valle´e de
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:Tanger (BMNH, ISR, NMCP; Marseul, 1870; Martinez de                 Bou Anididj (CB); Jijel (MSNV); Foret M’Sila (Cros, 1930);
@@ -6313,7 +6006,6 @@ Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:approximated and only sli
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:Actenodia denticulata: Bologna, 1990: 368.                            (BMNH, MNHM; Marseul, 1872; Pic, 1913a; Soumacov,
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:  Type material. In the Bates collection (BMNH), the                  Udhailiyah Camp, 258089N, 498189E (Kaszab, 1983); Jaww
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:desert habitat of northwestern Namaqualand and southern            S. L. Shute, BMNH; L. Bartolozzi, MUF; M. Bon, MCNV;
-Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:Afrotropical lineage, as in the Tenebrionidae tribe Molurini       M. Ja¨ch, NHMW; J. Jelinek and V. Sˇvhila, NMPC; I. Lo¨bl,
 Systematic-Entomology/j.1365-3113.2007.00402.x.pdf.txt:(Endrody-Younga, 1978), or by a more recent radiation              already at MGEN; E. Marais, SMWN; O. Merkl, HNHM;
 Systematic-Entomology/syen.12020.pdf.txt:Nigel Wyatt (BMNH), S. Yoshimatsu (ITLJ), Chen Young
 Systematic-Entomology/j.1365-3113.2006.00347.x.pdf.txt:Naturelle, Paris; NHM, Natural History Museum, London.
@@ -6366,16 +6058,12 @@ Systematic-Entomology/j.1365-3113.2008.00468.x.pdf.txt:original description and 
 Systematic-Entomology/j.1365-3113.2004.00259.x.pdf.txt:Xystosomina and Tachyina form a monophylum (Grebennikov               University, Moscow, Russia (I. Kh. Sharova); NHML, The
 Systematic-Entomology/j.1365-3113.2004.00259.x.pdf.txt:Zolini              Oopterus Gue´rin-Me´neville, 1841    O. soledadinus (Gue´rin-Me´neville, 1832)                      (þ)      NHML
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:cized) followed by collection acronym where the specimen              136775, MEI; MEI 136777, BMNH; MEI 136778, USNM;
-Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:                                                                      USNM; MEI 136677, NHMW; MEI 136678, NMSA; MEI
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:Paratypes: CHILE, Valparaiso Region, Quillota Province,               136679, HNHM; MEI 136681, ZMAS; MEI 136682,
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:Parque Nacional Campanas, Palmas de Ocoa, [32.932,                   IMLA; MEI 136683, MNMS; MEI 136713, BMNH; MEI
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:2/ [MEI 136672, ZMUC; MEI 136674, MZSP]. Malaise                      E.I. Schlinger, 2? [MEI 136726, BMNH; MEI 136729,
-Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:136648, MEI; MEI 136652, MEI; MEI 136653, NHMW;                       MEI; MEI 108291, MEI; MEI 108292, MEI; MEI 108293,
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:MEI 136721, HNHM; MEI 136723, ZMAS; MEI 136724,                       MEI; MEI 108303, MEI; MEI 108304, MEI], 6/ [MEI
-Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:NHRS; MEI 136742, NHMW; MEI 136744, AMNH; MEI                         108273, MEI; MEI 108274, MEI]. Malaise trap in hillside
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:BMNH                                                    The Natural History Museum, London, U.K.
 Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:HNHM                                                    Hungarian Natural History Museum, Budapest, Hungary
-Systematic-Entomology/j.1365-3113.2003.00224.x.pdf.txt:NHMW                                                    Naturhistorisches Museum Wien, Vienna, Austria
 Systematic-Entomology/j.1365-3113.2008.00439.x.pdf.txt:ogy, Knoxville, Tennessee, United States; BMNH, The                  follows Hogue (1973), except pupal respiratory horn mor-
 Systematic-Entomology/j.1365-3113.2008.00439.x.pdf.txt:patch quadrangular, contiguous medially. Anterior clypeal                 1933). We borrowed from the BMNH three slides containing
 Systematic-Entomology/j.1365-3113.2008.00439.x.pdf.txt:  Adult male (Fig. 14E). Frontal scar patch quadrangular,           the BMNH.
@@ -6572,7 +6260,6 @@ ZooScripta/0381.pdf.txt:support was estimated using Bootstrapping (Felsenstein 1
 ZooScripta/0381.pdf.txt:3’ (BMNH). Three female paratypes from same locality,                 as in Figs 10F,G and 13A–F.
 ZooScripta/0381.pdf.txt:inhandava and A. sumisolena). Fragmentary taxa are problematic             following institutions: AMNH (N. Platnick), BMNH
 ZooScripta/0310.pdf.txt:NHM — Natural History Museum, London, England.
-ZooScripta/0310.pdf.txt:the notauli, the mesopleural sulcus, and the scutellar foveae.                      (NHMW); Dr Roy Danielsson (EMLU); Dr Frank Koch
 ZooScripta/0310.pdf.txt:   This study also represents a necessary step towards the                          (ZMB); Suzanne Lewis (NHM); Dr David R. Smith and
 ZooScripta/0158.pdf.txt:     R03     Ba˘ile Fe´lix           200         46.992431     21.974030     33        1, 2          y⁄o      PMM     T-04 (19) [AY860801], T-05 (11)      RBINS: I.G. 30412 NHM:
 ZooScripta/0158.pdf.txt:     R04*    Bicaz                   650         47.468950     23.016357      3        1, 2          y⁄o      PMM     T-11 (3) [AY968073]                  MNHN: 4259 (SU 2807) NHM:
@@ -6748,54 +6435,25 @@ ZooScripta/0048.pdf.txt:bar = 3 mm. —D. Tegula felipiensis NHMUK 20110454. Sca
 ZooScripta/0048.pdf.txt:—M. Ilanga sp. MNHN 18328. Scale bar = 3 mm. —N. Spectamen philippensis NHMUK 20110452. Scale bar = 2 mm. —O. Spectamen sp.
 ZooScripta/0048.pdf.txt:Museum,      London       (NHMUK),        Muse´um     national                                    Please note: Wiley-Blackwell are not responsible for the
 ZooScripta/0250.pdf.txt:natural history museums were reviewed (BMNH, The Natural                                photographs were taken to document colouration and pattern.
-ZooScripta/0250.pdf.txt:Paris; MTD, Museum für Tierkunde Dresden; NHMW,                                         were deﬁned and, based on these landmarks, 71 measurements
-ZooScripta/0250.pdf.txt:obtained from the CAS, FMNH, MTD, NHMW and USNM                                                  Ampli Taq Gold (Applied Biosystems, Foster City, CA), 2.5 μL
-ZooScripta/0250.pdf.txt:the NHMW and ZSM collections was sampled (see Appendix I).                                       were used for PCR. The negative controls containing all
-ZooScripta/0250.pdf.txt:sites of which 2186 were constant; of 69 variable sites were                            terminal clade, represented by only one sample (NHMW
-ZooScripta/0250.pdf.txt:(C. atripons and the sequence NHMW 37153 from Assam;
-ZooScripta/0250.pdf.txt:Sumatra (NHMW 9811), Java (NHMW 1188) and Borneo
-ZooScripta/0250.pdf.txt:distinct sequence from Assam (NHMW 37153; C in Fig. 2).
-ZooScripta/0250.pdf.txt:values suggest that NHMW 37153 represents a distinct
 ZooScripta/0250.pdf.txt:sample size and random individual differences.                                                   (e.g. in BMNH 1947.3.4.26, paralectotype of C. oldhamii).
-ZooScripta/0250.pdf.txt:                                                                                                 4226–4227; fresh samples), Sumatra, Java and Borneo (NHMW
-ZooScripta/0250.pdf.txt:                                                                                                 9811, NHMW 1188, ZSM 850.1920; historical museum
-ZooScripta/0250.pdf.txt:mtDNA of the Assamese specimen NHMW 37153, for which                                             and mtDNA sequence data (cyt b; Guicking et al. 2002; Stuart
 ZooScripta/0250.pdf.txt:and neck stripes wide, throat light coloured. Hatchlings of                                      London (BMNH 1946.1.22.62, hatchling in alcohol).
-ZooScripta/0250.pdf.txt:                                                                                                       (NHMW 29525 : 4, hatchling in alcohol).
 ZooScripta/0250.pdf.txt:     Museum London (BMNH 1863.6.21.1, shell of adult
-ZooScripta/0250.pdf.txt:Diagnosis. Adult: Shell ovoid to heart-shaped. Femoral mid-seam                                  Holotype. Naturhistorisches Museum Vienna (NHMW 9811,
-ZooScripta/0250.pdf.txt:                              NHMW 1188       NHMW 9811         NHMW 29524          NHMW 29528:1           RMNH 6066         RMNH 6068         RMNH 27828         ZSM 850.1920
-ZooScripta/0250.pdf.txt:adult female); Naturhistorisches Museum Vienna (NHMW
-ZooScripta/0250.pdf.txt:NHMW 29524, Java, leg. R. Werner 1924, don. Regart, adult
-ZooScripta/0250.pdf.txt:female in alcohol; NHMW 29528 : 1, Indragiri, Sumatra, don.
-ZooScripta/0250.pdf.txt:                                                                                        Fig. 12 Holotype of Cyclemys enigmatica n. sp. (NHMW 9811, adult
 ZooScripta/0250.pdf.txt:carapace length 90 mm) and BMNH 1929.12.1.15 (Lake
 ZooScripta/0250.pdf.txt:while the slightly larger BMNH 1930.6.8.4 (Naga Hills, India,
-ZooScripta/0250.pdf.txt:are available for the AMNH and BMNH specimens, we                                       Fig. 14 Holotype of Cyclemys gemeli n. sp. (NHMW 37153, adult of
 ZooScripta/0250.pdf.txt:collection site BMNH 1930.6.8.4 could also represent a                                  border of Arunachal Pradesh, Jia Bhoroli River Region, Assam,
-ZooScripta/0250.pdf.txt:Holotype. Naturhistorisches Museum Vienna (NHMW 37153,
 ZooScripta/0250.pdf.txt:                                                                                        For another juvenile specimen (BMNH 1930.6.8.4) possibly
 ZooScripta/0250.pdf.txt:                                                                                              London (BMNH 1947.3.5.63, shell of adult male).
 ZooScripta/0250.pdf.txt:Remarks. The adult male BMNH 1974.2594 from Tasan (leg.                                          Fritz, U. & Ziegler, T. (1999). Contribution to the knowledge of
 ZooScripta/0250.pdf.txt:Myanmar. BMNH 1974.2594 was actually collected at Tasan,                                         Fritz, U., Gaulke, M. & Lehr, E. (1997). Revision der südostasiatischen
-ZooScripta/0250.pdf.txt:(NHMW), Jakob Hallermann (ZMH), Gunther Köhler and                                                 A. A., Auer, M., Rifai, L., SiliB, T. & Hundsdörfer, A. K. (2008).
 ZooScripta/0250.pdf.txt:Monika Laudahn (SMF), Colin McCarthy (BMNH), Malgo-                                                Go east: phylogeographies of Mauremys caspica and M. rivulata —
 ZooScripta/0250.pdf.txt:                                                                                                                                                dentata         Indonesia: Java                                      BMNH 1946.1.22.62   DQ444272   –          –          –          –      Historical museum specimen, collected by 1828.
 ZooScripta/0250.pdf.txt:                                                                                                                                                dentata         Malaysia: Borneo: Sarawak                            BMNH 1863.6.21.1    DQ444275   –          –          –          –      Historical museum specimen, collected by 1863.
-ZooScripta/0250.pdf.txt:                                                                                                                                                enigmatica      Indonesia: Java                                      NHMW 1188           AM931643   –          –          –          –      Historical museum specimen, collected by 1900
-ZooScripta/0250.pdf.txt:                                                                                                                                                enigmatica      Indonesia: Sumatra: Padang                           NHMW 9811           AM931644   –          –          –          –      Historical museum specimen, collected by 1901.
-ZooScripta/0250.pdf.txt:                                                                                                                                                gemeli              India: Assam: Jia Bhoroli River Region, street from     NHMW 37153    AM931656   –          –          –          –      Obtained from local villagers.
 ZooScripta/0250.pdf.txt:                                                                                                                                                oldhamii         Myanmar: Tanintharyi (Tenasserim): Mergui               BMNH 1947.3.5.63   DQ444274   –          –          –          –      Historical museum specimen, collected by 1856.
 ZooScripta/0250.pdf.txt:                                                                                                                                                oldhamii         Thai/Laotian border region: Luang Prabang Mts           BMNH 1947.3.4.26   DQ444273   –          –          –          –      Historical museum specimen, collected by 1862.
 ZooScripta/0319.pdf.txt:ITS sequences of T. japonica and T. formosana are identical                              (The Natural History Museum, London, UK, NHM
 ZooScripta/0210.pdf.txt:Morphological analysis                                                                          BMNH 2001.1.15.6830-6851 (2, C & S); R. daniconius: NRM
 ZooScripta/0210.pdf.txt:staining cartilage, Alizarin Red S for staining bone and                                        R. pauciperforata: BMNH 1982.3.29.87-97 (2, C & S);
 ZooScripta/0210.pdf.txt:London (BMNH).                                                                                  Cytochrome b. The result of Bayesian inference analysis of
-ZooScripta/0292.pdf.txt:Aspideretes gangeticus (Cuvier, 1825)                        Pakistan                                                    3401             NHMW 30265 : 5       AM495215
-ZooScripta/0292.pdf.txt:Aspideretes gangeticus (Cuvier, 1825)                        Pakistan                                                    3402             NHMW 30265 : 3       AM495216
-ZooScripta/0292.pdf.txt:Aspideretes gangeticus (Cuvier, 1825)                        Pakistan                                                    3403             NHMW 30265 : 2       AM495217
-ZooScripta/0292.pdf.txt:Aspideretes nigricans (Anderson, 1875)                       India: Assam: Gauhati: Kamakhya Temple Pond                 3541             NHMW 36996           AM495236
-ZooScripta/0292.pdf.txt:Abbreviations: MTD T = Museum of Zoology Dresden, Tissue Collection; NHMW = Natural History Museum Vienna.
 ZooScripta/0292.pdf.txt:                                                                                                                      BMNH 1884.3.25.1). —D. Aspideretes nigricans
 ZooScripta/0292.pdf.txt:                                                                                                                      London, BMNH 1946.1.22.11, holotype of
 ZooScripta/0132.pdf.txt:British Natural History Museum, London (BMNH), the                               GenBank only. The new samples together with some
@@ -6950,9 +6608,7 @@ ZooScripta/0204.pdf.txt:BMNH 97.0.1.37 — holotype*                            
 ZooScripta/0204.pdf.txt:BMNH 97.9.1.39                                                                                                                                    [39]†
 ZooScripta/0204.pdf.txt:BMNH 97.9.1.40                                                                                                                                    [37.6]†
 ZooScripta/0204.pdf.txt:BMNH 67.12.31†                                                                                [7.2]                               [7.8]           [37.8]
-ZooScripta/0204.pdf.txt:                                                                                                 5650, 194074, and NHMW 27454; the latter three specimens
 ZooScripta/0204.pdf.txt:type series held in the BMNH. Given that most of the type                                        of Deﬁnition of Clade 2). Hence, based on morphological
-ZooScripta/0204.pdf.txt:within the type series is NHMW 27454, a ﬂuid preserved                                           tion of M. manavi, Thomas (1906) mentions ‘Fur of medium
 ZooScripta/0204.pdf.txt:                                                                                                                                               BMNH 97.0.1.37 — holotype                                         14.0                7.2                  4.1               3.1               7.2                     7.2                    6.5                  9.6
 ZooScripta/0204.pdf.txt:                                                                                                                                               BMNH 97.9.1.39                                                    —                   7.4                  4.2               3.2               6.9                     —                      6.6                  9.7
 ZooScripta/0204.pdf.txt:                                                                                                                                               BMNH 97.9.1.40                                                    13.9                —                    4.0               3.2               6.9                     7.2                    6.5                  9.5
@@ -6963,7 +6619,6 @@ ZooScripta/0204.pdf.txt:BMNH 97.9.1.40                                          
 ZooScripta/0204.pdf.txt:BMNH 67.12.31                                                                                   6.2                        5.3                 3.6               5.2
 ZooScripta/0204.pdf.txt:The holotype of M. [minor] griveaudi (BMNH 67.1231), as                                          M. griveaudi tends to be relatively straight, in some cases with
 ZooScripta/0204.pdf.txt:Grande Comore: Grande Comore Island (BMNH 67.12.31,                                              15°32.289′S, 46°53.159′E, 100 m (FMNH 179308–179312);
-ZooScripta/0204.pdf.txt:Menagisy, 12°42.728′S, 49°28.411′E, 90 m (FMNH 178839–                                           47°31′E, 1000–1500 m (BMNH 97.9.1.37 – holotype; NHMW
 ZooScripta/0204.pdf.txt:172684, 172687–172688, 173274); along Antsahabe River,                                           (BMNH 97.9.1.39, 97.9.1.40, FMNH 5650, NHW 930,
 ZooScripta/0165.pdf.txt:  Cinclidium frontale                  BMNH 1930.7.16.66         GU358980        GU358717               GU358845       GU358917        GU358785              Vietnam, Tonkin
 ZooScripta/0165.pdf.txt:BMNH, The Natural History Museum, Tring; NMBV, National Museum, Bloemfontein; NRM, Swedish Museum of Natural History, Stockholm; RMNH, Naturalis, Leiden; ZMH,
@@ -7067,16 +6722,6 @@ ZooScripta/0201.pdf.txt:                                                        
 ZooScripta/0201.pdf.txt:                                                                                                                            Lampanella minima (Gmelin, 1791)                                   Bocas del Toro, Panama                                                  BMNH 20070370                               FJ606922                FJ606983
 ZooScripta/0201.pdf.txt:                                                                                                                            Zeacumantus diemenensis (Quoy & Gaimard, 1834)                     Emu Point Bay, Albany, Western Australia                                BMNH 20070461                               FJ606941                FJ607002
 ZooScripta/0201.pdf.txt:                                                                                                         Institutional abbreviations: AMS, Australian Museum, Sydney; BMNH, Natural History Museum, London; MNHN, Muse´um National d’Histoire Naturelle, Paris; MNZ, Museum of New Zealand Te Papa Tongarewa, Wellington; NSMT, National
-ZooScripta/0284.pdf.txt:Dresden, Tissue Collection; NHMW, Natural History Museum Vienna, Herpetological Collection; ZSI, Zoological Survey of India, Kolkata
-ZooScripta/0284.pdf.txt:Hardella thurjii indi                                                     Pakistan: Indus River System                       3150          NHMW 29289 : 6     AM495275
-ZooScripta/0284.pdf.txt:Hardella thurjii indi                                                     Pakistan: Indus River System                       3151          NHMW 29289 : 1     AM495277
-ZooScripta/0284.pdf.txt:Hardella thurjii indi                                                     Pakistan: Indus River System                       3152          NHMW 29289 : 3     AM495278
-ZooScripta/0284.pdf.txt:Hardella thurjii indi                                                     Pakistan: Indus River System                       3153          NHMW 29289 : 2     AM495279
-ZooScripta/0284.pdf.txt:Hardella thurjii indi                                                     Pakistan: Indus River System                       3154          NHMW 29289 : 4     AM495280
-ZooScripta/0284.pdf.txt:Pangshura smithii smithii                                                 Pakistan: Indus River System                       3147          NHMW 33310 : 3     AM495288
-ZooScripta/0284.pdf.txt:Pangshura tecta                                                           Pakistan: Indus River System                       3148          NHMW 33311 : 1     AM495301
-ZooScripta/0284.pdf.txt:Pangshura tentoria circumdata                                          Pakistan: Indus River System                      3144           NHMW 33312 : 1             AM495316
-ZooScripta/0284.pdf.txt:Pangshura tentoria circumdata                                          Pakistan: Indus River System                      3145           NHMW 33312 : 2             AM495317
 ZooScripta/0171.pdf.txt:Asyncorynidae       Asyncoryne                         ryniensis       Japan                                    EU876552        EU876578       GQ424289   KUNHM 2639
 ZooScripta/0171.pdf.txt:Corynidae           Coryne (now Stauridiosarsia)       nipponica       Japan, Seto Marine Station               GQ395316        EU448096       EU305530   KUNHM 2627
 ZooScripta/0171.pdf.txt:Corynidae           Coryne                             uchidai         Japan                                    GQ395319                       GQ424305   KUNHM 2809

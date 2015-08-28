@@ -1,36 +1,9 @@
-nature/html/nature11622.html.txt:Martin Overseas Based Biomedical Fellowship from the Australian NHMRC (575585);
-nature/html/nature14410.html.txt:National Health and Medical Research Council of Australia (NHMRC ID631701),
-nature/html/nature14410.html.txt:(NHMRC; ID400413, ID400281). The AOCS gratefully acknowledges additional
-nature/html/nature14410.html.txt:from the NHMRC (ID 310670, ID 628903) and the Cancer Institute of New South
-nature/html/nature13678.html.txt:Research Council of Australia (NHMRC) grant to P.D.C. and an Australian
-nature/html/nature13678.html.txt:Hall Foundation, P.D.N. by an Australian Postgraduate Award, G.J.L. by a NHMRC
-nature/html/nature13678.html.txt:Senior Research Fellowship and P.D.C. by a NHMRC Principal Research Fellowship.
-nature/html/nature11605.html.txt:the National Health and Medical Research Council of Australia (NHMRC) and the
-nature/html/nature11605.html.txt:A.W.P. by an NHMRC Senior Research Fellowship; M.J.M. by a NHMRC Principal
-nature/html/nature11605.html.txt:Research Fellowship; D.I.G. and D.P.F. were supported by NHMRC Senior Principal
-nature/html/nature11605.html.txt:Research Fellowships; J.R. was supported by an NHMRC Australia Fellowship.
-nature/html/nature09491.html.txt:(NHMRC) of Australia (M.J.M.). S.F.N. is supported by Ministry of Higher
-nature/html/nature09491.html.txt:NHMRC Peter Doherty Fellowship.
-nature/html/nature09518.html.txt:Fellow. I.V., F.C. and M.A.D. are NHMRC Career Development Fellows. K.B. is an
-nature/html/nature09518.html.txt:NHMRC C.J. Martin overseas training fellow. J.A.T. acknowledges the support of
-nature/html/nature09518.html.txt:an NHMRC Senior Principal Research Fellowship during the course of the work.
-nature/html/nature09518.html.txt:The authors thank the NHMRC, the ARC, the UK BBSRC and the Wellcome Trust for
-nature/html/nature10339.html.txt:work was supported by the Australian NHMRC and ARC.
-nature/html/nature11114.html.txt:research Council of Australia (NHMRC); Queensland Government; Cancer Council
-nature/html/nature11114.html.txt:was supported by the NHMRC. Additional support was obtained from
-nature/html/nature11822.html.txt:      &#x000B1; 2 s.d. c, NH meltwater (NHMW) fluxes12, in metres of global sea
-nature/html/nature11822.html.txt:&#x000B1; 2 s.d. c, NH meltwater (NHMW) fluxes12, in metres of global sea level
 nature/html/nature12960.html.txt:      populations are the Finnish HapMap, FINHM and POPRES. Population labels
 nature/html/nature12960.html.txt:      PCA of one of the ancient samples with the merged POPRES+FINHM sample,
 nature/html/nature12960.html.txt:Finnish HapMap, FINHM and POPRES. Population labels with labelling of ref. 12
-nature/html/nature12960.html.txt:fellowship (DBI-1103639) to M.D., the Australian NHMRC to R.A.S. and a
 nature/html/nature12960.html.txt:      PCA of one of the ancient samples with the merged POPRES+FINHM sample,
-nature/html/nature11781.html.txt:(NHMRC) Project grants 516729, 575539 and 1005896 and the Hazel and Pip Appel
-nature/html/nature11781.html.txt:Fund (to M.C.L.), NHMRC Independent Research Institutes Infrastructure Support
-nature/html/nature10501.html.txt:a NHMRC CJ Martin Postdoctoral Research Fellowship. M.Z. was supported by a
 nature/html/nature09693.html.txt:      systems: structures and vibrations of AcâPheâNHMe and its dimer.
 nature/html/nature12275.html.txt:individually noted2. Some NHM specimens listed in ref. 2 are from early 20th
-nature/html/nature13005.html.txt:and Medical Research Council (NHMRC) grants 389892, 496667, 613601, 1010374 and
 nature/html/nature13718.html.txt:      a, Holotype (LDNHMF2001) of Shenshou lui. b, Holotype (IVPP V16707A) of
 nature/html/nature13718.html.txt:      Xianshou linglong. c, Holotype specimen (BMNHC-PM003253) of Xianshou
 nature/html/nature13718.html.txt:      LDNHMF2001 and WGMV-001. g, Reconstruction of the foot of euharamiyidans,
@@ -69,11 +42,9 @@ nature/html/nature13718.html.txt:      songae (BMNHC-PM003253).
 nature/html/nature13718.html.txt:      a, Left lower dentition of Shenshou lui (LDNHMF2001) in lingual view. The
 nature/html/nature13718.html.txt:      Left P4&#x02013;M2 of Shenshou lui (LDNHMF2001), coated with ammonium
 nature/html/nature13718.html.txt:      a, The manus of Shenshou lui (LDNHMF2001). b, The pes of Shenshou lui
-nature/html/nature14348.html.txt:NHMRC Australia Fellowship (AF30).
 nature/html/nature11406.html.txt:FAPESP and CNPq. Measurements at the NHMFL High B/T and pulsed field facilities
 nature/html/nature11437.html.txt:      National High Magnetic Field Laboratory (NHMFL). The blue line represents
 nature/html/nature11437.html.txt:Laboratory (NHMFL). The blue line represents EPR frequencies as a function of
-nature/html/nature14102.html.txt:was supported by NHMRC Project Grants 631634 and 1068871, NIH R01 NS060129, and
 nature/html/nature13086.html.txt:   1. [Holotype_skull_of_Cotylocara_macei_(CCNHM-101),_including_cross-sections
 nature/html/nature13086.html.txt:      and_bone_density.]   Figure 1: Holotype skull of Cotylocara macei (CCNHM-
 nature/html/nature13086.html.txt:   3. [Holotype_skull_and_dentition_of_Cotylocara_macei_(CCNHM-101).]   Figure
@@ -108,10 +79,6 @@ nature/html/nature13086.html.txt:    * Extended Data Figure 4: Holotype of skull
 nature/html/nature13086.html.txt:      (CCNHM-101) that are likely to have been filled with air sinuses.
 nature/html/nature13086.html.txt:      bones in the holotype skull of Cotylocara macei (CCNHM-101) and the
 nature/html/nature13086.html.txt:      the holotype skull of Cotylocara macei (CCNHM-101), based on CT data.
-nature/html/nature09448.html.txt:Australia. A.W.P., T.T. and M.C.J.W. are supported by NHMRC Senior Research
-nature/html/nature09448.html.txt:Fellowships, and D.I.G. is supported by an NHMRC Principal Research Fellowship.
-nature/html/nature12948.html.txt:Research Council (NHMRC); the Victorian State Government through VCA funding of
-nature/html/nature12948.html.txt:Foundation/Cure Cancer Australia Fellowship, G.J.L. by a NHMRC Research
 nature/html/nature10291.html.txt:      History_(BMNH)_PM1343B.]   Figure 1: Holotype specimen of Juramaia
 nature/html/nature10291.html.txt:      sinensis, Beijing Museum of Natural History (BMNH) PM1343B.
 nature/html/nature10291.html.txt:   3. [Dental_and_mandibular_features_of_Juramaia_sinensis_(BMNH_PM1343B).]
@@ -121,16 +88,6 @@ nature/html/nature10291.html.txt:History (BMNH) PM1343B.
 nature/html/nature10291.html.txt:(BMNH)_PM1343B.]
 nature/html/nature10291.html.txt: Figure 2: Dental and mandibular features of Juramaia sinensis (BMNH PM1343B).
 nature/html/nature10291.html.txt:[Dental_and_mandibular_features_of_Juramaia_sinensis_(BMNH_PM1343B).]
-nature/html/nature12595.html.txt:and Medical Research Council (NHMRC) of Australia, with synthetic chemistry
-nature/html/nature12595.html.txt:A.C. and P.M.S. are Principal Research Fellows of the NHMRC; J.B.B. is a Senior
-nature/html/nature12595.html.txt:Research Fellow of the NHMRC; J.R.L. is a Career Development Awardee of the
-nature/html/nature12595.html.txt:NHMRC.
-nature/html/nature12065.html.txt:Australian NHMRC/RG Menzies Early Career Fellowship that is administered
-nature/html/nature10630.html.txt:Medical Research Council of Australia (NHMRC) research fellowships. M.H.L. is
-nature/html/nature10630.html.txt:Facility for the genotyping of the UK samples. AMFS was supported by the NHMRC
-nature/html/nature10630.html.txt:and C8197/A10123). A.E.C. is the recipient of an NHMRC public health
-nature/html/nature10630.html.txt:the NHMRC. We gratefully acknowledge all of the participants, the work and
-nature/html/nature12169.html.txt:4R00ES019597-03. C.A. and M.A. are supported by NHMRC grant APP1028372.
 nature/html/nature12973.html.txt:      filamentous structures in pterosaurs (BMNHC PH000988; c, d); and between
 nature/html/nature12973.html.txt:      non-maniraptoran dinosaurs (Beipiaosaurus; BMNHC PH000911; e, f) and the
 nature/html/nature12973.html.txt:  15. [Sampling_map_for_two_pterosaurs,_PMOL_AP00022_(top)_and_BMNHC_PH000988_
@@ -142,14 +99,8 @@ nature/html/nature12973.html.txt:dinosaurs (Beipiaosaurus; BMNHC PH000911; e, f)
 nature/html/nature12973.html.txt:Diego Museum of Natural History (P. Unitt) provided extant samples. BMNHC
 nature/html/nature12973.html.txt:      (top) and BMNHC PH000988 (bottom).
 nature/html/nature12973.html.txt:      region of a skeleton of the theropod dinosaur, Beipiaosaurus, BMNHC
-nature/html/nature14047.html.txt:and an ARC by Stem Cells Australia and to T.P. grants from NHMRC and ARC.
-nature/html/nature11547.html.txt:and Medical Research Council of Australia (NHMRC; 631701, 535903, 427601,
 nature/html/nature12424.html.txt:      troodontid (IGM 100/1126) (b), Archaeopteryx lithographica (BMNH 37001)
 nature/html/nature12424.html.txt:troodontid (IGM 100/1126) (b), Archaeopteryx lithographica (BMNH 37001) (c),
-nature/html/nature14169.html.txt:National Health and Medical Research Council of Australia (NHMRC; 631701,
-nature/html/nature10517.html.txt:Research Council of Australia (NHMRC), the Australian Research Council (ARC)
-nature/html/nature10517.html.txt:an NHMRC Peter Doherty Research Fellowship; D.A.P. is supported by a Medical
-nature/html/nature13983.html.txt:University of Technology Sydney, Australia. C.B.W. was supported by the NHMRC,
 nature/html/nature13825.html.txt:      clasping elements of ptyctodont Austroptyctodus gardineri, NHMUK PV
 nature/html/nature13825.html.txt:      of some specimens. h, i, NHMUK PV P73397; j, NHMUK PV P77402; k, NHMUK PV
 nature/html/nature13825.html.txt:      P77401; l, m, NHMUK PV P77405. Abbreviations: cls, dermal clasping
@@ -177,17 +128,8 @@ nature/html/nature11555.html.txt:and Bothriolepis sp. lower jaw NHMUK PV P.50898
 nature/html/nature11555.html.txt:(marginal) of Compagopiscis croucheri NHMUK PV P.50945 (d), marginal cusps on
 nature/html/nature11555.html.txt:pectoral fin of Bothriolepis sp. NHMUK PV P.50898 (e) and tooth-like cusps on
 nature/html/nature11555.html.txt:postbranchial lamina of Compagopiscis croucheri NHMUK PV P.5255.6 (f, g). Scale
-nature/html/nature09816.html.txt:Silke lab is supported by NHMRC grants 541901, 541902 and 602516. Work in the
-nature/html/nature09816.html.txt:Purcell lab is supported by the NHMRC (Senior Research Fellowships for A.W.P.
-nature/html/nature09816.html.txt:from the NHMRC and ARC. U.W. is funded by HGF/SBCancer. E.R. and T.L.H. are
 nature/html/nature10314.html.txt:Laboratory (NHMFL)21, 22. The system consists of a 12.5-T superconducting
-nature/html/nature11147.html.txt:National Health and Medical Research Council of Australia (NHMRC) and the
-nature/html/nature11147.html.txt:from Monash University. A.W.P. is supported by an NHMRC Senior Research
-nature/html/nature11147.html.txt:Fellowship; J.R. is supported by an NHMRC Australia Fellowship.
-nature/html/nature11048.html.txt:of Australia Project Grants (NHMRC 512354 and 632886), the Helmsley Charitable
 nature/html/nature12059.html.txt:D. Chapman, H.-J. Siber, B. Pabst, Z. Zhou and M. Norell; and the NHM (UK),
-nature/html/nature12735.html.txt:National Health and Medical Research Council (NHMRC) of Australia program grant
-nature/html/nature12735.html.txt:519461 (P.M.S. and A.C.), NHMRC Principal Research Fellowships (P.M.S. and
 nature/html/nature12392.html.txt:MINHMA/2004 (H7N2), MyBioSource) were commercially available. Anhui/
 nature/html/nature13622.html.txt:      a, NHMUK PV M92538, an isolated M. watsoni right lower molar (identified
 nature/html/nature13622.html.txt:      as m4) in lingual view. b, NHM NHMUK PV M9277, an isolated K.
@@ -203,40 +145,12 @@ nature/html/nature13622.html.txt:      Eo.D.45 with p4, m1, m3 and m4 in situ; e
 nature/html/nature13622.html.txt:      reconstruction of K. praecursoris: f, NHMUK PV M19766 (paratype C865 in
 nature/html/nature13622.html.txt:      ref. 13) with coronoid process and condylar region; g, NHMUK PV M19749
 nature/html/nature13622.html.txt:      i, NHMUK PV M92779 with alveoli for p1&#x02013;m4 (U73 in ref. 63). All
-nature/html/nature10251.html.txt:Scholarships, Australian National Health and Medical Research Council (NHMRC),
-nature/html/nature10980.html.txt:(NHMRC; project numbers 1009114 to G.S.L. and 472650 and 1004441 to M.A.F.),
-nature/html/nature10980.html.txt:Research Fellow of the NHMRC. A.P.R. was supported by a NHMRC Biomedical career
-nature/html/nature11864.html.txt:Australia (NHMRC); and the APGI investigators by the University of Verona and
-nature/html/nature12026.html.txt:Australian Government NHMRC Independent Research Institute Infrastructure
-nature/html/nature13160.html.txt:Research Council of Australia (NHMRC) supported this research; D.V.S. is a
-nature/html/nature13160.html.txt:D.P.F. was supported by an NHMRC Senior Principal Research Fellowship
-nature/html/nature13160.html.txt:(1027369); J.R. was supported by an NHMRC Australia Fellowship.
-nature/html/nature13555.html.txt:accordance with the recommendations of the Australian Government and the NHMRC
-nature/html/nature13555.html.txt:National Health and Medical Research Council (NHMRC) of Australia (1021560,
-nature/html/nature13555.html.txt:Infrastructure Support Scheme. T.F.d.K.-W. is an NHMRC Career Development
-nature/html/nature13555.html.txt:Fellow, and J.G.B. is a NHMRC Senior Research Fellow. B.E. and K.M. are the
-nature/html/nature11401.html.txt:Council (NHMRC grants 241944, 389875, 389891, 389892, 389938, 442915, 442981,
-nature/html/nature12524.html.txt:NHMRC IRIISS.
-nature/html/nature13950.html.txt:(NHMRC; Australia) and a Charles H. Revson Senior Fellowship (Charles H. Revson
-nature/html/nature12875.html.txt:Research Council (NHMRC) grant 1008021.
-nature/pdfs/nature05907.txt:Research Council (UK) and the Wellcome Trust; N.A.B. is supported by an NHMRC
-nature/pdfs/nature05907.txt:Peter Doherty Fellowship, D.I.G. by an NHMRC Principal Research Fellowship, and
-nature/pdfs/nature05907.txt:M.C.J.W. by an NHMRC Senior Research Fellowship. J.R. is supported by an ARC
-nature/pdfs/nature05907.txt:(ARC), the National Health and Medical Research Council of Australia (NHMRC),
-nature/pdfs/nature04559.txt:and by NHMRC grants to G.K.S., T.P.S. and A.O. Y.G. was supported by an
 nature/pdfs/nature02175.txt:head NHM P.59531. EH, epihyal; CH, ceratohyal; DR, cranial rib; MC, Meckel’s
-nature/pdfs/nature08104.txt:for sharing unpublished images and data. This work was supported by NHMRC, by
-nature/pdfs/nature08104.txt:a grant from the NIH (RO1 AI44008) and by infrastructure support from NHMRC
-nature/pdfs/nature08104.txt:an NHMRC Peter Doherty postdoctoral fellow, A.G.M. is an ARC Research fellow
 nature/pdfs/nature04105.txt:M.W.W. Part of the NMR studies was performed at the NHMFL at Florida with
-nature/pdfs/nature07108.txt:Holotype. NHMW 1974.1639.24 1 1974.1639.25 (part and counterpart), Naturhistorisches Museum, Vienna (NHMW). Total length is
 nature/pdfs/nature07108.txt:(MNHN 10878b/Bol87) and 200 mm (BMNH P.16138) in standard
-nature/pdfs/nature07108.txt:a, Heteronectes chaneti gen. et sp. nov., holotype, NHMW 1974.1639.25
-nature/pdfs/nature07108.txt:presented in right-lateral view. b, Counterpart, NHMW 1974.1639.24;
 nature/pdfs/nature07108.txt:altum, Natural History Museum, London (BMNH), BMNH P. 3940 (dextral
 nature/pdfs/nature01966.txt:the National Science Foundation, the State of Florida, and NHMFL Visiting Scientist and
 nature/pdfs/nature01788.txt:ELKPAVDGANFIVNHMRDQNNYNEEKDSWNRVARTVD
-nature/pdfs/nature06253.txt:Resource Facility for real-time RT–PCR. This work was supported by the NHMRC,
 nature/pdfs/nature06962.txt:Acknowledgements We acknowledge I. Chiorescu from NHMFL-FSU,
 nature/pdfs/nature06485.txt:NHMe
 nature/pdfs/nature02706.txt:The London specimen of Archaeopteryx BMNH 37001 is the only
@@ -251,9 +165,7 @@ nature/pdfs/nature02706.txt:Figure 5 Right inner ear of BMNH 37001. 3D model bas
 nature/pdfs/nature02706.txt:Figure 6 Comparative proportions of the inner ear of BMNH 37001, selected recent birds,
 nature/pdfs/nature02706.txt:The braincase of BMNH 37001 was scanned at the University of Texas at Austin’s
 nature/pdfs/nature02706.txt:criticism. NERC funded the project, and the NHM Palaeontology Department Research Fund
-nature/pdfs/nature03724.txt:Wellcome Trust, NHMRC, JDRF and NIH for grant support.
 nature/pdfs/nature04227.txt:first putative artefact in 2000; and P. Crabb (NHM photo unit) for photographs
-nature/pdfs/nature01101.txt:Research Foundation, the NHMRC, the Leukemia and Lymphoma Society (SCOR Center), the
 nature/pdfs/nature08176.txt:both sexes. This female element is also seen in BMNH P50934, one
 nature/pdfs/nature06332.txt:temperature sweep at a constant field of 45 T (at the NHMFL; blue curve)
 nature/pdfs/nature06332.txt:De´partement de physique and RQMP, Universite´ de Sherbrooke, Sherbrooke J1K 2R1, Canada. 2Laboratoire National des Champs Magne´tiques Pulse´s (LNCMP), UMR CNRS-UPSINSA 5147, Toulouse 31400, France. 3H. H. Wills Physics Laboratory, University of Bristol, Bristol BS8 1TL, UK. 4National High Magnetic Field Laboratory (NHMFL), Florida State
@@ -264,44 +176,23 @@ nature/pdfs/nature07058.txt:Acknowledgements Work at the NHMFL was supported by 
 nature/pdfs/nature07058.txt:E. Hellstrom, P. Lee, J. Jiang, and C. Tarantini at the NHMFL.
 nature/pdfs/nature01842.txt:NHMFL, Florida State University, Tallahassee, Florida 32310, USA
 nature/pdfs/nature01842.txt:the National Science Foundation, the State of Florida, and NHMFL Visiting Scientist and
-nature/pdfs/nature08229.txt:fellowships from the NHMRC (Canberra), NCI (NIH, CA 80188, CA 43540),
-nature/pdfs/nature08229.txt:Leukemia and Lymphoma Society of America (SCOR grant 7015), JDRF/NHMRC,
-nature/pdfs/nature06353.txt:M.S.R., an MRC studentship to S.E.M. and an Australian NHMRC Career
-nature/pdfs/nature02402.txt:T.W.M.), Gatsby Foundation (M.H.), NHMRC (T.W.M.) and by a UCL Graduate School
-nature/pdfs/nature08728.txt:from the National Institutes of Health (RO1 AI44008). J.A.B. is an NHMRC Peter
 nature/pdfs/nature01982.txt:smaller posterior teeth (equivalent to type specimen BMNH (British Museum, Natural History) P.6540) and that of branchial
 nature/pdfs/nature01982.txt:isolated tooth (BMNH P.6540), concluding that the diplodont
-nature/pdfs/nature04407.txt:by the NHMRC and the Miller Fellowship of WEHI. We also thank G. Kelly and
-nature/pdfs/nature07428.txt:from the National Health and Medical Research Council of Australia (NHMRC; to
-nature/pdfs/nature07428.txt:A.W.P. and J.C.P.), an NHMRC Project Grant (to T.B. and A.W.P.), a grant from the
-nature/pdfs/nature07428.txt:Federation Fellowship; T.B. by an NHMRC Career Development Award; J.C.P. by an
-nature/pdfs/nature07428.txt:NHMRC Australia Fellowship. We also thank C. J. Gregg for assistance with in vivo
 nature/pdfs/nature07676.txt:Department of Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China. 2NHMFL, Los Alamos National Laboratory, MS E536, Los Alamos, New Mexico 87545, USA. 3Beijing
 nature/pdfs/nature07676.txt:NHMFL-LANL is performed under the auspices of the National Science
 nature/pdfs/nature07676.txt:here are supported by the DOE BES program ‘Science in 100T’, the NHMFL-UCGP,
-nature/pdfs/nature08530.txt:supported by the Australian NHMRC, and the CRC for Asthma and Airways. A.N. is
 nature/pdfs/nature02291.txt:History Museum, London (NHM-Palaeontology, In. 38234), using
-nature/pdfs/nature08402.txt:This work was supported in part by the NHMRC (programme numbers 461221 and
-nature/pdfs/nature08402.txt:CA043540-18 and CA80188-6), the JDRF/NHMRC, the Association for
 nature/pdfs/nature07436.txt:Ptomacanthus anglicus specimen NHM (Natural History Museum,
 nature/pdfs/nature07436.txt:Figure 1 | Ptomacanthus anglicus NHM P 24919a. a, b, Interpretive sketch
-nature/pdfs/nature02266.txt:NHMRC of Australia and the Wellcome Trust.
-nature/pdfs/nature02442.txt:T.W.M.), Gatsby Foundation (M.H.), NHMRC (T.W.M.) and by a UCL Graduate School
 nature/pdfs/nature01888.txt:NHMFL, Florida State University, Tallahassee, Florida 32310, USA
-nature/pdfs/nature05354.txt:American Heart Foundation, H.J. and D.LeC. by an Australian NHMRC project
-nature/pdfs/nature05354.txt:grant and an NHMRC post-graduate scholarship, and C.L. and P.P. by the American
 nature/pdfs/nature04732.txt:Geballe Laboratory for Advanced Materials and Department of Applied Physics, Stanford University, Stanford, California 94305, USA. 2NHMFL, MS-E536, Los Alamos National
 nature/pdfs/nature04732.txt:performed at the NHMFL, Tallahassee, were supported by the NSF, the State of
 nature/pdfs/nature04032.txt:seawater supplemented with N and P (LNHM) with no added organic
 nature/pdfs/nature04032.txt:Cultivation. Cells were cultivated as described in ref. 9, on LNHM (low nutrient
 nature/pdfs/nature07856.txt:BMNH A100
-nature/pdfs/nature05124.txt:Australian National Health and Medical Research Council (NHMRC) (to A.W.P
-nature/pdfs/nature05124.txt:Federation Fellowship and T.B. by a NHMRC Peter Doherty Fellowship. C.M.T is
 nature/pdfs/nature02001.txt:smaller posterior teeth (equivalent to type specimen BMNH (British Museum, Natural History) P.6540) and that of branchial
 nature/pdfs/nature02001.txt:isolated tooth (BMNH P.6540), concluding that the diplodont
 nature/pdfs/nature03020.txt:images from the BMNH. Support for this research was provided by a National Science
-nature/pdfs/nature05149.txt:(NHMRC), the Australian Research Council (ARC), the Howard Hughes Medical
-nature/pdfs/nature05149.txt:Institute and the ARC/NHMRC Network for Parasitology.
 nature/pdfs/nature03474.txt:Holotype. EWNHM (Ewha Women’s University Natural History
 nature/pdfs/nature03036.txt:images from the BMNH. Support for this research was provided by a National Science
 nature/pdfs/nature02073.txt:Acknowledgements P.B.L. thanks the NHMFL for hospitality during the final drafting of this

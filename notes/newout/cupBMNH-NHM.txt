@@ -1497,8 +1497,6 @@ eest-rse/11174028098021740276.txt:and In 31260. Additional specimens BMNH I 7892
 eest-rse/11174028098021740276.txt:Belgium. An incomplete opisthosoma (BMNH In 39768) from
 eest-rse/11174028098021740276.txt:Figure 6 Graeophonus anglicus Pocock, 1911, detail of the pedipalps in the part (i.e. dorsal view) of BMNH In
 eest-rse/11174028098021740276.txt:We thank Andrew Ross (BMNH) for access to material in his
-eest-rse/1190363741033-49036372.txt:MU, University of Missouri, Columbia; NHMW, Naturhistorisches Museum Wien, Vienna; PEFO, Petriﬁed Forest National
-eest-rse/1190363741033-49036372.txt:presence of NHMW 1905/0007/0052, a fragmentary rostrum
 eest-rse/118779717102048779716.txt:History Museum, London (NHM), with catalogue numbers
 eest-rse/118779717102048779716.txt:NHM PI PO 12074–12110. Representative examples have been
 eest-rse/118779717102048779716.txt:preserved only as a thin veneer on the rock surface. NHM catalogue
@@ -1772,7 +1770,6 @@ eest-rse/119607391105029607386.txt:Phil Crabb, from the photography unit of the 
 parasitology/pdfs/118117443138038117441.txt:NHMO-Prot00012, NHMO-Prot00013 and NHMOProt00014, respectively. Nucleotide sequences of
 parasitology/pdfs/118488782139038488780.txt:Lecithodendrium linstowi (NHMUK 2011.5.25.1516), L. spathulatum, Prosthodendrium sp. (NHMUK
 parasitology/pdfs/118488782139038488780.txt:2011.5.25.17-18), Plagiorchis koreanus (NHMUK
-parasitology/pdfs/118507491139048507489.txt:Parasitology and the ARC/NHMRC Research Network for
 parasitology/pdfs/111217908134091217900.txt:History Museum, London (BMNH). Where a new
 parasitology/pdfs/111217908134091217900.txt:Type series. Holotype BMNH 2007.1.31.1 ; paratypes BMNH 2007.1.31.2–5.
 parasitology/pdfs/111217908134091217900.txt:Other museum material. BMNH 1997.7.17.10–11
@@ -1787,17 +1784,9 @@ parasitology/pdfs/117547972137057547964.txt:Norway, collection numbers NHMO-Prot
 parasitology/pdfs/117547972137057547964.txt:NHMO-Prot00010.
 parasitology/pdfs/117547972137057547964.txt:Norway, collection number NHMO-Prot00011.
 parasitology/pdfs/1116693112702166929.txt:and NHM code
-parasitology/pdfs/119722303142089722298.txt:supported by a NHMRC Senior Research
-parasitology/pdfs/119722303142089722298.txt:the NHMRC Independent Research Institutes
-parasitology/pdfs/118547465139068547463.txt:Research Council (NHMRC) of Australia; the Wellcome
-parasitology/pdfs/118547465139068547463.txt:NHMRC senior principal research fellow. A. J. Molehin
-parasitology/pdfs/115885576136085885568.txt:the NHMRC Code of Practice for the Care and Use
-parasitology/pdfs/115885576136085885568.txt:This work was supported by an NHMRC Project Grant
-parasitology/pdfs/115885576136085885568.txt:awarded to L.K. K. K. is an NHMRC RD Wright Research Fellow.
 parasitology/pdfs/118406208138138406206.txt:Specimen identiﬁcation: JRS = J.R. Stevens (Exeter, UK), NW = N. Wyatt (NHM, Lond., UK), JFW = J.F. Wallman (Wollongong, Australia), RDN = R.D. Newcomb (Auckland,
 parasitology/pdfs/118406208138138406206.txt:New Zealand), LD = L. Davies (Durham, UK), RT = R. Tellman (CSIRO, Australia), MJRH = M.J.R. Hall (NHM, Lond., UK), RLW = R.L. Wall (Bristol, UK), AMLAE = A.M.L.
 parasitology/pdfs/118406208138138406206.txt:Australia), M. Hall (NHM, Lond.), A.M.L. AzeredoEspin (Campinas), O. A. Fischer (Brno, Czech Rep.),
-parasitology/pdfs/119366132141139366108.txt:and NHMRC grants to DPM. DPM is a NHMRC Senior
 parasitology/pdfs/118266924138068266922.txt:NHMUK 2011.1 and NHMUK 2011.2, respectively).
 parasitology/pdfs/118266924138068266922.txt:London, Catalogue numbers: NHMUK 2011.1 and
 parasitology/pdfs/118266924138068266922.txt:NHMUK 2011.2, respectively.
@@ -1807,31 +1796,22 @@ parasitology/pdfs/11915621230791561.txt:44–45. B. forskalii, Pemba (NHM access
 parasitology/pdfs/1161638813402616384.txt:Smestad, Kjersti Kvalsvik and Bjørn A. Bjerke, NHM,
 parasitology/pdfs/1161638813402616384.txt:and Kjetil Olstad, NHM, University of Oslo and Jo Cable,
 parasitology/pdfs/1161638813402616384.txt:co-founded by the NRC and the NHM, UiO).
-parasitology/pdfs/119071747140149071744.txt:ASB is supported by an NHMRC PhD Scholarship and a
 parasitology/pdfs/1144602013301446019.txt:co-funded by the NRC and the NHM, University of Oslo,
 parasitology/pdfs/11247721200424771.txt:NHM for snail culture and exposure and Dr Cecelia
-parasitology/pdfs/1113786412506137863.txt:Medical Research Centre (NHMRC) is also gratefully
 parasitology/pdfs/1152483213305524828.txt:NHM, University of Oslo, Norway.
 parasitology/pdfs/116575072136136575064.txt:these data to that of Morgan et al. (2005), new PCR primers NHMMOR F&R were designed to obtain the necessary
 parasitology/pdfs/116575072136136575064.txt:NHMMOR F and NHMMOR R were designed
 parasitology/pdfs/1118242912705182427.txt:bullhead Cottus gobio (from the river Test : NHM
-parasitology/pdfs/117547960137057547952.txt:the ARC/NHMRC Research Network for Parasitology for
 parasitology/pdfs/111826044135041826036.txt:through Biomphalaria glabrata (a species well adapted for laboratory culture, strain NHM 2, originally
-parasitology/pdfs/1119722304142089722298.txt:supported by a NHMRC Senior Research
-parasitology/pdfs/1119722304142089722298.txt:the NHMRC Independent Research Institutes
 parasitology/pdfs/111421868134141421860.txt:Natural History Museum (NHM), London, for providing
 parasitology/pdfs/111421808134141421800.txt:no. 146515/420, co-funded by the NRC and the NHM,
 parasitology/pdfs/111045936134071045928.txt:the Natural History Museum, London (BMNH
 parasitology/pdfs/111045936134071045928.txt:assistance with the histology, and A. Ball (NHM) and C.P.
 parasitology/pdfs/111045936134071045928.txt:authors also thank C. Griﬃn (NHM) for assistance with
 parasitology/pdfs/111045936134071045928.txt:sequencing problematic samples and E. Sherlock (NHM)
-parasitology/pdfs/111852108135051852100.txt:NHMRC (Australia) (ICRG Award; WT071657MA) and
-parasitology/pdfs/116904401332680888.txt:Research Council and the NHMRC/ARC Network for
 parasitology/pdfs/117914007137137914005.txt:NHM Studentship and supported by the EU grant
 parasitology/pdfs/119180435141039180432.txt:collection number NHMO-Prot00007 (originally
 parasitology/pdfs/119180435141039180432.txt:collection number NHMO-Prot00009 (originally
-parasitology/pdfs/1133582313104335822.txt:Fellow (NHMRC Australia), L.P.M. holds a CQU
-parasitology/pdfs/1133582313104335822.txt:(UK), NHMRC (Australia) and the Sandler Foundation
 parasitology/pdfs/116112852136116112844.txt:no. 146515/420, co-funded by the NRC and the NHM,
 parasitology/pdfs/1145496913302454968.txt:at the Natural History Museum, London (BMNH).
 parasitology/pdfs/1145496913302454968.txt:Type-material : Holotype BMNH 2006.2.14.1 ;
@@ -1846,16 +1826,10 @@ parasitology/pdfs/118242222138058242220.txt:accession numbers BMNH 2011.2.2.1-18
 parasitology/pdfs/118242222138058242220.txt:BMNH 2011.2.2.19-20, and include those used for
 parasitology/pdfs/118242222138058242220.txt:(BMNH 6.14.25.44 and BMNH 6.14.25.45, respectively, Ex. Vulpes vulpes from Iraq) deposited in the
 parasitology/pdfs/118242222138058242220.txt:NHM-PWC. Of the two species, M. litteratus was far
-parasitology/pdfs/11765981220476597.txt:Council of Australia (NHMRC) and the UNDP\World
-parasitology/pdfs/11765981220476597.txt:recipient of a Howard Florey Centenary Research Fellowship from the NHMRC and C. K. V. was supported by
-parasitology/pdfs/11765981220476597.txt:a Dora Lush postgraduate scholarship from the NHMRC,
 parasitology/pdfs/118320613138088320611.txt:collection of infected snails in Senegal (NHM342 for
 parasitology/pdfs/118320613138088320611.txt:S. bovis) or São Tomé (NHM2657 for S. guineensis).
 parasitology/pdfs/118802111140018802109.txt:(MNHM), under Accession numbers reported in
-parasitology/pdfs/1114311212602143111.txt:Australia (NHMRC). A.W. received an Australian Postgraduate Award and a UQ Graduate School Research
-parasitology/pdfs/1114311212602143111.txt:a NHMRC Howard Florey Centenary Research Fellow.
 parasitology/pdfs/1136502213201364464.txt:ASA1 : 77 GSCKANALGANGPHLQGYVSRWRHYNHMLFL 105
-parasitology/pdfs/117829407137097829405.txt:and the Australian Research Council. MJM is a NHMRC
 parasitology/pdfs/115918144136095918136.txt:Schistosoma guineensis NHM 1970
 parasitology/pdfs/115918144136095918136.txt:Schistosoma guineensis NHM 2758
 parasitology/pdfs/115918144136095918136.txt:Schistosoma haematobium NHM 3572
@@ -1867,11 +1841,6 @@ parasitology/pdfs/117149992137027149984.txt:isolates for the two rDNA regions an
 parasitology/pdfs/117149992137027149984.txt:BMNH Accession numbers
 parasitology/pdfs/117149992137027149984.txt:Type-material : Holotype BMNH 2008.10.7.77 ;
 parasitology/pdfs/117149992137027149984.txt:paratypes BMNH 2008.10.7.78-83.
-parasitology/pdfs/111421844134141421836.txt:and Medical Research Council of Australia (NHMRC).
-parasitology/pdfs/111421844134141421836.txt:Award from the NHMRC. We gratefully acknowledge
-parasitology/pdfs/113260440136013260432.txt:This work was funded by NHMRC Program (S.H., K.M.)
-parasitology/pdfs/1169102813403691024.txt:of Australia (NHMRC). The work was supported by
-parasitology/pdfs/1169102813403691024.txt:grants from the NHMRC and The Sabin Vaccine
 parasitology/pdfs/1128701513004287014.txt:London (NHM ; accession nos.: Phyllobothrium
 parasitology/pdfs/1128701513004287014.txt:delphini, BMNH 2003.10.29.1-10 ; Monorygma grimaldii, BMNH 2003.10.29.11-20).
 parasitology/pdfs/1128701513004287014.txt:and deposited in the helminth collection of the NHM
@@ -1884,10 +1853,6 @@ parasitology/pdfs/111757320135031757312.txt:from a resistant (NHM 3017) B. glabr
 parasitology/pdfs/111757320135031757312.txt:In stark contrast, exposure of miracidia to haemolymph from susceptible (NHM 1742) snails caused a
 parasitology/pdfs/111757320135031757312.txt:from a susceptible B. glabrata strain (NHM 1742) ;
 parasitology/pdfs/111757320135031757312.txt:(NHM 3017). This diﬀerential eﬀect suggests that
-parasitology/pdfs/119137269141019137267.txt:D. J. C. is supported by an NHMRC postdoctoral training
-parasitology/pdfs/119542445142029542440.txt:(NHMRC) of Australia Senior Principal Research Fellow
-parasitology/pdfs/119542445142029542440.txt:and HY is a NHMRC Early Career Fellow. DPM
-parasitology/pdfs/119542445142029542440.txt:NHMRC for his studies on schistosomiasis.
 parasitology/pdfs/1180340813404803404.txt:(strain NHM2), at a dose of 6 miracidia per snail.
 parasitology/pdfs/1114355212603143551.txt:NHM-409 original isolate from Louisiana, USA.
 parasitology/pdfs/1114355212603143551.txt:NHM-3390, Village 10, Nigel delta, Mali.
@@ -1898,5 +1863,3 @@ parasitology/pdfs/1114355212603143551.txt:lab strain (NHM).
 parasitology/pdfs/1114355212603143551.txt:members of each genera (not Schistosoma) as determined from the literature (predominantly the NHM’s Host–Parasite
 parasitology/pdfs/1114355212603143551.txt:schistosome life-cycles, especially Mike Anderson, NHM
 parasitology/pdfs/1114355212603143551.txt:to the NHM’s Host–Parasite Database and help with
-parasitology/pdfs/1180337213404803368.txt:by the Wellcome Trust (UK), NHMRC (Australia) and
-parasitology/pdfs/117911323137127911321.txt:We would like to thank the ARC/NHMRC Research
