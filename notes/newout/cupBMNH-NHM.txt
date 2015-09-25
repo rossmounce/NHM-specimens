@@ -1767,93 +1767,93 @@ eest-rse/11120088494041200880.txt:the columella and in situ spores. NHM Lang col
 eest-rse/11120088494041200880.txt:in tetrads, although occasional singles are present (f, g) that reveal the distal apiculate sculpture and proximal radial ribs. NHM Lang collection slide
 eest-rse/11120088494041200880.txt:a collapsed inner part and an outer apiculate ‘layer’ marking the original position of the spore. NHM collections slide A3. Scale bar=12.5 m;
 eest-rse/119607391105029607386.txt:Phil Crabb, from the photography unit of the NHM Image
-parasitology/pdfs/118117443138038117441.txt:NHMO-Prot00012, NHMO-Prot00013 and NHMOProt00014, respectively. Nucleotide sequences of
-parasitology/pdfs/118488782139038488780.txt:Lecithodendrium linstowi (NHMUK 2011.5.25.1516), L. spathulatum, Prosthodendrium sp. (NHMUK
-parasitology/pdfs/118488782139038488780.txt:2011.5.25.17-18), Plagiorchis koreanus (NHMUK
-parasitology/pdfs/111217908134091217900.txt:History Museum, London (BMNH). Where a new
-parasitology/pdfs/111217908134091217900.txt:Type series. Holotype BMNH 2007.1.31.1 ; paratypes BMNH 2007.1.31.2–5.
-parasitology/pdfs/111217908134091217900.txt:Other museum material. BMNH 1997.7.17.10–11
-parasitology/pdfs/111217908134091217900.txt:Type series. BMNH 1997.16.1–4 (see Tinsley and
-parasitology/pdfs/118717106139128717104.txt:NHMUK 2012.3.14.1, and paratypes NHMUK
-parasitology/pdfs/1198868813405988680.txt:Llewellyn-Hughes and Claire Griﬃn of the NHM
-parasitology/pdfs/1198868813405988680.txt:(currently NCB 146515/420 ; co-funded by NHM, UiO,
-parasitology/pdfs/117547972137057547964.txt:number NHMO-Prot00006.
-parasitology/pdfs/117547972137057547964.txt:Norway, collection numbers NHMO-Prot00007 and
-parasitology/pdfs/117547972137057547964.txt:NHMO-Prot00008.
-parasitology/pdfs/117547972137057547964.txt:Norway, collection numbers NHMO-Prot00009 and
-parasitology/pdfs/117547972137057547964.txt:NHMO-Prot00010.
-parasitology/pdfs/117547972137057547964.txt:Norway, collection number NHMO-Prot00011.
+parasitology/pdfs/10.1017%2FS0031182010001265.txt:NHMO-Prot00012, NHMO-Prot00013 and NHMOProt00014, respectively. Nucleotide sequences of
+parasitology/pdfs/10.1017%2FS0031182011002046.txt:Lecithodendrium linstowi (NHMUK 2011.5.25.1516), L. spathulatum, Prosthodendrium sp. (NHMUK
+parasitology/pdfs/10.1017%2FS0031182011002046.txt:2011.5.25.17-18), Plagiorchis koreanus (NHMUK
+parasitology/pdfs/10.1017%2FS0031182007002648.txt:History Museum, London (BMNH). Where a new
+parasitology/pdfs/10.1017%2FS0031182007002648.txt:Type series. Holotype BMNH 2007.1.31.1 ; paratypes BMNH 2007.1.31.2–5.
+parasitology/pdfs/10.1017%2FS0031182007002648.txt:Other museum material. BMNH 1997.7.17.10–11
+parasitology/pdfs/10.1017%2FS0031182007002648.txt:Type series. BMNH 1997.16.1–4 (see Tinsley and
+parasitology/pdfs/10.1017%2FS0031182012000911.txt:NHMUK 2012.3.14.1, and paratypes NHMUK
+parasitology/pdfs/10.1017%2FS0031182006002010.txt:Llewellyn-Hughes and Claire Griﬃn of the NHM
+parasitology/pdfs/10.1017%2FS0031182006002010.txt:(currently NCB 146515/420 ; co-funded by NHM, UiO,
+parasitology/pdfs/10.1017%2FS0031182009991569.txt:number NHMO-Prot00006.
+parasitology/pdfs/10.1017%2FS0031182009991569.txt:Norway, collection numbers NHMO-Prot00007 and
+parasitology/pdfs/10.1017%2FS0031182009991569.txt:NHMO-Prot00008.
+parasitology/pdfs/10.1017%2FS0031182009991569.txt:Norway, collection numbers NHMO-Prot00009 and
+parasitology/pdfs/10.1017%2FS0031182009991569.txt:NHMO-Prot00010.
+parasitology/pdfs/10.1017%2FS0031182009991569.txt:Norway, collection number NHMO-Prot00011.
 parasitology/pdfs/1116693112702166929.txt:and NHM code
-parasitology/pdfs/118406208138138406206.txt:Specimen identiﬁcation: JRS = J.R. Stevens (Exeter, UK), NW = N. Wyatt (NHM, Lond., UK), JFW = J.F. Wallman (Wollongong, Australia), RDN = R.D. Newcomb (Auckland,
-parasitology/pdfs/118406208138138406206.txt:New Zealand), LD = L. Davies (Durham, UK), RT = R. Tellman (CSIRO, Australia), MJRH = M.J.R. Hall (NHM, Lond., UK), RLW = R.L. Wall (Bristol, UK), AMLAE = A.M.L.
-parasitology/pdfs/118406208138138406206.txt:Australia), M. Hall (NHM, Lond.), A.M.L. AzeredoEspin (Campinas), O. A. Fischer (Brno, Czech Rep.),
-parasitology/pdfs/118266924138068266922.txt:NHMUK 2011.1 and NHMUK 2011.2, respectively).
-parasitology/pdfs/118266924138068266922.txt:London, Catalogue numbers: NHMUK 2011.1 and
-parasitology/pdfs/118266924138068266922.txt:NHMUK 2011.2, respectively.
-parasitology/pdfs/117848370137107848368.txt:London (NHM) (M. congolensis – 3 paratypes, no.
+parasitology/pdfs/10.1017%2FS0031182011001089.txt:Specimen identiﬁcation: JRS = J.R. Stevens (Exeter, UK), NW = N. Wyatt (NHM, Lond., UK), JFW = J.F. Wallman (Wollongong, Australia), RDN = R.D. Newcomb (Auckland,
+parasitology/pdfs/10.1017%2FS0031182011001089.txt:New Zealand), LD = L. Davies (Durham, UK), RT = R. Tellman (CSIRO, Australia), MJRH = M.J.R. Hall (NHM, Lond., UK), RLW = R.L. Wall (Bristol, UK), AMLAE = A.M.L.
+parasitology/pdfs/10.1017%2FS0031182011001089.txt:Australia), M. Hall (NHM, Lond.), A.M.L. AzeredoEspin (Campinas), O. A. Fischer (Brno, Czech Rep.),
+parasitology/pdfs/10.1017%2FS0031182011000163.txt:NHMUK 2011.1 and NHMUK 2011.2, respectively).
+parasitology/pdfs/10.1017%2FS0031182011000163.txt:London, Catalogue numbers: NHMUK 2011.1 and
+parasitology/pdfs/10.1017%2FS0031182011000163.txt:NHMUK 2011.2, respectively.
+parasitology/pdfs/10.1017%2FS0031182010000302.txt:London (NHM) (M. congolensis – 3 paratypes, no.
 parasitology/pdfs/11915621230791561.txt:NHM\Aberdeen† accession no.
 parasitology/pdfs/11915621230791561.txt:44–45. B. forskalii, Pemba (NHM accession no. 1828) ; 46–47. B. forskalii, Pemba (NHM accession No. 1826) ; 48. B.
-parasitology/pdfs/1161638813402616384.txt:Smestad, Kjersti Kvalsvik and Bjørn A. Bjerke, NHM,
-parasitology/pdfs/1161638813402616384.txt:and Kjetil Olstad, NHM, University of Oslo and Jo Cable,
-parasitology/pdfs/1161638813402616384.txt:co-founded by the NRC and the NHM, UiO).
-parasitology/pdfs/1144602013301446019.txt:co-funded by the NRC and the NHM, University of Oslo,
+parasitology/pdfs/10.1017%2FS0031182006001223.txt:Smestad, Kjersti Kvalsvik and Bjørn A. Bjerke, NHM,
+parasitology/pdfs/10.1017%2FS0031182006001223.txt:and Kjetil Olstad, NHM, University of Oslo and Jo Cable,
+parasitology/pdfs/10.1017%2FS0031182006001223.txt:co-founded by the NRC and the NHM, UiO).
+parasitology/pdfs/10.1017%2FS0031182006009966.txt:co-funded by the NRC and the NHM, University of Oslo,
 parasitology/pdfs/11247721200424771.txt:NHM for snail culture and exposure and Dr Cecelia
-parasitology/pdfs/1152483213305524828.txt:NHM, University of Oslo, Norway.
-parasitology/pdfs/116575072136136575064.txt:these data to that of Morgan et al. (2005), new PCR primers NHMMOR F&R were designed to obtain the necessary
-parasitology/pdfs/116575072136136575064.txt:NHMMOR F and NHMMOR R were designed
+parasitology/pdfs/10.1017%2FS0031182006000655.txt:NHM, University of Oslo, Norway.
+parasitology/pdfs/10.1017%2FS003118200999031X.txt:these data to that of Morgan et al. (2005), new PCR primers NHMMOR F&R were designed to obtain the necessary
+parasitology/pdfs/10.1017%2FS003118200999031X.txt:NHMMOR F and NHMMOR R were designed
 parasitology/pdfs/1118242912705182427.txt:bullhead Cottus gobio (from the river Test : NHM
-parasitology/pdfs/111826044135041826036.txt:through Biomphalaria glabrata (a species well adapted for laboratory culture, strain NHM 2, originally
-parasitology/pdfs/111421868134141421860.txt:Natural History Museum (NHM), London, for providing
-parasitology/pdfs/111421808134141421800.txt:no. 146515/420, co-funded by the NRC and the NHM,
-parasitology/pdfs/111045936134071045928.txt:the Natural History Museum, London (BMNH
-parasitology/pdfs/111045936134071045928.txt:assistance with the histology, and A. Ball (NHM) and C.P.
-parasitology/pdfs/111045936134071045928.txt:authors also thank C. Griﬃn (NHM) for assistance with
-parasitology/pdfs/111045936134071045928.txt:sequencing problematic samples and E. Sherlock (NHM)
-parasitology/pdfs/117914007137137914005.txt:NHM Studentship and supported by the EU grant
-parasitology/pdfs/119180435141039180432.txt:collection number NHMO-Prot00007 (originally
-parasitology/pdfs/119180435141039180432.txt:collection number NHMO-Prot00009 (originally
-parasitology/pdfs/116112852136116112844.txt:no. 146515/420, co-funded by the NRC and the NHM,
-parasitology/pdfs/1145496913302454968.txt:at the Natural History Museum, London (BMNH).
-parasitology/pdfs/1145496913302454968.txt:Type-material : Holotype BMNH 2006.2.14.1 ;
-parasitology/pdfs/1145496913302454968.txt:paratypes BMNH 2006.2.14.2-17.
-parasitology/pdfs/1145496913302454968.txt:Paratypes (BMNH 2006.2.14.2-17). (A) Oral sucker.
-parasitology/pdfs/1145496913302454968.txt:Holotype (BMNH 2006.2.14.1), ventral view, with uterus
-parasitology/pdfs/1145496913302454968.txt:Paratypes (BMNH 2006.2.14.2-17). (A) Terminal
-parasitology/pdfs/112485104135122485096.txt:Harvard University and Ms Fiona Allan, NHM, for their
-parasitology/pdfs/118242222138058242220.txt:(NHM-PWC). In total, 35 specimens identiﬁed as
-parasitology/pdfs/118242222138058242220.txt:Specimens are deposited in the NHM-PWC under
-parasitology/pdfs/118242222138058242220.txt:accession numbers BMNH 2011.2.2.1-18 and
-parasitology/pdfs/118242222138058242220.txt:BMNH 2011.2.2.19-20, and include those used for
-parasitology/pdfs/118242222138058242220.txt:(BMNH 6.14.25.44 and BMNH 6.14.25.45, respectively, Ex. Vulpes vulpes from Iraq) deposited in the
-parasitology/pdfs/118242222138058242220.txt:NHM-PWC. Of the two species, M. litteratus was far
-parasitology/pdfs/118320613138088320611.txt:collection of infected snails in Senegal (NHM342 for
-parasitology/pdfs/118320613138088320611.txt:S. bovis) or São Tomé (NHM2657 for S. guineensis).
-parasitology/pdfs/118802111140018802109.txt:(MNHM), under Accession numbers reported in
-parasitology/pdfs/1136502213201364464.txt:ASA1 : 77 GSCKANALGANGPHLQGYVSRWRHYNHMLFL 105
-parasitology/pdfs/115918144136095918136.txt:Schistosoma guineensis NHM 1970
-parasitology/pdfs/115918144136095918136.txt:Schistosoma guineensis NHM 2758
-parasitology/pdfs/115918144136095918136.txt:Schistosoma haematobium NHM 3572
-parasitology/pdfs/115918144136095918136.txt:Schistosoma intercalatum NHM 3396
+parasitology/pdfs/10.1017%2FS0031182007004118.txt:through Biomphalaria glabrata (a species well adapted for laboratory culture, strain NHM 2, originally
+parasitology/pdfs/10.1017%2FS0031182007003411.txt:Natural History Museum (NHM), London, for providing
+parasitology/pdfs/10.1017%2FS0031182007003332.txt:no. 146515/420, co-funded by the NRC and the NHM,
+parasitology/pdfs/10.1017%2FS0031182007002491.txt:the Natural History Museum, London (BMNH
+parasitology/pdfs/10.1017%2FS0031182007002491.txt:assistance with the histology, and A. Ball (NHM) and C.P.
+parasitology/pdfs/10.1017%2FS0031182007002491.txt:authors also thank C. Griﬃn (NHM) for assistance with
+parasitology/pdfs/10.1017%2FS0031182007002491.txt:sequencing problematic samples and E. Sherlock (NHM)
+parasitology/pdfs/10.1017%2FS0031182010000788.txt:NHM Studentship and supported by the EU grant
+parasitology/pdfs/10.1017%2FS0031182013001819.txt:collection number NHMO-Prot00007 (originally
+parasitology/pdfs/10.1017%2FS0031182013001819.txt:collection number NHMO-Prot00009 (originally
+parasitology/pdfs/10.1017%2FS0031182009990680.txt:no. 146515/420, co-funded by the NRC and the NHM,
+parasitology/pdfs/10.1017%2FS0031182006000126.txt:at the Natural History Museum, London (BMNH).
+parasitology/pdfs/10.1017%2FS0031182006000126.txt:Type-material : Holotype BMNH 2006.2.14.1 ;
+parasitology/pdfs/10.1017%2FS0031182006000126.txt:paratypes BMNH 2006.2.14.2-17.
+parasitology/pdfs/10.1017%2FS0031182006000126.txt:Paratypes (BMNH 2006.2.14.2-17). (A) Oral sucker.
+parasitology/pdfs/10.1017%2FS0031182006000126.txt:Holotype (BMNH 2006.2.14.1), ventral view, with uterus
+parasitology/pdfs/10.1017%2FS0031182006000126.txt:Paratypes (BMNH 2006.2.14.2-17). (A) Terminal
+parasitology/pdfs/10.1017%2FS0031182008004836.txt:Harvard University and Ms Fiona Allan, NHM, for their
+parasitology/pdfs/10.1017%2FS0031182011000047.txt:(NHM-PWC). In total, 35 specimens identiﬁed as
+parasitology/pdfs/10.1017%2FS0031182011000047.txt:Specimens are deposited in the NHM-PWC under
+parasitology/pdfs/10.1017%2FS0031182011000047.txt:accession numbers BMNH 2011.2.2.1-18 and
+parasitology/pdfs/10.1017%2FS0031182011000047.txt:BMNH 2011.2.2.19-20, and include those used for
+parasitology/pdfs/10.1017%2FS0031182011000047.txt:(BMNH 6.14.25.44 and BMNH 6.14.25.45, respectively, Ex. Vulpes vulpes from Iraq) deposited in the
+parasitology/pdfs/10.1017%2FS0031182011000047.txt:NHM-PWC. Of the two species, M. litteratus was far
+parasitology/pdfs/10.1017%2FS0031182011000722.txt:collection of infected snails in Senegal (NHM342 for
+parasitology/pdfs/10.1017%2FS0031182011000722.txt:S. bovis) or São Tomé (NHM2657 for S. guineensis).
+parasitology/pdfs/10.1017%2FS0031182012001357.txt:(MNHM), under Accession numbers reported in
+parasitology/pdfs/10.1017%2FS0031182005008747.txt:ASA1 : 77 GSCKANALGANGPHLQGYVSRWRHYNHMLFL 105
+parasitology/pdfs/10.1017%2FS003118200900643X.txt:Schistosoma guineensis NHM 1970
+parasitology/pdfs/10.1017%2FS003118200900643X.txt:Schistosoma guineensis NHM 2758
+parasitology/pdfs/10.1017%2FS003118200900643X.txt:Schistosoma haematobium NHM 3572
+parasitology/pdfs/10.1017%2FS003118200900643X.txt:Schistosoma intercalatum NHM 3396
 parasitology/pdfs/11915441230791543.txt:Population (NHM no.)
 parasitology/pdfs/11915441230791543.txt:at the NHM. The study benefited from computer
-parasitology/pdfs/117149992137027149984.txt:History Museum, London (BMNH) (see Table 1
-parasitology/pdfs/117149992137027149984.txt:isolates for the two rDNA regions and EMBL/GenBank and BMNH Accession numbers for sequences
-parasitology/pdfs/117149992137027149984.txt:BMNH Accession numbers
-parasitology/pdfs/117149992137027149984.txt:Type-material : Holotype BMNH 2008.10.7.77 ;
-parasitology/pdfs/117149992137027149984.txt:paratypes BMNH 2008.10.7.78-83.
+parasitology/pdfs/10.1017%2FS0031182009991375.txt:History Museum, London (BMNH) (see Table 1
+parasitology/pdfs/10.1017%2FS0031182009991375.txt:isolates for the two rDNA regions and EMBL/GenBank and BMNH Accession numbers for sequences
+parasitology/pdfs/10.1017%2FS0031182009991375.txt:BMNH Accession numbers
+parasitology/pdfs/10.1017%2FS0031182009991375.txt:Type-material : Holotype BMNH 2008.10.7.77 ;
+parasitology/pdfs/10.1017%2FS0031182009991375.txt:paratypes BMNH 2008.10.7.78-83.
 parasitology/pdfs/1128701513004287014.txt:London (NHM ; accession nos.: Phyllobothrium
 parasitology/pdfs/1128701513004287014.txt:delphini, BMNH 2003.10.29.1-10 ; Monorygma grimaldii, BMNH 2003.10.29.11-20).
 parasitology/pdfs/1128701513004287014.txt:and deposited in the helminth collection of the NHM
 parasitology/pdfs/1128701513004287014.txt:(Accession nos. BMNH 2004.8.18.6-21). gDNA was
-parasitology/pdfs/119137260141019137258.txt:(B) Myr-CoA or NHM from co-crystal structures with diﬀerent NMTs; 4A95: NHM in PvNMT, green; 2WUU:
-parasitology/pdfs/119137260141019137258.txt:NHM in LdNMT, cyan; 2P6E: Myr-CoA in ScNMT, yellow; 1IIC: Myr-CoA in ScNMT, purple; 3IWE: Myr-CoA
-parasitology/pdfs/111757320135031757312.txt:Resistant (NHM accession number 3017, derived
-parasitology/pdfs/111757320135031757312.txt:from BS 90 (Paraense and Correa, 1963)) and susceptible (NHM accession number 1742) B. glabrata
-parasitology/pdfs/111757320135031757312.txt:from a resistant (NHM 3017) B. glabrata strain had
-parasitology/pdfs/111757320135031757312.txt:In stark contrast, exposure of miracidia to haemolymph from susceptible (NHM 1742) snails caused a
-parasitology/pdfs/111757320135031757312.txt:from a susceptible B. glabrata strain (NHM 1742) ;
-parasitology/pdfs/111757320135031757312.txt:(NHM 3017). This diﬀerential eﬀect suggests that
-parasitology/pdfs/1180340813404803404.txt:(strain NHM2), at a dose of 6 miracidia per snail.
+parasitology/pdfs/10.1017%2FS0031182013000450.txt:(B) Myr-CoA or NHM from co-crystal structures with diﬀerent NMTs; 4A95: NHM in PvNMT, green; 2WUU:
+parasitology/pdfs/10.1017%2FS0031182013000450.txt:NHM in LdNMT, cyan; 2P6E: Myr-CoA in ScNMT, yellow; 1IIC: Myr-CoA in ScNMT, purple; 3IWE: Myr-CoA
+parasitology/pdfs/10.1017%2FS0031182007003964.txt:Resistant (NHM accession number 3017, derived
+parasitology/pdfs/10.1017%2FS0031182007003964.txt:from BS 90 (Paraense and Correa, 1963)) and susceptible (NHM accession number 1742) B. glabrata
+parasitology/pdfs/10.1017%2FS0031182007003964.txt:from a resistant (NHM 3017) B. glabrata strain had
+parasitology/pdfs/10.1017%2FS0031182007003964.txt:In stark contrast, exposure of miracidia to haemolymph from susceptible (NHM 1742) snails caused a
+parasitology/pdfs/10.1017%2FS0031182007003964.txt:from a susceptible B. glabrata strain (NHM 1742) ;
+parasitology/pdfs/10.1017%2FS0031182007003964.txt:(NHM 3017). This diﬀerential eﬀect suggests that
+parasitology/pdfs/10.1017%2FS0031182006001685.txt:(strain NHM2), at a dose of 6 miracidia per snail.
 parasitology/pdfs/1114355212603143551.txt:NHM-409 original isolate from Louisiana, USA.
 parasitology/pdfs/1114355212603143551.txt:NHM-3390, Village 10, Nigel delta, Mali.
 parasitology/pdfs/1114355212603143551.txt:NHM-3188, San Antonio, Sa˜o Tome´.
