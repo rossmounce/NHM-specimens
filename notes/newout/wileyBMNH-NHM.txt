@@ -1,41 +1,39 @@
 Putative Entity@NHM Data Portal Link@Article DOI Link@Journal@Context 
-RUB 17@@http://dx.doi.org/10.1111/j.1755-6724.2006.tb00265.x@Acta-Geologica-Sinica@Lesothosaurus (BMNH B 17) and Heterodonfosaurus 
-R9951@@http://dx.doi.org/10.1111/j.1755-6724.2007.tb00977.x@Acta-Geologica-Sinica@    Baryonyx walken    BMNHR9951  463   Barremian (-130-125)    Charig and Milner 1997
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@onidae sensu stricto (Feng et al. 2007; Gamble et al. 2008a b).    Academy of Sciences (CAS) 186290), — B. Rhoptropus afer (BMNH,
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@presented them here in the form of degrees  minutes, seconds.      17-22¢44.87¢¢E); BMNH 1988.427–428, Regenstein Mt., ca.
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@(2116Dd); SMF 65921–22  10 mi E Okahandja (2117Cc);  BMNH 1936.8.1.369, Satansplatz (24-52¢S, 17-33¢E); KAR-
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@lage  Namib Desert Park (2315Ca); TM 47125, Gobabeb  ASBURG DISTRICT: BMNH 1946.8.20.47, TM 3031–33
-@@http://dx.doi.org/10.1111/j.1463-6395.2012.00561.x@Acta-Zoologica@families are  in fact, poorly understood, and for the represen-      ral History Museum, London (Accession No.: BMNH
-@@http://dx.doi.org/10.1111/j.1463-6395.2012.00561.x@Acta-Zoologica@identified four ligament types (A–D) and three types of mar-         dorsal stream (Fig. 1  open arrows). One of the NHM speci-
-@@http://dx.doi.org/10.1111/j.0001-7272.2004.00165.x@Acta-Zoologica@‘watering pot’ and tube ‘lie external to the periostracum    London (NHM). 
-@@http://dx.doi.org/10.1111/j.0001-7272.2004.00165.x@Acta-Zoologica@the mechanism of tube formation. Since the entire body is    NHM (unregistered)  was also studied. Smith (1976) syno-
-@@http://dx.doi.org/10.1111/j.1463-6395.2003.00145.x@Acta-Zoologica@either lacking or misidentified and misplaced under genera      the syntypes in the BMNH  76 shells were examined and
-@@http://dx.doi.org/10.1111/j.1463-6395.2003.00145.x@Acta-Zoologica@       Type material Four syntypes (BMNH 1880.12.20.69–72); 
-@@http://dx.doi.org/10.1111/j.1463-6395.2003.00145.x@Acta-Zoologica@neritinoides (Smith 1880); - = syntypes  BMNH (1880). 12.20.69–     glia lying dorso-laterally near base of buccal mass, just out-,
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@and well adapted for this mode of feeding  specifically through    BMNH 2009.3.16. 16–24, 28 mm standard length (SL),
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@evolution  diversity, and ⁄ or functional relevance of the motor   nicus (Kamohara), BMNH 1987.1.23, one specimen
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@Wainwright and Friel 2000). However  in these studies, the   (Bleeker), two specimens, BMNH 2006.3.280, 16 and
-@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@ent families of the suborder.     one specimen  BMNH 1974.2.25, 29.0 mm, c&s. Monacan-
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@BSS 001/1947; 002/1947; Chelodina expansa QM J 47484; Chelodina longicollis BMNH 59125; SMF 70509; QM J73981; 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@MTKD 41108; MTKD41109; Chelodina oblonga BMNH 6412226; Chelus fimbriatus BSS 46/1957; 195/11; 005/1947; 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@BMNH 185; 91884; SMF 37146; ZMB 27364; MTKD12361; MTKD44445; Elseya dentata BMNH 76775-1977; ‘Elseya’ 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@latisternum BMNH 187/719258; Elseya novaeguinea MTKD42897; MTKD44468; Emydura krefftii MTKD17725; Emydura 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@cf. macquarii QM J66658; BMNH 868265; MTKD42439; Emydura subglobosa MTKD42433; MTKD40797; MTKD44453; 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@Emydura victoriae QM J78095; MTKD42436; MTKD42435; Hydromedusa maximiliani BMNH 1901.7299; Hydromedusa 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@tectifera BSS 190/1911; Phrynops geoffroanus NRM unregistered; Phrynops hilarii BMNH 833101; SMF 8010; 45471; ZIUT 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@platycephala MTKD40657; pers. coll. M. R. Sánchez-Villagra; Pelomedusidae: Pelomedusa subrufa BSS 785/1920; BMNH 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@77754; 10197/8231110; ZMB 15696; Pelusios gabonensis BMNH 1912.62738; Pelusios niger BSS 005/1939; Pelusios subniger 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@BSS 136/1938; BMNH 70551; ZMB 37558; Pelusios sp. BSS 021/1958; MTKD43354; Podocnemididae: Erymnochelys 
-@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@madagascariensis BMNH 1873.1511; Podocnemis erythrocephala MTKD40660; Podocnemis expansa BMNH 204/1866; ZMB 
+RUB17@@http://dx.doi.org/10.1111/j.1755-6724.2006.tb00265.x@Acta-Geologica-Sinica@Lesothosaurus (BMNH B 17) and Heterodonfosaurus 
+R9951 463@@http://dx.doi.org/10.1111/j.1755-6724.2007.tb00977.x@Acta-Geologica-Sinica@    Baryonyx walken    BMNHR9951  463   Barremian (-130-125)    Charig and Milner 1997
+1937.12.3.60@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@  Academy of Sciences (CAS) 186290), — B. Rhoptropus afer (BMNH, 1937.12.3.60
+1988.427–428@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@presented them here in the form of degrees  minutes, seconds.      17-22¢44.87¢¢E); BMNH 1988.427–428, Regenstein Mt., ca.
+1936.8.1.369@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@(2116Dd); SMF 65921–22  10 mi E Okahandja (2117Cc);  BMNH 1936.8.1.369, Satansplatz (24-52¢S, 17-33¢E); KAR-
+1946.8.20.47@@http://dx.doi.org/10.1111/j.1463-6395.2011.00521.x@Acta-Zoologica@lage  Namib Desert Park (2315Ca); TM 47125, Gobabeb  ASBURG DISTRICT: BMNH 1946.8.20.47, TM 3031–33
+20100198@@http://dx.doi.org/10.1111/j.1463-6395.2012.00561.x@Acta-Zoologica@families are  in fact, poorly understood, and for the represen-      ral History Museum, London (Accession No.: BMNH
+unregistered@@http://dx.doi.org/10.1111/j.0001-7272.2004.00165.x@Acta-Zoologica@the mechanism of tube formation. Since the entire body is    NHM (unregistered)  was also studied. Smith (1976) syno-
+notspecified@@http://dx.doi.org/10.1046/j.1463-6395.2003.00145.x@Acta-Zoologica@either lacking or misidentified and misplaced under genera      the syntypes in the BMNH  76 shells were examined and
+1880.12.20.69–72@@http://dx.doi.org/10.1111/j.1463-6395.2003.00145.x@Acta-Zoologica@       Type material Four syntypes (BMNH 1880.12.20.69–72); 
+2009.3.16.16-24@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@and well adapted for this mode of feeding  specifically through    BMNH 2009.3.16. 16–24, 28 mm standard length (SL),
+1987.1.23@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@evolution  diversity, and ⁄ or functional relevance of the motor   nicus (Kamohara), BMNH 1987.1.23, one specimen
+2006.3.280@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@Wainwright and Friel 2000). However  in these studies, the   (Bleeker), two specimens, BMNH 2006.3.280, 16 and
+1974.2.25@@http://dx.doi.org/10.1111/j.1463-6395.2011.00509.x@Acta-Zoologica@ent families of the suborder.     one specimen  BMNH 1974.2.25, 29.0 mm, c&s. Monacan-
+59125@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@BSS 001/1947; 002/1947; Chelodina expansa QM J 47484; Chelodina longicollis BMNH 59125; SMF 70509; QM J73981; 
+6412226@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@MTKD 41108; MTKD41109; Chelodina oblonga BMNH 6412226; Chelus fimbriatus BSS 46/1957; 195/11; 005/1947; 
+76775-1977@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@BMNH 185; 91884; SMF 37146; ZMB 27364; MTKD12361; MTKD44445; Elseya dentata BMNH 76775-1977; ‘Elseya’ 
+187/719258@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@latisternum BMNH 187/719258; Elseya novaeguinea MTKD42897; MTKD44468; Emydura krefftii MTKD17725; Emydura 
+868265@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@cf. macquarii QM J66658; BMNH 868265; MTKD42439; Emydura subglobosa MTKD42433; MTKD40797; MTKD44453; 
+1901.7299@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@Emydura victoriae QM J78095; MTKD42436; MTKD42435; Hydromedusa maximiliani BMNH 1901.7299; Hydromedusa 
+833101@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@tectifera BSS 190/1911; Phrynops geoffroanus NRM unregistered; Phrynops hilarii BMNH 833101; SMF 8010; 45471; ZIUT 
+77754@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@platycephala MTKD40657; pers. coll. M. R. Sánchez-Villagra; Pelomedusidae: Pelomedusa subrufa BSS 785/1920; BMNH 77754 ; 10197/8231110
+10197/8231110@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@platycephala MTKD40657; pers. coll. M. R. Sánchez-Villagra; Pelomedusidae: Pelomedusa subrufa BSS 785/1920; BMNH 77754 ; 10197/8231110
+1912.62738@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@77754; 10197/8231110; ZMB 15696; Pelusios gabonensis BMNH 1912.62738; Pelusios niger BSS 005/1939; Pelusios subniger 
+70551@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@BSS 136/1938; BMNH 70551; ZMB 37558; Pelusios sp. BSS 021/1958; MTKD43354; Podocnemididae: Erymnochelys 
+204/1866@@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@madagascariensis BMNH 1873.1511; Podocnemis erythrocephala MTKD40660; Podocnemis expansa BMNH 204/1866; ZMB 
 @@http://dx.doi.org/10.1111/j.1463-6395.2007.00267.x@Acta-Zoologica@38142; Podocnemis unifilis MTKD43353; Podocnemis sp. BMNH unregistered. 
-@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Guo  P., Malhotra, A., Li, P. P., Pook, C. E. and Creer, S. 2007.    BMNH 1988.1055–56, AM 04. Cryptelytrops purpureomacula-,
-@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@  j.1439-0469.2009.00525.x  omaculatus  Luzon Is., Philippines: AFS 06.35, BMNH
-@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Gutberlet  R. L., Jr. 1998. The phylogenetic position of the Mexican         2002.26, BMNH 2002.31. Parias hageni, Malaysia: AM 01;
-@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Gutberlet  R. L., Jr and Harvey, M. B. 2004. The evolution of new    ippines: AFS 06.52, BMNH 2005.5, BMNH 2005.11. Parias
-@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@  (Eds): Venomous Reptiles of the Western Hemisphere  pp. 634–682.   rolepis, S. India: BMNH 1955.1.3.86–87. Popeia popeiorum,
-@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Werman  S. D. 1992. Phylogenetic relationships of Central and South  FMNH 217679, BMNH 1955.1.3.72–73. ‘Trimeresurus’ grac-,
-@@http://dx.doi.org/10.1111/j.1463-6395.2010.00490.x@Acta-Zoologica@tini and Tyler (2003; Fig. 1).  mens  BMNH 2006.3.280, 16–33 mm SL, c&s. Tripodich-
-@@http://dx.doi.org/10.1111/j.1463-6395.2010.00490.x@Acta-Zoologica@and cartilage following Taylor and Van Dyke (1985). For his-     men  BMNH 1976.6.3, 37 mm SL, c&s. Stephanolepis sp.
+1988.1055–56@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Guo  P., Malhotra, A., Li, P. P., Pook, C. E. and Creer, S. 2007.    BMNH 1988.1055–56, AM 04. Cryptelytrops purpureomacula-,
+2002.26@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@  j.1439-0469.2009.00525.x  omaculatus  Luzon Is., Philippines: AFS 06.35, BMNH 2002.26
+2002.31@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Gutberlet  R. L., Jr. 1998. The phylogenetic position of the Mexican         2002.26, BMNH 2002.31. Parias hageni, Malaysia: AM 01;
+2005.11@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Gutberlet  R. L., Jr and Harvey, M. B. 2004. The evolution of new    ippines: AFS 06.52, BMNH 2005.5, BMNH 2005.11. Parias
+1955.1.3.86–87@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@  (Eds): Venomous Reptiles of the Western Hemisphere  pp. 634–682.   rolepis, S. India: BMNH 1955.1.3.86–87. Popeia popeiorum,
+1955.1.3.72–73@@http://dx.doi.org/10.1111/j.1463-6395.2009.00413.x@Acta-Zoologica@Werman  S. D. 1992. Phylogenetic relationships of Central and South  FMNH 217679, BMNH 1955.1.3.72–73. ‘Trimeresurus’ grac-,
+2006.3.280@@http://dx.doi.org/10.1111/j.1463-6395.2010.00490.x@Acta-Zoologica@tini and Tyler (2003; Fig. 1).  mens  BMNH 2006.3.280, 16–33 mm SL, c&s. Tripodich-
+1976.6.3@@http://dx.doi.org/10.1111/j.1463-6395.2010.00490.x@Acta-Zoologica@and cartilage following Taylor and Van Dyke (1985). For his-     men  BMNH 1976.6.3, 37 mm SL, c&s. Stephanolepis sp.
 @@http://dx.doi.org/10.1111/j.1463-6395.2010.00490.x@Acta-Zoologica@Moronidae. Dicentrarchus labrax (Linnaeus)  BMNH
 @@http://dx.doi.org/10.1111/j.1463-6395.2010.00490.x@Acta-Zoologica@Triacanthodidae.      A. japonicus   (Kamohara)     BMNH      Parhypural (cartilage)    phu
 notspecified@@http://dx.doi.org/10.1111/cla.12008@Cladistics@Outgroup taxa      BRD21; BMNH (2 cast skulls and mandibles); PC coll (cast skull 
@@ -49,282 +47,282 @@ notspecified@@http://dx.doi.org/10.1111/cla.12008@Cladistics@Outgroup taxa      
 @@Cladistics/0101@Cladistics@of Hesperideae(R.G.Eusch raJ&ia males BMNH Rhopalocera Slide no. 18767). The 
 @@Cladistics/0382@Cladistics@Examined by the Author are Deposited   21. A. magellanicus Kuschel  1958. Chile. BMNH
 @@Cladistics/0382@Cladistics@AMNH and CMN.    BMNH and MHNS. 
-@@Cladistics/0382@Cladistics@     BMNH. 
-@@Cladistics/0382@Cladistics@  and Peru. CWOB  HAHC, MHNS, NZAC, and USNM.  AMPC and BMNH.
-@@Cladistics/0382@Cladistics@  CWOB  and DEI.    AMNH, BMNH, CADIC, CMN, CWOB, IPUM,
-@@Cladistics/0382@Cladistics@    53. A. nitidiventris (Hustache  1938). Bolivia. DEI.       73. A. rugirostris Champion, 1918. Chile. BMNH.,
-@@Cladistics/0382@Cladistics@       74. A. vulsus (Enderlein  1907). Argentina. BMNH
-@@Cladistics/0382@Cladistics@    57. A. sundrianus Morrone  1994c. Peru. BMNH,     76. F. suffodens (Enderlein, 1907). Argentina and
-@@Cladistics/0382@Cladistics@  CWOB  FIML, and MLP.       Chile. BMNH, CADIC, MACN, MLP, USNM, and
-@@Cladistics/0382@Cladistics@  Colombia. AMNH.   Chile. AMPC  BMNH, CADIC, CMN, CWOB, MACN
-@@Cladistics/0382@Cladistics@    63. A. microphthalmicus Anderson and Morrone     AMNH  BMNH, CMN, CWOB, FMNH, HAHC, MLP,
-@@Cladistics/0382@Cladistics@    64. A. minutus Anderson and Morrone 1996. Peru.    80. F. goliath Morrone  1992b. Argentina. BMNH.
-@@Cladistics/0382@Cladistics@  CMN and FMNH.       81. F. kuscheli Morrone  1992b. Argentina. BMNH.
-@@Cladistics/0382@Cladistics@  AMNH  BMNH, CMN, CWOB, FMNH, HAHC, MLP,   AMNH, BMNH, CMN, CWOB, FMNH, HAHC, MLP,
-@@Cladistics/0382@Cladistics@  Peru. CMN and FMNH.  BMNH. 
-@@Cladistics/0382@Cladistics@      67. A. abditus (Enderlein  1907). Argentina. BMNH.       84. G. angulipennis (Germain, 1895). Chile. MHNS.,
-@@Cladistics/0382@Cladistics@ 89. G. lugens (Germain  1895). Argentina and Chile.   BMNH.
-@@Cladistics/0382@Cladistics@ 90. G. ovatus (Boheman  1842). Chile. BMNH,   Listroderes Schoenherr,1826
-@@Cladistics/0382@Cladistics@ 92. G. planipennis (Blanchard  1851). Chile. BMNH,      106. L. angusticeps Blanchard, 1851. Chile. MHNS
-@@Cladistics/0382@Cladistics@MLP  and USNM.   Chile, Paraguay, and Uruguay. AMNH, BMNH
-@@Cladistics/0382@Cladistics@       Chile. AMNH  BMNH, CWOB, HAHC, MACN, and
-@@Cladistics/0382@Cladistics@Chile. BMNH  MHNS, and USNM.,
-@@Cladistics/0382@Cladistics@         114. L. cinerarius Blanchard  1851. Chile. BMNH
-@@Cladistics/0382@Cladistics@       Brazil  Paraguay, and Uruguay. AMNH, BMNH
-@@Cladistics/0382@Cladistics@Uruguay. BMNH  CBPC, and MNHN.,
-@@Cladistics/0382@Cladistics@  99. H. murinus (Germain  1896). Chile. BMNH
-@@Cladistics/0382@Cladistics@         117. L. curvipes Germain  1895. Chile. BMNH
-@@Cladistics/0382@Cladistics@Chile. AMNH  BMNH, CBPC, CWOB, HAHC,  and Uruguay. BMNH, CADIC, CWOB, IPUM, and,
-@@Cladistics/0382@Cladistics@  101. H. victus (Germain  1896). Chile. BMNH,   119. L. desertorum Germain, 1895. Chile. BMNH
-@@Cladistics/0382@Cladistics@    120. L. difficilis Germain  1895. Argentina, Chile, and     144. L. americanus LeConte, 1876. USA. BMNH.
-@@Cladistics/0382@Cladistics@  and Uruguay. BMNH  DZUP, FIML, GJWC, HAHC,    Honduras, Mexico, and USA. AMNH and BMNH.
-@@Cladistics/0382@Cladistics@    125. L. hoffmanni Germain  1895. Chile. BMNH,     Paraguay, and Uruguay. AMNH, MACN, and MLP.
-@@Cladistics/0382@Cladistics@  MLP.        USA. AMNH and BMNH. 
-@@Cladistics/0382@Cladistics@    127. L. leviculus Kuschel  1952. Argentina. BMNH.   153. L. blatchleyi Henderson, 1940. USA.,
+385@@Cladistics/0382@Cladistics@     BMNH. 
+385@@Cladistics/0382@Cladistics@  and Peru. CWOB  HAHC, MHNS, NZAC, and USNM.  AMPC and BMNH.
+385@@Cladistics/0382@Cladistics@  CWOB  and DEI.    AMNH, BMNH, CADIC, CMN, CWOB, IPUM,
+385@@Cladistics/0382@Cladistics@    53. A. nitidiventris (Hustache  1938). Bolivia. DEI.       73. A. rugirostris Champion, 1918. Chile. BMNH.,
+385@@Cladistics/0382@Cladistics@       74. A. vulsus (Enderlein  1907). Argentina. BMNH
+385@@Cladistics/0382@Cladistics@    57. A. sundrianus Morrone  1994c. Peru. BMNH,     76. F. suffodens (Enderlein, 1907). Argentina and
+385@@Cladistics/0382@Cladistics@  CWOB  FIML, and MLP.       Chile. BMNH, CADIC, MACN, MLP, USNM, and
+385@@Cladistics/0382@Cladistics@  Colombia. AMNH.   Chile. AMPC  BMNH, CADIC, CMN, CWOB, MACN
+385@@Cladistics/0382@Cladistics@    63. A. microphthalmicus Anderson and Morrone     AMNH  BMNH, CMN, CWOB, FMNH, HAHC, MLP,
+385@@Cladistics/0382@Cladistics@    64. A. minutus Anderson and Morrone 1996. Peru.    80. F. goliath Morrone  1992b. Argentina. BMNH.
+385@@Cladistics/0382@Cladistics@  CMN and FMNH.       81. F. kuscheli Morrone  1992b. Argentina. BMNH.
+385@@Cladistics/0382@Cladistics@  AMNH  BMNH, CMN, CWOB, FMNH, HAHC, MLP,   AMNH, BMNH, CMN, CWOB, FMNH, HAHC, MLP,
+385@@Cladistics/0382@Cladistics@  Peru. CMN and FMNH.  BMNH. 
+385@@Cladistics/0382@Cladistics@      67. A. abditus (Enderlein  1907). Argentina. BMNH.       84. G. angulipennis (Germain, 1895). Chile. MHNS.,
+385@@Cladistics/0382@Cladistics@ 89. G. lugens (Germain  1895). Argentina and Chile.   BMNH.
+385@@Cladistics/0382@Cladistics@ 90. G. ovatus (Boheman  1842). Chile. BMNH,   Listroderes Schoenherr,1826
+385@@Cladistics/0382@Cladistics@ 92. G. planipennis (Blanchard  1851). Chile. BMNH,      106. L. angusticeps Blanchard, 1851. Chile. MHNS
+385@@Cladistics/0382@Cladistics@MLP  and USNM.   Chile, Paraguay, and Uruguay. AMNH, BMNH
+385@@Cladistics/0382@Cladistics@       Chile. AMNH  BMNH, CWOB, HAHC, MACN, and
+385@@Cladistics/0382@Cladistics@Chile. BMNH  MHNS, and USNM.,
+385@@Cladistics/0382@Cladistics@         114. L. cinerarius Blanchard  1851. Chile. BMNH
+385@@Cladistics/0382@Cladistics@       Brazil  Paraguay, and Uruguay. AMNH, BMNH
+385@@Cladistics/0382@Cladistics@Uruguay. BMNH  CBPC, and MNHN.,
+385@@Cladistics/0382@Cladistics@  99. H. murinus (Germain  1896). Chile. BMNH
+385@@Cladistics/0382@Cladistics@         117. L. curvipes Germain  1895. Chile. BMNH
+385@@Cladistics/0382@Cladistics@Chile. AMNH  BMNH, CBPC, CWOB, HAHC,  and Uruguay. BMNH, CADIC, CWOB, IPUM, and,
+385@@Cladistics/0382@Cladistics@  101. H. victus (Germain  1896). Chile. BMNH,   119. L. desertorum Germain, 1895. Chile. BMNH
+385@@Cladistics/0382@Cladistics@    120. L. difficilis Germain  1895. Argentina, Chile, and     144. L. americanus LeConte, 1876. USA. BMNH.
+385@@Cladistics/0382@Cladistics@  and Uruguay. BMNH  DZUP, FIML, GJWC, HAHC,    Honduras, Mexico, and USA. AMNH and BMNH.
+385@@Cladistics/0382@Cladistics@    125. L. hoffmanni Germain  1895. Chile. BMNH,     Paraguay, and Uruguay. AMNH, MACN, and MLP.
+385@@Cladistics/0382@Cladistics@  MLP.        USA. AMNH and BMNH. 
+385@@Cladistics/0382@Cladistics@    127. L. leviculus Kuschel  1952. Argentina. BMNH.   153. L. blatchleyi Henderson, 1940. USA.,
 @@Cladistics/0382@Cladistics@    129. L. nodifer Boheman  1842. Chile and Peru.    Bolivia, Chile, and Uruguay. BMNH and MHNS.
 @@Cladistics/0382@Cladistics@  BMNH  CWOB, MACN, and MHNS.   155. L. borrichiae O’Brien, 1981. Mexico and USA.
 @@Cladistics/0382@Cladistics@  Uruguay. CWOB and MHNS.     and Uruguay. BMNH and MLP. 
 @@Cladistics/0382@Cladistics@  Peru. HAHC and MHNS.    160. L. callosus LeConte  1876. USA. BMNH and
 @@Cladistics/0382@Cladistics@  Chile. BMNH  CMN, CWOB, MHNS, and MLP.     Paraguay.
 @@Cladistics/0382@Cladistics@  HAHC  and MHNS.    BMNH and AMNH.
-@@Cladistics/0382@Cladistics@      Mexico  Nicaragua, and USA. BMNH and AMNH.,
+MCZ@@Cladistics/0382@Cladistics@      Mexico  Nicaragua, and USA. BMNH and AMNH.,
 @@Cladistics/0382@Cladistics@  Uruguay. BMNH and HAHC. 
-@@Cladistics/0382@Cladistics@  Uruguay. BMNH and MNHN. 
+CAS@@Cladistics/0382@Cladistics@  Uruguay. BMNH and MNHN. 
 @@Cladistics/0382@Cladistics@      143. L. alternatus (Dietz  1889). Canada and USA.       BMNH and AMNH.
 @@Cladistics/0382@Cladistics@Honduras  Mexico, Nicaragua, and Panama.   BMNH.
-@@Cladistics/0382@Cladistics@  175. L. distinctus Henderson  1940. USA. BMNH.      208. L. maculicollis (Kirby, 1837). Canada, Mexico
-@@Cladistics/0382@Cladistics@Uruguay.    USA. AMNH and BMNH. 
-@@Cladistics/0382@Cladistics@and BMNH.  Nicaragua. BMNH. 
+CAS@@Cladistics/0382@Cladistics@  175. L. distinctus Henderson  1940. USA. BMNH.      208. L. maculicollis (Kirby, 1837). Canada, Mexico
+CAS@@Cladistics/0382@Cladistics@Uruguay.    USA. AMNH and BMNH. 
+MCZ@@Cladistics/0382@Cladistics@and BMNH.  Nicaragua. BMNH. 
 @@Cladistics/0382@Cladistics@and USA. AMNH and BMNH  212. L. marshalli O’Brien  1981. USA.
 @@Cladistics/0382@Cladistics@  182. L. elegantulus O’Brien  1981. USA. CWOB.     Honduras, and Mexico. BMNH.,
-@@Cladistics/0382@Cladistics@BMNH and AMNH.       217. L. neocallosus O’Brien  1981. USA.
-@@Cladistics/0382@Cladistics@AMNH and BMNH.       219. L. nigropunctatus (Suffrian  1870). Cuba.
-@@Cladistics/0382@Cladistics@  189. L. grypidioides (Dietz  1889). Mexico and USA.       and USA. AMNH and BMNH.
-@@Cladistics/0382@Cladistics@  190. L. haldemani (Burke  1963). USA. BMNH.   225. L. pallidus O’Brien, 1981. USA.,
+). D.@@Cladistics/0382@Cladistics@BMNH and AMNH.       217. L. neocallosus O’Brien  1981. USA.
+1$@@Cladistics/0382@Cladistics@AMNH and BMNH.       219. L. nigropunctatus (Suffrian  1870). Cuba.
+1#@@Cladistics/0382@Cladistics@  189. L. grypidioides (Dietz  1889). Mexico and USA.       and USA. AMNH and BMNH.
+1$@@Cladistics/0382@Cladistics@  190. L. haldemani (Burke  1963). USA. BMNH.   225. L. pallidus O’Brien, 1981. USA.,
 @@Cladistics/0382@Cladistics@and USA.    BMNH. 
-@@Cladistics/0382@Cladistics@  194. L. hubbardi (LeConte  1876). USA. BMNH.  229. L. plumosiventris O’Brien, 1977. Mexico. BMNH.,
-@@Cladistics/0382@Cladistics@  200. L. laevis (Hustache  1926). Argentina, Bolivia,      and USA. AMNH and BMNH.
-@@Cladistics/0382@Cladistics@  203. L. lineolaticollis (Blanchard  1851). Argentina,     Mexico, and USA. AMNH and BMNH.
-@@Cladistics/0382@Cladistics@  BMNH.      CWOB  and MLP.
-@@Cladistics/0382@Cladistics@    244. L. sondondoanus (Voss  1954). Peru.    273. N. omissus (Kuschel, 1952). Ecuador. BMNH.,
-@@Cladistics/0382@Cladistics@  BMNH. 
-@@Cladistics/0382@Cladistics@    246. L. sparsus (Say  1831). USA. AMNH and BMNH.
-@@Cladistics/0382@Cladistics@  AMNH and BMNH.    Bolivia  Chile, and Uruguay. FIML, IADIZA, MACN
-@@Cladistics/0382@Cladistics@  and BMNH.         Philippius Germain 1895
-@@Cladistics/0382@Cladistics@  BMNH. 
-@@Cladistics/0382@Cladistics@    256. L. vitticollis (Kirby  1837). USA. AMNH.    AMNH, BMNH, and MLP.
-@@Cladistics/0382@Cladistics@    259. L. weiseri (Hustache  1926). Argentina and  BMNH, CWOB, and NZAC.
-@@Cladistics/0382@Cladistics@   260. M. bilbo Morrone  1994c. Ecuador. CNCI.      BMNH.
-@@Cladistics/0382@Cladistics@   266. M. peruvianus Morrone  1994c. Peru. FMNH.    Chile. ARPC, BMNH, CADIC, CBPC, CMN, CNCI,
-@@Cladistics/0382@Cladistics@ 288. P. pusillus Morrone  1994c. Chile. MHNS and      BMNH The Natural History Museum, London,
-@@Cladistics/0382@Cladistics@BMNH  CWOB, and NZAC.  (G. A. Samuelson),
-@@Cladistics/0382@Cladistics@BMNH  CMN, and MLP.    Científicas, Ushuaia, Tierra del Fuego, Argentina (A.
+)@@Cladistics/0382@Cladistics@  194. L. hubbardi (LeConte  1876). USA. BMNH.  229. L. plumosiventris O’Brien, 1977. Mexico. BMNH.,
+1$@@Cladistics/0382@Cladistics@  200. L. laevis (Hustache  1926). Argentina, Bolivia,      and USA. AMNH and BMNH.
+)@@Cladistics/0382@Cladistics@  203. L. lineolaticollis (Blanchard  1851). Argentina,     Mexico, and USA. AMNH and BMNH.
+)@@Cladistics/0382@Cladistics@  BMNH.      CWOB  and MLP.
+),@@Cladistics/0382@Cladistics@    244. L. sondondoanus (Voss  1954). Peru.    273. N. omissus (Kuschel, 1952). Ecuador. BMNH.,
+1#@@Cladistics/0382@Cladistics@  BMNH. 
+1#@@Cladistics/0382@Cladistics@    246. L. sparsus (Say  1831). USA. AMNH and BMNH.
+(P)@@Cladistics/0382@Cladistics@  AMNH and BMNH.    Bolivia  Chile, and Uruguay. FIML, IADIZA, MACN
+(L)@@Cladistics/0382@Cladistics@  and BMNH.         Philippius Germain 1895
+(L)@@Cladistics/0382@Cladistics@  BMNH. 
+(L@@Cladistics/0382@Cladistics@    256. L. vitticollis (Kirby  1837). USA. AMNH.    AMNH, BMNH, and MLP.
+,@@Cladistics/0382@Cladistics@    259. L. weiseri (Hustache  1926). Argentina and  BMNH, CWOB, and NZAC.
+(L@@Cladistics/0382@Cladistics@   260. M. bilbo Morrone  1994c. Ecuador. CNCI.      BMNH.
+(L@@Cladistics/0382@Cladistics@   266. M. peruvianus Morrone  1994c. Peru. FMNH.    Chile. ARPC, BMNH, CADIC, CBPC, CMN, CNCI,
+(L@@Cladistics/0382@Cladistics@ 288. P. pusillus Morrone  1994c. Chile. MHNS and      BMNH The Natural History Museum, London,
+(P)@@Cladistics/0382@Cladistics@BMNH  CWOB, and NZAC.  (G. A. Samuelson),
+(L@@Cladistics/0382@Cladistics@BMNH  CMN, and MLP.    Científicas, Ushuaia, Tierra del Fuego, Argentina (A.
 @@Cladistics/0382@Cladistics@Chile. AMNH  BMNH, CMN, MHNS, and MLP.   CWOB Charles W. O’Brien, private collection
-@@Cladistics/0382@Cladistics@Argentina and Chile. AMNH  BMNH, CMN, CNCI,    GJWC       Guillermo J. Wibmer, private collection
-@@Cladistics/0382@Cladistics@  298. T. dissimilis (Fairmaire  1885). Chile, BMNH,   collection, Ottawa, Canada
-@@Cladistics/0385@Cladistics@     Thecesterninae. Material of this taxon was not avail-    mycterus sp. [NHM]; Chlorophanus viridis (L.) [NHM]; 
-@@Cladistics/0385@Cladistics@  able for this study  but information on immature stages     C. sp. [NHM]; Cylydrorhinus farinosus (Burmeister)
+(P)@@Cladistics/0382@Cladistics@Argentina and Chile. AMNH  BMNH, CMN, CNCI,    GJWC       Guillermo J. Wibmer, private collection
+(L@@Cladistics/0382@Cladistics@  298. T. dissimilis (Fairmaire  1885). Chile, BMNH,   collection, Ottawa, Canada
+(P),@@Cladistics/0385@Cladistics@     Thecesterninae. Material of this taxon was not avail-    mycterus sp. [NHM]; Chlorophanus viridis (L.) [NHM]; 
+1905.12.30.164@@Cladistics/0385@Cladistics@  able for this study  but information on immature stages     C. sp. [NHM]; Cylydrorhinus farinosus (Burmeister)
 @@Cladistics/0385@Cladistics@     Amycterinae. Cubicorhynchus crenicollis (Water-    [NHM]; Diaprepes abbreviatus (L.) [NHM]; D. boxi Mar- 
-@@Cladistics/0385@Cladistics@  house) [BMM; NZAC]; Sosytelus pubescens (Lea) [BMM;   shall [NHM]; Epicaerus cognatus Sharp [NMNH]; 
-@@Cladistics/0385@Cladistics@     Aterpinae. Aegorhinus phaleratus Erichson [NHM];   [NMNH]; Hormorus undulatus (Uhler) [NMNH]; Lepto- 
-@@Cladistics/0385@Cladistics@  Anagotus helmsi Sharp [BMM; NZAC]; Anagotus occo-  mias mundali Marshall [NHM]; Malvinius 
-@@Cladistics/0385@Cladistics@  nori Broun [BMM; NZAC]; Chrysolopus spectabilis    compressiventris (Enderlein) [NHM]; Mesagroicus sp. 
-@@Cladistics/0385@Cladistics@  (Fabricius) [ATH]; Rhadinosomus acuminatus (Fabri-    [NMNH; NHM]; Naupactus leucoloma Boheman [AEM; 
-@@Cladistics/0385@Cladistics@  [NHM]; Gromilus exiguus (Brookes) [BMM; NZAC]; G.  sulphurifer Pascoe [AEM]; N tucumanensis Hustache 
+1889.4.7.1@@Cladistics/0385@Cladistics@  house) [BMM; NZAC]; Sosytelus pubescens (Lea) [BMM;   shall [NHM]; Epicaerus cognatus Sharp [NMNH]; 
+1935.9.9.36@@Cladistics/0385@Cladistics@     Aterpinae. Aegorhinus phaleratus Erichson [NHM];   [NMNH]; Hormorus undulatus (Uhler) [NMNH]; Lepto- 
+1952.1.38@@Cladistics/0385@Cladistics@  Anagotus helmsi Sharp [BMM; NZAC]; Anagotus occo-  mias mundali Marshall [NHM]; Malvinius 
+1858.4.21.243@@Cladistics/0385@Cladistics@  nori Broun [BMM; NZAC]; Chrysolopus spectabilis    compressiventris (Enderlein) [NHM]; Mesagroicus sp. 
+1872.4.6.105@@Cladistics/0385@Cladistics@  (Fabricius) [ATH]; Rhadinosomus acuminatus (Fabri-    [NMNH; NHM]; Naupactus leucoloma Boheman [AEM; 
+1858.4.21.243@@Cladistics/0385@Cladistics@  [NHM]; Gromilus exiguus (Brookes) [BMM; NZAC]; G.  sulphurifer Pascoe [AEM]; N tucumanensis Hustache 
 @@Cladistics/0385@Cladistics@  Enderlein [NHM]; L. bruchi Hustache [AEM]; L.      phus (Germar) [AEM; MLP]; Neliocarus faber (Herbst) 
-@@Cladistics/0385@Cladistics@  costirostris Schoenherr [AEM; MACN]; Listronotus   [NHM]; Oclandius cinereus (Blanchard) [BMM; NZAC]; 
-@@Cladistics/0385@Cladistics@  bonariensis (Kuschel) [MLP; NHM]; Rhigopsidius piercei      Otiorhynchus meridionalis Gyllenhal [NHM]; O. sulcatus 
-@@Cladistics/0385@Cladistics@  Heller [MLP]; Tristanodes sp. [RAC].        (Fabricius) [ATH]; Scythropus mustela (Herbst) [NHM]; 
-@@Cladistics/0385@Cladistics@  NHM]; G. scutellatus Gyllenhal [GHR; NHM].  Pachynotus globulicollis Redtenbacher [NHM]; Periteli- 
-@@Cladistics/0385@Cladistics@  (Guérin) [NHM]; P. plutus (Oberthür) [NHM]; P. proxi-       (Schaller) [NHM]; Phyllobius calcaratus (Fabricius) 
-@@Cladistics/0385@Cladistics@  mus (Faust); P. szentivanyi Marshall (BMM; NHM;    [NHM]; P. pomaceus Gyllenhal [NHM]; Platyaspistes 
-@@Cladistics/0385@Cladistics@     Entiminae: Ectemnorhinini. Material of this taxon  [NHM]; P. mollis (Stroem) [NHM]; Pororhynchus sp. 
-@@Cladistics/0385@Cladistics@  was not available for this study (larvae and pupae sent     [AEM]; Premnotrypes sp. [NHM]; Psalidium maxillosum 
-@@Cladistics/0385@Cladistics@  by S. L. Chown were lost in transit) but information on     (Fabricius) [NHM]; Rhyncogonus extraneus Perkins 
-@@Cladistics/0385@Cladistics@  (1970)  and Chown and Scholtz (1989, 1990).        asperatus (Bonsdorff) [NHM]; Strophosoma capitatum,
-@@Cladistics/0385@Cladistics@  [NHM]; Trichalophus didymus (LeConte) [NHM]; Trig-    ites incanus (L.); Trachyphloeus bifoveolatus (Beck) 
+1979.515*.@@Cladistics/0385@Cladistics@  costirostris Schoenherr [AEM; MACN]; Listronotus   [NHM]; Oclandius cinereus (Blanchard) [BMM; NZAC]; 
+1965.817.@@Cladistics/0385@Cladistics@  bonariensis (Kuschel) [MLP; NHM]; Rhigopsidius piercei      Otiorhynchus meridionalis Gyllenhal [NHM]; O. sulcatus 
+1969.496*@@Cladistics/0385@Cladistics@  Heller [MLP]; Tristanodes sp. [RAC].        (Fabricius) [ATH]; Scythropus mustela (Herbst) [NHM]; 
+1906.8.15.6@@Cladistics/0385@Cladistics@  NHM]; G. scutellatus Gyllenhal [GHR; NHM].  Pachynotus globulicollis Redtenbacher [NHM]; Periteli- 
+CAS-SU@@Cladistics/0385@Cladistics@  (Guérin) [NHM]; P. plutus (Oberthür) [NHM]; P. proxi-       (Schaller) [NHM]; Phyllobius calcaratus (Fabricius) 
+73@@Cladistics/0385@Cladistics@  mus (Faust); P. szentivanyi Marshall (BMM; NHM;    [NHM]; P. pomaceus Gyllenhal [NHM]; Platyaspistes 
+1974.80*.@@Cladistics/0385@Cladistics@     Entiminae: Ectemnorhinini. Material of this taxon  [NHM]; P. mollis (Stroem) [NHM]; Pororhynchus sp. 
+2000.178–2000.184.@@Cladistics/0385@Cladistics@  was not available for this study (larvae and pupae sent     [AEM]; Premnotrypes sp. [NHM]; Psalidium maxillosum 
+(0@@Cladistics/0385@Cladistics@  by S. L. Chown were lost in transit) but information on     (Fabricius) [NHM]; Rhyncogonus extraneus Perkins 
+1906.5.28.28).@@Cladistics/0385@Cladistics@  (1970)  and Chown and Scholtz (1989, 1990).        asperatus (Bonsdorff) [NHM]; Strophosoma capitatum,
+1906.5.28.28@@Cladistics/0385@Cladistics@  [NHM]; Trichalophus didymus (LeConte) [NHM]; Trig-    ites incanus (L.); Trachyphloeus bifoveolatus (Beck) 
 @@Cladistics/0385@Cladistics@  lyphulus ater LeConte [NMNH].       [NHM; NMNH]; T. scabriculus (L.) [NHM]; Trigonos- 
 @@Cladistics/0385@Cladistics@     Entiminae: Sitonini. Sitona cylindricollis (Fåhraeus)    cuta pilosa Motschulsky [NHM]. 
-@@Cladistics/0385@Cladistics@  [NHM]; S. crinitus (Herbst) [NHM]; S. flavescens (Mar- 
+60620@@Cladistics/0385@Cladistics@  [NHM]; S. crinitus (Herbst) [NHM]; S. flavescens (Mar- 
 @@Cladistics/0385@Cladistics@  sham) [NHM]; S. gressorius (Fabricius) [NHM]; S. 
-@@Cladistics/0385@Cladistics@  griseus (Fabricius) [NHM]; S. puncticollis Stephens 
-@@Cladistics/0385@Cladistics@  [NHM]; S. lineatus (L.) [NHM]; S. regensteinensis    (Brentinae)—Anisognathus csikii Bolkay [NHM]; 
+). @@Cladistics/0385@Cladistics@  griseus (Fabricius) [NHM]; S. puncticollis Stephens 
+).@@Cladistics/0385@Cladistics@  [NHM]; S. lineatus (L.) [NHM]; S. regensteinensis    (Brentinae)—Anisognathus csikii Bolkay [NHM]; 
 @@Cladistics/0385@Cladistics@  (Herbst) [NHM]; S. tibialis (Herbst) [NHM].        Arrhenodes minuta (Drury) [NHM]; Lasiorhynchus barbi- 
-@@Cladistics/0385@Cladistics@  [NMNH]; Amblyrhinus poricollis Boheman; Asynony-   (Fåhraeus) [NHM]; (Cyladinae) Cylas formicarius (Fab- 
-@@Cladistics/0385@Cladistics@  chus cervinus (Boheman) [AEM; NMNH]; Atrichonotus  ricius) [NHM]; (Apioninae)—Apion spp. [NHM]; 
-@@Cladistics/0385@Cladistics@  taeniatulus (Berg) [AEM; NMNH]; Barynotus obscrurs    Nanophyes robustus Pic [NHM]; N. terminalia Marshall 
-@@Cladistics/0385@Cladistics@  (Fabricius) [NHM]; Barypeithes mollicomus Ahrens   [NHM]. 
+8.8.4.4.4@@Cladistics/0385@Cladistics@  [NMNH]; Amblyrhinus poricollis Boheman; Asynony-   (Fåhraeus) [NHM]; (Cyladinae) Cylas formicarius (Fab- 
+1960.10.11.5.@@Cladistics/0385@Cladistics@  chus cervinus (Boheman) [AEM; NMNH]; Atrichonotus  ricius) [NHM]; (Apioninae)—Apion spp. [NHM]; 
+60.600,@@Cladistics/0385@Cladistics@  taeniatulus (Berg) [AEM; NMNH]; Barynotus obscrurs    Nanophyes robustus Pic [NHM]; N. terminalia Marshall 
+8.8.4.4.4.@@Cladistics/0385@Cladistics@  (Fabricius) [NHM]; Barypeithes mollicomus Ahrens   [NHM]. 
 @@Cladistics/0432@Cladistics@  from the Miocene rocks of Kenya colony. BMNH Fossil Mam. Africa   Hunt  R. M. (1989). Evolution of the aeluroid Carnivora: Significance
 @@Cladistics/0467@Cladistics@1. Trichobothrium Et2 located on ventral surface of    NY); BMNH  The Natural History Museum (London
-@@Cladistics/0467@Cladistics@are recognised in this bothriurid genus (Sissom  1990;        that were examined are deposited in the BMNH collec-
+22.9.1.12@@Cladistics/0467@Cladistics@are recognised in this bothriurid genus (Sissom  1990;        that were examined are deposited in the BMNH collec-
 @@Cladistics/0467@Cladistics@Urophonius iheringii Pocock 1893 and Urophonius granu-        ined in the BMNH collection. 
-@@Cladistics/0467@Cladistics@granti were examined in the BMNH collection. Speci-  lin 1896). The second of these is the type species of 
+7.7.7.2426,@@Cladistics/0467@Cladistics@granti were examined in the BMNH collection. Speci-  lin 1896). The second of these is the type species of 
 @@Cladistics/0467@Cladistics@   35. Oiclus Simon 1880: This monotypic diplocentrid        BMNH collections  of H. goodmani in the FMNH
-@@Cladistics/0467@Cladistics@ited in the AMNH  BMNH, MCZ, and MRAC collec-       NM, SAM, and TM collections.
-@@Cladistics/0467@Cladistics@recently reevaluated the genus and described a second       are deposited in the BMNH collection  of I. politus in
-@@Cladistics/0467@Cladistics@species from a single type specimen. Both species were      the BMNH  CAS, and MCZ collections.,
-@@Cladistics/0467@Cladistics@BMNH collection. The holotype of C. tirupati could not      senting the Indo-Pacific and Australasian species 
-@@Cladistics/0467@Cladistics@cluded from this analysis. Nevertheless  the exemplar       cariensis in the AMNH and BMNH collections, and of,
-@@Cladistics/0467@Cladistics@trus (Gigantometrus) swammerdami Simon 1872. The first        ined are deposited in the AMNH  BMNH, CAS, MCZ
-@@Cladistics/0467@Cladistics@(1981) suggested that the second was the most basal   BMNH  CAS, MCZ, MRAC, and NM collections, and
-@@Cladistics/0467@Cladistics@species of the genus  based on outgroup comparison    of P. dictator in the AMNH, BMNH, MCZ, and
-@@Cladistics/0467@Cladistics@1 Orobothriurus 1 Bothriurus 1 Timogenes 1 Vachonia):     Griswold (CAS); Michelle Hamer (NM); Paul Hillyard (BMNH); 
-@@Cladistics/0512@Cladistics@  57. Dorsal shape of the ventral arch (VA) anterior         BMNH  The Natural History Museum of London;
-@@Cladistics/0512@Cladistics@D. adriatica: Croatia: Rupa  N from Rijeka, 4 November      Azores: Pico, ?/?/?, 2么么1乆 (BMNH). D. vermicularis:
-@@Cladistics/0549@Cladistics@A. colchis (C. & R. Felder  1865)  1#, Brazil, Mato Grosso do Sul, Nioaque (BMNH); 1$, Brazil, Paran-a, Castro (USNM)
-@@Cladistics/0549@Cladistics@        (BMNH); 1#  1$, Brazil, Goi-as, Leopoldo de Bulh~    oes (SMF); 1#, Brazil, Paran-a, Castro
-@@Cladistics/0549@Cladistics@A. cinericia (Stichel  1910)    1#, Paraguay, Itap-  ua, Encarnac-ıon (BMNH); 1$, Paraguay (USNM); 1$, Argentina, Misiones
-@@Cladistics/0549@Cladistics@        No speciﬁc locality (BMNH) 
-@@Cladistics/0549@Cladistics@A.    sp. n. 2   1#  1$, Bolivia, Santa Cruz, Buena Vista (BMNH)
-@@Cladistics/0549@Cladistics@A. aurinia (Hewitson  1863)     1#, Brazil, Mato Grosso, Cuiab-a (BMNH); 1#, 1$, Brazil, Par-a, Santar-em (BMNH); 1$, Bolivia,
-@@Cladistics/0549@Cladistics@        Santa Cruz  Santa Cruz de la Sierra (BMNH)
-@@Cladistics/0549@Cladistics@A. indistincta (Lathy  1932)    1#, Argentina, Buenos Aires, San Fernando (USNM); 1$, Brazil, Paran-a, Iguacßu (BMNH)
-@@Cladistics/0549@Cladistics@S. sylvarum (Bates  1867)       1#, Peru, San Mart-ın, Chambirayacu, Yurimaguas (BMNH); 1$, Brazil (BMNH),
-@@Cladistics/0549@Cladistics@S. regulus (Fabricius  1793)    1#, 1$, Brazil, Esp-ırito Santo (BMNH); 1#, Brazil, Rio de Janeiro, Nova Friburgo (USNM); 1$
-@@Cladistics/0549@Cladistics@       (USNM); 2#  Brazil, Mato Grosso, Cuiab-a (BMNH); 1#, Brazil, Para-ıba, Jo~ao Pessoa (USNM);,
-@@Cladistics/0628@Cladistics@   Urodeta hibernella (Staudinger  1859)    Coleophoridae: Momphinae     Tunisia (M, F)      ZMUC (M, F), BMNH (P)
-@@Cladistics/0628@Cladistics@   Uzucha humeralis Walker  1864    Xyloryctidae: Xyloryctinae   Australia QLD (M, F, L, P)    ANIC (M, F, P), BMNH (L)
-@@Cladistics/0628@Cladistics@   Oecophora bractella (Linnaeus  1758)     Oecophoridae: Oecophorinae   Finland (M, F, P), England (L)      MZH (M, F, P), BMNH (L)
-@@Cladistics/0628@Cladistics@   Hofmannophila pseudospretella (Stainton  1849)  Oecophoridae: Oecophorinae   Finland (M, F), England (L, P)      MZH (M, F), BMNH (L, P)
-@@Cladistics/0628@Cladistics@   Epimarptis philocoma Meyrick  1914    Batrachedridae: Epimarptinae       India (M, F)       BMNH,
-@@Cladistics/0628@Cladistics@   Diurnea fagella (Denis & Schiﬀermu¨ller  1775)  Chimabachidae     Denmark (M, F), England (L, P)      MZH (M, F), BMNH (L, P)
-@@Cladistics/0628@Cladistics@   Spuleria ﬂavicaput (Haworth  1828)    Elachistidae: Agonoxeninae         Sweden (M, F), England (L, P)       MZH (M, F), BMNH (L, P)
-@@Cladistics/0628@Cladistics@   Aeolanthes siphonias Meyrick  1908    Elachistidae: Aeolanthinae         Nepal (M, F); India (L, P)  MZH (M, F), BMNH (L, P),
-@@Cladistics/0628@Cladistics@   Carcina quercana (Fabricius  1775)    Carcinidae        Denmark (M, F)     MZH (M, F), BMNH (P)
-@@Cladistics/0628@Cladistics@   Goniodoma limoniella Stainton  1884  Coleophoridae: Coleophorinae       France (M, F)   MZH (M, F) BMNH (L, P)
-@@Cladistics/0628@Cladistics@   Cosmopterix scribaiella Zeller  1850       Cosmopterigidae: Cosmopteriginae   England (L)  BMNH
-@@Cladistics/0628@Cladistics@   Vulcaniella rosmarinella (Walsingham  1891)        Cosmopterigidae: Cosmopteriginae   Spain (M, F, P)       MZH (M), ZMUC (F), BMNH (P)
-@@Cladistics/0628@Cladistics@    MZH (M  F), BMNH (L, P)
-@@Cladistics/0628@Cladistics@    MZH (M  F), BMNH (P),
-@@Cladistics/0665@Cladistics@    bird and reptile mitogenomic features. Gene 302, 43–52.  5257926, BMNH 1905.12.30.164 [holotype], COL
-@@Cladistics/0665@Cladistics@   525703–4  525707–8,525713,525726, BMNH
-@@Cladistics/0665@Cladistics@   BMNH 1889.4.7.1 [holotype]; Eudyptes robustus AMNH 
-@@Cladistics/0665@Cladistics@525987 703321, BMNH 1935.9.9.36, 1937.10.17.157
-@@Cladistics/0665@Cladistics@sclateri BMNH 1952.1.38; Eudyptula minor AMNH 5314  demersus AMNH 17477; Spheniscus magellanicus
-@@Cladistics/0667@Cladistics@of Photoplagios leuciscus (BMNH 1858.4.21.243) pre-    (Fig. 7A  B), whereas in Secutor the light organ is not,
-@@Cladistics/0667@Cladistics@Sparks  J.S., 2004. Molecular phylogeny and biogeography of the   Photoplagios elongatus: BMNH 1872.4.6.105, holo-
-@@Cladistics/0667@Cladistics@        Photoplagios leuciscus: BMNH 1858.4.21.243  holo-
-@@Cladistics/0679@Cladistics@Arthroleptis variabilis Matschie  1893: BMNH     (Dume´ril and Bibron, 1841): CAS 136117, 151133*
-@@Cladistics/0679@Cladistics@BMNH 1979.515*. CAS 103974–103975 143231,3279, 3290–3292,3294, 5854*,5856, 5860–5862,5865
-@@Cladistics/0679@Cladistics@1902.0417 1907.0213,1934.0024, 1934.0025. RMNH    BMNH 1965.817. CAS 156122*, 156123*, 156124–
-@@Cladistics/0679@Cladistics@BMNH 1969.496* 1984.377, 1984.38. LM 24. UTACV       84313*. Sooglossus sechellensisà (Boettger, 1896):
-@@Cladistics/0679@Cladistics@A-35324  A-35325, A-35329, A-35335, A-35341, A-       BMNH 1906.8.15.6, 1906.8.15.7. CAS 160084,160085
-@@Cladistics/0679@Cladistics@A-83319      A-83320,     A-84604–A-84615.    BMNH    CAS-SU 23364*, 23368*. Strongylopus grayii (Smith
-@@Cladistics/0679@Cladistics@35362. Petropedetes parkeri Amiet  1983: BMNH   73 ⁄ A.5.1.73*. Tomopterna tandyi Channing and Bogart
-@@Cladistics/0679@Cladistics@1909: BMNH 1974.80*. CAS 168512  168514*
-@@Cladistics/0679@Cladistics@Boycott  1989: BMNH 2000.178–2000.184. EVD [1*].   1. Presacral Vertebra I and Presacral Vertebra II:
-@@Cladistics/0679@Cladistics@Fig. 6. Vertebral column:     (A)    Petropedetes parkeri   (BMNH         (0) square  width approximately equal to length, min-,
-@@Cladistics/0679@Cladistics@Boulenger  1905 (BMNH 1906.5.28.28). (D) Phrynobatrachus kreﬀtii         Clarke,1981, p. 309, ﬁgs 9A, C). The ilial crests are well
-@@Cladistics/0679@Cladistics@Fig. 8. Pectoral girdle: (A) Petropedetes palmipes (BMNH 1906.5.28.28) illustrating nomenclature. (B) Phrynobatrachus kreﬀtii (ES 728). (C) 
-@@Cladistics/0683@Cladistics@FMNH 142816  142818. Pteralopex atrata: BMNH     et al. (2000): NC_002612; Pumo et al. (1998): AF061340;
-@@Cladistics/0690@Cladistics@History Museum  London (BMNH), Naturhistoriska  marked teres fossa (char. 80, Fig. 5), a pit for M. ﬂexor
-@@Cladistics/0690@Cladistics@  and Scapanulus oweni BMNH 60620. Not to scale. 
-@@Cladistics/0690@Cladistics@fossils with large amounts of missing information in a       Crabb (BMNH) for the stereo-pair photography. For 
-@@Cladistics/0690@Cladistics@D. Hills  L. Tomsett and P. Jenkins (BMNH). We thank     (Scalops aquaticus, L.) in relation to its fossorial habits. Ohio. J.,
-@@Cladistics/0690@Cladistics@Following Ziegler (1971)  Urotrichus and Dymecodon   on S. townsendii (BMNH).
-@@Cladistics/0690@Cladistics@(1971). Coding for Erinaceus follows Gould (2001).   is based on S. townsendii (BMNH unnumbered). 
-@@Cladistics/0690@Cladistics@plete names for the character states. This mistake is   BMNH 60.600  BMNH 8.8.4.4.4) and not as ‘‘0’’ as in
-@@Cladistics/0690@Cladistics@1 ¼ approximately   1 ⁄ 7th;     2 ¼ approximately    groove in BMNH 1960.10.11.5. 
-@@Cladistics/0690@Cladistics@       (skull only)  BMNH 1960.10.11.5, BMNH 60.600,
-@@Cladistics/0690@Cladistics@       BMNH 8.8.4.4.4. 
-@@Cladistics/0690@Cladistics@  Euroscaptor micrura: NRM-A591166  BMNH
-@@Cladistics/0690@Cladistics@       90.1.1.1  BMNH unnumbered.
-@@Cladistics/0690@Cladistics@  Scaptonyx fusicaudus: BMNH 22.9.1.12  MNHN
-@@Cladistics/0690@Cladistics@  Parascaptor leucura: NRM-A581815; BMNH 
-@@Cladistics/0690@Cladistics@       A593678  A580786, A590533; BMNH 7.7.7.2426,
-@@Cladistics/0690@Cladistics@  Scapanus townsendii: BMNH unnumbered 
-@@Cladistics/0690@Cladistics@  Scapanulus oweni: BMNH 60620  12.8.5.2 (type)
-@@Cladistics/0690@Cladistics@       A581532  A590531, BMNH 1958.3.11.5, 1958.3.11.6
-@@Cladistics/0690@Cladistics@       A581594  A604493, BMNH 67.45.2, BMNH 56.13.10.404
-@@Cladistics/0707@Cladistics@      Tellervini      Tellervo zoilus      M: BMNH 7117; F: BMNH 7118  BMNH 7126   6
-@@Cladistics/0707@Cladistics@      Tithoreini      Elzunia pavonii      M: BMNH 6624; F: BMNH 6625      1 
-@@Cladistics/0707@Cladistics@      Tithoreini      Tithorea harmonia    M: BMNH 6819  BMNH 6622, KWJH, BMNH 6820; F: BMNH 6623,1
-@@Cladistics/0707@Cladistics@    KWJH  BMNH 6818
-@@Cladistics/0707@Cladistics@      Tithoreini      Tithorea tarricina   M: BMNH 6812  BMNH 6814, BMNH 6816; F: BMNH 6813,1
-@@Cladistics/0707@Cladistics@    BMNH 6815  BMNH 6817
-@@Cladistics/0707@Cladistics@      Tithoreini      Aeria eurimedia      M: BMNH 6626  BMNH 7106; F: BMNH 7172, BMNH 7119  1,
-@@Cladistics/0707@Cladistics@      Tithoreini      Aeria olena    M: BMNH 7139; F: BMNH 7173  BMNH 7140   1
-@@Cladistics/0707@Cladistics@      Methonini       Methona megisto      M: BMNH 7161; F: BMNH 7160      1 
-@@Cladistics/0707@Cladistics@      Methonini       Methona themisto     M: BMNH 6629; F: BMNH 6642      1 
-@@Cladistics/0707@Cladistics@      Melinaeini      Athyrtis mechanitis  M: BMNH 6634  BMNH 6638; F: BMNH 6647   1
-@@Cladistics/0707@Cladistics@      Melinaeini      Eutresis hypereia    M: BMNH 6632  MGCL; F: BMNH 6645, MGCL, BMNH 7159       1
-@@Cladistics/0707@Cladistics@      Melinaeini      Melinaea ethra       M: BMNH 7141; F: BMNH 7142      1 
-@@Cladistics/0707@Cladistics@      Melinaeini      Melinaea ludovica    M: BMNH 6631; F: BMNH 6644      1 
-@@Cladistics/0707@Cladistics@      Melinaeini      Melinaea menophilus  M: MGCL  BMNH 7143, BMNH 7149, KWJH; F: BMNH 7144     1,2
-@@Cladistics/0707@Cladistics@      Melinaeini      Olyras crathis       M: BMNH 6633; F: BMNH 6646      1 
-@@Cladistics/0707@Cladistics@      Melinaeini      Paititia neglecta    M: BMNH 7133; F: BMNH 7132      1 
-@@Cladistics/0707@Cladistics@      Mechanitini     Forbestra equicola   M: BMNH 6637; F: BMNH 6650      3 
-@@Cladistics/0707@Cladistics@      Mechanitini     Forbestra olivencia  M: BMNH 7145; F: BMNH 7146      7 
-@@Cladistics/0707@Cladistics@      Mechanitini     Mechanitis lysimnia  M: BMNH 7150  KWJH; F: BMNH 7147, BMNH 7176, KWJH       1
-@@Cladistics/0707@Cladistics@      Mechanitini     Mechanitis polymnia  M: BMNH 6639; F: BMNH 6651      1 
-@@Cladistics/0707@Cladistics@      Mechanitini     Sais rosalia   M: BMNH 6636; F: BMNH 6649      8 
-@@Cladistics/0707@Cladistics@      Mechanitini     Scada karschina      M: BMNH 7151; F: BMNH 7175  BMNH 7152   1
-@@Cladistics/0707@Cladistics@      Mechanitini     Scada reckia   M: KWJH  KWJH, KWJH, KWJH, BMNH 6640;   1
-@@Cladistics/0707@Cladistics@    F: BMNH 7174  KWJH, BMNH 6652,
-@@Cladistics/0707@Cladistics@      Mechanitini     Thyridia psidii      M: BMNH 6635; F: BMNH 6648       1 
-@@Cladistics/0707@Cladistics@      New tribe       Athesis clearista    M: MGCL  BMNH 6627; F: BMNH 7112, MGCL   1,
-@@Cladistics/0707@Cladistics@      New tribe       Patricia dercyllidas         M: BMNH 7084  BMNH 7134, BMNH 7137,2,18
-@@Cladistics/0707@Cladistics@    BMNH 7138  BMNH 6628; F: BMNH 6641
-@@Cladistics/0707@Cladistics@      Napeogenini     Aremfoxia ferra      M: BMNH 6653; F: BMNH 7131       – 
-@@Cladistics/0707@Cladistics@      Napeogenini     Epityches eupompe    M: BMNH 6654; F: BMNH 6664  MGCL         1
-@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris xanthostola       M: BMNH 6655; F: BMNH 6665       1 
-@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris cantobrica        M: BMNH 6656; F: BMNH 6666       1 
-@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris euclea    M: KWJH  KWJH, KWJH, KWJH, BMNH 6662; F: BMNH 6673       1
-@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris moebiusi  M: BMNH 6661; F: BMNH 6671       – 
-@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris ninonia   M: BMNH 6660; F: BMNH 6670       1 
-@@Cladistics/0707@Cladistics@      Napeogenini     Hyalyris coeno       M: BMNH 6657  KWJH; F: BMNH 6667, BMNH 6672     –,
-@@Cladistics/0707@Cladistics@      Napeogenini     Hyalyris excelsa     M: BMNH 6659; F: BMNH 6669       1 
-@@Cladistics/0707@Cladistics@      Napeogenini     Hyalyris ocna  M: BMNH 6658  KWJH; F: BMNH 6668         2
-@@Cladistics/0707@Cladistics@      Napeogenini     Napeogenes apulia    M: BMNH 6349; F: KWJH 6676       2 
-@@Cladistics/0707@Cladistics@      Napeogenini     Napeogenes inachia   M: BMNH 6333; F: BMNH 6675  BMNH 6678       1,14,
-@@Cladistics/0707@Cladistics@      Napeogenini     Napeogenes rhezia    M: BMNH 6332; F: BMNH 6674  BMNH 6677    –
-@@Cladistics/0707@Cladistics@      Ithomiini       Ithomia arduinna     M: BMNH 7098; F: BMNH 7097       1 
-@@Cladistics/0707@Cladistics@      Ithomiini       Ithomia drymo  M: BMNH 6688  BMNH 7169; F: BMNH 6682, BMNH 6686   1,
-@@Cladistics/0707@Cladistics@      Ithomiini       Ithomia terra  M: BMNH 6687; F: BMNH 6681  BMNH 6685    2
-@@Cladistics/0707@Cladistics@      Ithomiini       Pagyris cymothoe     M: BMNH 6690; F: BMNH 6680       1 
-@@Cladistics/0707@Cladistics@      Ithomiini       Pagyris ulla   M: BMNH 6689; F: BMNH 6679       – 
-@@Cladistics/0707@Cladistics@      Ithomiini       Placidina euryanassa         M: BMNH 6630; F: BMNH 6643   1 15
-@@Cladistics/0707@Cladistics@      Oleriini        Hyposcada anchiala   M: BMNH 6806  MGCL, KWJH, BMNH 7231;     4
-@@Cladistics/0707@Cladistics@    F: BMNH 7122  MGCL
-@@Cladistics/0707@Cladistics@      Oleriini        Hyposcada taliata    M: BMNH 7107  KWJH OLERIA-39, BMNH 6810; F: KWJH OLERIA-50      –,
-@@Cladistics/0707@Cladistics@      Oleriini        Hyposcada virginiana         M: KWJH  BMNH 6805; F: MGCL     9
-@@Cladistics/0707@Cladistics@      Oleriini        Megoleria susiana    M: BMNH 7227  BMNH 6683; F: BMNH 7228, BMNH 6684  5,
-@@Cladistics/0707@Cladistics@      Oleriini        Oleria aegle   M: BMNH 5941  BMNH 6807, MGCL; F: MGCL, MGCL   1
-@@Cladistics/0707@Cladistics@      Oleriini        Oleria aquata  M: BMNH 6780  BMNH 7148; F: BMNH 6781   1
-@@Cladistics/0707@Cladistics@      Oleriini        Oleria astrea  M: AME  BMNH 6246, BMNH 6760, BMNH 6761, BMNH 6763,     –
-@@Cladistics/0707@Cladistics@    ZMHU  BMNH 6263; F: MGCL, BMNH 6264,
-@@Cladistics/0707@Cladistics@   Oleriini     Oleria canilla     M: BMNH 6270  MGCL; F: BMNH 6271, BMNH 7121    1,
-@@Cladistics/0707@Cladistics@   Oleriini     Oleria olerioides  M: KWJH OLERIA-15  BMNH 6808; F: KWJH OLERIA-47       –
-@@Cladistics/0707@Cladistics@   Oleriini     Oleria santineza   M: BMNH 6402  AMNH, AMNH, BMNH 6399, BMNH 6429, BMNH 6430,2,
-@@Cladistics/0707@Cladistics@   ZMHU  MGCL, BMNH 6809, KWJH OLERIA-20, KWJH OLERIA-25;
-@@Cladistics/0707@Cladistics@   F: BMNH 6403  AMNH, BMNH 6434, BMNH 6435, KWJH, KWJH OLERIA-43
-@@Cladistics/0707@Cladistics@   Oleriini     Oleria zelica      M: MGCL  BMNH 6691; F: MGCL  10
-@@Cladistics/0707@Cladistics@   Dircennini   Callithomia alexirrhoe     M: BMNH 6328  BMNH 7085; F: BMNH 6692  –
-@@Cladistics/0707@Cladistics@   Dircennini   Callithomia lenea  M: BMNH 6327; F: BMNH 6693    1 
-@@Cladistics/0707@Cladistics@   Dircennini   Ceratinia neso     M: BMNH 6776; F: BMNH 6700    1 
+60620@@Cladistics/0467@Cladistics@ited in the AMNH  BMNH, MCZ, and MRAC collec-       NM, SAM, and TM collections.
+1958.3.11.5@@Cladistics/0467@Cladistics@recently reevaluated the genus and described a second       are deposited in the BMNH collection  of I. politus in
+56.13.10.404@@Cladistics/0467@Cladistics@species from a single type specimen. Both species were      the BMNH  CAS, and MCZ collections.,
+7126@@Cladistics/0467@Cladistics@BMNH collection. The holotype of C. tirupati could not      senting the Indo-Pacific and Australasian species 
+6625@@Cladistics/0467@Cladistics@cluded from this analysis. Nevertheless  the exemplar       cariensis in the AMNH and BMNH collections, and of,
+6623,1@@Cladistics/0467@Cladistics@trus (Gigantometrus) swammerdami Simon 1872. The first        ined are deposited in the AMNH  BMNH, CAS, MCZ
+6818@@Cladistics/0467@Cladistics@(1981) suggested that the second was the most basal   BMNH  CAS, MCZ, MRAC, and NM collections, and
+6813,1@@Cladistics/0467@Cladistics@species of the genus  based on outgroup comparison    of P. dictator in the AMNH, BMNH, MCZ, and
+6817@@Cladistics/0467@Cladistics@1 Orobothriurus 1 Bothriurus 1 Timogenes 1 Vachonia):     Griswold (CAS); Michelle Hamer (NM); Paul Hillyard (BMNH); 
+7119@@Cladistics/0512@Cladistics@  57. Dorsal shape of the ventral arch (VA) anterior         BMNH  The Natural History Museum of London;
+7140@@Cladistics/0512@Cladistics@D. adriatica: Croatia: Rupa  N from Rijeka, 4 November      Azores: Pico, ?/?/?, 2么么1乆 (BMNH). D. vermicularis:
+7160@@Cladistics/0549@Cladistics@A. colchis (C. & R. Felder  1865)  1#, Brazil, Mato Grosso do Sul, Nioaque (BMNH); 1$, Brazil, Paran-a, Castro (USNM)
+6642@@Cladistics/0549@Cladistics@        (BMNH); 1#  1$, Brazil, Goi-as, Leopoldo de Bulh~    oes (SMF); 1#, Brazil, Paran-a, Castro
+6647@@Cladistics/0549@Cladistics@A. cinericia (Stichel  1910)    1#, Paraguay, Itap-  ua, Encarnac-ıon (BMNH); 1$, Paraguay (USNM); 1$, Argentina, Misiones
+7159@@Cladistics/0549@Cladistics@        No speciﬁc locality (BMNH) 
+7142@@Cladistics/0549@Cladistics@A.    sp. n. 2   1#  1$, Bolivia, Santa Cruz, Buena Vista (BMNH)
+6644@@Cladistics/0549@Cladistics@A. aurinia (Hewitson  1863)     1#, Brazil, Mato Grosso, Cuiab-a (BMNH); 1#, 1$, Brazil, Par-a, Santar-em (BMNH); 1$, Bolivia,
+7144@@Cladistics/0549@Cladistics@        Santa Cruz  Santa Cruz de la Sierra (BMNH)
+6646@@Cladistics/0549@Cladistics@A. indistincta (Lathy  1932)    1#, Argentina, Buenos Aires, San Fernando (USNM); 1$, Brazil, Paran-a, Iguacßu (BMNH)
+7132@@Cladistics/0549@Cladistics@S. sylvarum (Bates  1867)       1#, Peru, San Mart-ın, Chambirayacu, Yurimaguas (BMNH); 1$, Brazil (BMNH),
+6650@@Cladistics/0549@Cladistics@S. regulus (Fabricius  1793)    1#, 1$, Brazil, Esp-ırito Santo (BMNH); 1#, Brazil, Rio de Janeiro, Nova Friburgo (USNM); 1$
+7146@@Cladistics/0549@Cladistics@       (USNM); 2#  Brazil, Mato Grosso, Cuiab-a (BMNH); 1#, Brazil, Para-ıba, Jo~ao Pessoa (USNM);,
+7176@@Cladistics/0628@Cladistics@   Urodeta hibernella (Staudinger  1859)    Coleophoridae: Momphinae     Tunisia (M, F)      ZMUC (M, F), BMNH (P)
+6651@@Cladistics/0628@Cladistics@   Uzucha humeralis Walker  1864    Xyloryctidae: Xyloryctinae   Australia QLD (M, F, L, P)    ANIC (M, F, P), BMNH (L)
+6649@@Cladistics/0628@Cladistics@   Oecophora bractella (Linnaeus  1758)     Oecophoridae: Oecophorinae   Finland (M, F, P), England (L)      MZH (M, F, P), BMNH (L)
+7152@@Cladistics/0628@Cladistics@   Hofmannophila pseudospretella (Stainton  1849)  Oecophoridae: Oecophorinae   Finland (M, F), England (L, P)      MZH (M, F), BMNH (L, P)
+6640@@Cladistics/0628@Cladistics@   Epimarptis philocoma Meyrick  1914    Batrachedridae: Epimarptinae       India (M, F)       BMNH,
+6652,@@Cladistics/0628@Cladistics@   Diurnea fagella (Denis & Schiﬀermu¨ller  1775)  Chimabachidae     Denmark (M, F), England (L, P)      MZH (M, F), BMNH (L, P)
+6648@@Cladistics/0628@Cladistics@   Spuleria ﬂavicaput (Haworth  1828)    Elachistidae: Agonoxeninae         Sweden (M, F), England (L, P)       MZH (M, F), BMNH (L, P)
+7112@@Cladistics/0628@Cladistics@   Aeolanthes siphonias Meyrick  1908    Elachistidae: Aeolanthinae         Nepal (M, F); India (L, P)  MZH (M, F), BMNH (L, P),
+7137,2,18@@Cladistics/0628@Cladistics@   Carcina quercana (Fabricius  1775)    Carcinidae        Denmark (M, F)     MZH (M, F), BMNH (P)
+6641@@Cladistics/0628@Cladistics@   Goniodoma limoniella Stainton  1884  Coleophoridae: Coleophorinae       France (M, F)   MZH (M, F) BMNH (L, P)
+7131@@Cladistics/0628@Cladistics@   Cosmopterix scribaiella Zeller  1850       Cosmopterigidae: Cosmopteriginae   England (L)  BMNH
+6664@@Cladistics/0628@Cladistics@   Vulcaniella rosmarinella (Walsingham  1891)        Cosmopterigidae: Cosmopteriginae   Spain (M, F, P)       MZH (M), ZMUC (F), BMNH (P)
+6665@@Cladistics/0628@Cladistics@    MZH (M  F), BMNH (L, P)
+6666@@Cladistics/0628@Cladistics@    MZH (M  F), BMNH (P),
+6673@@Cladistics/0665@Cladistics@    bird and reptile mitogenomic features. Gene 302, 43–52.  5257926, BMNH 1905.12.30.164 [holotype], COL
+6671@@Cladistics/0665@Cladistics@   525703–4  525707–8,525713,525726, BMNH
+6670@@Cladistics/0665@Cladistics@   BMNH 1889.4.7.1 [holotype]; Eudyptes robustus AMNH 
+6672@@Cladistics/0665@Cladistics@525987 703321, BMNH 1935.9.9.36, 1937.10.17.157
+6669@@Cladistics/0665@Cladistics@sclateri BMNH 1952.1.38; Eudyptula minor AMNH 5314  demersus AMNH 17477; Spheniscus magellanicus
+6668@@Cladistics/0667@Cladistics@of Photoplagios leuciscus (BMNH 1858.4.21.243) pre-    (Fig. 7A  B), whereas in Secutor the light organ is not,
+6349@@Cladistics/0667@Cladistics@Sparks  J.S., 2004. Molecular phylogeny and biogeography of the   Photoplagios elongatus: BMNH 1872.4.6.105, holo-
+6678@@Cladistics/0667@Cladistics@        Photoplagios leuciscus: BMNH 1858.4.21.243  holo-
+6677@@Cladistics/0679@Cladistics@Arthroleptis variabilis Matschie  1893: BMNH     (Dume´ril and Bibron, 1841): CAS 136117, 151133*
+7097@@Cladistics/0679@Cladistics@BMNH 1979.515*. CAS 103974–103975 143231,3279, 3290–3292,3294, 5854*,5856, 5860–5862,5865
+6686@@Cladistics/0679@Cladistics@1902.0417 1907.0213,1934.0024, 1934.0025. RMNH    BMNH 1965.817. CAS 156122*, 156123*, 156124–
+6685@@Cladistics/0679@Cladistics@BMNH 1969.496* 1984.377, 1984.38. LM 24. UTACV       84313*. Sooglossus sechellensisà (Boettger, 1896):
+6680@@Cladistics/0679@Cladistics@A-35324  A-35325, A-35329, A-35335, A-35341, A-       BMNH 1906.8.15.6, 1906.8.15.7. CAS 160084,160085
+6679@@Cladistics/0679@Cladistics@A-83319      A-83320,     A-84604–A-84615.    BMNH    CAS-SU 23364*, 23368*. Strongylopus grayii (Smith
+6643@@Cladistics/0679@Cladistics@35362. Petropedetes parkeri Amiet  1983: BMNH   73 ⁄ A.5.1.73*. Tomopterna tandyi Channing and Bogart
+7231@@Cladistics/0679@Cladistics@1909: BMNH 1974.80*. CAS 168512  168514*
+7122@@Cladistics/0679@Cladistics@Boycott  1989: BMNH 2000.178–2000.184. EVD [1*].   1. Presacral Vertebra I and Presacral Vertebra II:
+6810@@Cladistics/0679@Cladistics@Fig. 6. Vertebral column:     (A)    Petropedetes parkeri   (BMNH         (0) square  width approximately equal to length, min-,
+6805@@Cladistics/0679@Cladistics@Boulenger  1905 (BMNH 1906.5.28.28). (D) Phrynobatrachus kreﬀtii         Clarke,1981, p. 309, ﬁgs 9A, C). The ilial crests are well
+6684@@Cladistics/0679@Cladistics@Fig. 8. Pectoral girdle: (A) Petropedetes palmipes (BMNH 1906.5.28.28) illustrating nomenclature. (B) Phrynobatrachus kreﬀtii (ES 728). (C) 
+6807@@Cladistics/0683@Cladistics@FMNH 142816  142818. Pteralopex atrata: BMNH     et al. (2000): NC_002612; Pumo et al. (1998): AF061340;
+6781@@Cladistics/0690@Cladistics@History Museum  London (BMNH), Naturhistoriska  marked teres fossa (char. 80, Fig. 5), a pit for M. ﬂexor
+6763@@Cladistics/0690@Cladistics@  and Scapanulus oweni BMNH 60620. Not to scale. 
+6264,@@Cladistics/0690@Cladistics@fossils with large amounts of missing information in a       Crabb (BMNH) for the stereo-pair photography. For 
+7121@@Cladistics/0690@Cladistics@D. Hills  L. Tomsett and P. Jenkins (BMNH). We thank     (Scalops aquaticus, L.) in relation to its fossorial habits. Ohio. J.,
+6808@@Cladistics/0690@Cladistics@Following Ziegler (1971)  Urotrichus and Dymecodon   on S. townsendii (BMNH).
+6430,2,@@Cladistics/0690@Cladistics@(1971). Coding for Erinaceus follows Gould (2001).   is based on S. townsendii (BMNH unnumbered). 
+6809@@Cladistics/0690@Cladistics@plete names for the character states. This mistake is   BMNH 60.600  BMNH 8.8.4.4.4) and not as ‘‘0’’ as in
+6435@@Cladistics/0690@Cladistics@1 ¼ approximately   1 ⁄ 7th;     2 ¼ approximately    groove in BMNH 1960.10.11.5. 
+6691@@Cladistics/0690@Cladistics@       (skull only)  BMNH 1960.10.11.5, BMNH 60.600,
+6692@@Cladistics/0690@Cladistics@       BMNH 8.8.4.4.4. 
+6693@@Cladistics/0690@Cladistics@  Euroscaptor micrura: NRM-A591166  BMNH
+6700@@Cladistics/0690@Cladistics@       90.1.1.1  BMNH unnumbered.
+7177@@Cladistics/0690@Cladistics@  Scaptonyx fusicaudus: BMNH 22.9.1.12  MNHN
+6695@@Cladistics/0690@Cladistics@  Parascaptor leucura: NRM-A581815; BMNH 
+6694@@Cladistics/0690@Cladistics@       A593678  A580786, A590533; BMNH 7.7.7.2426,
+7191,2@@Cladistics/0690@Cladistics@  Scapanus townsendii: BMNH unnumbered 
+7184,@@Cladistics/0690@Cladistics@  Scapanulus oweni: BMNH 60620  12.8.5.2 (type)
+6287@@Cladistics/0690@Cladistics@       A581532  A590531, BMNH 1958.3.11.5, 1958.3.11.6
+7153@@Cladistics/0690@Cladistics@       A581594  A604493, BMNH 67.45.2, BMNH 56.13.10.404
+6701@@Cladistics/0707@Cladistics@      Tellervini      Tellervo zoilus      M: BMNH 7117; F: BMNH 7118  BMNH 7126   6
+6706@@Cladistics/0707@Cladistics@      Tithoreini      Elzunia pavonii      M: BMNH 6624; F: BMNH 6625      1 
+6703@@Cladistics/0707@Cladistics@      Tithoreini      Tithorea harmonia    M: BMNH 6819  BMNH 6622, KWJH, BMNH 6820; F: BMNH 6623,1
+6707@@Cladistics/0707@Cladistics@    KWJH  BMNH 6818
+6704@@Cladistics/0707@Cladistics@      Tithoreini      Tithorea tarricina   M: BMNH 6812  BMNH 6814, BMNH 6816; F: BMNH 6813,1
+6702@@Cladistics/0707@Cladistics@    BMNH 6815  BMNH 6817
+7108@@Cladistics/0707@Cladistics@      Tithoreini      Aeria eurimedia      M: BMNH 6626  BMNH 7106; F: BMNH 7172, BMNH 7119  1,
+7055@@Cladistics/0707@Cladistics@      Tithoreini      Aeria olena    M: BMNH 7139; F: BMNH 7173  BMNH 7140   1
+7186@@Cladistics/0707@Cladistics@      Methonini       Methona megisto      M: BMNH 7161; F: BMNH 7160      1 
+6708@@Cladistics/0707@Cladistics@      Methonini       Methona themisto     M: BMNH 6629; F: BMNH 6642      1 
+6784@@Cladistics/0707@Cladistics@      Melinaeini      Athyrtis mechanitis  M: BMNH 6634  BMNH 6638; F: BMNH 6647   1
+6712@@Cladistics/0707@Cladistics@      Melinaeini      Eutresis hypereia    M: BMNH 6632  MGCL; F: BMNH 6645, MGCL, BMNH 7159       1
+7179@@Cladistics/0707@Cladistics@      Melinaeini      Melinaea ethra       M: BMNH 7141; F: BMNH 7142      1 
+7155@@Cladistics/0707@Cladistics@      Melinaeini      Melinaea ludovica    M: BMNH 6631; F: BMNH 6644      1 
+7162@@Cladistics/0707@Cladistics@      Melinaeini      Melinaea menophilus  M: MGCL  BMNH 7143, BMNH 7149, KWJH; F: BMNH 7144     1,2
+6389@@Cladistics/0707@Cladistics@      Melinaeini      Olyras crathis       M: BMNH 6633; F: BMNH 6646      1 
+6715,@@Cladistics/0707@Cladistics@      Melinaeini      Paititia neglecta    M: BMNH 7133; F: BMNH 7132      1 
+6713@@Cladistics/0707@Cladistics@      Mechanitini     Forbestra equicola   M: BMNH 6637; F: BMNH 6650      3 
+6709@@Cladistics/0707@Cladistics@      Mechanitini     Forbestra olivencia  M: BMNH 7145; F: BMNH 7146      7 
+6711@@Cladistics/0707@Cladistics@      Mechanitini     Mechanitis lysimnia  M: BMNH 7150  KWJH; F: BMNH 7147, BMNH 7176, KWJH       1
+6723@@Cladistics/0707@Cladistics@      Mechanitini     Mechanitis polymnia  M: BMNH 6639; F: BMNH 6651      1 
+7163@@Cladistics/0707@Cladistics@      Mechanitini     Sais rosalia   M: BMNH 6636; F: BMNH 6649      8 
+6735@@Cladistics/0707@Cladistics@      Mechanitini     Scada karschina      M: BMNH 7151; F: BMNH 7175  BMNH 7152   1
+6717@@Cladistics/0707@Cladistics@      Mechanitini     Scada reckia   M: KWJH  KWJH, KWJH, KWJH, BMNH 6640;   1
+6734@@Cladistics/0707@Cladistics@    F: BMNH 7174  KWJH, BMNH 6652,
+6719@@Cladistics/0707@Cladistics@      Mechanitini     Thyridia psidii      M: BMNH 6635; F: BMNH 6648       1 
+7224@@Cladistics/0707@Cladistics@      New tribe       Athesis clearista    M: MGCL  BMNH 6627; F: BMNH 7112, MGCL   1,
+6725@@Cladistics/0707@Cladistics@      New tribe       Patricia dercyllidas         M: BMNH 7084  BMNH 7134, BMNH 7137,2,18
+6726@@Cladistics/0707@Cladistics@    BMNH 7138  BMNH 6628; F: BMNH 6641
+7158@@Cladistics/0707@Cladistics@      Napeogenini     Aremfoxia ferra      M: BMNH 6653; F: BMNH 7131       – 
+6732@@Cladistics/0707@Cladistics@      Napeogenini     Epityches eupompe    M: BMNH 6654; F: BMNH 6664  MGCL         1
+6721@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris xanthostola       M: BMNH 6655; F: BMNH 6665       1 
+7164,1@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris cantobrica        M: BMNH 6656; F: BMNH 6666       1 
+6724@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris euclea    M: KWJH  KWJH, KWJH, KWJH, BMNH 6662; F: BMNH 6673       1
+6722@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris moebiusi  M: BMNH 6661; F: BMNH 6671       – 
+6733@@Cladistics/0707@Cladistics@      Napeogenini     Hypothyris ninonia   M: BMNH 6660; F: BMNH 6670       1 
+6731@@Cladistics/0707@Cladistics@      Napeogenini     Hyalyris coeno       M: BMNH 6657  KWJH; F: BMNH 6667, BMNH 6672     –,
+6795,1@@Cladistics/0707@Cladistics@      Napeogenini     Hyalyris excelsa     M: BMNH 6659; F: BMNH 6669       1 
+6730,@@Cladistics/0707@Cladistics@      Napeogenini     Hyalyris ocna  M: BMNH 6658  KWJH; F: BMNH 6668         2
+6728@@Cladistics/0707@Cladistics@      Napeogenini     Napeogenes apulia    M: BMNH 6349; F: KWJH 6676       2 
+7051@@Cladistics/0707@Cladistics@      Napeogenini     Napeogenes inachia   M: BMNH 6333; F: BMNH 6675  BMNH 6678       1,14,
+6727@@Cladistics/0707@Cladistics@      Napeogenini     Napeogenes rhezia    M: BMNH 6332; F: BMNH 6674  BMNH 6677    –
+6720@@Cladistics/0707@Cladistics@      Ithomiini       Ithomia arduinna     M: BMNH 7098; F: BMNH 7097       1 
+7192@@Cladistics/0707@Cladistics@      Ithomiini       Ithomia drymo  M: BMNH 6688  BMNH 7169; F: BMNH 6682, BMNH 6686   1,
+¼@@Cladistics/0707@Cladistics@      Ithomiini       Ithomia terra  M: BMNH 6687; F: BMNH 6681  BMNH 6685    2
+1935.9.9.36@@Cladistics/0707@Cladistics@      Ithomiini       Pagyris cymothoe     M: BMNH 6690; F: BMNH 6680       1 
+A2024@@Cladistics/0707@Cladistics@      Ithomiini       Pagyris ulla   M: BMNH 6689; F: BMNH 6679       – 
+A2103@@Cladistics/0707@Cladistics@      Ithomiini       Placidina euryanassa         M: BMNH 6630; F: BMNH 6643   1 15
+A3262@@Cladistics/0707@Cladistics@      Oleriini        Hyposcada anchiala   M: BMNH 6806  MGCL, KWJH, BMNH 7231;     4
+A1048@@Cladistics/0707@Cladistics@    F: BMNH 7122  MGCL
+A@@Cladistics/0707@Cladistics@      Oleriini        Hyposcada taliata    M: BMNH 7107  KWJH OLERIA-39, BMNH 6810; F: KWJH OLERIA-50      –,
+1905.12.30.164@@Cladistics/0707@Cladistics@      Oleriini        Hyposcada virginiana         M: KWJH  BMNH 6805; F: MGCL     9
+1845.1.13.29@@Cladistics/0707@Cladistics@      Oleriini        Megoleria susiana    M: BMNH 7227  BMNH 6683; F: BMNH 7228, BMNH 6684  5,
+1889.4.7.1@@Cladistics/0707@Cladistics@      Oleriini        Oleria aegle   M: BMNH 5941  BMNH 6807, MGCL; F: MGCL, MGCL   1
+1952.1.38@@Cladistics/0707@Cladistics@      Oleriini        Oleria aquata  M: BMNH 6780  BMNH 7148; F: BMNH 6781   1
+A2024@@Cladistics/0707@Cladistics@      Oleriini        Oleria astrea  M: AME  BMNH 6246, BMNH 6760, BMNH 6761, BMNH 6763,     –
+A3262@@Cladistics/0707@Cladistics@    ZMHU  BMNH 6263; F: MGCL, BMNH 6264,
+A2013@@Cladistics/0707@Cladistics@   Oleriini     Oleria canilla     M: BMNH 6270  MGCL; F: BMNH 6271, BMNH 7121    1,
+A@@Cladistics/0707@Cladistics@   Oleriini     Oleria olerioides  M: KWJH OLERIA-15  BMNH 6808; F: KWJH OLERIA-47       –
+A@@Cladistics/0707@Cladistics@   Oleriini     Oleria santineza   M: BMNH 6402  AMNH, AMNH, BMNH 6399, BMNH 6429, BMNH 6430,2,
+788@@Cladistics/0707@Cladistics@   ZMHU  MGCL, BMNH 6809, KWJH OLERIA-20, KWJH OLERIA-25;
+(E (USA:@@Cladistics/0707@Cladistics@   F: BMNH 6403  AMNH, BMNH 6434, BMNH 6435, KWJH, KWJH OLERIA-43
+(E @@Cladistics/0707@Cladistics@   Oleriini     Oleria zelica      M: MGCL  BMNH 6691; F: MGCL  10
+(E @@Cladistics/0707@Cladistics@   Dircennini   Callithomia alexirrhoe     M: BMNH 6328  BMNH 7085; F: BMNH 6692  –
+(E 2007–60@@Cladistics/0707@Cladistics@   Dircennini   Callithomia lenea  M: BMNH 6327; F: BMNH 6693    1 
+842@@Cladistics/0707@Cladistics@   Dircennini   Ceratinia neso     M: BMNH 6776; F: BMNH 6700    1 
 @@Cladistics/0707@Cladistics@   Dircennini   Ceratinia tutia    M: BMNH 6777  KWJH; F: BMNH 6698, BMNH 7177    1,
-@@Cladistics/0707@Cladistics@   Dircennini   Dircenna dero      M: BMNH 6772  KWJH; F: BMNH 6695       1
-@@Cladistics/0707@Cladistics@   Dircennini   Dircenna jemina    M: BMNH 6771; F: BMNH 6694    – 
-@@Cladistics/0707@Cladistics@   Dircennini   Dircenna paradoxa  M: BMNH 6326  BMNH 7182, BMNH 7185; F: BMNH 7191,2
-@@Cladistics/0707@Cladistics@   BMNH 6696  BMNH 7183, BMNH 7184,
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada apuleia   M: BMNH 6287; F: 6705  2 
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada clausina  M: BMNH 6283  KWJH, BMNH 7156, BMNH 6284; F: BMNH 7153    1
+FR@@Cladistics/0707@Cladistics@   Dircennini   Dircenna dero      M: BMNH 6772  KWJH; F: BMNH 6695       1
+FR@@Cladistics/0707@Cladistics@   Dircennini   Dircenna jemina    M: BMNH 6771; F: BMNH 6694    – 
+FR@@Cladistics/0707@Cladistics@   Dircennini   Dircenna paradoxa  M: BMNH 6326  BMNH 7182, BMNH 7185; F: BMNH 7191,2
+FR@@Cladistics/0707@Cladistics@   BMNH 6696  BMNH 7183, BMNH 7184,
+679289 AY748138 @@Cladistics/0707@Cladistics@   Dircennini   Episcada apuleia   M: BMNH 6287; F: 6705  2 
+679272 AY748136*@@Cladistics/0707@Cladistics@   Dircennini   Episcada clausina  M: BMNH 6283  KWJH, BMNH 7156, BMNH 6284; F: BMNH 7153    1
 @@Cladistics/0707@Cladistics@   Dircennini   Episcada doto      M: BMNH 6275; F: BMNH 6701     – 
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada hemixanthe        M: BMNH 6292; F: BMNH 7178  BMNH 6706   –
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada hymenaea  M: BMNH 6278  BMNH 6778, SMF; F: BMNH 6703      1,
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada philoclea         M: BMNH 6289  BMNH 7088; F: BMNH 6707   1
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada salvinia  M: BMNH 6280  BMNH 6279; F: BMNH 6704   1
-@@Cladistics/0707@Cladistics@   Dircennini   Episcada canaria   M: BMNH 6276; F: BMNH 6702    1 15
+1843.1.12.61@@Cladistics/0707@Cladistics@   Dircennini   Episcada hemixanthe        M: BMNH 6292; F: BMNH 7178  BMNH 6706   –
+15925@@Cladistics/0707@Cladistics@   Dircennini   Episcada hymenaea  M: BMNH 6278  BMNH 6778, SMF; F: BMNH 6703      1,
+15926@@Cladistics/0707@Cladistics@   Dircennini   Episcada philoclea         M: BMNH 6289  BMNH 7088; F: BMNH 6707   1
+32360).@@Cladistics/0707@Cladistics@   Dircennini   Episcada salvinia  M: BMNH 6280  BMNH 6279; F: BMNH 6704   1
+988684@@Cladistics/0707@Cladistics@   Dircennini   Episcada canaria   M: BMNH 6276; F: BMNH 6702    1 15
 @@Cladistics/0707@Cladistics@   Dircennini   Haenschia sidonia  M: ZSBS; F: BMNH 7108  – 
-@@Cladistics/0707@Cladistics@   Dircennini   Hyalenna pascua    M: BMNH 7055; F: MUSM  1 
-@@Cladistics/0707@Cladistics@   Dircennini   Hyalenna perasippa         M: BMNH 6775  BMNH 7086; F: BMNH 7186, MUSM     –,
-@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia aletta  M: BMNH 6305; F: BMNH 6708     1 
-@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia alida   M: BMNH 6321  KWJH, KWJH, ZMHU, BMNH 6785, BMNH 6784;  2
-@@Cladistics/0707@Cladistics@   F: BMNH 6712 
-@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   artena        M: KWJH  BMNH 6782; F: BMNH 6716, BMNH 7179    2,
-@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   carlia        M: BMNH 6298; F: BMNH 7155    1 
-@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   euritea       M: BMNH 6299; F: BMNH 7162    1 
-@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   hara  M: BMNH 6320  USNM, BMNH 7087, KWJH, BMNH 6389,       –
+(E):697423 DD11@@Cladistics/0707@Cladistics@   Dircennini   Hyalenna pascua    M: BMNH 7055; F: MUSM  1 
+(E):220150 @@Cladistics/0707@Cladistics@   Dircennini   Hyalenna perasippa         M: BMNH 6775  BMNH 7086; F: BMNH 7186, MUSM     –,
+(E):220151 @@Cladistics/0707@Cladistics@   Dircennini   Pteronymia aletta  M: BMNH 6305; F: BMNH 6708     1 
+(E):697422 E1@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia alida   M: BMNH 6321  KWJH, KWJH, ZMHU, BMNH 6785, BMNH 6784;  2
+(E):697420 G1@@Cladistics/0707@Cladistics@   F: BMNH 6712 
+(E):697421 G2@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   artena        M: KWJH  BMNH 6782; F: BMNH 6716, BMNH 7179    2,
+35.3.19.1@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   carlia        M: BMNH 6298; F: BMNH 7155    1 
+1939.938@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   euritea       M: BMNH 6299; F: BMNH 7162    1 
+49.664@@Cladistics/0707@Cladistics@   Dircennini   Pteronymia   hara  M: BMNH 6320  USNM, BMNH 7087, KWJH, BMNH 6389,       –
 @@Cladistics/0707@Cladistics@   SMNS  KWJH; F: USNM, BMNH 6715,
 @@Cladistics/0707@Cladistics@   Dircennini   Pteronymia inania  M: KWJH; F: BMNH 6713  2 
 @@Cladistics/0707@Cladistics@   Dircennini   Pteronymia latilla         M: BMNH 6302; F: BMNH 6709     1 
@@ -334,231 +332,231 @@ notspecified@@http://dx.doi.org/10.1111/cla.12008@Cladistics@Outgroup taxa      
 @@Cladistics/0707@Cladistics@   Godyridini   Godyris dircenna   M: BMNH 6746; F: BMNH 6735     1 
 @@Cladistics/0707@Cladistics@   Godyridini   Godyris duillia    M: BMNH 7090  BMNH 6377; F: BMNH 6717   2
 @@Cladistics/0707@Cladistics@   Godyridini   Godyris nero       M: BMNH 6369  BMNH 6384; F: BMNH 6734   –
-@@Cladistics/0707@Cladistics@   Godyridini   Godyris zavaleta   M: KWJH  BMNH 6786; F: KWJH, BMNH 6719  1,
-@@Cladistics/0707@Cladistics@   Godyridini   Godyris mantura    M: BMNH 6379  BMNH 7223; F: BMNH 6718, BMNH 7224       –,
-@@Cladistics/0707@Cladistics@   Godyridini   Greta diaphanus    M: BMNH 6375; F: BMNH 6725    11 
+1859.12.26.50@@Cladistics/0707@Cladistics@   Godyridini   Godyris zavaleta   M: KWJH  BMNH 6786; F: KWJH, BMNH 6719  1,
+20100324@@Cladistics/0707@Cladistics@   Godyridini   Godyris mantura    M: BMNH 6379  BMNH 7223; F: BMNH 6718, BMNH 7224       –,
+1911.12.21.604;,@@Cladistics/0707@Cladistics@   Godyridini   Greta diaphanus    M: BMNH 6375; F: BMNH 6725    11 
 @@Cladistics/0707@Cladistics@   Godyridini   Greta morgane      M: BMNH 6371; F: BMNH 6726   12 19
-@@Cladistics/0707@Cladistics@   Godyridini   Heterosais edessa  M: BMNH 7157; F: BMNH 7181  BMNH 7158   1
-@@Cladistics/0707@Cladistics@   Godyridini   Heterosais nephele         M: BMNH 6804; F: BMNH 6732     – 
-@@Cladistics/0707@Cladistics@   Godyridini   Hypoleria lavinia  M: BMNH 6394; F: BMNH 6721    1 13
-@@Cladistics/0707@Cladistics@   Godyridini   Mcclungia cymo     M: BMNH 7091  BMNH 7165, BMNH 7166, BMNH 6788, BMNH 7164,1
-@@Cladistics/0707@Cladistics@   BMNH 7167  BMNH 7168; F: BMNH 6724
-@@Cladistics/0707@Cladistics@   Godyridini   Hypoleria adasa    M: BMNH 6790  BMNH 7171; F: BMNH 6722  1
-@@Cladistics/0707@Cladistics@   Godyridini   Pseudoscada erruca         M: BMNH 6386  BMNH 6802; F: BMNH 6729, BMNH 6733      1,
-@@Cladistics/0707@Cladistics@   Godyridini   Pseudoscada ﬂorula         M: BMNH 6803  BMNH 6395; F: BMNH 6731  1
-@@Cladistics/0707@Cladistics@   Godyridini   Pseudoscada timna  M: BMNH 6798  BMNH 6791, BMNH 6799, BMNH 6800, BMNH 6795,1
-@@Cladistics/0707@Cladistics@   BMNH 6796  BMNH 6801, BMNH 6797; F: BMNH 6730,
-@@Cladistics/0707@Cladistics@   Godyridini   Greta andromica    M: BMNH 6352  BMNH 6368; F: BMNH 6728  2
-@@Cladistics/0707@Cladistics@   Godyridini   Greta ortygia      M: BMNH 6374  BMNH 6354; F: BMNH 7050, BMNH 7051      2,
-@@Cladistics/0707@Cladistics@      Godyridini        Greta theudelinda    M: BMNH 6467  BMNH 6469, BMNH 6351; F: BMNH 6727      2,
-@@Cladistics/0707@Cladistics@      Godyridini        Veladyris pardalis   M: BMNH 7170  BMNH 6789; F: BMNH 6720  –
-@@Cladistics/0707@Cladistics@      Godyridini        Velamysta phengites  M: BMNH 6773  BMNH 7089; F: BMNH 7192  2
-@@Cladistics/0707@Cladistics@    M ¼ male; F ¼ female; AMNH ¼ American Museum of Natural History  New York; BMNH ¼ Natural History Museum, London;,
-@@Cladistics/0715@Cladistics@RM  Riksmuseet, Stockholm, Sweden; UCMP, Univer-       525987,703321, BMNH 1935.9.9.36, 1937.10.17.157
-@@Cladistics/0715@Cladistics@   Anthropornis nordenskjoeldi BMNH A2024 (cast of     COL 12831; Pelecanoides urinatrix AMNH 212088 
-@@Cladistics/0715@Cladistics@RM A8)  BMNH A2103 (cast of RM A43), USNM     334637,528738,528760,748433, COL 12445; Phoebetria,
-@@Cladistics/0715@Cladistics@ponderosus BMNH A3262 (cast of holotype); Platydyp-    749268 527606, COL 4219,5893–7; Pygoscelis adeliae
-@@Cladistics/0715@Cladistics@cus BMNH A1048 (holotype)  USNM Acc 377506 (cast       54430,63897, COL 8138; Pygoscelis antarctica AMNH
-@@Cladistics/0715@Cladistics@(holotype)]  BMNH A 3341; Palaeeudyptes klekowski      196415, 269638–9, 435821–9, 442412–17, 442458–62
-@@Cladistics/0715@Cladistics@BMNH 1905.12.30.164 [holotype]  COL 10987; Eudyp-
-@@Cladistics/0715@Cladistics@525713 525726, BMNH 1845.1.13.29 [holotype];,
-@@Cladistics/0715@Cladistics@525780–5 525787,525789,525791, BMNH 1889.4.7.1      2611,4382, 26471–2, FMNH 351211,106475,107781,
-@@Cladistics/0715@Cladistics@BMNH 1952.1.38; Eudyptula minor AMNH 5314     AMNH 13393–6,13400, 13549–51; Spheniscus demersus
-@@Cladistics/0715@Cladistics@coracoid of Anthropornis nordenskjoeldi (BMNH A2024) and coracoid         insertion; st: sulcus transversus. Scale bar ¼ 1 cm. 
-@@Cladistics/0715@Cladistics@humerus of Pachydyptes ponderosus (BMNH A3262) in posterior view. 
-@@Cladistics/0715@Cladistics@      and cast of humerus of Anthropornis nordenskjoeldi (BMNH A2013) in 
-@@Cladistics/0715@Cladistics@Fig. 11. Cast of humerus of Palaeeudyptes antarcticus (BMNH A 4079) and humeri of Paraptenodytes antarcticus (AMNH 3338) and Pygoscelis 
-@@Cladistics/0715@Cladistics@Ordered.       antarcticus (BMNH A 1048) in plantar view. Abbreviations: cih  crista
-@@Cladistics/0788@Cladistics@phological characters (NHM-IR57  see Appendix 1, and  grotus were nested with respect to each other, suggesting
-@@Cladistics/0816@Cladistics@  Theatops posticus (Say  1821): BMNH(E) (USA: Texas: Houston)
-@@Cladistics/0816@Cladistics@  Campylostigmus orientalis Ribaut  1923: BMNH(E) (New Caledonia: Province Nord: Mt Panie refuge)
-@@Cladistics/0816@Cladistics@  Cormocephalus rubriceps (Newport  1843): BMNH(E) (New Zealand: North Island: Titirangi)
-@@Cladistics/0816@Cladistics@  Asanada socotrana Pocock  1899: BMNH(E) 2007–60 (Nigeria: near C.R.H. Bida)
-@@Cladistics/0842@Cladistics@   Acarospora bullata       NHM07  Germany 1990, Lumbsch & Huneck         DQ374126   DQ374102   EU870744,
-@@Cladistics/0846@Cladistics@      Libythea collenettei Riley  1$  French Polynesia, Marquesas Isl., Nuku Hiva   BMNH
-@@Cladistics/0925@Cladistics@extant outgroup. Similar issues of phylogenetic uncer-     on Adriosaurus suessi Seeley  1881 (BMNH FR 2867)
-@@Cladistics/0925@Cladistics@Estesia mongoliensis Norell et al.  1992 (Cretaceous of    (BMNH FR 23421) and Coniasaurus gracilodens Cald-
-@@Cladistics/0925@Cladistics@Mongolia)  among others.  well, 1999a (BMNH FR 44141), new data for Eurhelo-
-@@Cladistics/0925@Cladistics@   The use of morphological data for phylogeny    derma gallicum Hoﬀstetter  1957 (BMNH FR 3487)
-@@Cladistics/0963@Cladistics@  Trogossitidae    Peltinae      Ostoma ferrugineum   BMNH679289       AY748138      DQ20266    DQ202553    DQ222026  
-@@Cladistics/0963@Cladistics@   Malachiidae    Malachiinae      Anthocomus rufus   BMNH679272       AY748136*   –  DQ202552*   DQ221960* 
-@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@1939  pp. 361–363; Ellerman, 1941) to two (Misonne,    The type specimens are BMNH 49b (skin) and BMNH
-@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@The type specimen is BMNH 1843.1.12.61 (skin and   posteroloph)  whereas the M2 and M3, much shorter,
-@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@able. Its holotype (GSI D97) is a left dentary fragment      Rhizomys lydekkeri. Its holotype (BMNH 15925) is a 
-@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@Pakistan and from the Upper Siwaliks of the Siwalik    others (BMNH 15926  15927 and 15927a) as Rhizomys
-@@http://dx.doi.org/10.1111/j.1558-5646.2008.00399.x@Evolution@no. BMNH 32360). A second specimen (Late Albian  approx    and apply a calibration for the divergence of C. lividus and C.
-@@http://dx.doi.org/10.1111/j.1558-5646.2008.00399.x@Evolution@100 Myr  Haldon, Devon, BMNH 988684) was associated with a       quercinus of at least 11 Myr (mean: 11 Myr, SD: 0.1, zero offset:
-@@http://dx.doi.org/10.1111/j.1558-5646.2009.00742.x@Evolution@posed to these various conditions  which may in turn reflect the   Society for Louisiana Iris to NHM.
-@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@26.   Papilio   demodocus demodocus    Madagascar: Antsalova       February 12  2002    BMNH(E):697423       DD11       AY569064
-@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@33.   Papilio   demodocus bennetti     Yemen: Socotra Island       1967   BMNH(E):220150 
-@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@34.   Papilio   demodocus bennetti     Yemen: Socotra Island       1967   BMNH(E):220151 
-@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@35.   Papilio   erithonioides  Madagascar: Ankitsanga      February 6  2002     BMNH(E):697422       E1         AY5690956    AY569099      AY569108
-@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@43.   Papilio   grosesmithi    Madagascar: Kirindy         January 20  2002     BMNH(E):697420       G1         AY5690896    AY569101      AY569110
-@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@44.   Papilio   grosesmithi    Madagascar: Ambahibe        January 31  2002     BMNH(E):697421       G2         AY5690906    AY569102      AY569111
-@@http://dx.doi.org/10.1111/j.1558-5646.2009.00858.x@Evolution@  BMNH       35.3.19.1    DIEHLI        NIG       CRV      Obudu  Ogoja      BROKEN X     X    Teeth missing. Based on sockets
-@@http://dx.doi.org/10.1111/j.1558-5646.2009.00858.x@Evolution@  BMNH       1939.938     GORILLA GAB     GAB      Ogowe     Y      X         Right maxillary first incisor. May
-@@http://dx.doi.org/10.1111/j.1558-5646.2009.00858.x@Evolution@  BMNH     49.664    GORILLA CAR        SNG     Ziendi   Y      X    Small, peg-like nubbin.,
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01255.x@Evolution@12 000 trees). Length of burnin was determined by examination  Izumi-cho, Mizunami City, Gifu Prefecture, Japan (NHM PI TG
-@@http://dx.doi.org/10.1111/j.1558-5646.2008.00345.x@Evolution@for mtDNA (control region and cytochrome b) by assuming a   (UKNHM90714) resulted in a pattern consistent with no recom- 
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Fernandina       H       BNHM  AMNH, CAS     1894,1897, 1899     13
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Genovesa  H       BNHM  CAS   1897, 1906    25,
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Marchena  H       BNHM  CAS   1897,1899, 1906     22
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Pinz´on   H       BNHM  CAS   1899, 1906    19,
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    San Crist´obal   H       BNHM  CAS   1897, 1906    20,
-@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Santa Fe  H       BNHM  CAS   1897,1899, 1906     18
-@@http://dx.doi.org/10.1111/j.0014-3820.2003.tb00314.x@Evolution@(BMNH lot E79163-4). Cryptechinus humilior (NMV P17969  hypotype). Cryptechinus sp. nov. (NMV P134584). Tatechinus nudus (SAM
-@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@S. haemastoma (a  b, Ibiza, Spain); c, d, S. biserialis (c, Mazatlan, Mexico, BMNH acc. no. 1563; d, Panama, BMNH 1859.12.26.50); e, f,
-@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@S. brasiliensis new species (e  Plymouth, Tobago, BMNH acc. no. 2341; f, holotype, Sao Paulo, Brazil, BMNH 20100324); g, h, S. floridana,
-@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@(g  Key Biscayne, Florida, USA, BMNH acc. no. 2008-193; h, Volusia Co., Florida, USA); i, j, S. rustica (i, Bermuda, BMNH 1911.12.21.604;,
-@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@j  Isla Sao Sebastiao, SP, Brazil); k, i, S. canaliculata (k, Jefferson Co. Beach, Texas, USA, BMNH acc. no. 2258; i, Florida, USA, BMNH
-@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@Author contributions: M.C. undertook all lab work and    Types: Holotype BMNH 20100324  Sa˜o Paulo, Brazil.,
-@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@analyses  most fieldwork and wrote most of the text; other     Material examined: 23 dry lots, 1 wet lot in BMNH; 2 penes.,
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Anseba  BMNH 69.11.4.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@McCarthy Island   BMNH 1885.1.31.28; BMNH 1901.7.16.9 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Korle Bu*      BMNH 1924.3.22.1; BMNH 1932.6.1.12 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Niora     BMNH 1933.11.17.48 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Trarza Cercle     BMNH 1913.5.9.9–1913.5.9.14        M.R.K. Lambert (p.c.  p.r., f.o.),
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Famiso*   BMNH 1933.11.17.49–1933.11.17.53   Dunger   (1967) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ibi       BMNH 1916.11.6.2 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jacola*   BMNH 1923.12.1.2 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jebba     BMNH 99.8.23.6–99.8.23.7   Dunger (1967) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kano      BMNH 1987.2092–1987.2093 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kware     BMNH    1962.1657    Dunger (1967); Pappenfuss (1969) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Maiduguri         BMNH    1962.1658    Dunger (1967) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Makurdi   BMNH    137.12.4.15 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@New Bussa         BMNH    1970.1765 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Numan     BMNH    1983.1152 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Rigachikun        BMNH    1948.1.7.4–1948.1.7.6      Dunger (1967) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sherifari*  BMNH 1924.3.22.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sokoto      BMNH 1906.5.7.2; BMNH 1969.2246 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Zonkwa      BMNH 1962.1656       Dunger (1967) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bakel       BMNH 1920.1.20.3755 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Medina      BMNH 1920.1.20.3660 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bahr-el-Gebel  BMNH 1906.7.25.2 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kulme       BMNH 1922.11.27.7 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Malek       BMNH 1911.7.15.20 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sennar       BMNH 1913.9.16.12  Werner (1908); Luxmore (1988) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Gusba*       BMNH 1907.12.30.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Chiyaka District     BMNH 1908.5.15.16 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Awharra*       BMNH 1902.12.18.37 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Baringo**        BMNH 1901.24.23; MCZ 18290 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Larna        BMNH 1911.1.26.1–1911.1.26.5 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Murri* ⁄ **  BMNH 1952.1.8.85–1952.1.8.87  M. Largen (p.c.) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Samburu      BMNH 98.1.8.6  C. Smeenk (p.c.  p.r.)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sankuri  N. bank – Tana R**   BMNH 1952.1.6.27
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Taro Plains  Mt Kenya         BMNH 93.11.21.17       Gunther (1894); Mertens (1942c)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mpemba**     BMNH 1962.825  D.G. Broadley (p.c.) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Chibabava    BMNH 1907.7.2.2        D.G. Broadley (p.c.) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Otjosongombe         BMNH 1936.9.4.33 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Barberton        BMNH 1909.4.30.43; TM 1285; TM 1905    Boulenger (1909); Mertens (1942c); Fitzsimons 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Deelfontein   BMNH 1902.4.27.34; BMNH 1902.9.10.1   Boulenger (1903a); Mertens (1942a–c) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@DeKaap Gold Fields    BMNH 93.11.20.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Port Natal     BMNH 62.12.4.2        Boulenger (1885); Mertens (1942a–c) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Umfolozi Reserve  BMNH 1905.3.7.99–1905.3.7.111   Boulenger (1905d); Borland (1968); Daniel (1968); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Erigabo      BMNH 1959.1.3.6 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Haud  BMNH 1937.7.20.360 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Las Anod     BMNH 1931.7.20.367 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lugh ⁄ **    BMNH 96.9.24.15        Boulenger (1896c); Mertens (1942c) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Margeira Area**       BMNH 1992.428   M.R.K. Lambert (p.c.  p.r., f.o.),
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sukh Plains    BMNH 1932.5.2.85 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Wagga  BMNH 1905.11.7.11 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Meshra  S. of  BMNH 1924.5.21.5
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kilosa ⁄ **    BMNH 1923.10.9.104; MCZ 18291**;        Loveridge (1923b); Mertens (1942a–c) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Nuba Mountains**      BMNH 1957.1.9.23 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tendaguru*     BMNH 1928.10.19.57–1928.10.19.58 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Usili Mountains  nr**    BMNH 1964.744   Bellairs et al. (1960, 1961),
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Chinsali ⁄ *¢        BMNH 1932.12.13.192–1932.12.13.193      Pitman (1934); D.G. Broadley (p.c.) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mpika*¢       BMNH 1905.11.10.1 
+20100324@@Cladistics/0707@Cladistics@   Godyridini   Heterosais edessa  M: BMNH 7157; F: BMNH 7181  BMNH 7158   1
+2@@Cladistics/0707@Cladistics@   Godyridini   Heterosais nephele         M: BMNH 6804; F: BMNH 6732     – 
+69.11.4.1@@Cladistics/0707@Cladistics@   Godyridini   Hypoleria lavinia  M: BMNH 6394; F: BMNH 6721    1 13
+1901.7.16.9@@Cladistics/0707@Cladistics@   Godyridini   Mcclungia cymo     M: BMNH 7091  BMNH 7165, BMNH 7166, BMNH 6788, BMNH 7164,1
+1932.6.1.12@@Cladistics/0707@Cladistics@   BMNH 7167  BMNH 7168; F: BMNH 6724
+1933.11.17.48@@Cladistics/0707@Cladistics@   Godyridini   Hypoleria adasa    M: BMNH 6790  BMNH 7171; F: BMNH 6722  1
+1913.5.9.9–1913.5.9.14@@Cladistics/0707@Cladistics@   Godyridini   Pseudoscada erruca         M: BMNH 6386  BMNH 6802; F: BMNH 6729, BMNH 6733      1,
+1933.11.17.49–1933.11.17.53@@Cladistics/0707@Cladistics@   Godyridini   Pseudoscada ﬂorula         M: BMNH 6803  BMNH 6395; F: BMNH 6731  1
+1916.11.6.2@@Cladistics/0707@Cladistics@   Godyridini   Pseudoscada timna  M: BMNH 6798  BMNH 6791, BMNH 6799, BMNH 6800, BMNH 6795,1
+1923.12.1.2@@Cladistics/0707@Cladistics@   BMNH 6796  BMNH 6801, BMNH 6797; F: BMNH 6730,
+99.8.23.6–99.8.23.7@@Cladistics/0707@Cladistics@   Godyridini   Greta andromica    M: BMNH 6352  BMNH 6368; F: BMNH 6728  2
+1987.2092–1987.2093@@Cladistics/0707@Cladistics@   Godyridini   Greta ortygia      M: BMNH 6374  BMNH 6354; F: BMNH 7050, BMNH 7051      2,
+1962.1657@@Cladistics/0707@Cladistics@      Godyridini        Greta theudelinda    M: BMNH 6467  BMNH 6469, BMNH 6351; F: BMNH 6727      2,
+1962.1658@@Cladistics/0707@Cladistics@      Godyridini        Veladyris pardalis   M: BMNH 7170  BMNH 6789; F: BMNH 6720  –
+137.12.4.15@@Cladistics/0707@Cladistics@      Godyridini        Velamysta phengites  M: BMNH 6773  BMNH 7089; F: BMNH 7192  2
+1970.1765@@Cladistics/0707@Cladistics@    M ¼ male; F ¼ female; AMNH ¼ American Museum of Natural History  New York; BMNH ¼ Natural History Museum, London;,
+1983.1152@@Cladistics/0715@Cladistics@RM  Riksmuseet, Stockholm, Sweden; UCMP, Univer-       525987,703321, BMNH 1935.9.9.36, 1937.10.17.157
+1948.1.7.4–1948.1.7.6@@Cladistics/0715@Cladistics@   Anthropornis nordenskjoeldi BMNH A2024 (cast of     COL 12831; Pelecanoides urinatrix AMNH 212088 
+1924.3.22.1@@Cladistics/0715@Cladistics@RM A8)  BMNH A2103 (cast of RM A43), USNM     334637,528738,528760,748433, COL 12445; Phoebetria,
+1969.2246@@Cladistics/0715@Cladistics@ponderosus BMNH A3262 (cast of holotype); Platydyp-    749268 527606, COL 4219,5893–7; Pygoscelis adeliae
+1962.1656@@Cladistics/0715@Cladistics@cus BMNH A1048 (holotype)  USNM Acc 377506 (cast       54430,63897, COL 8138; Pygoscelis antarctica AMNH
+1920.1.20.3755@@Cladistics/0715@Cladistics@(holotype)]  BMNH A 3341; Palaeeudyptes klekowski      196415, 269638–9, 435821–9, 442412–17, 442458–62
+1920.1.20.3660@@Cladistics/0715@Cladistics@BMNH 1905.12.30.164 [holotype]  COL 10987; Eudyp-
+1906.7.25.2@@Cladistics/0715@Cladistics@525713 525726, BMNH 1845.1.13.29 [holotype];,
+1922.11.27.7@@Cladistics/0715@Cladistics@525780–5 525787,525789,525791, BMNH 1889.4.7.1      2611,4382, 26471–2, FMNH 351211,106475,107781,
+1911.7.15.20@@Cladistics/0715@Cladistics@BMNH 1952.1.38; Eudyptula minor AMNH 5314     AMNH 13393–6,13400, 13549–51; Spheniscus demersus
+1913.9.16.12@@Cladistics/0715@Cladistics@coracoid of Anthropornis nordenskjoeldi (BMNH A2024) and coracoid         insertion; st: sulcus transversus. Scale bar ¼ 1 cm. 
+1907.12.30.1@@Cladistics/0715@Cladistics@humerus of Pachydyptes ponderosus (BMNH A3262) in posterior view. 
+1908.5.15.16@@Cladistics/0715@Cladistics@      and cast of humerus of Anthropornis nordenskjoeldi (BMNH A2013) in 
+1902.12.18.37@@Cladistics/0715@Cladistics@Fig. 11. Cast of humerus of Palaeeudyptes antarcticus (BMNH A 4079) and humeri of Paraptenodytes antarcticus (AMNH 3338) and Pygoscelis 
+1901.24.23@@Cladistics/0715@Cladistics@Ordered.       antarcticus (BMNH A 1048) in plantar view. Abbreviations: cih  crista
+1911.1.26.1–1911.1.26.5@@Cladistics/0788@Cladistics@phological characters (NHM-IR57  see Appendix 1, and  grotus were nested with respect to each other, suggesting
+1952.1.8.85–1952.1.8.87@@Cladistics/0816@Cladistics@  Theatops posticus (Say  1821): BMNH(E) (USA: Texas: Houston)
+98.1.8.6@@Cladistics/0816@Cladistics@  Campylostigmus orientalis Ribaut  1923: BMNH(E) (New Caledonia: Province Nord: Mt Panie refuge)
+1952.1.6.27@@Cladistics/0816@Cladistics@  Cormocephalus rubriceps (Newport  1843): BMNH(E) (New Zealand: North Island: Titirangi)
+93.11.21.17@@Cladistics/0816@Cladistics@  Asanada socotrana Pocock  1899: BMNH(E) 2007–60 (Nigeria: near C.R.H. Bida)
+1962.825@@Cladistics/0842@Cladistics@   Acarospora bullata       NHM07  Germany 1990, Lumbsch & Huneck         DQ374126   DQ374102   EU870744,
+1907.7.2.2@@Cladistics/0846@Cladistics@      Libythea collenettei Riley  1$  French Polynesia, Marquesas Isl., Nuku Hiva   BMNH
+1936.9.4.33@@Cladistics/0925@Cladistics@extant outgroup. Similar issues of phylogenetic uncer-     on Adriosaurus suessi Seeley  1881 (BMNH FR 2867)
+1909.4.30.43@@Cladistics/0925@Cladistics@Estesia mongoliensis Norell et al.  1992 (Cretaceous of    (BMNH FR 23421) and Coniasaurus gracilodens Cald-
+1902.9.10.1@@Cladistics/0925@Cladistics@Mongolia)  among others.  well, 1999a (BMNH FR 44141), new data for Eurhelo-
+93.11.20.1@@Cladistics/0925@Cladistics@   The use of morphological data for phylogeny    derma gallicum Hoﬀstetter  1957 (BMNH FR 3487)
+62.12.4.2@@Cladistics/0963@Cladistics@  Trogossitidae    Peltinae      Ostoma ferrugineum   BMNH679289       AY748138      DQ20266    DQ202553    DQ222026  
+1905.3.7.99–1905.3.7.111@@Cladistics/0963@Cladistics@   Malachiidae    Malachiinae      Anthocomus rufus   BMNH679272       AY748136*   –  DQ202552*   DQ221960* 
+1959.1.3.6@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@1939  pp. 361–363; Ellerman, 1941) to two (Misonne,    The type specimens are BMNH 49b (skin) and BMNH
+1937.7.20.360@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@The type specimen is BMNH 1843.1.12.61 (skin and   posteroloph)  whereas the M2 and M3, much shorter,
+1931.7.20.367@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@able. Its holotype (GSI D97) is a left dentary fragment      Rhizomys lydekkeri. Its holotype (BMNH 15925) is a 
+96.9.24.15@@http://dx.doi.org/10.1111/j.1096-0031.2012.00426.x@Cladistics@Pakistan and from the Upper Siwaliks of the Siwalik    others (BMNH 15926  15927 and 15927a) as Rhizomys
+1992.428@@http://dx.doi.org/10.1111/j.1558-5646.2008.00399.x@Evolution@no. BMNH 32360). A second specimen (Late Albian  approx    and apply a calibration for the divergence of C. lividus and C.
+1932.5.2.85@@http://dx.doi.org/10.1111/j.1558-5646.2008.00399.x@Evolution@100 Myr  Haldon, Devon, BMNH 988684) was associated with a       quercinus of at least 11 Myr (mean: 11 Myr, SD: 0.1, zero offset:
+1905.11.7.11@@http://dx.doi.org/10.1111/j.1558-5646.2009.00742.x@Evolution@posed to these various conditions  which may in turn reflect the   Society for Louisiana Iris to NHM.
+1924.5.21.5@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@26.   Papilio   demodocus demodocus    Madagascar: Antsalova       February 12  2002    BMNH(E):697423       DD11       AY569064
+1923.10.9.104@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@33.   Papilio   demodocus bennetti     Yemen: Socotra Island       1967   BMNH(E):220150 
+1957.1.9.23@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@34.   Papilio   demodocus bennetti     Yemen: Socotra Island       1967   BMNH(E):220151 
+1928.10.19.57–1928.10.19.58@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@35.   Papilio   erithonioides  Madagascar: Ankitsanga      February 6  2002     BMNH(E):697422       E1         AY5690956    AY569099      AY569108
+1964.744@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@43.   Papilio   grosesmithi    Madagascar: Kirindy         January 20  2002     BMNH(E):697420       G1         AY5690896    AY569101      AY569110
+1932.12.13.192–1932.12.13.193@@http://dx.doi.org/10.1111/j.0014-3820.2004.tb01628.x@Evolution@44.   Papilio   grosesmithi    Madagascar: Ambahibe        January 31  2002     BMNH(E):697421       G2         AY5690906    AY569102      AY569111
+1905.11.10.1@@http://dx.doi.org/10.1111/j.1558-5646.2009.00858.x@Evolution@  BMNH       35.3.19.1    DIEHLI        NIG       CRV      Obudu  Ogoja      BROKEN X     X    Teeth missing. Based on sockets
+1904.5.2.27@@http://dx.doi.org/10.1111/j.1558-5646.2009.00858.x@Evolution@  BMNH       1939.938     GORILLA GAB     GAB      Ogowe     Y      X         Right maxillary first incisor. May
+1933.3.8.3@@http://dx.doi.org/10.1111/j.1558-5646.2009.00858.x@Evolution@  BMNH     49.664    GORILLA CAR        SNG     Ziendi   Y      X    Small, peg-like nubbin.,
+1931.8.20.1@@http://dx.doi.org/10.1111/j.1558-5646.2011.01255.x@Evolution@12 000 trees). Length of burnin was determined by examination  Izumi-cho, Mizunami City, Gifu Prefecture, Japan (NHM PI TG
+1953.1.10.73@@http://dx.doi.org/10.1111/j.1558-5646.2008.00345.x@Evolution@for mtDNA (control region and cytochrome b) by assuming a   (UKNHM90714) resulted in a pattern consistent with no recom- 
+1901.3.12.51@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Fernandina       H       BNHM  AMNH, CAS     1894,1897, 1899     13
+1970.1631@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Genovesa  H       BNHM  CAS   1897, 1906    25,
+1953.1.10.72@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Marchena  H       BNHM  CAS   1897,1899, 1906     22
+1937.7.6.1@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Pinz´on   H       BNHM  CAS   1899, 1906    19,
+97.10.28.224@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    San Crist´obal   H       BNHM  CAS   1897, 1906    20,
+1906.7.25.3@@http://dx.doi.org/10.1111/j.1558-5646.2011.01385.x@Evolution@    Santa Fe  H       BNHM  CAS   1897,1899, 1906     18
+1937.1.3.1@@http://dx.doi.org/10.1111/j.0014-3820.2003.tb00314.x@Evolution@(BMNH lot E79163-4). Cryptechinus humilior (NMV P17969  hypotype). Cryptechinus sp. nov. (NMV P134584). Tatechinus nudus (SAM
+1969.1179@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@S. haemastoma (a  b, Ibiza, Spain); c, d, S. biserialis (c, Mazatlan, Mexico, BMNH acc. no. 1563; d, Panama, BMNH 1859.12.26.50); e, f,
+1970.1983@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@S. brasiliensis new species (e  Plymouth, Tobago, BMNH acc. no. 2341; f, holotype, Sao Paulo, Brazil, BMNH 20100324); g, h, S. floridana,
+1964.105@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@(g  Key Biscayne, Florida, USA, BMNH acc. no. 2008-193; h, Volusia Co., Florida, USA); i, j, S. rustica (i, Bermuda, BMNH 1911.12.21.604;,
+1969.233–1969.244@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@j  Isla Sao Sebastiao, SP, Brazil); k, i, S. canaliculata (k, Jefferson Co. Beach, Texas, USA, BMNH acc. no. 2258; i, Florida, USA, BMNH
+1902.12.13.38@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@Author contributions: M.C. undertook all lab work and    Types: Holotype BMNH 20100324  Sa˜o Paulo, Brazil.,
+1901.7.16.9@@http://dx.doi.org/10.1111/j.1365-2699.2011.02482.x@J-Biogeography@analyses  most fieldwork and wrote most of the text; other     Material examined: 23 dry lots, 1 wet lot in BMNH; 2 penes.,
+1946.8.30.96.1.15.G@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Anseba  BMNH 69.11.4.1 
+1.15.n@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@McCarthy Island   BMNH 1885.1.31.28; BMNH 1901.7.16.9 
+1901.7.23.20–@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Korle Bu*      BMNH 1924.3.22.1; BMNH 1932.6.1.12 
+95.5.10.2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Niora     BMNH 1933.11.17.48 
+1931.8.21.1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Trarza Cercle     BMNH 1913.5.9.9–1913.5.9.14        M.R.K. Lambert (p.c.  p.r., f.o.),
+1935.12.1.191@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Famiso*   BMNH 1933.11.17.49–1933.11.17.53   Dunger   (1967) 
+87.11.3.3@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ibi       BMNH 1916.11.6.2 
+1970.2343@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jacola*   BMNH 1923.12.1.2 
+1952.1.6.20@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jebba     BMNH 99.8.23.6–99.8.23.7   Dunger (1967) 
+1970.1962@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kano      BMNH 1987.2092–1987.2093 
+93.11.21.18–@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kware     BMNH    1962.1657    Dunger (1967); Pappenfuss (1969) 
+1972@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Maiduguri         BMNH    1962.1658    Dunger (1967) 
+1937.7.7.1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Makurdi   BMNH    137.12.4.15 
+1926.5.8.14@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@New Bussa         BMNH    1970.1765 
+97.6.9.246@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Numan     BMNH    1983.1152 
+1934.6.5.6@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Rigachikun        BMNH    1948.1.7.4–1948.1.7.6      Dunger (1967) 
+1913.5.9.15@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sherifari*  BMNH 1924.3.22.1 
+1907.4.29.32@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sokoto      BMNH 1906.5.7.2; BMNH 1969.2246 
+1980.256@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Zonkwa      BMNH 1962.1656       Dunger (1967) 
+99.8.23.8–@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bakel       BMNH 1920.1.20.3755 
+1987.2094–@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Medina      BMNH 1920.1.20.3660 
+93.1.11.10–@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bahr-el-Gebel  BMNH 1906.7.25.2 
+1937.12.4.16@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kulme       BMNH 1922.11.27.7 
+95.5.3.10–95.5.3.11@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Malek       BMNH 1911.7.15.20 
+1983.1153–1983.1154@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sennar       BMNH 1913.9.16.12  Werner (1908); Luxmore (1988) 
+1948.1.2.70@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Gusba*       BMNH 1907.12.30.1 
+1040.1.21.3@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Chiyaka District     BMNH 1908.5.15.16 
+40.5.15@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Awharra*       BMNH 1902.12.18.37 
+40.5.18.16@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Baringo**        BMNH 1901.24.23; MCZ 18290 
+1905.3.7102–1905.3.7.7103@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Larna        BMNH 1911.1.26.1–1911.1.26.5 
+90.9.25.1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Murri* ⁄ **  BMNH 1952.1.8.85–1952.1.8.87  M. Largen (p.c.) 
+1968.1153@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Samburu      BMNH 98.1.8.6  C. Smeenk (p.c.  p.r.)
+1920.1.20.3400@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sankuri  N. bank – Tana R**   BMNH 1952.1.6.27
+1920.1.20.3787@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Taro Plains  Mt Kenya         BMNH 93.11.21.17       Gunther (1894); Mertens (1942c)
+1972.2156–@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mpemba**     BMNH 1962.825  D.G. Broadley (p.c.) 
+1948.1.7.15@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Chibabava    BMNH 1907.7.2.2        D.G. Broadley (p.c.) 
+1960.1.4.62@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Otjosongombe         BMNH 1936.9.4.33 
+1905.10.16.5@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Barberton        BMNH 1909.4.30.43; TM 1285; TM 1905    Boulenger (1909); Mertens (1942c); Fitzsimons 
+1970.1983@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Deelfontein   BMNH 1902.4.27.34; BMNH 1902.9.10.1   Boulenger (1903a); Mertens (1942a–c) 
+1986.352–1986.353@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@DeKaap Gold Fields    BMNH 93.11.20.1 
+1937.7.25.1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Port Natal     BMNH 62.12.4.2        Boulenger (1885); Mertens (1942a–c) 
+1954.1.10.60@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Umfolozi Reserve  BMNH 1905.3.7.99–1905.3.7.111   Boulenger (1905d); Borland (1968); Daniel (1968); 
+1952.1.6.21@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Erigabo      BMNH 1959.1.3.6 
+87.12.1.4–87.12.1.5@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Haud  BMNH 1937.7.20.360 
+1932.5.3.32@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Las Anod     BMNH 1931.7.20.367 
+1932.12.13.194@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lugh ⁄ **    BMNH 96.9.24.15        Boulenger (1896c); Mertens (1942c) 
+97.5.31.2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Margeira Area**       BMNH 1992.428   M.R.K. Lambert (p.c.  p.r., f.o.),
+87.9.26.1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sukh Plains    BMNH 1932.5.2.85 
+1971.31@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Wagga  BMNH 1905.11.7.11 
+1971.311@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Meshra  S. of  BMNH 1924.5.21.5
+1975.1492@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kilosa ⁄ **    BMNH 1923.10.9.104; MCZ 18291**;        Loveridge (1923b); Mertens (1942a–c) 
+1969.404@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Nuba Mountains**      BMNH 1957.1.9.23 
+1971.312@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tendaguru*     BMNH 1928.10.19.57–1928.10.19.58 
+1971.313@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Usili Mountains  nr**    BMNH 1964.744   Bellairs et al. (1960, 1961),
+1903.6.26.9–1903.6.26.10@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Chinsali ⁄ *¢        BMNH 1932.12.13.192–1932.12.13.193      Pitman (1934); D.G. Broadley (p.c.) 
+1987.855@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mpika*¢       BMNH 1905.11.10.1 
 @@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Cunga River      BMNH 1904.5.2.27;   Boulenger (1905b); Monard (1937); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Batouri    BMNH 1933.3.8.3  Bohme & Ziegler (1997a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Chad        BMNH 1931.8.20.1; MCZ 174882     Dunger (1967); Sikes (1972); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Albertville (= Kalemie)      BMNH 1953.1.10.73    Witte (1941 1952, 1953),
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Banana      BMNH 1901.3.12.51    Boettger (1888); Boettger (1893a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Irangi      BMNH 1970.1631 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Rumonge*       BMNH 1953.1.10.72 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tshinenda  nr Kafue River       BMNH 1937.7.6.1
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Luxor   BMNH 97.10.28.224;     Anderson (1896  1898); S. Spawls (p.c.)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@      BMNH 1906.7.25.3; 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Aruni – Dano River    BMNH 1937.1.3.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Caroasa River         BMNH 1969.1179 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Didessa River         BMNH 1970.1983 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Gemugofa      BMNH 1964.1050 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Abaya    BMNH 1969.233–1969.244         M. Largen (p.c.) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mullka  Anhara District      BMNH 1902.12.13.38
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@McCarthy Island   BMNH 1901.7.16.9   Andersson (1937); Mertens (1942c); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ashantee   BMNH 1946.8.30.96.1.15.G  Gray (1858); Bohme & Ziegler 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bioko Island (Fernando Poo Isl.)   BMNH 1.15.n;       Gray (1845); Boettger (1888); Mertens (1942c); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@   BMNH 1901.7.23.20–   Jeude (1895) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bolama     BMNH 95.5.10.2     Bocage (1895b); Boulenger (1905c); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Gnasso – Nyiri River        BMNH 1931.8.21.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Rudolf  Central Island        BMNH 1935.12.1.191    Parker (1936a); Mertens (1942c)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lamu       BMNH 87.11.3.3 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Rimo    BMNH 1970.2343 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Saka  at Tana River     BMNH 1952.1.6.20
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Shimoni        BMNH 1970.1962 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tsavo National Park     BMNH 93.11.21.18–       Gunther (1894); Loveridge (1936b); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Cuttington College      BMNH 1972. 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mossambolohum*    BMNH 1937.7.7.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Fort Johnston (= Mangochi)      BMNH 1926.5.8.14        Mitchell (1946a b); Loveridge (1953a)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Karonga – Kondowe       BMNH 97.6.9.246         Boulenger (1897b); Loveridge (1953a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@    BMNH 1934.6.5.6       Mitchell (1946a b)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Trarza County      BMNH 1913.5.9.15     Bohme & Ziegler (1997a); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Beira     BMNH 1907.4.29.32    Boulenger (1907a b); Cott (1934);
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Parc National      BMNH 1980.256 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jebba       BMNH 99.8.23.8–        Dunger (1967); Bohme & Ziegler 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kano        BMNH 1987.2094– 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lagos       BMNH 93.1.11.10–       Muller (1885); Mertens (1942c); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Makurdi     BMNH 1937.12.4.16      Dunger (1967); Bohme & Ziegler 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Niger Delta  94 km from mouth       BMNH 95.5.3.10–95.5.3.11      Dunger (1967)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Numan       BMNH 1983.1153–1983.1154      Bohme & Ziegler (1997a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Umuahia     BMNH 1948.1.2.70       Dunger (1967) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Yabba  nr Lagos    BMNH 1040.1.21.3       Dunger (1967)
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Cape Good Hope       BMNH 40.5.15;  Jeude (1895); Fitzsimons (1943); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@ False Bay   BMNH 40.5.18.16       DeWaal(1978); A.J.L. Lambiris (p.c) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ngoye Hills    BMNH 1905.3.7102–1905.3.7.7103     Boulenger (1905d); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@       BMNH 90.9.25.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Boughari        BMNH 1968.1153      Cisse & Karns (1978b); Miles et al. (1978); 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Medina   BMNH 1920.1.20.3400;       Bohme & Ziegler (1997a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@  BMNH 1920.1.20.3787 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Freetown        BMNH 1972.2156–      Bohme & Ziegler (1997a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Juba     BMNH 1948.1.7.15 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sumbuwa         BMNH 1960.1.4.62 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sobat River – Polkam         BMNH 1905.10.16.5 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ihako*      BMNH 1970.1983 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kilwa       BMNH 1986.352–1986.353;      Mertens (1942c); Witte (1953) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mafia Island   BMNH 1937.7.25.1;    Parker (1937); Moreau & 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jinja   BMNH 1954.1.10.60 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mongiro  B-Wamba*       BMNH 1952.1.6.21
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Wadelai  Albert Nile. R.        BMNH 87.12.1.4–87.12.1.5
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bulala*        BMNH 1932.5.3.32    Pitman (1934) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mpika – Manyamadzi River        BMNH 1932.12.13.194         Pitman (1934); Owens & Owens (1992) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Awoniwon         BMNH 97.5.31.2 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tirhyasi         BMNH 87.9.26.1 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Akwa        BMNH 1971.310 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tinta      BMNH 1971.311 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Wanie Rakula*   BMNH 1975.1492    Boettger (1888); Sternfeld (1912); Loveridge 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tributary  BMNH 1969.404      Bohme & Ziegler (1997a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ikom       BMNH 1971.312      Bohme & Ziegler (1997a) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Obubra     BMNH 1971.313 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@El Khobar (Al Khobar)    BMNH 1903.6.26.9–1903.6.26.10  Arnold (1986); Bohme et al. (1989); Schatti (1989) 
-@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Marib     BMNH 1987.855 
-@@http://dx.doi.org/10.1111/j.1365-2699.2007.01706.x@J-Biogeography@   One of the Aru Islands specimens (BMNH no.       (AMNH no. 302810). 
-@@http://dx.doi.org/10.1111/j.1365-2699.2007.01706.x@J-Biogeography@     Aru Is   BMNH     1907.12.11.16   1904         Toe pad 
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   arabica Malaquias and Reid  2008   1    Ras al-Khaimah, UAE  BMNH 20060102        DQ986516     DQ986574       DQ986639,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   arabica Malaquias and Reid  2008   2    Ras al-Khaimah, UAE  BMNH 20060103        DQ986517     DQ986575       DQ986640,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     15   Hakamagoshi, Japan   BMNH 20060116/1      DQ986518     DQ986576       –,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     16   Hakamagoshi, Japan   BMNH 20060116/2      DQ986519     DQ986577       DQ986641,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     17   Hakamagoshi, Japan   BMNH 20060116/3      DQ986520     DQ986578       DQ986642,
+1907.12.11.16@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Batouri    BMNH 1933.3.8.3  Bohme & Ziegler (1997a) 
+20060102@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Chad        BMNH 1931.8.20.1; MCZ 174882     Dunger (1967); Sikes (1972); 
+20060103@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Albertville (= Kalemie)      BMNH 1953.1.10.73    Witte (1941 1952, 1953),
+20060116/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Banana      BMNH 1901.3.12.51    Boettger (1888); Boettger (1893a) 
+20060116/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Irangi      BMNH 1970.1631 
+20060116/3@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Rumonge*       BMNH 1953.1.10.72 
+20060119@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tshinenda  nr Kafue River       BMNH 1937.7.6.1
+20060120@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Luxor   BMNH 97.10.28.224;     Anderson (1896  1898); S. Spawls (p.c.)
+20060106/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@      BMNH 1906.7.25.3; 
+20060106/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Aruni – Dano River    BMNH 1937.1.3.1 
+20041003@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Caroasa River         BMNH 1969.1179 
+20041004@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Didessa River         BMNH 1970.1983 
+20041005@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Gemugofa      BMNH 1964.1050 
+20030672/5@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Abaya    BMNH 1969.233–1969.244         M. Largen (p.c.) 
+20030672/1 DQ986527@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mullka  Anhara District      BMNH 1902.12.13.38
+20030672/4@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@McCarthy Island   BMNH 1901.7.16.9   Andersson (1937); Mertens (1942c); 
+20050164/12@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ashantee   BMNH 1946.8.30.96.1.15.G  Gray (1858); Bohme & Ziegler 
+20050164/7@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bioko Island (Fernando Poo Isl.)   BMNH 1.15.n;       Gray (1845); Boettger (1888); Mertens (1942c); 
+20050164/13@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@   BMNH 1901.7.23.20–   Jeude (1895) 
+20050164/9@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bolama     BMNH 95.5.10.2     Bocage (1895b); Boulenger (1905c); 
+20040859@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Gnasso – Nyiri River        BMNH 1931.8.21.1 
+20030672/2 DQ986536@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lake Rudolf  Central Island        BMNH 1935.12.1.191    Parker (1936a); Mertens (1942c)
+20040857@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lamu       BMNH 87.11.3.3 
+20040858@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Rimo    BMNH 1970.2343 
+20050598@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Saka  at Tana River     BMNH 1952.1.6.20
+20050599@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Shimoni        BMNH 1970.1962 
+20030344@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tsavo National Park     BMNH 93.11.21.18–       Gunther (1894); Loveridge (1936b); 
+20030292@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Cuttington College      BMNH 1972. 
+20030056@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mossambolohum*    BMNH 1937.7.7.1 
+20030055@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Fort Johnston (= Mangochi)      BMNH 1926.5.8.14        Mitchell (1946a b); Loveridge (1953a)
+20060112@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Karonga – Kondowe       BMNH 97.6.9.246         Boulenger (1897b); Loveridge (1953a) 
+20030291@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@    BMNH 1934.6.5.6       Mitchell (1946a b)
+20060099@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Trarza County      BMNH 1913.5.9.15     Bohme & Ziegler (1997a); 
+20060097@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Beira     BMNH 1907.4.29.32    Boulenger (1907a b); Cott (1934);
+20030339 –@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Parc National      BMNH 1980.256 
+20030849 DQ986537@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jebba       BMNH 99.8.23.8–        Dunger (1967); Bohme & Ziegler 
+20060125@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kano        BMNH 1987.2094– 
+20050351/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Lagos       BMNH 93.1.11.10–       Muller (1885); Mertens (1942c); 
+20050351/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Makurdi     BMNH 1937.12.4.16      Dunger (1967); Bohme & Ziegler 
+20050351/3@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Niger Delta  94 km from mouth       BMNH 95.5.3.10–95.5.3.11      Dunger (1967)
+20050351/4@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Numan       BMNH 1983.1153–1983.1154      Bohme & Ziegler (1997a) 
+20030779/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Umuahia     BMNH 1948.1.2.70       Dunger (1967) 
+20030779/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Yabba  nr Lagos    BMNH 1040.1.21.3       Dunger (1967)
+20030776 DQ986544@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Cape Good Hope       BMNH 40.5.15;  Jeude (1895); Fitzsimons (1943); 
+20030341/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@ False Bay   BMNH 40.5.18.16       DeWaal(1978); A.J.L. Lambiris (p.c) 
+20030341/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ngoye Hills    BMNH 1905.3.7102–1905.3.7.7103     Boulenger (1905d); 
+20030340@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@       BMNH 90.9.25.1 
+20030049@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Boughari        BMNH 1968.1153      Cisse & Karns (1978b); Miles et al. (1978); 
+20060118@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Medina   BMNH 1920.1.20.3400;       Bohme & Ziegler (1997a) 
+20030293@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@  BMNH 1920.1.20.3787 
+20060105@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Freetown        BMNH 1972.2156–      Bohme & Ziegler (1997a) 
+20060111/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Juba     BMNH 1948.1.7.15 
+20060111/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sumbuwa         BMNH 1960.1.4.62 
+20030775/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Sobat River – Polkam         BMNH 1905.10.16.5 
+20030775/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ihako*      BMNH 1970.1983 
+20030775/3 DQ986563@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Kilwa       BMNH 1986.352–1986.353;      Mertens (1942c); Witte (1953) 
+20030775/4@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mafia Island   BMNH 1937.7.25.1;    Parker (1937); Moreau & 
+20060110/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Jinja   BMNH 1954.1.10.60 
+20060110/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mongiro  B-Wamba*       BMNH 1952.1.6.21
+20030290@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Wadelai  Albert Nile. R.        BMNH 87.12.1.4–87.12.1.5
+20030784/1@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Bulala*        BMNH 1932.5.3.32    Pitman (1934) 
+20030784/2@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Mpika – Manyamadzi River        BMNH 1932.12.13.194         Pitman (1934); Owens & Owens (1992) 
+20030784/3@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Awoniwon         BMNH 97.5.31.2 
+20030783@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tirhyasi         BMNH 87.9.26.1 
+20030773@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Akwa        BMNH 1971.310 
+20030343@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tinta      BMNH 1971.311 
+20050660@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Wanie Rakula*   BMNH 1975.1492    Boettger (1888); Sternfeld (1912); Loveridge 
+20070018@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Tributary  BMNH 1969.404      Bohme & Ziegler (1997a) 
+20030296@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Ikom       BMNH 1971.312      Bohme & Ziegler (1997a) 
+20060325@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Obubra     BMNH 1971.313 
+G.50213-4@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@El Khobar (Al Khobar)    BMNH 1903.6.26.9–1903.6.26.10  Arnold (1986); Bohme et al. (1989); Schatti (1989) 
+1910.12.28.182@@http://dx.doi.org/10.1111/j.1365-2699.2002.00779.x@J-Biogeography@Marib     BMNH 1987.855 
+1935.10.22.303@@http://dx.doi.org/10.1111/j.1365-2699.2007.01706.x@J-Biogeography@   One of the Aru Islands specimens (BMNH no.       (AMNH no. 302810). 
+1934.10.21137@@http://dx.doi.org/10.1111/j.1365-2699.2007.01706.x@J-Biogeography@     Aru Is   BMNH     1907.12.11.16   1904         Toe pad 
+2012.11.9.1).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   arabica Malaquias and Reid  2008   1    Ras al-Khaimah, UAE  BMNH 20060102        DQ986516     DQ986574       DQ986639,
+2012.11.9.4).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   arabica Malaquias and Reid  2008   2    Ras al-Khaimah, UAE  BMNH 20060103        DQ986517     DQ986575       DQ986640,
+2012.9.7.2.@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     15   Hakamagoshi, Japan   BMNH 20060116/1      DQ986518     DQ986576       –,
+2012.9.7.3.@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     16   Hakamagoshi, Japan   BMNH 20060116/2      DQ986519     DQ986577       DQ986641,
+2012.9.7.1.@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     17   Hakamagoshi, Japan   BMNH 20060116/3      DQ986520     DQ986578       DQ986642,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     18   Natal, South Africa  BMNH 20060119        DQ986521     DQ986579       DQ986643,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     19   Natal, South Africa  BMNH 20060120        DQ986522     DQ986580       DQ986644,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     10   Nha Trang, Vietnam   BMNH 20060106/1      DQ986523     DQ986581       DQ986645,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     11   Nha Trang, Vietnam   BMNH 20060106/2      –    DQ986582       DQ986646,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     12   Nha Trang, Vietnam   BMNH 20041003        DQ974656     DQ986583       DQ927207,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     13   Nha Trang, Vietnam   BMNH 20041004        DQ986524     DQ986584       DQ986647,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     14   Nha Trang, Vietnam   BMNH 20041005        DQ986525     DQ986585       DQ986648,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     7    Taolagnaro, Madagascar       BMNH 20030672/5      DQ986526     DQ986586       DQ986649,
+2011.11.11.1@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     11   Nha Trang, Vietnam   BMNH 20060106/2      –    DQ986582       DQ986646,
+2011.11.11.2@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     12   Nha Trang, Vietnam   BMNH 20041003        DQ974656     DQ986583       DQ927207,
+2011.11.11.3@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     13   Nha Trang, Vietnam   BMNH 20041004        DQ986524     DQ986584       DQ986647,
+1986.639.4).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     14   Nha Trang, Vietnam   BMNH 20041005        DQ986525     DQ986585       DQ986648,
+1986.639.4@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     7    Taolagnaro, Madagascar       BMNH 20030672/5      DQ986526     DQ986586       DQ986649,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     8    Taolagnaro, Madagascar       BMNH20030672/1       DQ986527     DQ986587       DQ986650,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     9    Taolagnaro, Madagascar       BMNH 20030672/4      DQ986528     DQ986588       DQ986651,
+1911.11.8.18856–60@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     9    Taolagnaro, Madagascar       BMNH 20030672/4      DQ986528     DQ986588       DQ986651,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     3    Tuticorin, India     BMNH 20050164/12     DQ986529     DQ986589       DQ986652,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     4    Tuticorin, India     BMNH 20050164/7      –    DQ986590       DQ986653,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   ampulla Linnaeus  1758     5    Tuticorin, India     BMNH 20050164/13     DQ986530     DQ986591       DQ986654,
@@ -570,114 +568,114 @@ notspecified@@http://dx.doi.org/10.1111/cla.12008@Cladistics@Outgroup taxa      
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   vernicosa Gould  1859      71   Sulawesi, Indonesia  BMNH 20050598        DQ986570     DQ986635       –,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   vernicosa Gould  1859      72   Sulawesi, Indonesia  BMNH 20050599        DQ986571     DQ986636       –,
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   quoyii Gray  1843    49   Auckland, New Zealand        BMNH 20030344        DQ986557     DQ986618       DQ986679,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   quoyii Gray  1843    50   Esperance, SW Australia      BMNH 20030292        DQ986558     DQ986619       DQ986680,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   quoyii Gray  1843    51   Esperance, SW Australia      BMNH 20030056        DQ986559     DQ986620       DQ986681,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla quoyii Gray  1843   52   Esperance, SW Australia         BMNH 20030055         –    –    DQ986682,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla gouldiana Pilsbry  1895      20   Los Angeles, California         BMNH 20060112         DQ986532     DQ986593     DQ986656,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla punctulata A. Adams  1850    48   Cabo Blanco, Costa Rica         BMNH 20030291         DQ986556     DQ986617     DQ986678,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla mabillei Locard  1897  22   La Gomera, Canary Is    BMNH 20060099         DQ986533     DQ986594     DQ986657,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla mabillei Locard  1897  21   Tenerife, Canary Is     BMNH 20060097         DQ986534     DQ986595     DQ986658,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  27   Abaco, Bahamas    BMNH20030339  –    –    DQ986660,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  28   Arrecife, Cuba    BMNH20030849  DQ986537     –    DQ986661,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  45   Guanahacabibes, Cuba    BMNH 20060125         DQ986538     DQ986598     DQ986662,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  36   Cabo de Santo Antonio, Cuba     BMNH 20050351/1       DQ986539     DQ986599     DQ986663,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  37   Cabo de Santo Antonio, Cuba     BMNH 20050351/2       DQ986540     DQ986600     DQ986664,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  38   Cabo de Santo Antonio, Cuba     BMNH 20050351/3       DQ986541     DQ986601     DQ986665,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  39   Cabo de Santo Antonio, Cuba     BMNH 20050351/4       DQ986542     DQ986602     –,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  35   Long Key, Florida       BMNH 20030779/1       DQ986543     DQ986603     DQ986666,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  46   Long Key, Florida       BMNH 20030779/2       DQ974657     DQ986604     DQ927208,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  29   Pigeon Key, Florida     BMNH20030776  DQ986544     DQ986605     DQ986667,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  31   Recife, Brazil    BMNH 20030341/1       DQ986545     DQ986606     DQ986668,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  25   Recife, Brazil    BMNH 20030341/2       DQ986546     DQ986607     DQ986669,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  40   Recife, Brazil    BMNH 20030340         DQ986547     DQ986608     –,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  26   St Lucie inlet, E Florida       BMNH 20030049         DQ986548     DQ986609     DQ986670,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  44   Bocas del Toro, Panama  BMNH 20060118         DQ974658     DQ986616     DQ927209,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     56   Boavista I., Cape Verde         BMNH 20030293         DQ986560     –    –,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     57   Malta   BMNH 20060105         –    DQ986621     DQ986683
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     66   Malta   BMNH 20060111/1       –    –    DQ986684
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     67   Malta   BMNH 20060111/2       –    –    DQ986685
+2013.2.26.1@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   quoyii Gray  1843    50   Esperance, SW Australia      BMNH 20030292        DQ986558     DQ986619       DQ986680,
+1946.8.22.12@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla   quoyii Gray  1843    51   Esperance, SW Australia      BMNH 20030056        DQ986559     DQ986620       DQ986681,
+190510.20.1@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla quoyii Gray  1843   52   Esperance, SW Australia         BMNH 20030055         –    –    DQ986682,
+1930.3.24.19@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla gouldiana Pilsbry  1895      20   Los Angeles, California         BMNH 20060112         DQ986532     DQ986593     DQ986656,
+2006.3.6.34*@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla punctulata A. Adams  1850    48   Cabo Blanco, Costa Rica         BMNH 20030291         DQ986556     DQ986617     DQ986678,
+2007.8.29.31@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla mabillei Locard  1897  22   La Gomera, Canary Is    BMNH 20060099         DQ986533     DQ986594     DQ986657,
+2006.3.6.25@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla mabillei Locard  1897  21   Tenerife, Canary Is     BMNH 20060097         DQ986534     DQ986595     DQ986658,
+2006.3.6.20@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  27   Abaco, Bahamas    BMNH20030339  –    –    DQ986660,
+2007.8.29.19@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  28   Arrecife, Cuba    BMNH20030849  DQ986537     –    DQ986661,
+2007.8.29.20@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  45   Guanahacabibes, Cuba    BMNH 20060125         DQ986538     DQ986598     DQ986662,
+2007.8.29.21@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  36   Cabo de Santo Antonio, Cuba     BMNH 20050351/1       DQ986539     DQ986599     DQ986663,
+2007.8.29.22@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  37   Cabo de Santo Antonio, Cuba     BMNH 20050351/2       DQ986540     DQ986600     DQ986664,
+2007.8.29.23@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  38   Cabo de Santo Antonio, Cuba     BMNH 20050351/3       DQ986541     DQ986601     DQ986665,
+2006.3.6.15@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  39   Cabo de Santo Antonio, Cuba     BMNH 20050351/4       DQ986542     DQ986602     –,
+2006.3.6.9@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  35   Long Key, Florida       BMNH 20030779/1       DQ986543     DQ986603     DQ986666,
+2006.3.6.1@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  46   Long Key, Florida       BMNH 20030779/2       DQ974657     DQ986604     DQ927208,
+2007.8.29.24@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  29   Pigeon Key, Florida     BMNH20030776  DQ986544     DQ986605     DQ986667,
+2006.3.6.29@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  31   Recife, Brazil    BMNH 20030341/1       DQ986545     DQ986606     DQ986668,
+2006.3.6.21@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  25   Recife, Brazil    BMNH 20030341/2       DQ986546     DQ986607     DQ986669,
+2007.8.29.25@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  40   Recife, Brazil    BMNH 20030340         DQ986547     DQ986608     –,
+2007.8.29.26@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  26   St Lucie inlet, E Florida       BMNH 20030049         DQ986548     DQ986609     DQ986670,
+2006.3.6.14@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla occidentalis A. Adams  1850  44   Bocas del Toro, Panama  BMNH 20060118         DQ974658     DQ986616     DQ927209,
+2006.3.6.35@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     56   Boavista I., Cape Verde         BMNH 20030293         DQ986560     –    –,
+2006.3.6.36@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     57   Malta   BMNH 20060105         –    DQ986621     DQ986683
+2007.8.29.6@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     66   Malta   BMNH 20060111/1       –    –    DQ986684
+2007.8.29.7@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     67   Malta   BMNH 20060111/2       –    –    DQ986685
 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     58   Naples, Italy  BMNH 20030775/1       DQ986561     DQ986622     DQ986686,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     59   Naples, Italy  BMNH 20030775/2       DQ986562     DQ986623     DQ986687,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     63   Naples, Italy  BMNH20030775/3        DQ986563     DQ986624     DQ986688,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     54   Naples, Italy  BMNH 20030775/4       DQ986564     DQ986625     DQ986689,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     64   Ria de Alvor, Portugal  BMNH 20060110/1       –    DQ986626     DQ986690,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     65   Ria de Alvor, Portugal  BMNH 20060110/2       –    DQ986627     DQ986691,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     53   Ria Formosa, Portugal   BMNH 20030290         DQ974660     DQ986628     DQ927211,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     60   Sine´-Saloum, Senegal   BMNH 20030784/1       DQ974659     DQ986629     DQ927210,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     61   Sine´-Saloum, Senegal   BMNH 20030784/2       DQ986565     DQ986630     DQ986692,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     62   Sine´-Saloum, Senegal   BMNH 20030784/3       DQ986566     DQ986631     DQ986693,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     55   Sine´-Saloum, Senegal   BMNH 20030783         DQ986567     DQ986632     DQ986694,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     75   Tenerife, Canary Is     BMNH 20030773         –    –    DQ986695,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Chelidonura africana Pruvot-Fol  1953      76   Ria Formosa, Portugal   BMNH 20030343         DQ974654     DQ923448     DQ927216,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Haminoea cymbalum (Quoy and  77   Sulawesi  Indonesia     BMNH 20050660         DQ974673     DQ923460     DQ927230
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Haminoea navicula (da Costa  1778)         78   Ria de Aveiro, Portugal         BMNH 20070018         EU314804     EU314805     EU314806,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Haminoea orbignyana (de Fe´russac  1822)   79   Ria Formosa, Portugal   BMNH 20030296         EU314807     EU314808     EU314809,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Scaphander lignarius (Linnaeus  1758)      80   Algarve, Portugal       BMNH 20060325         DQ974663     DQ923454     DQ927221,
-@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@following models: HKY+C+I for COI  TVM+C+I for 16S   Museum, London; BMNH G.50213-4); these records gave a,
-@@http://dx.doi.org/10.1111/j.1365-2699.2010.02328.x@J-Biogeography@Coracina atriceps    BMNH 1910.12.28.182   Ceram       EU272091   EU273118      EU272102 
-@@http://dx.doi.org/10.1111/j.1365-2699.2010.02328.x@J-Biogeography@Coracina larvata normani      BMNH 1935.10.22.303   Borneo      EU380461   EU380419      EU380492 
+1897.5.13.502 JQ066190@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     59   Naples, Italy  BMNH 20030775/2       DQ986562     DQ986623     DQ986687,
+1911.11.16.112 JQ066182@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     63   Naples, Italy  BMNH20030775/3        DQ986563     DQ986624     DQ986688,
+1926.12.3.1 JQ066178@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     54   Naples, Italy  BMNH 20030775/4       DQ986564     DQ986625     DQ986689,
+1926.12.3.1 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     64   Ria de Alvor, Portugal  BMNH 20060110/1       –    DQ986626     DQ986690,
+1911.11.16.112 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     65   Ria de Alvor, Portugal  BMNH 20060110/2       –    DQ986627     DQ986691,
+1897.5.13.502 @@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     53   Ria Formosa, Portugal   BMNH 20030290         DQ974660     DQ986628     DQ927211,
+1946.8.29.25@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     60   Sine´-Saloum, Senegal   BMNH 20030784/1       DQ974659     DQ986629     DQ927210,
+1946.8.28.11@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     61   Sine´-Saloum, Senegal   BMNH 20030784/2       DQ986565     DQ986630     DQ986692,
+1960.1.3.18).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     62   Sine´-Saloum, Senegal   BMNH 20030784/3       DQ986566     DQ986631     DQ986693,
+1937.12.5.116).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     55   Sine´-Saloum, Senegal   BMNH 20030783         DQ986567     DQ986632     DQ986694,
+98.4.29.6-8].@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Bulla striata Bruguie`re  1792     75   Tenerife, Canary Is     BMNH 20030773         –    –    DQ986695,
+98.5.21.14-15).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Chelidonura africana Pruvot-Fol  1953      76   Ria Formosa, Portugal   BMNH 20030343         DQ974654     DQ923448     DQ927216,
+1931.8.1.137-140).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Haminoea cymbalum (Quoy and  77   Sulawesi  Indonesia     BMNH 20050660         DQ974673     DQ923460     DQ927230
+1973.3234-35).@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Haminoea navicula (da Costa  1778)         78   Ria de Aveiro, Portugal         BMNH 20070018         EU314804     EU314805     EU314806,
+95.6.11.3@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Haminoea orbignyana (de Fe´russac  1822)   79   Ria Formosa, Portugal   BMNH 20030296         EU314807     EU314808     EU314809,
+1946.8.28.11@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@Scaphander lignarius (Linnaeus  1758)      80   Algarve, Portugal       BMNH 20060325         DQ974663     DQ923454     DQ927221,
+1946.8.28.11@@http://dx.doi.org/10.1111/j.1365-2699.2009.02118.x@J-Biogeography@following models: HKY+C+I for COI  TVM+C+I for 16S   Museum, London; BMNH G.50213-4); these records gave a,
+1946.8.28.10]@@http://dx.doi.org/10.1111/j.1365-2699.2010.02328.x@J-Biogeography@Coracina atriceps    BMNH 1910.12.28.182   Ceram       EU272091   EU273118      EU272102 
+95.6.11.3@@http://dx.doi.org/10.1111/j.1365-2699.2010.02328.x@J-Biogeography@Coracina larvata normani      BMNH 1935.10.22.303   Borneo      EU380461   EU380419      EU380492 
 @@http://dx.doi.org/10.1111/j.1365-2699.2010.02328.x@J-Biogeography@Lalage leucopygialis   BMNH 1934.10.21137      Sulawesi       EU380477        EU380439       EU380507        HM002991 
-@@http://dx.doi.org/10.1111/jeu.12046@J-Eukaryotic-Microbiology@esis in D. pararotatorius n. sp. is therefore required to      number: NHMUK 2012.11.9.1). A paratype slide is depos- 
-@@http://dx.doi.org/10.1111/jeu.12046@J-Eukaryotic-Microbiology@number: NHMUK 2012.11.9.4). A paratype slide is depos-      (project no. 2012M511079). We are grateful to Dr. Jie 
-@@http://dx.doi.org/10.1111/jeu.12032@J-Eukaryotic-Microbiology@99.8%. Nevertheless  they can be clearly separated     tration number NHMUK 2012.9.7.2.
-@@http://dx.doi.org/10.1111/jeu.12032@J-Eukaryotic-Microbiology@       tration number NHMUK 2012.9.7.3. 
-@@http://dx.doi.org/10.1111/jeu.12032@J-Eukaryotic-Microbiology@registration number NHMUK 2012.9.7.1.         Foundation of China (projects numbers: 31172060 
+1946.8.28.10@@http://dx.doi.org/10.1111/jeu.12046@J-Eukaryotic-Microbiology@esis in D. pararotatorius n. sp. is therefore required to      number: NHMUK 2012.11.9.1). A paratype slide is depos- 
+,@@http://dx.doi.org/10.1111/jeu.12046@J-Eukaryotic-Microbiology@number: NHMUK 2012.11.9.4). A paratype slide is depos-      (project no. 2012M511079). We are grateful to Dr. Jie 
+] @@http://dx.doi.org/10.1111/jeu.12032@J-Eukaryotic-Microbiology@99.8%. Nevertheless  they can be clearly separated     tration number NHMUK 2012.9.7.2.
+1983.737]@@http://dx.doi.org/10.1111/jeu.12032@J-Eukaryotic-Microbiology@       tration number NHMUK 2012.9.7.3. 
+1931.8.1.137-140]@@http://dx.doi.org/10.1111/jeu.12032@J-Eukaryotic-Microbiology@registration number NHMUK 2012.9.7.1.         Foundation of China (projects numbers: 31172060 
 @@http://dx.doi.org/10.1111/jeu.12055@J-Eukaryotic-Microbiology@Museum  London, UK, with registration number NHMUK     nov. fam.). Eur. J. Protistol., 35:146–160.
-@@http://dx.doi.org/10.1111/j.1550-7408.2008.00350.x@J-Eukaryotic-Microbiology@possessing two to three contractile vacuoles positioned on the      (registration numbers 2008:06:02:1) is deposited at the NHM 
-@@http://dx.doi.org/10.1111/j.1550-7408.2009.00419.x@J-Eukaryotic-Microbiology@929.2 mm; n 5 10); measurements derived from formalin-fixed  Museum  London, U.K. (Accession number NHM 2008.3110).,
-@@http://dx.doi.org/10.1111/jeu.12005@J-Eukaryotic-Microbiology@the systematics of the group  such as spines on the cell       tration number NHMUK 2011.11.11.1) with paratype
-@@http://dx.doi.org/10.1111/jeu.12005@J-Eukaryotic-Microbiology@tration number NHMUK 2011.11.11.2) with paratype 
-@@http://dx.doi.org/10.1111/jeu.12005@J-Eukaryotic-Microbiology@tration number NHMUK 2011.11.11.3) with paratype        Biol. Mar.  6:357–399.
+1946.8.28.68@@http://dx.doi.org/10.1111/j.1550-7408.2008.00350.x@J-Eukaryotic-Microbiology@possessing two to three contractile vacuoles positioned on the      (registration numbers 2008:06:02:1) is deposited at the NHM 
+1960.1.3.18]@@http://dx.doi.org/10.1111/j.1550-7408.2009.00419.x@J-Eukaryotic-Microbiology@929.2 mm; n 5 10); measurements derived from formalin-fixed  Museum  London, U.K. (Accession number NHM 2008.3110).,
+1992.454]@@http://dx.doi.org/10.1111/jeu.12005@J-Eukaryotic-Microbiology@the systematics of the group  such as spines on the cell       tration number NHMUK 2011.11.11.1) with paratype
+1946.8.28.11@@http://dx.doi.org/10.1111/jeu.12005@J-Eukaryotic-Microbiology@tration number NHMUK 2011.11.11.2) with paratype 
+1937.12.5.116]@@http://dx.doi.org/10.1111/jeu.12005@J-Eukaryotic-Microbiology@tration number NHMUK 2011.11.11.3) with paratype        Biol. Mar.  6:357–399.
 @@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@   (mm)     (mm)      (%)         (mm)       seum (BMNH 1986.639.4). One of the hematoxylin preparations 
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@(BMNH 1986.639.4) [10]. England  Cornwall, Looe Bay,        ing evidence to the contrary, I find no reason to resurrect
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@18–30 m depth; A. C. Wheeler  July–August, 1956 (BMNH       Circolagenophrys and, therefore, include L. maxillaris in Lag-
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@139014 [10]  BMNH 1911.11.8.18856–60, 1974.656.50 [15, 8]).    enophrys that occur on maxillipeds of their hosts. Like L. maxilla-
+,@@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@(BMNH 1986.639.4) [10]. England  Cornwall, Looe Bay,        ing evidence to the contrary, I find no reason to resurrect
+98.4.29.6-8].,@@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@18–30 m depth; A. C. Wheeler  July–August, 1956 (BMNH       Circolagenophrys and, therefore, include L. maxillaris in Lag-
+2012.9.13.1@@http://dx.doi.org/10.1111/j.1550-7408.2005.3302r.x@J-Eukaryotic-Microbiology@139014 [10]  BMNH 1911.11.8.18856–60, 1974.656.50 [15, 8]).    enophrys that occur on maxillipeds of their hosts. Like L. maxilla-
 @@http://dx.doi.org/10.1111/j.1550-7408.2011.00567.x@J-Eukaryotic-Microbiology@Constraint ML tree (second best)     17 412.41       0.349   Museum, London, UK (registration number: NHMUK
-@@http://dx.doi.org/10.1111/j.1550-7408.2011.00567.x@J-Eukaryotic-Microbiology@Museum  London, UK (registration number: NHMUK         rophoros, Trachelolophos and Trachelotractus (Alveolata, Ciliophora).
+2012.9.13.3–10@@http://dx.doi.org/10.1111/j.1550-7408.2011.00567.x@J-Eukaryotic-Microbiology@Museum  London, UK (registration number: NHMUK         rophoros, Trachelolophos and Trachelotractus (Alveolata, Ciliophora).
 @@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@in the same manner. One sample of Sphaeroma terebrans Bates      S. terebrans (NHM 1936.7.31: 1–15 [part]). 
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@Carolina Central University  Durham, North Carolina, 27707—Tele-    annandalei (NHM 1936.7.31: 1–15 [part]).
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@       along the coast of Queensland  Australia (NHM 1919.2.21.14-15;
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@       terebrans from Tanzania (NHM 1925.10.30.1-4)  and one sample
+1976.1958).@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@Carolina Central University  Durham, North Carolina, 27707—Tele-    annandalei (NHM 1936.7.31: 1–15 [part]).
+1976.1958@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@       along the coast of Queensland  Australia (NHM 1919.2.21.14-15;
+1976.1958).@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@       terebrans from Tanzania (NHM 1925.10.30.1-4)  and one sample
 @@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@       of S. triste from Queensland (NHM 1983.507.5). 
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@   Macronucleus cylindroid  elongate, located in approximate  from Cochin-1 (NHM 2005:9:1:1–2005:9:1:5), 9 slides (hema-
+1960.3.15.1411-1423@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@   Macronucleus cylindroid  elongate, located in approximate  from Cochin-1 (NHM 2005:9:1:1–2005:9:1:5), 9 slides (hema-
 @@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@of macronucleus straight or slightly curved  slanting posteriad  (NHM 2005:9:1:6–2005:9:1:14), one slide (hematoxylin prepara-,
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@from left to right at slight to moderate angle to transverse axis of   tion) from each of the other localities in Table 1 (NHM 
-@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@either bent or curved anteriad or not. One or both ends of mac-  tion) from a locality in Venezuela (NHM 2005:9:1:20). Nine 
+1955.1.3.86@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@from left to right at slight to moderate angle to transverse axis of   tion) from each of the other localities in Table 1 (NHM 
+2002.31).@@http://dx.doi.org/10.1111/j.1550-7408.2005.00074.x@J-Eukaryotic-Microbiology@either bent or curved anteriad or not. One or both ends of mac-  tion) from a locality in Venezuela (NHM 2005:9:1:20). Nine 
 @@http://dx.doi.org/10.1111/jeu.12053@J-Eukaryotic-Microbiology@slide (registration number NHMUK 2013.2.26.1) with  and cell division of the little known freshwater ciliate Uroleptus 
-@@http://dx.doi.org/10.1111/j.1420-9101.2012.02528.x@J-Evolutionary-Biology@syntype of F. lateralis BMNH 1946.8.22.12 (the other 
-@@http://dx.doi.org/10.1111/j.1420-9101.2006.01097.x@J-Evolutionary-Biology@   L. tetrix – black grouse  f  3      BMNH   190510.20.1 
-@@http://dx.doi.org/10.1111/j.1420-9101.2006.01097.x@J-Evolutionary-Biology@  m     3   BMNH   1930.3.24.19     USNM     500264
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. afrofischeri       Hilgendorf 1888         U         Jinja   Lake Victoria        BMNH 2006.3.6.34* (5550)        DQ886618   FM878890 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. afrofischeri       U         Wanseko         Lake Albert  BMNH 2007.8.29.31 (5547)        FM878842   FM878917 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. af. ilebrevis      Wright & Page 2006      TZ        Sibwesa         Lake Tanganyika      BMNH 2006.3.6.25 (5153)         DQ886644   FM878902 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. irsacae    Wright & Page 2006      ZM        Mpulungu        Lake Tanganyika      BMNH 2006.3.6.20 (5053)         DQ886653   FM878900 
+1946.1.17.4@@http://dx.doi.org/10.1111/j.1420-9101.2012.02528.x@J-Evolutionary-Biology@syntype of F. lateralis BMNH 1946.8.22.12 (the other 
+1952.1.2.63@@http://dx.doi.org/10.1111/j.1420-9101.2006.01097.x@J-Evolutionary-Biology@   L. tetrix – black grouse  f  3      BMNH   190510.20.1 
+8.8.4.30@@http://dx.doi.org/10.1111/j.1420-9101.2006.01097.x@J-Evolutionary-Biology@  m     3   BMNH   1930.3.24.19     USNM     500264
+1897.6.14.12@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. afrofischeri       Hilgendorf 1888         U         Jinja   Lake Victoria        BMNH 2006.3.6.34* (5550)        DQ886618   FM878890 
+1913.9.8.14@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. afrofischeri       U         Wanseko         Lake Albert  BMNH 2007.8.29.31 (5547)        FM878842   FM878917 
+1949@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. af. ilebrevis      Wright & Page 2006      TZ        Sibwesa         Lake Tanganyika      BMNH 2006.3.6.25 (5153)         DQ886644   FM878902 
+885.8.19.2006@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. irsacae    Wright & Page 2006      ZM        Mpulungu        Lake Tanganyika      BMNH 2006.3.6.20 (5053)         DQ886653   FM878900 
 @@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa1  Vaillant 1895   U         Wanseko         Lake Albert  BMNH 2007.8.29.19 (5540)        FM878851   FM878913 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa2  U         Wanseko         Lake Albert  BMNH 2007.8.29.20 (5541)        FM878850   FM878912 
+AE@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa2  U         Wanseko         Lake Albert  BMNH 2007.8.29.20 (5541)        FM878850   FM878912 
 @@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa3  U         Wanseko         Lake Albert  BMNH 2007.8.29.21 (5542)        FM878852   FM878914 
 @@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa4  U         Wanseko         Lake Albert  BMNH 2007.8.29.22 (5543)        FM878853   FM878915 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa5  U         Wanseko         Lake Albert  BMNH 2007.8.29.23 (5544)        FM878854   – 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   lucipinnis       Matthes 1959    TZ        Kigoma  Lake    Tanganyika   BMNH 2006.3.6.15 (5126)         DQ886631   FM878903 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   multipunctata    Boulenger 1898  ZM        Mpulungu        Lake    Tanganyika   BMNH 2006.3.6.9 (5143)  DQ886625   FM878896 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   njassae  Keilhack 1908   MW        Nkhata Bay      Lake    Malawi       BMNH 2006.3.6.1 (4766)  DQ886620   FM878907 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   nigrita  Cuvier & Valenciennes   U         Wanseko         Lake    Albert       BMNH 2007.8.29.24 (5546)        FM878855   FM878880 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. petricola  Wright & Page 2006      ZM        Mpulungu        Lake Tanganyika      BMNH 2006.3.6.29 (5145)         DQ886638   FM878901 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. polli      Matthes 1959    ZM        Mpulungu        Lake Tanganyika      BMNH 2006.3.6.21 (5100)         DQ886645   FM878899 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. af. punctulata     Gu¨nther 1889   TZ?       n.a.    n.a.   BMNH 2007.8.29.25 (5537) (Tr)   FM878847   FM878909 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. serrata1   Ru¨ppell 1829   U         Lake Albert     Lake Albert  BMNH 2007.8.29.26 (5545)        FM878849   FM878911 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. victoriae  Boulenger 1906  U         Jinja   Lake Victoria        BMNH 2006.3.6.14 (5518)         DQ886657   FM878908 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. angelica   Schilthuis 1891         C         n.a.    n.a.   BMNH 2006.3.6.35 (Tr)   DQ886605   FM878882 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. brichardi  Poll 1959       C         n.a.    n.a.   BMNH 2006.3.6.36 (Tr)   DQ886606   FM878883 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. waterloti1    Daget 1962  SL      Bumbuna         Rokel   river  BMNH 2007.8.29.6 (5535) FM878869   FM878878 
-@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. waterloti2        SL      Bumbuna         Rokel   river  BMNH 2007.8.29.7 (5536) FM878870   FM878879 
-@@http://dx.doi.org/10.1111/jeb.12279@J-Evolutionary-Biology@and placental taxa that fall outside the 95% confidence        specimen of T. cynocephalus (NHM 1963.8.30.1)  no
-@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    Prioniturus   discurus whiteheadi       Philippines: Samar  Paranas     BMNH1897.5.13.502   JQ066190         JQ066237         Toe pad
-@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    Prioniturus   platenae    Philippines: Palawan  Iwahig    BMNH1911.11.16.112  JQ066182         JQ066229         Toe pad
-@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    Prioniturus   platurus platurus         Sulawesi: Butung         BMNH1926.12.3.1  JQ066178         JQ066225         Toe pad 
-@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    BMNH1926.12.3.1 
-@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    BMNH1911.11.16.112 
+1977.20.43@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. frontosa5  U         Wanseko         Lake Albert  BMNH 2007.8.29.23 (5544)        FM878854   – 
+1902.12.5.1@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   lucipinnis       Matthes 1959    TZ        Kigoma  Lake    Tanganyika   BMNH 2006.3.6.15 (5126)         DQ886631   FM878903 
+1887.11.1.337@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   multipunctata    Boulenger 1898  ZM        Mpulungu        Lake    Tanganyika   BMNH 2006.3.6.9 (5143)  DQ886625   FM878896 
+1897.5.13.311@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   njassae  Keilhack 1908   MW        Nkhata Bay      Lake    Malawi       BMNH 2006.3.6.1 (4766)  DQ886620   FM878907 
+1887.11.1.342@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S.   nigrita  Cuvier & Valenciennes   U         Wanseko         Lake    Albert       BMNH 2007.8.29.24 (5546)        FM878855   FM878880 
+1885.8.19.14-68@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. petricola  Wright & Page 2006      ZM        Mpulungu        Lake Tanganyika      BMNH 2006.3.6.29 (5145)         DQ886638   FM878901 
+1885.8.18.1389@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. polli      Matthes 1959    ZM        Mpulungu        Lake Tanganyika      BMNH 2006.3.6.21 (5100)         DQ886645   FM878899 
+1914.5.1.86@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. af. punctulata     Gu¨nther 1889   TZ?       n.a.    n.a.   BMNH 2007.8.29.25 (5537) (Tr)   FM878847   FM878909 
+1885.8.@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. serrata1   Ru¨ppell 1829   U         Lake Albert     Lake Albert  BMNH 2007.8.29.26 (5545)        FM878849   FM878911 
+1955.6.N.20.388@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. victoriae  Boulenger 1906  U         Jinja   Lake Victoria        BMNH 2006.3.6.14 (5518)         DQ886657   FM878908 
+1888.8.13.7(18@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. angelica   Schilthuis 1891         C         n.a.    n.a.   BMNH 2006.3.6.35 (Tr)   DQ886605   FM878882 
+1973.1.1@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. brichardi  Poll 1959       C         n.a.    n.a.   BMNH 2006.3.6.36 (Tr)   DQ886606   FM878883 
+1977.20.44@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. waterloti1    Daget 1962  SL      Bumbuna         Rokel   river  BMNH 2007.8.29.6 (5535) FM878869   FM878878 
+1912.7.20.1@@http://dx.doi.org/10.1111/j.1420-9101.2009.01691.x@J-Evolutionary-Biology@  S. waterloti2        SL      Bumbuna         Rokel   river  BMNH 2007.8.29.7 (5536) FM878870   FM878879 
+1955.6. N.20.433@@http://dx.doi.org/10.1111/jeb.12279@J-Evolutionary-Biology@and placental taxa that fall outside the 95% confidence        specimen of T. cynocephalus (NHM 1963.8.30.1)  no
+1887.5.1.619@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    Prioniturus   discurus whiteheadi       Philippines: Samar  Paranas     BMNH1897.5.13.502   JQ066190         JQ066237         Toe pad
+1969266).@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    Prioniturus   platenae    Philippines: Palawan  Iwahig    BMNH1911.11.16.112  JQ066182         JQ066229         Toe pad
+1911.10.26.50090–50109).@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    Prioniturus   platurus platurus         Sulawesi: Butung         BMNH1926.12.3.1  JQ066178         JQ066225         Toe pad 
+20070070@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    BMNH1926.12.3.1 
+PI@@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    BMNH1911.11.16.112 
 @@http://dx.doi.org/10.1111/j.1439-0469.2012.00654.x@J-ZooSystematics@    BMNH1897.5.13.502 
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Paralectotype BMNH 1946.8.29.25 from the same locality 
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Fig. 11. Known Distribution of Xenagama species. 1. Haud. Somaliland  1049 m (BMNH 1936.6.12.1, BMNH 1946.8.28.11, type locality). 2. Ma-
+PI@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Paralectotype BMNH 1946.8.29.25 from the same locality 
+PI@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Fig. 11. Known Distribution of Xenagama species. 1. Haud. Somaliland  1049 m (BMNH 1936.6.12.1, BMNH 1946.8.28.11, type locality). 2. Ma-
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@225502-503; MVZ 241355-358). 4. Gan–Libah  1500 m (BMNH 1960.1.3.18). 5. Dagah Bur, 1060 m (NHMAA 2004.06-08). 6. Short distance SE of,
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@dessa  NE of Dire Dawa, 1092 m (ZFMK 73281). 10. Milmil, Ogaden, 1254 m (BMNH 1937.12.5.116). 11. 15 km SE of Erigavo, 1614 m (MZUF
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Uri (43.386944  9.723889), 1649 m [BMNH 98.4.29.6-8]. 14. ca. 43 km SE of Jigjiga. near the village Qebri Beyah, Ogaden, 1741 m (ZFMK 93255-
@@ -686,12 +684,12 @@ notspecified@@http://dx.doi.org/10.1111/cla.12008@Cladistics@Outgroup taxa      
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@105545). 23. 9 km N Dodola (AMNH 105546). 24. Gojjam (BMNH 1964.1037-49). 25. Biccena (BMNH 1973.3234-35). 26. Lake Haramaja (Tornier 
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@1905). 27. Harar (ZMB 18195). 28.Shek Mahamed  at Delo near Ginir (BMNH 95.6.11.3, type locality), 29.Bender-Meraio (MNHN 5830, type local-
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Fig. 12. Holotype of Xenagama taylori (BMNH 1946.8.28.11) from ‘the Haud  Somaliland (long. 44°49′ E., lat. 8° 43′N.) at an altitude of 3400 feet’,
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Holotype: BMNH 1946.8.28.11 (Fig. 12)  adult male from ‘the  ever, according to Roos (2002), total length (presumably maxi-
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@[=‘annectans scale type’]. Gular and ventral scales smooth  gular        Holotype: BMNH 95.6.11.3 [BMNH 1946.8.28.10] (Fig. 14)
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Fig. 14. Holotype of Xenagama zonura (BMNH 95.6.11.3) from ‘Shek Mahamed  at Delo [07°15′N 40°28′E] near Ginir, Oromia Region, Ethiopia
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@  Acanthocercus zonurus (Boulenger  1895). Sauria 34:57–61.  75072-74); Haud (BMNH 1946.8.28.11, holotype, BMNH
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Swofford DL (2003) PAUP*: phylogenetic analysis using parsimony    at Delo [07°15′N 40°28′E] near Ginir (BMNH 1946.8.28.10
-@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@  Sogsoda Plain (45.376467  9.943442), 1335 m [BMNH,
+9272@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Holotype: BMNH 1946.8.28.11 (Fig. 12)  adult male from ‘the  ever, according to Roos (2002), total length (presumably maxi-
+9272@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@[=‘annectans scale type’]. Gular and ventral scales smooth  gular        Holotype: BMNH 95.6.11.3 [BMNH 1946.8.28.10] (Fig. 14)
+PI@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Fig. 14. Holotype of Xenagama zonura (BMNH 95.6.11.3) from ‘Shek Mahamed  at Delo [07°15′N 40°28′E] near Ginir, Oromia Region, Ethiopia
+PI@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@  Acanthocercus zonurus (Boulenger  1895). Sauria 34:57–61.  75072-74); Haud (BMNH 1946.8.28.11, holotype, BMNH
+PI@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Swofford DL (2003) PAUP*: phylogenetic analysis using parsimony    at Delo [07°15′N 40°28′E] near Ginir (BMNH 1946.8.28.10
+PI@@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@  Sogsoda Plain (45.376467  9.943442), 1335 m [BMNH,
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@Wagner P  Burmann A, B€ohme W (2008a) Studies on African Agama II.         (47,0.364086, 10.615394), 1795 m [BMNH]; Erigavo airstrip
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@  Resurrection of Agama agama kaimosae Loveridge  1935 (Squamata:  (47.388139, 10.642377), 1807 m [BMNH 1983.737]; 15 km SE of
 @@http://dx.doi.org/10.1111/jzs.12016@J-ZooSystematics@  Herp 15:1–7.     (47.12  10.25), 1714 m [BMNH 1931.8.1.137-140]; 3 km E of Kal-,
@@ -712,19 +710,19 @@ notspecified@@http://dx.doi.org/10.1111/cla.12008@Cladistics@Outgroup taxa      
 @@http://dx.doi.org/10.1111/j.1439-0469.2003.00205.x@J-ZooSystematics@of 415 bp of the cytochrome b gene  as well as 409 bp of the 12S and   frontoparietals. BMNH 1976.1958 had a wider sphenethmoid
 @@http://dx.doi.org/10.1111/j.1439-0469.2003.00205.x@J-ZooSystematics@own observations on BMNH 1976.1958). Own examinations       distinct peripheral calciﬁcation  however), in the second exam-,
 @@http://dx.doi.org/10.1111/j.1439-0469.2005.00331.x@J-ZooSystematics@(Rasotto 1995; Richtarski and Patzner 2000; Barni et al. 2001;         Reference for museum samples: C. lutheri: BMNH 
-@@http://dx.doi.org/10.1111/j.1439-0469.2005.00331.x@J-ZooSystematics@been related to male mating tactics in some species (Bass 1992;     V. sexguttata: BMNH 1960.3.15.1411-1423; 1994.1.18.125- 
-@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@  Cryptelytrops macrops (BMNH 
-@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@        (a)       E         (b)   rolepis (BMNH 1955.1.3.86) 
-@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@ﬂavomaculatus (BMNH 2002.31). 
-@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@Parias      mcgregori       (BMNH 
-@@http://dx.doi.org/10.1111/j.1439-0469.2005.00315.x@J-ZooSystematics@0026 (Yaakob 2003)  and the holotype (BMNH 1946.1.17.4) and  secondary structure model (Hickson et al. 1996) and it built on a
-@@http://dx.doi.org/10.1111/j.1439-0469.2005.00315.x@J-ZooSystematics@paratype (BMNH 1952.1.2.63) from the Natural History Museum  previous alignment (Vidal et al. 2000) that has been independently
-@@http://dx.doi.org/10.1111/j.1439-0469.2011.00642.x@J-ZooSystematics@[Meriones auceps (BMNH 8.8.4.30 male) and paratype of Gerbillus    21 two-dimensional (2D) landmarks  were chosen on the basis that
-@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@     Pcelwin 2    ba        Philippines  NW Luzon,      BMNH 1897.6.14.12    AY424391,
-@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@Pernis p. philippensis       Pptiphi 2    ba        Philippines  Mindanao, Davao, 1910   BMNH 1913.9.8.14  AY424377
-@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@     Pptiruf 3    ba        N India  Punjab 1923        BMNH 1949.Whi.1.92   AY424374
-@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@     Pptiruf 6    ba        India  Saharanpur, 1878     BMNH 885.8.19.2006   AY424375,
-@@http://dx.doi.org/10.1111/j.1439-0469.2010.00583.x@J-ZooSystematics@   This study aims to ﬁll this gap of knowledge. Incorporating    species: NHML Aq Zoo-2010-115). 
+R37002@@http://dx.doi.org/10.1111/j.1439-0469.2005.00331.x@J-ZooSystematics@been related to male mating tactics in some species (Bass 1992;     V. sexguttata: BMNH 1960.3.15.1411-1423; 1994.1.18.125- 
+14153@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@  Cryptelytrops macrops (BMNH 
+14153@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@        (a)       E         (b)   rolepis (BMNH 1955.1.3.86) 
+R@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@ﬂavomaculatus (BMNH 2002.31). 
+R14153@@http://dx.doi.org/10.1111/j.1439-0469.2009.00525.x@J-ZooSystematics@Parias      mcgregori       (BMNH 
+R14153@@http://dx.doi.org/10.1111/j.1439-0469.2005.00315.x@J-ZooSystematics@0026 (Yaakob 2003)  and the holotype (BMNH 1946.1.17.4) and  secondary structure model (Hickson et al. 1996) and it built on a
+R14171@@http://dx.doi.org/10.1111/j.1439-0469.2005.00315.x@J-ZooSystematics@paratype (BMNH 1952.1.2.63) from the Natural History Museum  previous alignment (Vidal et al. 2000) that has been independently
+11947@@http://dx.doi.org/10.1111/j.1439-0469.2011.00642.x@J-ZooSystematics@[Meriones auceps (BMNH 8.8.4.30 male) and paratype of Gerbillus    21 two-dimensional (2D) landmarks  were chosen on the basis that
+R14153@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@     Pcelwin 2    ba        Philippines  NW Luzon,      BMNH 1897.6.14.12    AY424391,
+R11909@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@Pernis p. philippensis       Pptiphi 2    ba        Philippines  Mindanao, Davao, 1910   BMNH 1913.9.8.14  AY424377
+R14153@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@     Pptiruf 3    ba        N India  Punjab 1923        BMNH 1949.Whi.1.92   AY424374
+14153@@http://dx.doi.org/10.1111/j.1439-0469.2004.00250.x@J-ZooSystematics@     Pptiruf 6    ba        India  Saharanpur, 1878     BMNH 885.8.19.2006   AY424375,
+EE13357@@http://dx.doi.org/10.1111/j.1439-0469.2010.00583.x@J-ZooSystematics@   This study aims to ﬁll this gap of knowledge. Incorporating    species: NHML Aq Zoo-2010-115). 
 @@http://dx.doi.org/10.1111/j.1439-0469.2008.00464.x@J-ZooSystematics@ZMB  AE DV. (c) Flabelligera luctator BMNH, AE in ventral view (VV). (d) Semiodera caribea ZMB, AE, lateral view (LV). (e) Therochaeta
 @@http://dx.doi.org/10.1111/j.1439-0469.2008.00464.x@J-ZooSystematics@       (BMNH)  Elin Sigvaldadottir (SMNH), Galina Buzhinskaja,
 @@http://dx.doi.org/10.1111/j.1439-0469.2011.00620.x@J-ZooSystematics@Examination of the holotype in the NHM conﬁrmed the      I. ﬂavipennis Grose-Smith  1885*
