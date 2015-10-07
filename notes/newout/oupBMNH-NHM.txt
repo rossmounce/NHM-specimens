@@ -1,7 +1,3 @@
-DNAResearch/0479.pdf.txt:could reduce the efficiency of translation of the ZNF219                412    PEFRCQVCGQSFTQSWFLKGHH!KHKASFDHACPVCGRCFKEP»FLKNHM<VHASKL
-DNAResearch/0479.pdf.txt:protein, and that the ZNF219 protein could be translated                343    NEFRCEVCGQVFSQAftFLKGHHRKHKDSFEHCCQICGRRFKEP»IFLKNHM<VHLNKL              399
-DNAResearch/0470.pdf.txt:                 human 2340 EWFRNESHVSCQCNHMTSFAVU'ilSSRRENGEILPLKTLTYVALGVTLAAlflLT] BFLTLLRILRSNQHGIRRNLTAALGLAQLVFLLG
-DNAResearch/0470.pdf.txt:                 mouse 2341 EWFRNESHVSCQCNHMTSFAVLMD|SRRENGEILPLKTLTYVALGVTLAAI§LTI IFLTLLRMLRSNQHGIRRNLTAALGLAQLVFLLG
 MBE/2003/1051.full.pdf.txt:rcc cca raa-39. The resulting fragments were cloned into           [NHM], London), which automates MrBayes analyses of
 MBE/2003/1051.full.pdf.txt:identity.                                                          (Peter Foster, NHM). For bootstrap replicate analyses,
 MBE/2003/278.full.pdf.txt:baboon (Papio cynocephalus anubis) BAC clones orthol-           NHML program of Galtier and Gouy (1998) was applied

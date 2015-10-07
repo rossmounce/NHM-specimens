@@ -3,4 +3,6 @@ http://www.bioone.org/doi/full/10.1655/HERPETOLOGICA-D-13-00045
 contains space in the middle of a specimen id!
 "Atractus modestus (n = 11).—ECUADOR: Western Ecuador without specific locality data: (BMNH 1946. 1.6.30, holotype"
 
-entities that are not NHM/BMNH: SNHM SBMNH NHMV NHMW HNHM
+entities that are not NHM/BMNH: SNHM SBMNH NHMV NHMW HNHM NHMB
+
+Delete lines that do not contain a number
