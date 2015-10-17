@@ -818,283 +818,237 @@ Not specific@2003@zt00197@Bajo, 03°53´S, 77°04´W, 3.X.1971, M. Cooper leg. (
 Not specific@2003@zt00197@          of Diamantino, 1500 ft. 20-27.VIII.1925, C. L. Collenelle leg. (BMNH). Paratype female:
 Not specific@2003@zt00197@          Brazil, Mato Grosso 12º50’S, 51º47’W 8.IV.1968, O. W. Richards leg. (BMNH).
 Not specific@2004@zt00510@inal description, there is a second syntype in BMNH. [Gelechiidae: Gelechiinae]
- A@2004@zt00510@this species is deposited in BMNH. A label accompanying the specimen reads “Glyphi-
- NHMB@2004@zt00667@          NHMB            Naturhistorisches Museum, Basel;
- NHMW@2004@zt00667@          NHMW            Naturhistorisches Museum, Wien;
-@2004@zt00667@Ban Huai Po, 800–1600 m, S. Bily leg.” (NHMB). Paratypes: 8 %%, 10 && same data as
-@2004@zt00667@holotype (NHMB, CA), 8 %%, 9 && “NW [sic] Thailand, 19.19N, 91.59 E Mae Hong Son,
-1991@2004@zt00667@1991 Ban Si Lang, 1200 m 23.–31.5., L. Dembický leg.” (NHMB, NHMW, CA), 1 %
- &@2004@zt00667@          & Pacholátko leg.” (TICB), 1 & “Darugiri, Garo Hills 450 m, 19.5.76” (NHMB).
- (NHMB@2004@zt00667@          (NHMB), M. Uhlig, J. Schulze, J. Frisch (ZMHB), H. Schoenmann, M. Jäch (NHMW), P.
-@2004@zt00473@          NY (AMNH); The Natural History Museum, London, U.K. (BMNH); University
-@2004@zt00473@               Type material. Lectotype female, of Tamila tertia Grote, in BMNH, designated by
-@2004@zt00499@     Holotype (male): Tray 54; Fog 5, 400 m, 11. ii. 85; BMNH, Plot C; Indonesia:
-@2004@zt00499@B.M. 1985-10. Paratypes: (male) Tray 51; Fog 11, 230 m, 10. iii. 85, BMNH plot A;
-@2004@zt00499@females) Tray 52 and 54; Fog 5, 400 m, 11. ii. 85; BMNH, Plot C; Indonesia: Sulawesi,
-@2004@zt00499@1985-10; (two males) Tray 32 and 18; Fog 13, 230 m, 11. vii. 85, BMNH Plot A; Indone-
-@2004@zt00499@B.M. 1985-10; (male) Tray 45; Fog 5, 400 m, 11. ii. 85; BMNH, Plot C; Indonesia:
-@2004@zt00499@B.M. 1985-10; (female) Tray 106; Fog 15, 400 m, 19. vii. 85; BMNH, Plot C; Indonesia:
-@2004@zt00499@BMNH, Plot C; Indonesia: Sulawesi, Utara, Dumoga-Bone N. P., February, 1985; R. Ent.
-@2004@zt00499@BMNH, Plot C; Indonesia: Sulawesi, Utara, Dumoga-Bone N. P., July, 1985. Holotype and
-NHMW@2004@zt00757@NHMW          Naturhistorisches Museum, Wien, Austria, R. Contreras-Lichtenberg
-@2004@zt00757@               desig.) (Nigranitida). Type locality Cordova [Argentina]. NT female (MEI 084113) in NHMW.
-@2004@zt00757@               Argentina. HT female (MEI 084113) in NHMW as NT of costata.
-@2004@zt00757@Mendoza, Reimoser, Argentina and deposited in the NHMW. Other Specimens. ARGEN-
-@2004@zt00699@holm (NRM), The Natural History Museum, London (BMNH), Zoological Museum, Finn-
-@2004@zt00699@Aerumnosa furcillata Mohrig (New Guinea; BMNH)
-@2004@zt00699@Apelmogreagris thoracica (Macquart) (Malawi; BMNH)
-@2004@zt00780@          Museum, Sydney (AM); the Natural History Museum, London (BMNH); the Australian
-@2004@zt00780@          Richard Harbord, and Daphne Hills (BMNH) for access to specimens under their care and
+Not specific@2004@zt00510@this species is deposited in BMNH. A label accompanying the specimen reads “Glyphi-
+Not specific@2004@zt00667@Ban Huai Po, 800–1600 m, S. Bily leg.” (NHMB). Paratypes: 8 %%, 10 && same data as
+Not specific@2004@zt00473@               Type material. Lectotype female, of Tamila tertia Grote, in BMNH, designated by
+Not specific@2004@zt00499@     Holotype (male): Tray 54; Fog 5, 400 m, 11. ii. 85; BMNH, Plot C; Indonesia:
+B.M. 1985-10@2004@zt00499@B.M. 1985-10. Paratypes: (male) Tray 51; Fog 11, 230 m, 10. iii. 85, BMNH plot A;
+Not specific@2004@zt00499@females) Tray 52 and 54; Fog 5, 400 m, 11. ii. 85; BMNH, Plot C; Indonesia: Sulawesi,
+1985-10@2004@zt00499@1985-10; (two males) Tray 32 and 18; Fog 13, 230 m, 11. vii. 85, BMNH Plot A; Indone-
+Not specific@2004@zt00499@B.M. 1985-10; (male) Tray 45; Fog 5, 400 m, 11. ii. 85; BMNH, Plot C; Indonesia:
+Not specific@2004@zt00499@B.M. 1985-10; (female) Tray 106; Fog 15, 400 m, 19. vii. 85; BMNH, Plot C; Indonesia:
+Not specific@2004@zt00499@BMNH, Plot C; Indonesia: Sulawesi, Utara, Dumoga-Bone N. P., February, 1985; R. Ent.
+Not specific@2004@zt00499@BMNH, Plot C; Indonesia: Sulawesi, Utara, Dumoga-Bone N. P., July, 1985. Holotype and
+Not specific@2004@zt00699@Aerumnosa furcillata Mohrig (New Guinea; BMNH)
+Not specific@2004@zt00699@Apelmogreagris thoracica (Macquart) (Malawi; BMNH)
 9.1.4.3@2004@zt00780@          CSIRO 5003 (male, QLD [Aubusi Island, Torres Strait]); BMNH 9.1.4.3 (unsexed, QLD
 5.6.5.2@2004@zt00780@          AM 10037 (male), 19046 (male), 29289 (male); BMNH 5.6.5.2 (male), 76.10.28.1 (male);
-NHM@2004@zt00600@NHM, The Natural History Museum (formerly British Museum [Natural History]), Lon-
- NHM@2004@zt00600@          NHM 1888.22
-@2004@zt00600@view; b, & syntype, 19.9 mm, Kermadec Islands, Challenger, Stn 170, 951 m (NHM 1888.22), ros-
-@2004@zt00600@          Islands, Challenger, Stn 170, 951 m (NHM 1888.22), a, thelycum, ventral view (after Crosnier,
-951@2004@zt00600@          951 m (NHM 1888.22), f, & syntype 19.7 mm, ibidem (NHM 1888.22), g, & syntype 24.2 mm, ibi-
-@2004@zt00600@          dem (NHM 1888.22). Scale, a–g, 1 mm.
-@2004@zt00600@type, Kermadec Islands (NHM 1888.22); b, Hymenopenaeus halli Bruce, 1966, & 23.5 mm,
-22.5@2004@zt00600@          22.5 mm, 19°22'N, 114°11'E, depth, 400–435 m, 7.01.1964 (after Crosnier & Forest, 1973) (NHM
- NHM=@2004@zt00694@          NHM= The Natural History Museum, London, United Kingdom
-@2004@zt00694@ 694          Lectotype. (here designated) % “Co-Typus”; Tajura; (Lord) (BMNH)
-&@2004@zt00694@              Paralectotypes. & “Co-Typus”; Sharp Coll.; 1905-313. (BMNH);       &   “Co-Typus”;
-@2004@zt00694@          Tajura; (Lord) (BMNH)
-@2004@zt00694@the kind loan of specimens we thank Max Barclay (NHM), Ben Brugge (ZMA), Gian-
-@2004@zt00398@          tory Museum, London (BMNH), National Museum of Victoria. Melbourne (NMV),
+1888.22@2004@zt00600@          NHM 1888.22
+Not specific@2004@zt00600@view; b, & syntype, 19.9 mm, Kermadec Islands, Challenger, Stn 170, 951 m (NHM 1888.22), ros-
+Not specific@2004@zt00600@          Islands, Challenger, Stn 170, 951 m (NHM 1888.22), a, thelycum, ventral view (after Crosnier,
+Not specific@2004@zt00600@          951 m (NHM 1888.22), f, & syntype 19.7 mm, ibidem (NHM 1888.22), g, & syntype 24.2 mm, ibi-
+Not specific@2004@zt00600@          dem (NHM 1888.22). Scale, a–g, 1 mm.
+Not specific@2004@zt00600@type, Kermadec Islands (NHM 1888.22); b, Hymenopenaeus halli Bruce, 1966, & 23.5 mm,
+1965.1.7.1@2004@zt00600@          22.5 mm, 19°22'N, 114°11'E, depth, 400–435 m, 7.01.1964 (after Crosnier & Forest, 1973) (NHM
+Not specific@2004@zt00694@ 694          Lectotype. (here designated) % “Co-Typus”; Tajura; (Lord) (BMNH)
+1905-313@2004@zt00694@              Paralectotypes. & “Co-Typus”; Sharp Coll.; 1905-313. (BMNH);       &   “Co-Typus”;
+Not specific@2004@zt00694@          Tajura; (Lord) (BMNH)
 1863.12.4.73@2004@zt00398@          sin. BMNH 1863.12.4.73 (1), 157.2 mm SL; NMV 46511 (1), 162.7 mm SL; Sumatra:
-@2004@zt00398@          and James Maclaine (BMNH), Martien van Oijen (RMNH), Dianne Bray (NMV), and
-@2004@zt00753@          BMNH The Natural History Museum, London, United Kingdom
- NHMW@2004@zt00753@          NHMW Naturhistorisches Museum, Vienna, Austria
-@2004@zt00753@          Christine Taylor (BMNH), David Wahl (AEIC), Lajos Zombori (HNHM), and Guido
-*@2004@zt00753@*   Stephanus gigas Schletterer, 1889a:84, 96, &. Distribution, figure, keyed. Holotype NHMW
-@2004@zt00753@          *    Stephanus comma Morley, 1917b:105, %. Holotype BMNH (Type locality: Obuasi, Ashanti
-?@2004@zt00753@          *    Foenatopus aequalis Elliott, 1928c:63, &. Holotype BMNH? (Type locality: India, Mysore,
-@2004@zt00753@*   Diastephanus alutaceus Morley, 1917b:109, &. Holotype BMNH (Type locality: Rhodesia,
-USNM@2004@zt00753@*   Diastephanus annulipes Elliott, 1927b:350, 354, &. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@        type & and paratype BMNH (Type locality: Burma, Myanmar, Pyinmana, Yeni Reserve).
-@2004@zt00753@*   Foenatopus butuanus Elliott, 1928b:79, 80, 81, &, %. Keyed. Lectotype & BMNH (Type local-
-@2004@zt00753@*   Foenatopus gracilis Elliott, 1928b:79, 82, &. Holotype BMNH (Type locality: Mindanao,
-USNM@2004@zt00753@*   Foenatopus aciculatus Elliott, 1928b:79, 80, 84, &, %. Syntypes BMNH, USNM (Type local-
-USNM@2004@zt00753@*   Foenatopus albiceps Elliott, 1928b:81, 93, %. Keyed. Syntypes BMNH, USNM (Type locality:
-@2004@zt00753@          *    Diastephanus chinensis Elliott, 1919b:73, &. Holotype BMNH (Type locality: China, Haut
-@2004@zt00753@          *    Diastephanus christineae Narendran: Narendran et al., 2002:69, &. Figure. Holotype BMNH
-@2004@zt00753@*   Foenatopus claripennis Elliott, 1919a:31, &. Holotype BMNH (Type locality: Nyassaland,
-@2004@zt00753@*   Diastephanus clavicoxis Elliott, 1927b:350, 358, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@*   Diastephanus costifrons Elliott, 1927b:351, 363, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@                   BMNH (Type locality: Bangladesh, Dhaka). Description clearly situates species within
-@2004@zt00753@          *    Diastephanus elegans Elliott, 1919a:31, &. Holotype BMNH (Type locality: Singapore). Pub-
-USNM@2004@zt00753@                   BMNH, USNM (Type locality: Borneo, Sandakan). Description clearly situates species
-@2004@zt00753@          *    Diastephanus elongatus Elliott, 1927b:350, 356, %. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@*   Stephanus (Foenatopus) fernandopoensis Schulz, 1906:273, &. Figure. Holotype BMNH (Type
-@2004@zt00753@*   Diastephanus flaviceps Elliott, 1917c:131, %. Holotype BMNH (Type locality: unknown).
-USNM@2004@zt00753@*   Diastephanus flavifrons Kieffer, 1916:407, 408, %. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@*   Diastephanus flavifrons Elliott, 1917c:131, %. Holotype stated to be in BMNH (Type locality:
-NHRS@2004@zt00753@                  (1995). Also syntypes BMNH, NHRS, ZMPA.
-@2004@zt00753@          *    Diastephanus frontilinea Morley, 1917b:109, &. Holotype BMNH (Type locality: Rangpur, on
-@2004@zt00753@          *    Foenatopus fuscinervis Cameron, 1903:101, %. Holotype BMNH (Type locality: Borneo,
-?@2004@zt00753@*   Foenatopus ruficeps Smith, 1861a:58, &. Holotype BMNH? (Type locality: Makassar [Indone-
-USNM@2004@zt00753@*   Diastephanus longior Elliott, 1927b:350, 356, %. Keyed. Syntypes BMNH, USNM (Type
-USNM@2004@zt00753@*   Diastephanus clavatus Elliott, 1927b:350, 362, %. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@ 753      *    Foenatopus insularis Elliott, 1928b:79, 81, 86, &, %. Keyed. Syntypes BMNH (Type locality:
-@2004@zt00753@          *    Foenatopus dubius Elliott, 1928b:81, 88, &, %. Keyed. Syntypes BMNH (Type locality: Mind-
-USNM@2004@zt00753@                  types BMNH, USNM (Type locality: Mindanao, Davao). USNM with one specimen
-@2004@zt00753@          *    Foenatopus sibuyanus Elliott, 1928b:80, 91, &. Keyed. Holotype BMNH (Type locality:
-USNM@2004@zt00753@          *    Foenatopus longicoxis Elliott, 1928b:81, 94, &. Keyed. Syntypes BMNH, USNM (Type local-
-@2004@zt00753@          *    Foenatopus intermedius Elliott, 1928b:80, 89, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@          *    Foenatopus iridipennis Elliott, 1919a:30, &, %. Syntypes BMNH (Type locality: Kangra Val-
-@2004@zt00753@                  BMNH (Type locality: India, Rajasthan, Jodhpur).
-@2004@zt00753@*   Diastephanus flavonotatus Elliott, 1919a:32, %. Holotype BMNH (Type locality: N. Borneo,
-USNM@2004@zt00753@*   Diastephanus albonotatus Elliott, 1926:526, &. Syntypes BMNH, USNM (Type locality:
-@2004@zt00753@*   Foenatopus transversus Elliott, 1928b:79, 87, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@          *    Diastephanus levis Elliott, 1927b:350, 357, &. Keyed. Holotype BMNH (Type locality: Mind-
-@2004@zt00753@          *    Foenatopus longicauda Elliott, 1919a:30, &. Holotype BMNH (Type locality: India, Nilgiri
-?@2004@zt00753@          *    Megiseleus [sic!] longicollis Cameron, 1902:31, &. Holotype BMNH? (Type locality: Borneo,
-@2004@zt00753@          *    Diastephanus lucifer Elliott, 1927b:350, 355, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@          *    Diastephanus multicolor Elliott, 1927b:350, 352, %. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@*   Foenatopus ocellata Elliott, 1919d:131, &. Holotype BMNH (Type locality: Sarawak, Mount              753
-@2004@zt00753@*   Neostephanus oemidaphagus Benoit, 1951b:124, &. Biology. Holotype BMNH (Type locality:
-@2004@zt00753@        cogitated, figure, keyed. Holotype BMNH under Diastephanus (Type locality: Philip-
-@2004@zt00753@*   Diastephanus parvulus Elliott, 1927b:350, 361, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@                  BMNH (Type locality: Singapore).
-@2004@zt00753@          *    Foenatopus punctatus Elliott, 1919b:73, &. Holotype and paratype BMNH (Type locality:
-@2004@zt00753@          *    Diastephanus punctinotum Elliott, 1927b:350, 358, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@          *    Diastephanus quadridens Elliott, 1920:81, &. Holotype BMNH (Type locality: Luang Prabang,
-@2004@zt00753@          *    Foenatopus rubricaput Elliott, 1928b:79, 85,    &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@          *    Foenatopus rufescens Elliott, 1928b:80, 88,     &. Keyed. Holotype BMNH (Type locality:
-USNM@2004@zt00753@*   Foenatopus rufitarsis Elliott, 1928b:79, 85, &. Keyed. Syntypes BMNH, USNM (Type local-
-@2004@zt00753@*   Foenatopus rugiceps Elliott, 1919a:29, &. Holotype BMNH (Type locality: South India), bear-
-@2004@zt00753@*   Stephanus salomonis Westwood, 1874:128, &. Holotype BMNH (Type locality: Solomon
-USNM@2004@zt00753@          *    Diastephanus semiglaber Elliott, 1927b:350, 361, &. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@                   BMNH (Type locality: India, Simla, Himachal Pradesh).
-@2004@zt00753@          *    Diastephanus simillimus Elliott, 1920:82, &. Holotype BMNH (Type locality: Hoabinh, Tonkin
-@2004@zt00753@          *    Foenatopus simpsoni Kieffer, 1911a:233, &. Holotype BMNH (Type locality: Southern Nige-
-@2004@zt00753@          *    Diastephanus stom Narendran & Sureshan, 2003:130, 137, &. Figure, keyed. Holotype BMNH
-@2004@zt00753@                   BMNH (Type locality: India, Kerala, Kumaranelloor, near Edappal). Description clearly
-@2004@zt00753@*   Diastephanus sulcatus Elliott, 1920:80, &. Holotype stated to be in BMNH (Type locality:
-@2004@zt00753@*   Foenatopus terecollis Elliott, 1928b:80, 90,   &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@*   Diastephanus tertianus Morley, 1917b:108, &. Holotype stated to be in BMNH (Type locality:
-USNM@2004@zt00753@          *    Diastephanus trialbatus Elliott, 1927b:349, 351, &, %. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@          *    Diastephanus trilineatus Elliott, 1920:81, &. Syntypes BMNH (Type locality: Hoabinh, Tonkin
-@2004@zt00753@          *    Diastephanus trilobatus Elliott, 1920:82, &. Holotype BMNH (Type locality: Hoabinh, Tonkin
-@2004@zt00753@*   Foenatopus unistriatus Cheesman, 1936:195, &. Figure. Holotype and paratypes BMNH (Type
-@2004@zt00753@*   Diastephanus varicolor Elliott, 1926:526, &. Holotype BMNH (Type locality: Mindanao,
-USNM@2004@zt00753@*   Foenatopus varicolor Elliott, 1928b:79, 80, 83, &, %. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@*   Foenatopus variidens Elliott, 1921:257, &. Holotype BMNH (Type locality: Paleboehan, Ratoe
-@2004@zt00753@          *    Hemistephanus carinatus Elliott, 1931:97, &. Holotype BMNH examined (Type locality: North
-@2004@zt00753@*   Megischus cylindricus Westwood, 1851:230, &. Lectotype BMNH examined (Type locality:
-@2004@zt00753@          *    Megischus erythrocephalus Cameron, 1887:421, &. Holotype BMNH examined (Type locality:
-@2004@zt00753@          *    Megischus ruficeps Cameron, 1887:420, &. Figure. Holotype BMNH examined (Type locality:
-@2004@zt00753@          *    Megischus submaculatus Westwood, 1851:230, &. Holotype BMNH examined (Type locality:
-@2004@zt00753@                  group, figure, keyed. Holotype BMNH (Type locality: Malaysia, Sarawak).
-@2004@zt00753@                   Davao), paralectotypes USNM, BMNH, designated by Achterberg (2002). Synonymized
-@2004@zt00753@                  Holotype and paratypes BMNH examined (Type location: Guatemala, San Gerónimo, El
-@2004@zt00753@          *    Stephanus crassicauda Morley, 1917b:106, &. Holotype and paratype BMNH examined (Type
-@2004@zt00753@          *    Stephanus curtus Elliott, 1926:517, &. Lectotype BMNH (Type locality: Borneo, Sandakan),
-@2004@zt00753@                   paralectotypes BMNH and USNM, designated by Achterberg (2002).
-@2004@zt00753@          *    Stephanus brevicoxis Elliott, 1926:517, &. Holotype BMNH (Type locality: Borneo, Sanda-
-@2004@zt00753@*   Megischus ducalis Westwood, 1851:229, &. Holotype BMNH examined (Type locality: East-               ZOOTAXA
-?@2004@zt00753@*   Stephanus furcatus LePeletier & Serville, 1825:489, &. Holotype BMNH? (Type locality: Bra-
-@2004@zt00753@          *    Stephanus tortus Morley, 1917a:34, &. Holotype BMNH (Type locality: Nedunkernie, in the
-@2004@zt00753@          *    Megischus insularis Smith, 1857:120, &, %. Lectotype & BMNH examined (Type locality:
-@2004@zt00753@*   Stephanus pilosus Elliott, 1921:256, %. Holotype BMNH (Type locality: Palaboehan, Ratoe
-@2004@zt00753@*   Stephanus rugosus Elliott, 1921:256, %. Holotype BMNH (Type locality: Java, Preanger
-@2004@zt00753@*   Stephanus impressus Elliott, 1926:519, &. Holotype BMNH (Type locality: Mindanao, Davao).
-@2004@zt00753@*   Stephanus sulcatus Elliott, 1926:521, &. Lectotype BMNH (Type locality: Mindanao, Surigao),
-@2004@zt00753@*   Stephanus ruber Elliott, 1927a:213, 226, &, %. Keyed. Lectotype & BMNH (Type locality:
-@2004@zt00753@*   Stephanus samaris Elliott, 1927a:227, &. Keyed. Lectotype BMNH (Type locality: Samar),
-@2004@zt00753@*   Megischus maculipennis Westwood, 1851:229, &. Holotype BMNH (under Hemistephanus)
-@2004@zt00753@*   Stephanus testaceipes Elliott, 1931:97, %. Holotype BMNH examined (Type locality: Peru,
-@2004@zt00753@*   Megischus niger Smith, 1864a:44, &. Holotype BMNH examined (Type locality: Panama).
-@2004@zt00753@*   Stephanus reticulatus Elliott, 1926:519, &. Lectotype & BMNH (Type locality: Sibuyan), desig-
-@2004@zt00753@          *    Megischus froggattii Cameron, 1911b:357, &, %. Lectotype & BMNH (Type locality: Solomon
-@2004@zt00753@          *    Stephanus rubripes Morley, 1917b:107, &, %. Holotype BMNH (Type locality: Solomon
-@2004@zt00753@                   there or BMNH according to Achterberg (2002) (Type locality: Mindanao, Davao). Proba-
-@2004@zt00753@                  group, figure, keyed. Holotype BMNH (Type locality: Vietnam, Bac-Phan, Hoa Binh).
-@2004@zt00753@          *    Megischus violaceipennis Cameron, 1901:225, &. Holotype BMNH (Type locality: New Brit-
-@2004@zt00753@*   Parastephanellus caudatus Elliott, 1926:521, &. Holotype BMNH examined (Type locality:
-@2004@zt00753@          *    Megischus claripennis Cameron, 1911a:56, &. Holotype BMNH (Type locality: Borneo, Kuch-
-@2004@zt00753@          *    Parastephanellus crassicoxae Elliott, 1928a:440, 446, &. Keyed. Holotype BMNH, gaster
-USNM@2004@zt00753@          *    Parastephanellus crassifemur Elliott, 1928a:440, 447, &. Keyed. Syntypes BMNH, USNM
-@2004@zt00753@          *    Parastephanellus crassistigma Elliott, 1928a:439, 441,     &. Keyed. Holotype BMNH (Type
-USNM@2004@zt00753@          *    Parastephanellus curticollis Elliott, 1926:524, &. Syntypes BMNH, USNM (Type locality:
-@2004@zt00753@          *    Diastephanus curticollis Elliott, 1927b:350, 354, &. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@*   Parastephanellus albiceps Elliott, 1919d:130, &. Holotype BMNH examined (Type locality:
-@2004@zt00753@*   Parastephanellus eburneus Morley, 1917a:35, &, %. Holotype & BMNH (Type locality: Cey-
-?@2004@zt00753@        lon, Kandy). Paratype % BMNH? (Ceylon, Peradeniya). Biological association: male on
-@2004@zt00753@*   Parastephanellus glaber Elliott, 1919d:129, &. Holotype BMNH (Type locality: Singapore).
-@2004@zt00753@*   Parastephanellus glaberrimus Elliott, 1928a:440, 450,      %.   Keyed. Holotype BMNH (Type
-@2004@zt00753@*   Hemistephanus granulatus Elliott, 1919d:130, &. Holotype BMNH examined (Type locality:
-@2004@zt00753@*   Parastephanellus laevicollis Morley, 1917b:111, &, %. Holotype and paratypes BMNH (Type
-@2004@zt00753@          *    Megiseleus [sic!] maculifrons Cameron, 1902:32, %. Holotype BMNH (Type locality: Borneo,
-@2004@zt00753@        BMNH (Type locality: Borneo, Sandakan). New synonymy.
-@2004@zt00753@*   Parastephanellus monticola Elliott, 1926:439, 524, &. Keyed. Syntypes USNM, BMNH (Type
-,@2004@zt00753@*   Parastephanellus montanus Elliott, 1928a:439, 440, 442, &, %. Keyed. Syntypes BMNH,
-@2004@zt00753@*   Parastephanellus quadridens Elliott, 1928a:440, 441, 446, &, %. Keyed. Syntypes BMNH
-USNM@2004@zt00753@*   Parastephanellus niger Elliott, 1928a:440, 441, 449, &, %. Keyed. Syntypes BMNH, USNM
-@2004@zt00753@*   Megischus palliditarsis Cameron, 1911a:56, &. Holotype BMNH (Type locality: Borneo,
-@2004@zt00753@*   Megischus ruficollis Cameron, 1911a:57, %. Holotype stated to be in BMNH (Type locality:
-USNM@2004@zt00753@*   Parastephanellus parvus Elliott, 1928a:440, 441, 449, &, %. Keyed. Syntypes BMNH, USNM
-USNM@2004@zt00753@          *    Parastephanellus rufescens Elliott, 1926:522, &. Syntypes BMNH, USNM (Type locality:
-&@2004@zt00753@          *    Parastephanellus politus Elliott, 1928a:440, 443, &, %. Keyed. Syntypes BMNH, & head miss-
-@2004@zt00753@          *    Parastephanellus sinuatus Elliott, 1928a:440, 451, %. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@          *    Parastephanellus leviceps Elliott, 1928a:441, 452, %. Keyed. Holotype BMNH (Type locality:
-@2004@zt00753@        crassifemur Elliott, keyed. Holotype BMNH (Type locality: Borneo, Sandakan).
-USNM@2004@zt00753@*   Parastephanellus similis Elliott, 1926:522, &. Syntypes BMNH, USNM (Type locality:
-,@2004@zt00753@          *    Parastephanellus variegatus Elliott, 1928a:440, 441, 445, &, %. Keyed. Syntypes BMNH,
-@2004@zt00753@          *    Parastephanellus fulgens Elliott, 1928a:440, 448, &. Keyed. Holotype BMNH (Type locality:
-USNM@2004@zt00753@          *    Parastephanellus minutus Elliott, 1928a:440, 452, %. Keyed. Syntypes BMNH, USNM (Type
-@2004@zt00753@*   Parastephanellus rugipleurae Elliott, 1928a:440, 444, &. Keyed. Holotype BMNH (Type
-@2004@zt00753@                   BMNH (Type locality: Borneo, Sandakan), designated by Achterberg (2002).
-@2004@zt00753@          *    Stephanus soror Achterberg, 2002:45, 181, 186, &. Figure, keyed. Holotype BMNH (Type
-@2004@zt00432@ANSP 165570 (22 mm SL, cleared and stained, Durban, South Africa), BMNH
-@2004@zt00560@          BMNH:      The Natural History Museum, London.
-@2004@zt00560@          deposited in BMNH were examined from 19 counties, and all were Sarcophaga dissimilis.
-@2004@zt00718@          Vienna (NHMW) led to the discovery of a single female specimen, labeled from Cuba and
-@2004@zt00718@          based on the above NHMW specimen, is herein described and illustrated. In addition, one
-@2004@zt00718@Vienna (NHMW); Department of Entomology, The Natural History Museum, London
-@2004@zt00718@(BMNH); Illinois Natural History Survey, Champaign (INHS); Insect Collection, Ohio
-@2004@zt00718@          old repinned material (BMNH) collected by G. Morewood, are (if reliable) of interest, as
-@2004@zt00718@BMNH (new country record).
-@2004@zt00718@          type, USNM; (G) O. sanguinicollis (Latreille) comb. nov., female, NHMW; (H) O. stipata
-@2004@zt00718@          \ R. Hadfield \ B.M. 1984-24”, BMNH; male, “ECUADOR: Pichincha \ 26km WNW
-@2004@zt00718@          Cajas \ Angus [?]”, “viii.1983 \ R. Hadfield \ B.M. 1984-24”, BMNH.
- NHMW.@2004@zt00718@          NHMW.
-@2004@zt00718@          Sapucay \ G. Morewood. \ 1919-76”, BMNH (new country record).
-718@2004@zt00718@nal] El Cajas \ Yacutuviana”, “ix.1983. 2400m \ B. Hadfield \ B.M. 1984-24”, BMNH         718
-@2004@zt00718@3000’. VII.97. \ (Rosenberg).”, “Ecuador \ Rosenberg \ 99-104”, BMNH; female (com-
-@2004@zt00718@pared with type by M. Webb), “Ecuador. \ Gilbert Hammond \ 1920-469”, BMNH; male,
-@2004@zt00718@We thank Herbert Zettel (NHMW), Jorge Luiz Nessimian and Nelson Ferreira-Jr (DZRJ),
-@2004@zt00718@Kovarik (OSU), Michael Webb (BMNH), Paul Freytag (UKL), Randall Schuh (AMNH),
-@2004@zt00718@O. stella and compared specimens of Onega from the BMNH with types housed in the
-@2004@zt00718@(BMNH). Tree- and planthopper distributional patterns benefited from comments by
-—@2004@zt00637a@BMNH — Department of Entomology, Natural History Museum, London, SW7 5BD,
-@2004@zt00637a@          two males, one of which is in the DEIC and the other in the BMNH. In his introduction to
-@2004@zt00637a@          the BMNH as a paratype. The specimen from the DEIC was labeled merely as “Typus”
-@2004@zt00637a@          label to the specimen. We were unable to examine the paratype in the BMNH. The type
-@2004@zt00637a@          one in the BMNH. The two females in the DEIC are somewhat different from each other,
-@2004@zt00637a@          were unable to examine the remaining paralectotype in the BMNH.
-–@2004@zt00747@          BMNH – The Natural History Museum, London, United Kingdom (Mr. M. Brendell)
-(4@2004@zt00747@(CNCI); 84 specimens, Glacier (A.Fenyes) (AMNH (4), BMNH (4); CASC (54), FMNH
-&@2004@zt00747@          (BMNH); &, Jasper Nat. Park, Mt. Edith Cavell, 6000', 22.viii.1971 (J.M.Campbell)
-2@2004@zt00747@          (CNCI); %, Lake Louise, 1928 (Cameron) (BMNH); 2 specimens, Banff (A.Fenyes)
-(DEI@2004@zt00610@          (ZMHB)                             (BMNH)                              (DEI)
-@2004@zt00610@          Museum of Natural History (BMNH), London, England; Zoologisches Museum, Hum-
-@2004@zt00610@     Type holder. BMNH.
-@2004@zt00610@    Type holder. BMNH
-@2004@zt00610@              Type holder. BMNH
-@2004@zt00610@loan of specimens: C. Lyal, British Museum of Natural History (BMNH), London,
-@2004@zt00422@MNHN, the USNM, and The Natural History Museum, London, U.K. (NHML)). Impor-
+1917b.105@2004@zt00753@          *    Stephanus comma Morley, 1917b:105, %. Holotype BMNH (Type locality: Obuasi, Ashanti
+1928c.63@2004@zt00753@          *    Foenatopus aequalis Elliott, 1928c:63, &. Holotype BMNH? (Type locality: India, Mysore,
+1917b.109@2004@zt00753@*   Diastephanus alutaceus Morley, 1917b:109, &. Holotype BMNH (Type locality: Rhodesia,
+1927b.350@2004@zt00753@*   Diastephanus annulipes Elliott, 1927b:350, 354, &. Keyed. Syntypes BMNH, USNM (Type
+Not specific@2004@zt00753@        type & and paratype BMNH (Type locality: Burma, Myanmar, Pyinmana, Yeni Reserve).
+1928b.79, 80, 81@2004@zt00753@*   Foenatopus butuanus Elliott, 1928b:79, 80, 81, &, %. Keyed. Lectotype & BMNH (Type local-
+1928b.79, 82@2004@zt00753@*   Foenatopus gracilis Elliott, 1928b:79, 82, &. Holotype BMNH (Type locality: Mindanao,
+1928b.79, 80, 84@2004@zt00753@*   Foenatopus aciculatus Elliott, 1928b:79, 80, 84, &, %. Syntypes BMNH, USNM (Type local-
+1928b.81, 93@2004@zt00753@*   Foenatopus albiceps Elliott, 1928b:81, 93, %. Keyed. Syntypes BMNH, USNM (Type locality:
+1919b.73@2004@zt00753@          *    Diastephanus chinensis Elliott, 1919b:73, &. Holotype BMNH (Type locality: China, Haut
+2002.69@2004@zt00753@          *    Diastephanus christineae Narendran: Narendran et al., 2002:69, &. Figure. Holotype BMNH
+1919a.31@2004@zt00753@*   Foenatopus claripennis Elliott, 1919a:31, &. Holotype BMNH (Type locality: Nyassaland,
+1927b.350, 358@2004@zt00753@*   Diastephanus clavicoxis Elliott, 1927b:350, 358, &. Keyed. Holotype BMNH (Type locality:
+1927b.351, 363@2004@zt00753@*   Diastephanus costifrons Elliott, 1927b:351, 363, &. Keyed. Holotype BMNH (Type locality:
+Not specific@2004@zt00753@                   BMNH (Type locality: Bangladesh, Dhaka). Description clearly situates species within
+1919a.31@2004@zt00753@          *    Diastephanus elegans Elliott, 1919a:31, &. Holotype BMNH (Type locality: Singapore). Pub-
+Not specific@2004@zt00753@                   BMNH, USNM (Type locality: Borneo, Sandakan). Description clearly situates species
+1927b.350, 356@2004@zt00753@          *    Diastephanus elongatus Elliott, 1927b:350, 356, %. Keyed. Holotype BMNH (Type locality:
+1906.273@2004@zt00753@*   Stephanus (Foenatopus) fernandopoensis Schulz, 1906:273, &. Figure. Holotype BMNH (Type
+1917c.131@2004@zt00753@*   Diastephanus flaviceps Elliott, 1917c:131, %. Holotype BMNH (Type locality: unknown).
+1916.407, 408@2004@zt00753@*   Diastephanus flavifrons Kieffer, 1916:407, 408, %. Keyed. Syntypes BMNH, USNM (Type
+1917c.1311917c.131@2004@zt00753@*   Diastephanus flavifrons Elliott, 1917c:131, %. Holotype stated to be in BMNH (Type locality:
+Not specific@2004@zt00753@                  (1995). Also syntypes BMNH, NHRS, ZMPA.
+1917b.109@2004@zt00753@          *    Diastephanus frontilinea Morley, 1917b:109, &. Holotype BMNH (Type locality: Rangpur, on
+1903.101@2004@zt00753@          *    Foenatopus fuscinervis Cameron, 1903:101, %. Holotype BMNH (Type locality: Borneo,
+1861a.58@2004@zt00753@*   Foenatopus ruficeps Smith, 1861a:58, &. Holotype BMNH? (Type locality: Makassar [Indone-
+1927b.350, 356@2004@zt00753@*   Diastephanus longior Elliott, 1927b:350, 356, %. Keyed. Syntypes BMNH, USNM (Type
+1927b.350, 362@2004@zt00753@*   Diastephanus clavatus Elliott, 1927b:350, 362, %. Keyed. Syntypes BMNH, USNM (Type
+1928b.79, 81, 86@2004@zt00753@ 753      *    Foenatopus insularis Elliott, 1928b:79, 81, 86, &, %. Keyed. Syntypes BMNH (Type locality:
+1928b.81, 88@2004@zt00753@          *    Foenatopus dubius Elliott, 1928b:81, 88, &, %. Keyed. Syntypes BMNH (Type locality: Mind-
+Not specific@2004@zt00753@                  types BMNH, USNM (Type locality: Mindanao, Davao). USNM with one specimen
+1928.80, 91@2004@zt00753@          *    Foenatopus sibuyanus Elliott, 1928b:80, 91, &. Keyed. Holotype BMNH (Type locality:
+1928b.81, 94@2004@zt00753@          *    Foenatopus longicoxis Elliott, 1928b:81, 94, &. Keyed. Syntypes BMNH, USNM (Type local-
+1928b.80, 89@2004@zt00753@          *    Foenatopus intermedius Elliott, 1928b:80, 89, &. Keyed. Holotype BMNH (Type locality:
+1919a.30@2004@zt00753@          *    Foenatopus iridipennis Elliott, 1919a:30, &, %. Syntypes BMNH (Type locality: Kangra Val-
+Not specific@2004@zt00753@                  BMNH (Type locality: India, Rajasthan, Jodhpur).
+1919a.32@2004@zt00753@*   Diastephanus flavonotatus Elliott, 1919a:32, %. Holotype BMNH (Type locality: N. Borneo,
+1926.526@2004@zt00753@*   Diastephanus albonotatus Elliott, 1926:526, &. Syntypes BMNH, USNM (Type locality:
+1928b.79, 87@2004@zt00753@*   Foenatopus transversus Elliott, 1928b:79, 87, &. Keyed. Holotype BMNH (Type locality:
+1927b.350, 357@2004@zt00753@          *    Diastephanus levis Elliott, 1927b:350, 357, &. Keyed. Holotype BMNH (Type locality: Mind-
+1919a.30@2004@zt00753@          *    Foenatopus longicauda Elliott, 1919a:30, &. Holotype BMNH (Type locality: India, Nilgiri
+1902.31@2004@zt00753@          *    Megiseleus [sic!] longicollis Cameron, 1902:31, &. Holotype BMNH? (Type locality: Borneo,
+1927b.350, 355@2004@zt00753@          *    Diastephanus lucifer Elliott, 1927b:350, 355, &. Keyed. Holotype BMNH (Type locality:
+1927b.350, 352@2004@zt00753@          *    Diastephanus multicolor Elliott, 1927b:350, 352, %. Keyed. Holotype BMNH (Type locality:
+1919d.131@2004@zt00753@*   Foenatopus ocellata Elliott, 1919d:131, &. Holotype BMNH (Type locality: Sarawak, Mount              753
+1951b.124@2004@zt00753@*   Neostephanus oemidaphagus Benoit, 1951b:124, &. Biology. Holotype BMNH (Type locality:
+Not specific@2004@zt00753@        cogitated, figure, keyed. Holotype BMNH under Diastephanus (Type locality: Philip-
+1927b.350, 361@2004@zt00753@*   Diastephanus parvulus Elliott, 1927b:350, 361, &. Keyed. Holotype BMNH (Type locality:
+Not specific@2004@zt00753@                  BMNH (Type locality: Singapore).
+1919b.73@2004@zt00753@          *    Foenatopus punctatus Elliott, 1919b:73, &. Holotype and paratype BMNH (Type locality:
+1927b.350, 358@2004@zt00753@          *    Diastephanus punctinotum Elliott, 1927b:350, 358, &. Keyed. Holotype BMNH (Type locality:
+1920.81@2004@zt00753@          *    Diastephanus quadridens Elliott, 1920:81, &. Holotype BMNH (Type locality: Luang Prabang,
+1928b.79, 85@2004@zt00753@          *    Foenatopus rubricaput Elliott, 1928b:79, 85,    &. Keyed. Holotype BMNH (Type locality:
+1928b.80, 88@2004@zt00753@          *    Foenatopus rufescens Elliott, 1928b:80, 88,     &. Keyed. Holotype BMNH (Type locality:
+1928b.79, 85@2004@zt00753@*   Foenatopus rufitarsis Elliott, 1928b:79, 85, &. Keyed. Syntypes BMNH, USNM (Type local-
+1919a.29@2004@zt00753@*   Foenatopus rugiceps Elliott, 1919a:29, &. Holotype BMNH (Type locality: South India), bear-
+1874.128@2004@zt00753@*   Stephanus salomonis Westwood, 1874:128, &. Holotype BMNH (Type locality: Solomon
+1927b.350@2004@zt00753@          *    Diastephanus semiglaber Elliott, 1927b:350, 361, &. Keyed. Syntypes BMNH, USNM (Type
+Not specific@2004@zt00753@                   BMNH (Type locality: India, Simla, Himachal Pradesh).
+1920.82@2004@zt00753@          *    Diastephanus simillimus Elliott, 1920:82, &. Holotype BMNH (Type locality: Hoabinh, Tonkin
+1911.233@2004@zt00753@          *    Foenatopus simpsoni Kieffer, 1911a:233, &. Holotype BMNH (Type locality: Southern Nige-
+2003.130, 137@2004@zt00753@          *    Diastephanus stom Narendran & Sureshan, 2003:130, 137, &. Figure, keyed. Holotype BMNH
+Not specific@2004@zt00753@                   BMNH (Type locality: India, Kerala, Kumaranelloor, near Edappal). Description clearly
+1920.80.@2004@zt00753@*   Diastephanus sulcatus Elliott, 1920:80, &. Holotype stated to be in BMNH (Type locality:
+1928.80, 90.@2004@zt00753@*   Foenatopus terecollis Elliott, 1928b:80, 90,   &. Keyed. Holotype BMNH (Type locality:
+1917b.108@2004@zt00753@*   Diastephanus tertianus Morley, 1917b:108, &. Holotype stated to be in BMNH (Type locality:
+1927b.349, 351@2004@zt00753@          *    Diastephanus trialbatus Elliott, 1927b:349, 351, &, %. Keyed. Syntypes BMNH, USNM (Type
+1920.81@2004@zt00753@          *    Diastephanus trilineatus Elliott, 1920:81, &. Syntypes BMNH (Type locality: Hoabinh, Tonkin
+1920.82@2004@zt00753@          *    Diastephanus trilobatus Elliott, 1920:82, &. Holotype BMNH (Type locality: Hoabinh, Tonkin
+1936.195@2004@zt00753@*   Foenatopus unistriatus Cheesman, 1936:195, &. Figure. Holotype and paratypes BMNH (Type
+1926.526@2004@zt00753@*   Diastephanus varicolor Elliott, 1926:526, &. Holotype BMNH (Type locality: Mindanao,
+1928b.79, 80, 83@2004@zt00753@*   Foenatopus varicolor Elliott, 1928b:79, 80, 83, &, %. Keyed. Syntypes BMNH, USNM (Type
+1921.257@2004@zt00753@*   Foenatopus variidens Elliott, 1921:257, &. Holotype BMNH (Type locality: Paleboehan, Ratoe
+1931.97@2004@zt00753@          *    Hemistephanus carinatus Elliott, 1931:97, &. Holotype BMNH examined (Type locality: North
+1851.23@2004@zt00753@*   Megischus cylindricus Westwood, 1851:230, &. Lectotype BMNH examined (Type locality:
+1997.421@2004@zt00753@          *    Megischus erythrocephalus Cameron, 1887:421, &. Holotype BMNH examined (Type locality:
+1887.420.@2004@zt00753@          *    Megischus ruficeps Cameron, 1887:420, &. Figure. Holotype BMNH examined (Type locality:
+1851.230.@2004@zt00753@          *    Megischus submaculatus Westwood, 1851:230, &. Holotype BMNH examined (Type locality:
+Not specific@2004@zt00753@                  group, figure, keyed. Holotype BMNH (Type locality: Malaysia, Sarawak).
+Not specific@2004@zt00753@                   Davao), paralectotypes USNM, BMNH, designated by Achterberg (2002). Synonymized
+Not specific@2004@zt00753@                  Holotype and paratypes BMNH examined (Type location: Guatemala, San Gerónimo, El
+1917b.106@2004@zt00753@          *    Stephanus crassicauda Morley, 1917b:106, &. Holotype and paratype BMNH examined (Type
+1926.517@2004@zt00753@          *    Stephanus curtus Elliott, 1926:517, &. Lectotype BMNH (Type locality: Borneo, Sandakan),
+Not specific@2004@zt00753@                   paralectotypes BMNH and USNM, designated by Achterberg (2002).
+1926.517@2004@zt00753@          *    Stephanus brevicoxis Elliott, 1926:517, &. Holotype BMNH (Type locality: Borneo, Sanda-
+1851.229@2004@zt00753@*   Megischus ducalis Westwood, 1851:229, &. Holotype BMNH examined (Type locality: East-               ZOOTAXA
+1825.489@2004@zt00753@*   Stephanus furcatus LePeletier & Serville, 1825:489, &. Holotype BMNH? (Type locality: Bra-
+1917a.34@2004@zt00753@          *    Stephanus tortus Morley, 1917a:34, &. Holotype BMNH (Type locality: Nedunkernie, in the
+1857.120.@2004@zt00753@          *    Megischus insularis Smith, 1857:120, &, %. Lectotype & BMNH examined (Type locality:
+1921.256@2004@zt00753@*   Stephanus pilosus Elliott, 1921:256, %. Holotype BMNH (Type locality: Palaboehan, Ratoe
+Not specific@2004@zt00753@*   Stephanus rugosus Elliott, 1921:256, %. Holotype BMNH (Type locality: Java, Preanger
+1926.519@2004@zt00753@*   Stephanus impressus Elliott, 1926:519, &. Holotype BMNH (Type locality: Mindanao, Davao).
+1926.521@2004@zt00753@*   Stephanus sulcatus Elliott, 1926:521, &. Lectotype BMNH (Type locality: Mindanao, Surigao),
+1927a.213, 226@2004@zt00753@*   Stephanus ruber Elliott, 1927a:213, 226, &, %. Keyed. Lectotype & BMNH (Type locality:
+1927a.227@2004@zt00753@*   Stephanus samaris Elliott, 1927a:227, &. Keyed. Lectotype BMNH (Type locality: Samar),
+1851.229@2004@zt00753@*   Megischus maculipennis Westwood, 1851:229, &. Holotype BMNH (under Hemistephanus)
+1931.97@2004@zt00753@*   Stephanus testaceipes Elliott, 1931:97, %. Holotype BMNH examined (Type locality: Peru,
+1864.44@2004@zt00753@*   Megischus niger Smith, 1864a:44, &. Holotype BMNH examined (Type locality: Panama).
+1926.519@2004@zt00753@*   Stephanus reticulatus Elliott, 1926:519, &. Lectotype & BMNH (Type locality: Sibuyan), desig-
+1911b.357@2004@zt00753@          *    Megischus froggattii Cameron, 1911b:357, &, %. Lectotype & BMNH (Type locality: Solomon
+1917b.107@2004@zt00753@          *    Stephanus rubripes Morley, 1917b:107, &, %. Holotype BMNH (Type locality: Solomon
+Not specific@2004@zt00753@                   there or BMNH according to Achterberg (2002) (Type locality: Mindanao, Davao). Proba-
+Not specific@2004@zt00753@                  group, figure, keyed. Holotype BMNH (Type locality: Vietnam, Bac-Phan, Hoa Binh).
+1901.225@2004@zt00753@          *    Megischus violaceipennis Cameron, 1901:225, &. Holotype BMNH (Type locality: New Brit-
+1926.521@2004@zt00753@*   Parastephanellus caudatus Elliott, 1926:521, &. Holotype BMNH examined (Type locality:
+1911a.56@2004@zt00753@          *    Megischus claripennis Cameron, 1911a:56, &. Holotype BMNH (Type locality: Borneo, Kuch-
+1928a.440, 446@2004@zt00753@          *    Parastephanellus crassicoxae Elliott, 1928a:440, 446, &. Keyed. Holotype BMNH, gaster
+1928a.440, 447@2004@zt00753@          *    Parastephanellus crassifemur Elliott, 1928a:440, 447, &. Keyed. Syntypes BMNH, USNM
+1928a.439, 441@2004@zt00753@          *    Parastephanellus crassistigma Elliott, 1928a:439, 441,     &. Keyed. Holotype BMNH (Type
+1926.524@2004@zt00753@          *    Parastephanellus curticollis Elliott, 1926:524, &. Syntypes BMNH, USNM (Type locality:
+1927b.350, 354@2004@zt00753@          *    Diastephanus curticollis Elliott, 1927b:350, 354, &. Keyed. Holotype BMNH (Type locality:
+1919d.130.@2004@zt00753@*   Parastephanellus albiceps Elliott, 1919d:130, &. Holotype BMNH examined (Type locality:
+1917a.35@2004@zt00753@*   Parastephanellus eburneus Morley, 1917a:35, &, %. Holotype & BMNH (Type locality: Cey-
+Not specific@2004@zt00753@        lon, Kandy). Paratype % BMNH? (Ceylon, Peradeniya). Biological association: male on
+1919d.129@2004@zt00753@*   Parastephanellus glaber Elliott, 1919d:129, &. Holotype BMNH (Type locality: Singapore).
+1928a.440, 450.@2004@zt00753@*   Parastephanellus glaberrimus Elliott, 1928a:440, 450,      %.   Keyed. Holotype BMNH (Type
+1919d.130.@2004@zt00753@*   Hemistephanus granulatus Elliott, 1919d:130, &. Holotype BMNH examined (Type locality:
+1917b.111@2004@zt00753@*   Parastephanellus laevicollis Morley, 1917b:111, &, %. Holotype and paratypes BMNH (Type
+1902.32@2004@zt00753@          *    Megiseleus [sic!] maculifrons Cameron, 1902:32, %. Holotype BMNH (Type locality: Borneo,
+Not specific@2004@zt00753@        BMNH (Type locality: Borneo, Sandakan). New synonymy.
+1926.439, 524@2004@zt00753@*   Parastephanellus monticola Elliott, 1926:439, 524, &. Keyed. Syntypes USNM, BMNH (Type
+1928a.439, 440, 422@2004@zt00753@*   Parastephanellus montanus Elliott, 1928a:439, 440, 442, &, %. Keyed. Syntypes BMNH,
+1928a.440, 441, 446@2004@zt00753@*   Parastephanellus quadridens Elliott, 1928a:440, 441, 446, &, %. Keyed. Syntypes BMNH
+1928a.440, 441, 449@2004@zt00753@*   Parastephanellus niger Elliott, 1928a:440, 441, 449, &, %. Keyed. Syntypes BMNH, USNM
+1911a.56@2004@zt00753@*   Megischus palliditarsis Cameron, 1911a:56, &. Holotype BMNH (Type locality: Borneo,
+1911a.57@2004@zt00753@*   Megischus ruficollis Cameron, 1911a:57, %. Holotype stated to be in BMNH (Type locality:
+1928a.440, 441, 449@2004@zt00753@*   Parastephanellus parvus Elliott, 1928a:440, 441, 449, &, %. Keyed. Syntypes BMNH, USNM
+1926.522@2004@zt00753@          *    Parastephanellus rufescens Elliott, 1926:522, &. Syntypes BMNH, USNM (Type locality:
+1928a.440, 443@2004@zt00753@          *    Parastephanellus politus Elliott, 1928a:440, 443, &, %. Keyed. Syntypes BMNH, & head miss-
+1928a.440, 451@2004@zt00753@          *    Parastephanellus sinuatus Elliott, 1928a:440, 451, %. Keyed. Holotype BMNH (Type locality:
+1928a.441, 452@2004@zt00753@          *    Parastephanellus leviceps Elliott, 1928a:441, 452, %. Keyed. Holotype BMNH (Type locality:
+Not specific@2004@zt00753@        crassifemur Elliott, keyed. Holotype BMNH (Type locality: Borneo, Sandakan).
+1926.522@2004@zt00753@*   Parastephanellus similis Elliott, 1926:522, &. Syntypes BMNH, USNM (Type locality:
+1928a.440, 441, 445@2004@zt00753@          *    Parastephanellus variegatus Elliott, 1928a:440, 441, 445, &, %. Keyed. Syntypes BMNH,
+1928a.440, 448@2004@zt00753@          *    Parastephanellus fulgens Elliott, 1928a:440, 448, &. Keyed. Holotype BMNH (Type locality:
+1928.440, 452@2004@zt00753@          *    Parastephanellus minutus Elliott, 1928a:440, 452, %. Keyed. Syntypes BMNH, USNM (Type
+1928a.440, 444@2004@zt00753@*   Parastephanellus rugipleurae Elliott, 1928a:440, 444, &. Keyed. Holotype BMNH (Type
+Not specific@2004@zt00753@                   BMNH (Type locality: Borneo, Sandakan), designated by Achterberg (2002).
+2002.45, 181, 186@2004@zt00753@          *    Stephanus soror Achterberg, 2002:45, 181, 186, &. Figure, keyed. Holotype BMNH (Type
+1889.8.17.5@2004@zt00432@ANSP 165570 (22 mm SL, cleared and stained, Durban, South Africa), BMNH
+Not specific@2004@zt00560@          deposited in BMNH were examined from 19 counties, and all were Sarcophaga dissimilis.
+Not specific@2004@zt00718@(BMNH); Illinois Natural History Survey, Champaign (INHS); Insect Collection, Ohio
+Not specific@2004@zt00718@          old repinned material (BMNH) collected by G. Morewood, are (if reliable) of interest, as
+Not specific@2004@zt00718@BMNH (new country record).
+1984.24@2004@zt00718@          \ R. Hadfield \ B.M. 1984-24”, BMNH; male, “ECUADOR: Pichincha \ 26km WNW
+Not specific@2004@zt00718@          Cajas \ Angus [?]”, “viii.1983 \ R. Hadfield \ B.M. 1984-24”, BMNH.
+1919.76@2004@zt00718@          Sapucay \ G. Morewood. \ 1919-76”, BMNH (new country record).
+Not specific@2004@zt00718@nal] El Cajas \ Yacutuviana”, “ix.1983. 2400m \ B. Hadfield \ B.M. 1984-24”, BMNH         718
+99-104@2004@zt00718@3000’. VII.97. \ (Rosenberg).”, “Ecuador \ Rosenberg \ 99-104”, BMNH; female (com-
+1920.469@2004@zt00718@pared with type by M. Webb), “Ecuador. \ Gilbert Hammond \ 1920-469”, BMNH; male,
+Not specific@2004@zt00718@O. stella and compared specimens of Onega from the BMNH with types housed in the
+Not specific@2004@zt00637a@          two males, one of which is in the DEIC and the other in the BMNH. In his introduction to
+Not specific@2004@zt00637a@          the BMNH as a paratype. The specimen from the DEIC was labeled merely as “Typus”
+Not specific@2004@zt00637a@          label to the specimen. We were unable to examine the paratype in the BMNH. The type
+Not specific@2004@zt00637a@          one in the BMNH. The two females in the DEIC are somewhat different from each other,
+Not specific@2004@zt00637a@          were unable to examine the remaining paralectotype in the BMNH.
+Not specific@2004@zt00747@(CNCI); 84 specimens, Glacier (A.Fenyes) (AMNH (4), BMNH (4); CASC (54), FMNH
+Not specific@2004@zt00747@          (BMNH); &, Jasper Nat. Park, Mt. Edith Cavell, 6000', 22.viii.1971 (J.M.Campbell)
+Not specific@2004@zt00747@          (CNCI); %, Lake Louise, 1928 (Cameron) (BMNH); 2 specimens, Banff (A.Fenyes)
+Not specific@2004@zt00610@     Type holder. BMNH.
+Not specific@2004@zt00610@    Type holder. BMNH
+Not specific@2004@zt00610@              Type holder. BMNH
 1904.6.2.1-2@2004@zt00422@(NHML 1904.6.2.1-2).
-@2004@zt00507@               BMNH = The Natural History Museum, London, England; EJCB = Collection of E.
-@2004@zt00507@     Agrilus nodosus Kerremans, lectotype %, BMNH, by present designation: “SYN-
-@2004@zt00507@ZOOTAXA   types are preserved in BMNH and ISNB. Number of syntypes is unknown. Descarpentries
-@2004@zt00507@              Agrilus fructus Kerremans, lectotype %, BMNH, by present designation: “Type [p]
-@2004@zt00507@              Agrilus sumbawanus Kerremans, lectotype %, BMNH, by present designation: “Type
-@2004@zt00507@              Agrilus lombokanus Kerremans, lectotype, sex not examined, BMNH, by present des-
-@2004@zt00507@          Agrilus cyaneofasciatus Théry. Holotype &, BMNH: “Type [p] [round label with red bor-
-@2004@zt00742@          Museum, London (NHM); a second described “variety” was borrowed from the Naturhis-
-@2004@zt00742@          off Madras, 13°51.2’N, 80°28.2’E, 265–457 m, 30 Jan 1894, (NHM 96.9.8.22;
-13°34.9’N 80°32.2’E@2004@zt00742@13°34.9’N, 80°32.2’E, 243 m, 8 Feb 1894 (NHM 1903.4.5.201–202). Paguristes                       742
-m 8@2004@zt00742@m, 8 Apr 1898, (NHM 1903.4.5.207–208). Queensland, Australia. 1 % (sl = 8.0 mm),
-@2004@zt00742@          mm); B, E, & (sl = 7.9 mm) NHM 1903.4.5.193–202); C, & (sl = 6.2 mm); F, H, & (sl = 8.1 mm)
- NHM@2004@zt00742@          NHM 96.9.8.22); I, juv. (sl = 2.7 mm), NHM; 1903.4.5.193–202). A, cephalothorax (setae and aes-
-@2004@zt00742@(sl = 7.9 mm) (NHM1903.4.5.193–202). A, chela and carpus of left cheliped (dorsal view); B, D,
-@2004@zt00742@lots from station 162, one (NHM 96.9.8.22) contains one male and one female with a label
-@2004@zt00742@indicating “? Syntypes.” The second lot (NHM 1903.4.5.193–200) includes 43 adults and
-@2004@zt00742@only one large male. However, the lot from station 166 (NHM 1903.4.5.201–202) pres-
-@2004@zt00502@          one species, P. malayensis Arrow, were collected by Nick Maudsley (BMNH) from inflo-
-@2004@zt00502@BMNH The Natural History Museum, London, England (Malcolm Kerley)
-@2004@zt00502@          Peltonotus malayensis Arrow 1910: 155–156. Lectotype female at BMNH with label data: a)
-WADA@2004@zt00502@               Locality records (18 specimens) from BMNH, WADA, FUJI, MLJC.
-@2004@zt00502@              Museum of Natural History, Great Britain; and BMNH. The specimen was not found and no
-@2004@zt00502@              specimens with similar data were found. One specimen from BMNH had one label with Hard-
-@2004@zt00502@    BMNH; 2 paralectotypes (1 male, 1 female) at MNHN. Lectotype male at BMNH with label
-@2004@zt00502@    at BMNH labeled as male for labels a–d, e) Peltonotus nasutus, Arrow type & (handwritten),
-@2004@zt00502@    f) our paralectotype label. Two male paralectotypes at BMNH labeled: a) SYN-TYPE
-@2004@zt00502@    paralectotype label. Paralectotype male at BMNH labeled: a) SYN-TYPE (round label with
-@2004@zt00502@    type male at BMNH labeled: a) SYN-TYPE (round label with blue border, typeface), b)
-@2004@zt00502@    (typeface), e) our paralectotype label. Paralectotype male at BMNH labeled: a) SYN-TYPE
-@2004@zt00502@holotype label. Type Locality: Sabah (Kinabalu). Paratype female housed at BMNH with
-@2004@zt00502@Peltonotus pruinosus Arrow 1910: 156–157. Holotype female at BMNH labeled: a) Type (round
-@2004@zt00502@               Locality record (1 specimen) from BMNH
-@2004@zt00502@     Locality records (4 specimens) from WADA, FUJI, MNHN, BMNH.
-@2004@zt00502@          Peltonotus similis Arrow 1931: 612–613. Lectotype male at BMNH labeled: a) Type (round
-NSMT.@2004@zt00502@               Locality records (13 specimens) from MLJC, FUJI, ZMHB, WADA, BMNH, NSMT.
-@2004@zt00502@BMNH) is thanked for inspiring the start of this research when he presented “mystery”
-@2004@zt00662@Aspasiola rutilans ignea Bates 1883:201. Lectotype female labeled by me in BMNH (The Natural
-@2004@zt00662@          Aspasiola lemoides Bates 1883:201. Lectotype, female, labeled by me in BMNH (The Natural His-
-@2004@zt00662@          Cryptobatis chontalensis Bates 1883:202. Lectotype male, labeled by me in BMNH (The Natural
-@2004@zt00662@          Otoglossa marginella Bates 1883:199. Lectotype, female, labeled by me in BMNH (The Natural
-@2004@zt00779@thank colleagues on the University of Queensland / Université de Perpignan / NHM col-
-@2004@zt00457@          BMNH, the British Museum (Natural History) Collection at The Natural History Museum,
-@2004@zt00457@               Deposition of specimens: holotype QM G222056, paratypes QM G222057, BMNH
-@2004@zt00548@          BMNH, Natural History Museum, London, England; CH, collection of Christer Hansson;
-@2004@zt00548@          Phaseolus vulgaris” (BMNH). Paratypes: 3 females, 4 males with same label data as holo-
-USNM@2004@zt00548@          type (BMNH, USNM); 13 females 12 males from same locality as holotype but collected
-,@2004@zt00548@          locality as holotype but collected 16.xii.2001–3.ii.2002 and from 1700m altitude (BMNH,
+Not specific@2004@zt00507@     Agrilus nodosus Kerremans, lectotype %, BMNH, by present designation: “SYN-
+Not specific@2004@zt00507@ZOOTAXA   types are preserved in BMNH and ISNB. Number of syntypes is unknown. Descarpentries
+Not specific@2004@zt00507@              Agrilus fructus Kerremans, lectotype %, BMNH, by present designation: “Type [p]
+Not specific@2004@zt00507@              Agrilus sumbawanus Kerremans, lectotype %, BMNH, by present designation: “Type
+Not specific@2004@zt00507@              Agrilus lombokanus Kerremans, lectotype, sex not examined, BMNH, by present des-
+Not specific@2004@zt00507@          Agrilus cyaneofasciatus Théry. Holotype &, BMNH: “Type [p] [round label with red bor-
+Not specific@2004@zt00742@          Museum, London (NHM); a second described “variety” was borrowed from the Naturhis-
+96.9.8.22@2004@zt00742@          off Madras, 13°51.2’N, 80°28.2’E, 265–457 m, 30 Jan 1894, (NHM 96.9.8.22;
+1903.4.5.201-202@2004@zt00742@13°34.9’N, 80°32.2’E, 243 m, 8 Feb 1894 (NHM 1903.4.5.201–202). Paguristes                       742
+1903.4.5.207-208@2004@zt00742@m, 8 Apr 1898, (NHM 1903.4.5.207–208). Queensland, Australia. 1 % (sl = 8.0 mm),
+1903.4.5.193-202@2004@zt00742@          mm); B, E, & (sl = 7.9 mm) NHM 1903.4.5.193–202); C, & (sl = 6.2 mm); F, H, & (sl = 8.1 mm)
+96.9.8.22@2004@zt00742@          NHM 96.9.8.22); I, juv. (sl = 2.7 mm), NHM; 1903.4.5.193–202). A, cephalothorax (setae and aes-
+1903.4.5.193-202@2004@zt00742@          NHM 96.9.8.22); I, juv. (sl = 2.7 mm), NHM; 1903.4.5.193–202). A, cephalothorax (setae and aes-
+1903.4.5.193-202@2004@zt00742@(sl = 7.9 mm) (NHM1903.4.5.193–202). A, chela and carpus of left cheliped (dorsal view); B, D,
+193.4.5.193-200@2004@zt00742@indicating “? Syntypes.” The second lot (NHM 1903.4.5.193–200) includes 43 adults and
+1903.4.5.201-202@2004@zt00742@only one large male. However, the lot from station 166 (NHM 1903.4.5.201–202) pres-
+1910.155-156@2004@zt00502@          Peltonotus malayensis Arrow 1910: 155–156. Lectotype female at BMNH with label data: a)
+Not specific@2004@zt00502@               Locality records (18 specimens) from BMNH, WADA, FUJI, MLJC.
+Not specific@2004@zt00502@              Museum of Natural History, Great Britain; and BMNH. The specimen was not found and no
+Not specific@2004@zt00502@              specimens with similar data were found. One specimen from BMNH had one label with Hard-
+1910.155@2004@zt00502@    BMNH; 2 paralectotypes (1 male, 1 female) at MNHN. Lectotype male at BMNH with label
+Not specific@2004@zt00502@    at BMNH labeled as male for labels a–d, e) Peltonotus nasutus, Arrow type & (handwritten),
+Not specific@2004@zt00502@    f) our paralectotype label. Two male paralectotypes at BMNH labeled: a) SYN-TYPE
+Not specific@2004@zt00502@    paralectotype label. Paralectotype male at BMNH labeled: a) SYN-TYPE (round label with
+Not specific@2004@zt00502@    type male at BMNH labeled: a) SYN-TYPE (round label with blue border, typeface), b)
+Not specific@2004@zt00502@    (typeface), e) our paralectotype label. Paralectotype male at BMNH labeled: a) SYN-TYPE
+Not specific@2004@zt00502@holotype label. Type Locality: Sabah (Kinabalu). Paratype female housed at BMNH with
+1910.156-157@2004@zt00502@Peltonotus pruinosus Arrow 1910: 156–157. Holotype female at BMNH labeled: a) Type (round
+Not specific@2004@zt00502@               Locality record (1 specimen) from BMNH
+Not specific@2004@zt00502@     Locality records (4 specimens) from WADA, FUJI, MNHN, BMNH.
+1931.612-613@2004@zt00502@          Peltonotus similis Arrow 1931: 612–613. Lectotype male at BMNH labeled: a) Type (round
+Not specific@2004@zt00502@               Locality records (13 specimens) from MLJC, FUJI, ZMHB, WADA, BMNH, NSMT.
+Not specific@2004@zt00502@BMNH) is thanked for inspiring the start of this research when he presented “mystery”
+1883.201@2004@zt00662@Aspasiola rutilans ignea Bates 1883:201. Lectotype female labeled by me in BMNH (The Natural
+Not specific@2004@zt00662@          Aspasiola lemoides Bates 1883:201. Lectotype, female, labeled by me in BMNH (The Natural His-
+1883.202@2004@zt00662@          Cryptobatis chontalensis Bates 1883:202. Lectotype male, labeled by me in BMNH (The Natural
+1883.199@2004@zt00662@          Otoglossa marginella Bates 1883:199. Lectotype, female, labeled by me in BMNH (The Natural
+2004.2.13.14-15@2004@zt00457@               Deposition of specimens: holotype QM G222056, paratypes QM G222057, BMNH
+Not specific@2004@zt00548@          Phaseolus vulgaris” (BMNH). Paratypes: 3 females, 4 males with same label data as holo-
+Not specific@2004@zt00548@          type (BMNH, USNM); 13 females 12 males from same locality as holotype but collected
+Not specific@2004@zt00548@          locality as holotype but collected 16.xii.2001–3.ii.2002 and from 1700m altitude (BMNH,
 72.4.17.137@2004@zt00727@          and designated the specimen BMNH 72.4.17.137 as the lectotype of the species. Conse-
-@2004@zt00727@     Museum abbreviations. BMNH: The Natural History Museum, London,
-727@2004@zt00727@ 727      France. NHMB: Naturhistorisches Museum, Basel, Switzerland. NHMW: Naturhis-
 1937.2.1.25@2004@zt00727@(BMNH 1937.2.1.25, from Chiang Mai Province and IRSNB 16545, from Lampang Prov-
 72.4.17.137@2004@zt00727@    lor & Elbel (1958: 1174). BMNH 72.4.17.137, adult male. Presented by T. C. Jerdon.
 72.4.17.137@2004@zt00727@Material (30 specimens). — India. BMNH 72.4.17.137 (male), “Khasi Hills”, State of
@@ -1104,8 +1058,6 @@ USNM@2004@zt00548@          type (BMNH, USNM); 13 females 12 males from same loc
 1946.1.19.20@2004@zt00727@BMNH 1946.1.19.20 (female), “Sikkim”. — Laos. 
 62.7.28.1@2004@zt00727@BMNH 62.7.28.1 (female), 
 1924.5.20.38@2004@zt00727@          BMNH 1924.5.20.38 (female), “Taok Plateau, Tenasserim”, now in the vicinity of Mt. Pya
-@2004@zt00727@          ship, Mon State. — NHMB 2596–2597 (males), “Karin Berge”, now Mts. Karen, Kayah
-@2004@zt00727@          State. — NHMW 23923:1 (male), NHMW 23923:2 (male), “Carin Geb.”, now Mts.
 1937.2.1.24@2004@zt00727@          State. — Thailand. BMNH 1937.2.1.24 (female), 
 1937.2.1.25@2004@zt00727@BMNH 1937.2.1.25 (male). — “Pa
 1937.2.1.26@2004@zt00727@          Meang, N. of Chiangmai, N. Siam”, Chiang Mai Province. — BMNH 1937.2.1.26
@@ -1113,9 +1065,9 @@ USNM@2004@zt00548@          type (BMNH, USNM); 13 females 12 males from same loc
 62.7.28.1@2004@zt00727@          known female is 845 mm long (SVL 709 mm, TaL 136 mm; BMNH 62.7.28.1).
 1928.6.29.12@2004@zt00727@          BMNH 1928.6.29.12, from “Bokor, Kamchay Mts.”) turned out to be Trimeresurus vogeli.
 1974.4995–4996@2004@zt00727@    Paratypes (28 specimens). — BMNH 1974.4995–4996 (males), 
-1974.4997–@2004@zt00727@BMNH 1974.4997–
+1974.4997–4998@2004@zt00727@BMNH 1974.4997–
 1974.4999@2004@zt00727@Trengganu, West Malaysia, 790 m. – BMNH 1974.4999 (female), 
-1974.5@2004@zt00727@BMNH 1974.5000
+1974.5000.@2004@zt00727@BMNH 1974.5000
 1988.879–884@2004@zt00727@Malaysia, 1280 m. – BMNH 1988.879–884 (all males), Surat Thani Province, Thailand. –
 56.5.6.105@2004@zt00727@    Non-type material (31 specimens). — Myanmar. BMNH 56.5.6.105 (male), “Mer-
 1940.3.9.43@2004@zt00727@gui”, now Myeik, Taninthayi Division. — BMNH 1940.3.9.43 (male), “Kissaraing, Mer-
@@ -1127,14 +1079,13 @@ USNM@2004@zt00548@          type (BMNH, USNM); 13 females 12 males from same loc
 60.3.19.1300A@2004@zt00727@          Malaysia (West Malaysia). BMNH 60.3.19.1300A (female), 
 60.3.19.1300B@2004@zt00727@BMNH 60.3.19.1300B
 96.5.25.32@2004@zt00727@          (male), Pinang Island, State of Pinang. — BMNH 96.5.25.32 (female), 
-@2004@zt00727@BMNH
 1934.5.21.73@2004@zt00727@          Pinang. — BMNH 1934.5.21.73, “River Yum, headwaters, R. Plus, East Perak, F.M.S.,
 1967.2289@2004@zt00727@          2000 ft”, now in State of Perak. — BMNH 1967.2289 (female), near Camp IV, Gunung
 1974.4995@2004@zt00727@          BMNH 1974.4995    M   351   93    0,209     None      Red/white   161   80   10/9    12     11/12     0/0
 1974.4996@2004@zt00727@          BMNH 1974.4996    M   289   78    0,213     None      White (?)   163   76   10/10    13    13/13     1/1
-1974.5@2004@zt00727@          BMNH 1974.5000    M   506   128   0,202     None      White (?)   163   76   10/11    13    13/12     1/1
+1974.5000.@2004@zt00727@          BMNH 1974.5000    M   506   128   0,202     None      White (?)   163   76   10/11    13    13/12     1/1
 1988.879@2004@zt00727@          BMNH 1988.879     M   582   181   0.237     None      Red/white   165   76   10/10   10     11/11     0/0
-1988.88@2004@zt00727@          BMNH 1988.880     M   540   148   0.215     None      Red/white   163   72   10/11   11     12/12     1/1
+1988.880.@2004@zt00727@          BMNH 1988.880     M   540   148   0.215     None      Red/white   163   72   10/11   11     12/12     1/1
 1988.881@2004@zt00727@          BMNH 1988.881     M   520   156   0.231     None      Red/white   164   78   10/11   10     13/12     1/1
 1988.882@2004@zt00727@          BMNH 1988.882     M   594   179   0.232     None      Red/white   166   80   11/11    9     12/12     0/0
 1988.883@2004@zt00727@          BMNH 1988.883     M   598   174   0.225     None      Red/white   168   84   11/11   10     13/13     1/1
@@ -1144,634 +1095,511 @@ USNM@2004@zt00548@          type (BMNH, USNM); 13 females 12 males from same loc
 1974.4999@2004@zt00727@BMNH 1974.4999   F   418   82    0.164   None      White      164   66   10/10   14    13/13    1/1
 1967.2289@2004@zt00727@          cited by Dring (1979) were collected at 790 and 1280 m. Specimen BMNH 1967.2289
 96.4.29.10@2004@zt00727@          Material (10 specimens). — BMNH 96.4.29.10 (male), “Saiap, Kina Balu”, now Sayap,
-@2004@zt00727@     Holotype. NHMB 2587, adult male. Collected by M. Müller, 1885.
 1915.12.2.42@2004@zt00727@Material (17 specimens). — Indonesia (Sumatra Island). BMNH 1915.12.2.42 (male),
-0@2004@zt00727@Province. — NHMB 2587 (male, holotype), Solok, Sumatera Barat Province. — SMF
-21226@2004@zt00727@21226 (male), Bungur, Riau Province. — NHMW 23910:1, NHMW 23910:3 (females),
+2587@2004@zt00727@Province. — NHMB 2587 (male, holotype), Solok, Sumatera Barat Province. — SMF
+23910.1@2004@zt00727@21226 (male), Bungur, Riau Province. — NHMW 23910:1, NHMW 23910:3 (females),
+23910.3@2004@zt00727@21226 (male), Bungur, Riau Province. — NHMW 23910:1, NHMW 23910:3 (females),
 NHMW 23910:2@2004@zt00727@NHMW 23910:2 (male), “Pagay, Sumatra”, one of Pagai Islands, Mentawai Archipelago,
-@2004@zt00727@Sumatera Barat Province. — NHMW 23917:1–23917:6, NHMW 23917:8–23917:9 (all
-@2004@zt00727@males), NHMW 23917:7, NHMW 23917:10 (females), Padang, Sumatera Barat
-@2004@zt00727@          mm, TaL 159 mm) for a male (NHMW 23917:1). The largest known female is 720 mm
-@2004@zt00727@          long (SVL 596 mm, TaL 124 mm; NHMW 23910:1). In our sample of 17 specimens, there
+23917.1-23917.6@2004@zt00727@Sumatera Barat Province. — NHMW 23917:1–23917:6, NHMW 23917:8–23917:9 (all
+23917.8-23917.9@2004@zt00727@Sumatera Barat Province. — NHMW 23917:1–23917:6, NHMW 23917:8–23917:9 (all
+23917.7@2004@zt00727@males), NHMW 23917:7, NHMW 23917:10 (females), Padang, Sumatera Barat
+23917.10.@2004@zt00727@males), NHMW 23917:7, NHMW 23917:10 (females), Padang, Sumatera Barat
+23917.1@2004@zt00727@          mm, TaL 159 mm) for a male (NHMW 23917:1). The largest known female is 720 mm
+23910.1@2004@zt00727@          long (SVL 596 mm, TaL 124 mm; NHMW 23910:1). In our sample of 17 specimens, there
 1915.12.2.42@2004@zt00727@except in specimen BMNH 1915.12.2.42, which has a faint bicolor postocular streak.
-@2004@zt00714@          BMNH      The Natural History Museum, London, Great Britain.
-1887.2.9.404–405:@2004@zt00714@          Type material. 2 SYNTYPES (BMNH 1887.2.9.404–405: A. Campbell, pers. comm.),
+1887.2.9.404–405@2004@zt00714@          Type material. 2 SYNTYPES (BMNH 1887.2.9.404–405: A. Campbell, pers. comm.),
 1877.2.9.414a-417@2004@zt00714@     carinatus]. Type material. Two syntypes (BMNH 1877.2.9.414a-417, both destroyed by
 1877.2.9.414a@2004@zt00714@     151.247°E]. 6–15 fathoms [= BMNH 1877.2.9.414a, 15–27 m]. Recent, Station 185B, August
 1877.2.9.415-417@2004@zt00714@     Australia. 155 fathoms [= 283 m], coral Sand [= BMNH 1877.2.9.415-417] (OD). Etymology.
-@2004@zt00714@Kathie Way and Amelia Campbell (BMNH), Liz Turner (TMAG), and Brian Smith
-@2004@zt00627@          BMNH             The Natural History Museum, London, United Kingdom
-BRUNEI.@2004@zt00627@          same collection data as holotype (BMNH). BRUNEI. Laden Forest Reserve, logged mixed
-…@2004@zt00627@          NMWC); … LF 1/4, 14.xii.1992 (1 &, NMWC); … LF 1/7, 14.xii.1992 (2 &, BMNH); …
-MALAYSIA.@2004@zt00627@ZOOTAXA   tion data as holotype (BMNH). MALAYSIA. Sabah: mainline West, 56 km West of Silam,
-@2004@zt00519@          (1939). Type specimens of Glaucopis tarsalis Walker (BMNH) and Glaucopis semihy-
-@2004@zt00519@          alina Walker (BMNH) were examined and photographed. The type specimen of S. pattian-
-@2004@zt00519@          nae Simmons is deposited in CMNH. Collections consulted include: BMNH, The Natural
-1M@2004@zt00519@ZOOTAXA      Additional material: BRAZIL: Pará (BMNH, 1M); Santa Catharina (MNHP, 1M).
-1M@2004@zt00519@     Types: BRAZIL: Pará, 50–45 (BMNH, 1M, holotype of Pompilopsis tarsalis); Pará,
-1F@2004@zt00519@51–147 (BMNH, 1F, holotype of Pompilopsis semihyalina).
-2M@2004@zt00519@     Additional material examined: BOLIVIA: Buenavista, 750m (BMNH, 2M); Prov.
-1M@2004@zt00519@del Sara, Dep. Sta. Cruz (BMNH, 1M). BRAZIL: Goiás (
-3M@2004@zt00519@BMNH, 3M); Humayta, Rio
-1M@2004@zt00519@Madeira (BMNH, 1M); Luis Paulo (NMNH, 1F); Mato Grosso: Cuiabá (
-1M;@2004@zt00519@BMNH, 1M);
-1M@2004@zt00519@Nivac (BMNH, 1M); Pará: (
-2M@2004@zt00519@BMNH, 2M); Obidos (
-2M@2004@zt00519@BMNH, 2M; NMNH, 1F); Santa
-1M@2004@zt00519@Catharina (BMNH, 1M); São Paulo, Rio Preto (
-1M@2004@zt00519@BMNH, 1M); Teapa (
-1M;@2004@zt00519@BMNH, 1M);
-1M@2004@zt00519@Tonantins (BMNH, 1M); No locality data: (
-1M@2004@zt00519@BMNH, 1M). GUYANA: Georgetown
-1M@2004@zt00519@(FSMC, 1F); No locality data (BMNH, 1M). FRENCH GUIANA: St. Laurent (
-,@2004@zt00519@BMNH,
-1M@2004@zt00519@1M; NMNH, 1F); No locality data (BMNH, 1M). GUATEMALA: Cuyuga (NMNH,
-1M@2004@zt00519@1M); Teleman, Vera Paz (BMNH, 1M). SURINAM: No locality data: (
-1M@2004@zt00519@BMNH, 1M). NO
-D.@2004@zt00519@lowing curators for access to their museum material: D. Carter (BMNH), D. Goodger
-J.@2004@zt00519@(BMNH), J. & L. Miller (FLMNH/AME), J. Minet (MNHP), M. Pogue (NMNH), and J.
-@2004@zt00449@          London (BMNH), California Academy of Sciences, San Francisco (CASC), China Agri-
-@2004@zt00449@          Naturhistorisches Museum, Wien (NHMW), Natal Museum, Pietermaritzburg (NMSA),
-BPBM@2004@zt00449@          AMSA, ANIC, BMNH, BPBM, CASC, CAUC, CNCI, CSCA, DEBU, EMEC, HNHM,
- INHS@2004@zt00449@          INHS, KUEC, MCZC, MHNG, MNHN, MZSP, NHMW, NMSA, QMBA, UCDC, USNM,
-BPBM@2004@zt00449@          deposited in AMNH, AMSA, ANIC, BMNH, BPBM, CASC, CAUC, CNCI, CSCA,
- DEBU@2004@zt00449@DEBU, EMEC, HNHM, INHS, KUEC, MCZC, MHNG, MNHN, MZSP, NHMW, NMSA,                                ZOOTAXA
-@2004@zt00608@Instituto Nacional de Biodiversidad, Santo Domingo, Heredia, Costa Rica. NHM—The
- (IN@2004@zt00608@          (INBio). Paratypes 5 male and 2 female same data as holotype (CAS, INBio, NHM, UCR).
-@2004@zt00725@          some paratypes have been deposited in The Natural History Museum (BMNH), London,
-2003.1.10.1:@2004@zt00725@Holotype. BMNH 2003.1.10.1: Ryi Banks, Algoa Bay, South east South Africa.
+Not specific@2004@zt00627@          same collection data as holotype (BMNH). BRUNEI. Laden Forest Reserve, logged mixed
+Not specific@2004@zt00627@          NMWC); … LF 1/4, 14.xii.1992 (1 &, NMWC); … LF 1/7, 14.xii.1992 (2 &, BMNH); …
+Not specific@2004@zt00627@ZOOTAXA   tion data as holotype (BMNH). MALAYSIA. Sabah: mainline West, 56 km West of Silam,
+Not specific@2004@zt00519@          (1939). Type specimens of Glaucopis tarsalis Walker (BMNH) and Glaucopis semihy-
+Not specific@2004@zt00519@          alina Walker (BMNH) were examined and photographed. The type specimen of S. pattian-
+Not specific@2004@zt00519@          nae Simmons is deposited in CMNH. Collections consulted include: BMNH, The Natural
+Not specific@2004@zt00519@ZOOTAXA      Additional material: BRAZIL: Pará (BMNH, 1M); Santa Catharina (MNHP, 1M).
+Not specific@2004@zt00519@     Types: BRAZIL: Pará, 50–45 (BMNH, 1M, holotype of Pompilopsis tarsalis); Pará,
+51-147@2004@zt00519@51–147 (BMNH, 1F, holotype of Pompilopsis semihyalina).
+Not specific@2004@zt00519@     Additional material examined: BOLIVIA: Buenavista, 750m (BMNH, 2M); Prov.
+Not specific@2004@zt00519@del Sara, Dep. Sta. Cruz (BMNH, 1M). BRAZIL: Goiás (
+Not specific@2004@zt00519@BMNH, 3M); Humayta, Rio
+Not specific@2004@zt00519@Madeira (BMNH, 1M); Luis Paulo (NMNH, 1F); Mato Grosso: Cuiabá (
+Not specific@2004@zt00519@BMNH, 1M);
+Not specific@2004@zt00519@Nivac (BMNH, 1M); Pará: (
+Not specific@2004@zt00519@BMNH, 2M); Obidos (
+Not specific@2004@zt00519@BMNH, 2M; NMNH, 1F); Santa
+Not specific@2004@zt00519@Catharina (BMNH, 1M); São Paulo, Rio Preto (
+Not specific@2004@zt00519@BMNH, 1M); Teapa (
+Not specific@2004@zt00519@BMNH, 1M);
+Not specific@2004@zt00519@Tonantins (BMNH, 1M); No locality data: (
+Not specific@2004@zt00519@BMNH, 1M). GUYANA: Georgetown
+Not specific@2004@zt00519@(FSMC, 1F); No locality data (BMNH, 1M). FRENCH GUIANA: St. Laurent (
+Not specific@2004@zt00519@1M; NMNH, 1F); No locality data (BMNH, 1M). GUATEMALA: Cuyuga (NMNH,
+Not specific@2004@zt00519@BMNH, 1M). NO
+Not specific@2004@zt00608@          (INBio). Paratypes 5 male and 2 female same data as holotype (CAS, INBio, NHM, UCR).
+Not specific@2004@zt00725@          some paratypes have been deposited in The Natural History Museum (BMNH), London,
+2003.1.10.1@2004@zt00725@Holotype. BMNH 2003.1.10.1: Ryi Banks, Algoa Bay, South east South Africa.
 1887.5.2.237@2004@zt00725@Ontogeny of Latrunculia [BMNH 1887.5.2.237, Latrunculia bocagei Ridley and Dendy, 1886
 1997.7.3.2@2004@zt00725@(from Samaai and Kelly, 2002)] B. Ontogeny of Tsitsikamma [BMNH 1997.7.3.2, Tsitsikamma
 1870.5.3.22@2004@zt00725@favus Samaai and Kelly, 2002]. C. Ontogeny of Sceptrella [BMNH 1870.5.3.22 Sceptrella regalis
 2003.1.10.1@2004@zt00725@Isospinodiscorhabd of C. bellae Samaai & Kelly [BMNH 2003.1.10.1]; G–H, Isospinodiscorhabd
-@2004@zt00725@          FIGURE 3. A. Gross morphology of genus holotype Cyclacanthia bellae Samaai & Kelly [BMNH
+2003.1.10.1@2004@zt00725@          FIGURE 3. A. Gross morphology of genus holotype Cyclacanthia bellae Samaai & Kelly [BMNH
 2003.1.10.1@2004@zt00725@FIGURE 4. A. Styles of C. bellae Samaai & Kelly [BMNH 2003.1.10.1]; B. Styles of C. clover-
-—@2004@zt00749@BMNH — The Natural History Museum, London, England (Dr. J. Balfour-Browne, M.
-@2004@zt00749@          Bacchus (MEB 219) — (paratypes) (46 BMNH); Paddy's River, nr. Murray's Corner, 35°
-@2004@zt00749@          25' S, 148° 57' E, 3 April 1965, M. E. Bacchus (MEB 231) — (BMNH); Paddy's River,
-@2004@zt00749@          locality, 35° 29' S, 148° 59' E, 16 January 1969, J. Balfour-Browne — (BMNH); Uriarra
-@2004@zt00749@— (paratypes) (29 BMNH); Manar Creek, Canberra-Coast Road, creek, 35° 17' S, 149°
-@2004@zt00749@1972, H. E. Hinton — (1 BMNH); Boulia, 22° 54' S, 139° 54' E, 1–30 July 1972, C. Watts
-@2004@zt00749@January — 30 December 1987, J. Balfour-Browne — (11 BMNH); Helenvale, 15° 42' S,
-;@2004@zt00749@          SW Kuranda, 16° 49' S, 145° 38' E, 21 March 1969, J. Balfour-Browne — (5 BMNH);
-;@2004@zt00749@          Pioneer R. nr. Mirani, 21° 9' S, 149° 13' E, 4 September 1972, H. E. Hinton — (4 BMNH);
-@2004@zt00749@ZOOTAXA   chus (MEB 207) — (1 BMNH); Moitaka, 7 miles N. of Port Moresby, ex. shallow muddy
-;@2004@zt00749@ 749      margin of swamp, little weed, 17 March 1965, M. E. Bacchus (MEB 203) — (1 BMNH);
-@2004@zt00749@          1965, M. E. Bacchus (MEB 195) — (1 BMNH); Port Moresby - Brown River Road, ex.
-@2004@zt00749@          BMNH); Port Moresby - Brown River Road, ex. gravel banks of small fast running stream,
-@2004@zt00749@          15 March 1965, M. E. Bacchus (MEB 199a) — (1 BMNH); Port Moresby - Brown River
-@2004@zt00749@          196) — (3 BMNH); East Highland District, Okapa, ex. muddy gravel banks of fast, clear
-@2004@zt00749@          stream, elev. 1524 m, 9 February 1965, M. E. Bacchus (MEB 183) — (3 BMNH); Okapa,
-@2004@zt00749@          189a) — (1 BMNH); Okapa, under wet leaves left by receding pond, elev. 1524 m, 10
-@2004@zt00749@          February 1965, M. E. Bacchus (MEB 190) — (2 BMNH); Madang District, Finisterre
-@2004@zt00749@          914 m, 11 October 1964, M. E. Bacchus (MEB 47) — (2 BMNH); Morobe District, 3
-4@2004@zt00749@          chus (MEB 128) — (3 BMNH); 4 miles N. of Lae, ex gravel banks of small swift river, 21
-c.@2004@zt00749@          January 1965, M. E. Bacchus (MEB 155a) — (2 BMNH); c. 7m. Lae - Bulolo Road, ex.
-@2004@zt00749@          120) — (28 BMNH); Lae, Buins Creek, muddy gravel banks of large slow river, 27
-@2004@zt00749@          December 1964, M. E. Bacchus (MEB 122) — (1 BMNH); Lae - Bulolo Road, ex. dead
-@2004@zt00749@          leaves on mud bank, 28 December 1964, M. E. Bacchus (MEB 123) — (1 BMNH); Lae -
-@2004@zt00749@          Bacchus (MEB 135) — (1 BMNH); Lae - Bulolo Road, ex. muddy gravel bank of small
-@2004@zt00749@          shaded stream, 28 December 1964, M. E. Bacchus (MEB 125) — (6 BMNH); Lae -
-@2004@zt00749@          Bacchus (MEB 126) — (2 BMNH); Lae - Bulolo Road, Peracles Creek, ex. gravel banks
-@2004@zt00749@          of small steam, 30 December 1964, M. E. Bacchus (MEB 132) — (1 BMNH); Markham
-;@2004@zt00749@          algae, elev. 304 m, 27–30 January 1965, M. E. Bacchus (MEB 158) — (5 BMNH);
-@2004@zt00749@          chus (MEB 166) — (1 BMNH); Markham Valley, Gusap, c. 90 mi. W. of Lae, ex cattle
-;@2004@zt00749@          water troughs, elev. 304 m, 3 December 1964, M. E. Bacchus (MEB 114) — (2 BMNH);
-@2004@zt00749@          (MEB 156) — (3 BMNH); Northern District, Northern Dist., trib. Musa, in open river bed
-@2004@zt00447@ral History Museum, London (BMNH). Paratypes will be deposited in the Pusa National
-(NHMB@2004@zt00447@(NHMB) and the personal collection of the first author (PKDC).
-@2004@zt00447@          Phaelota jacobyi sp. nov. Prathapan & Viraktamath, 2003 3) Holotype (BMNH).
-@2004@zt00447@              Paratypes: 9%, 2&, same data as holotype (1 NHMB, 4 PKDC, 4 PNC, 2 USNM). 4%,
-@2004@zt00447@          Phaelota semifasciata Jacoby, 1887, 94. Syntype & Sri Lanka [BMNH, examined]; Maulik, 1926,
-@2004@zt00447@          Examined & dissected K. D. Prathapan 2003 (BMNH).
-@2004@zt00447@Phaelota sindhoori sp. nov. Prathapan & Viraktamath, 2003 3) Holotype (BMNH).
- :@2004@zt00447@Paratypes: 5%, 5&. The same data as holotype (1 NHMB, 4 PKDC, 3 PNC, 2 USNM). 5%,
-@2004@zt00447@          Phaelota vaishakha sp. nov. Prathapan & Viraktamath, 2003 3) Holotype (BMNH).
-@2004@zt00447@          Paratypes: 8%, 6&. The same data as holotype (1 NHMB, 5 PKDC, 4 PNC, 2 UASB, 2
-@2004@zt00684@          viation is used: BMNH, the British Museum (Natural History) Collection at The Natural
-@2004@zt00684@     Deposition of specimens: BMNH holotype 2004.7.14.47, paratypes 2004.7.14.31–46.
+Not specific@2004@zt00749@          Bacchus (MEB 219) — (paratypes) (46 BMNH); Paddy's River, nr. Murray's Corner, 35°
+Not specific@2004@zt00749@          25' S, 148° 57' E, 3 April 1965, M. E. Bacchus (MEB 231) — (BMNH); Paddy's River,
+Not specific@2004@zt00749@          locality, 35° 29' S, 148° 59' E, 16 January 1969, J. Balfour-Browne — (BMNH); Uriarra
+Not specific@2004@zt00749@— (paratypes) (29 BMNH); Manar Creek, Canberra-Coast Road, creek, 35° 17' S, 149°
+Not specific@2004@zt00749@1972, H. E. Hinton — (1 BMNH); Boulia, 22° 54' S, 139° 54' E, 1–30 July 1972, C. Watts
+Not specific@2004@zt00749@January — 30 December 1987, J. Balfour-Browne — (11 BMNH); Helenvale, 15° 42' S,
+Not specific@2004@zt00749@          SW Kuranda, 16° 49' S, 145° 38' E, 21 March 1969, J. Balfour-Browne — (5 BMNH);
+Not specific@2004@zt00749@          Pioneer R. nr. Mirani, 21° 9' S, 149° 13' E, 4 September 1972, H. E. Hinton — (4 BMNH);
+Not specific@2004@zt00749@ZOOTAXA   chus (MEB 207) — (1 BMNH); Moitaka, 7 miles N. of Port Moresby, ex. shallow muddy
+Not specific@2004@zt00749@ 749      margin of swamp, little weed, 17 March 1965, M. E. Bacchus (MEB 203) — (1 BMNH);
+Not specific@2004@zt00749@          1965, M. E. Bacchus (MEB 195) — (1 BMNH); Port Moresby - Brown River Road, ex.
+Not specific@2004@zt00749@          BMNH); Port Moresby - Brown River Road, ex. gravel banks of small fast running stream,
+Not specific@2004@zt00749@          15 March 1965, M. E. Bacchus (MEB 199a) — (1 BMNH); Port Moresby - Brown River
+Not specific@2004@zt00749@          196) — (3 BMNH); East Highland District, Okapa, ex. muddy gravel banks of fast, clear
+Not specific@2004@zt00749@          stream, elev. 1524 m, 9 February 1965, M. E. Bacchus (MEB 183) — (3 BMNH); Okapa,
+Not specific@2004@zt00749@          189a) — (1 BMNH); Okapa, under wet leaves left by receding pond, elev. 1524 m, 10
+Not specific@2004@zt00749@          February 1965, M. E. Bacchus (MEB 190) — (2 BMNH); Madang District, Finisterre
+Not specific@2004@zt00749@          914 m, 11 October 1964, M. E. Bacchus (MEB 47) — (2 BMNH); Morobe District, 3
+Not specific@2004@zt00749@          chus (MEB 128) — (3 BMNH); 4 miles N. of Lae, ex gravel banks of small swift river, 21
+Not specific@2004@zt00749@          January 1965, M. E. Bacchus (MEB 155a) — (2 BMNH); c. 7m. Lae - Bulolo Road, ex.
+Not specific@2004@zt00749@          120) — (28 BMNH); Lae, Buins Creek, muddy gravel banks of large slow river, 27
+Not specific@2004@zt00749@          December 1964, M. E. Bacchus (MEB 122) — (1 BMNH); Lae - Bulolo Road, ex. dead
+Not specific@2004@zt00749@          leaves on mud bank, 28 December 1964, M. E. Bacchus (MEB 123) — (1 BMNH); Lae -
+Not specific@2004@zt00749@          Bacchus (MEB 135) — (1 BMNH); Lae - Bulolo Road, ex. muddy gravel bank of small
+Not specific@2004@zt00749@          shaded stream, 28 December 1964, M. E. Bacchus (MEB 125) — (6 BMNH); Lae -
+Not specific@2004@zt00749@          Bacchus (MEB 126) — (2 BMNH); Lae - Bulolo Road, Peracles Creek, ex. gravel banks
+Not specific@2004@zt00749@          of small steam, 30 December 1964, M. E. Bacchus (MEB 132) — (1 BMNH); Markham
+Not specific@2004@zt00749@          algae, elev. 304 m, 27–30 January 1965, M. E. Bacchus (MEB 158) — (5 BMNH);
+Not specific@2004@zt00749@          chus (MEB 166) — (1 BMNH); Markham Valley, Gusap, c. 90 mi. W. of Lae, ex cattle
+Not specific@2004@zt00749@          water troughs, elev. 304 m, 3 December 1964, M. E. Bacchus (MEB 114) — (2 BMNH);
+Not specific@2004@zt00749@          (MEB 156) — (3 BMNH); Northern District, Northern Dist., trib. Musa, in open river bed
+Not specific@2004@zt00447@ral History Museum, London (BMNH). Paratypes will be deposited in the Pusa National
+Not specific@2004@zt00447@          Phaelota jacobyi sp. nov. Prathapan & Viraktamath, 2003 3) Holotype (BMNH).
+Not specific@2004@zt00447@          Phaelota semifasciata Jacoby, 1887, 94. Syntype & Sri Lanka [BMNH, examined]; Maulik, 1926,
+Not specific@2004@zt00447@          Examined & dissected K. D. Prathapan 2003 (BMNH).
+Not specific@2004@zt00447@Phaelota sindhoori sp. nov. Prathapan & Viraktamath, 2003 3) Holotype (BMNH).
+Not specific@2004@zt00447@Paratypes: 5%, 5&. The same data as holotype (1 NHMB, 4 PKDC, 3 PNC, 2 USNM). 5%,
+Not specific@2004@zt00447@          Phaelota vaishakha sp. nov. Prathapan & Viraktamath, 2003 3) Holotype (BMNH).
+Not specific@2004@zt00447@          Paratypes: 8%, 6&. The same data as holotype (1 NHMB, 5 PKDC, 4 PNC, 2 UASB, 2
+2004.7.14.21-26@2004@zt00684@     Deposition of specimens: BMNH holotype 2004.7.14.47, paratypes 2004.7.14.31–46.
 2004.7.14.21–26.@2004@zt00684@ZOOTAXA       Deposition of specimens: Vouchers BMNH 2004.7.14.21–26.
-@2004@zt00681a@fully indexed collection-catalogue of The Natural History Museum, London (BMNH).
-@2004@zt00681a@portion of whitefly species have yet been described (Martin, 1999; vouchers in BMNH
-@2004@zt00681a@in BMNH). Most members of the Aleurodicinae also have a more complex wing venation
-@2004@zt00681a@mens from most of the introduced populations discussed above are present in the BMNH
-—@2004@zt00681a@BMNH — The Natural History Museum, London, U.K.
-@2004@zt00681a@ize. LCRS is a joint facility of BMNH and the Belize Forest Department, and is located at
-@2004@zt00681a@               Syntype slides of several species, not represented in the BMNH collection, were bor-
-@2004@zt00681a@          any or Entomology Departments of BMNH.
-@2004@zt00681a@          upon Mound & Halsey (1978) and the BMNH collection. No detailed searches for other
-@2004@zt00681a@          almost unrepresented in BMNH prior to this survey.
-@2004@zt00681a@          (probably syntypic) material of A. dugesii in BMNH. Secondly, the large compound pores
-@2004@zt00681a@phyllum riparium (Bignoniaceae), 25.iii.2003 (J.H.Martin #7800) (BMNH). Paratypes (all
-37@2004@zt00681a@(BMNH); 37 puparia, 4 third-instar larvae, 1 adult male, 1 adult female, same locality and
-USNM@2004@zt00681a@host family, 11.ii.1996, 16.ii.1996, 04.iii.1996, 25.iii.2003, 09.vi.2004 (BMNH, USNM); 5
-1@2004@zt00681a@daceae), 29.iii.2003 (BMNH); 1 puparium, same locality, on unidentified host, 06.iv.2003
-13@2004@zt00681a@ZOOTAXA   (BMNH); 13 puparia (plus approximately 10 more dry, attached to leaf), on Combretum
-@2004@zt00681a@ 681      cacoucia (Combretaceae), 06.vi.2004 (BMNH).
-@2004@zt00681a@          Encyclia cochleata (Orchidaceae), 04.vi.2004, (J. H. Martin #7986) (BMNH). Paratypes:
-USNM@2004@zt00681a@          17 puparia (7 dry on leaf), same data as holotype (BMNH, USNM).
-@2004@zt00681a@Casearia tremula (Flacourtiaceae), 04.iv.2003 (J.H.Martin #7846) (BMNH). Paratypes
-USNM@2004@zt00681a@same data as holotype (BMNH, USNM); 8 puparia, 1 third-instar larva, 1 third-instar /
-29@2004@zt00681a@aceae), 30.v.2004 & 04.vi.2004 (BMNH); 29 puparia, 3 third-instar larvae, 1 second-instar
-BZ@2004@zt00681a@ZOOTAXA   05.vi.2004 (4 separate samples) (BMNH, BZ, USNM); approximately 20 puparia and ear-
-@2004@zt00681a@ 681      lier instar exuviae dry on leaf, same locality, on ?Lauraceae, 30.v.2004 (BMNH).
-7@2004@zt00681a@          Rosa NP, on undetermined host, 06.iii.1990 (J.M.Cox) (BMNH); 7 puparia, COSTA
-@2004@zt00681a@          02.ii.1983 (J.H.Martin) (BMNH).
-@2004@zt00681a@ZOOTAXA   nucifera (Arecaceae), 11.iii.1996 (J. H. Martin #6770) (BMNH). Paratypes: 12 puparia, 1
-19@2004@zt00681a@ 681      adult male, 1 adult female, same data as holotype (BMNH); 19 puparia, 8 third-instar
-USNM@2004@zt00681a@          larva, 9 adult females, same locality and host, 01.vii.2002 (Martin) (BMNH, USNM); 6
-MEXICO@2004@zt00681a@          aved woody host, 03.vi.2004 (Martin) (BMNH); MEXICO, Tamaulipas, “CD: Victoria,
-2@2004@zt00681a@          UAT”, on Psidium guajava, 08.xii.1995 (E. Chouvakhina) (BMNH); 2 slide-mounted, 11
-ZISP@2004@zt00681a@          dry puparia, same host and locality, 25.x.2002 (S. N. Myartseva K#392) (BMNH, ZISP).
-@2004@zt00681a@a tangle of undetermined woody vines, 20.xi.1994 (J.H.Martin #6492A) (BMNH).
-1@2004@zt00681a@Paratypes: 2 puparia, same data as holotype (BMNH); 1, same locality, undetermined
-@2004@zt00681a@woody broadleaf host, 23.iii.2003 (Martin) (BMNH).
-@2004@zt00681a@          (BMNH).
-@2004@zt00681a@          prising less than 30 puparia, scattered under a Croton leaf in CFR (BMNH).
-@2004@zt00681a@          plots, on Laetia thamnia (Flacourtiaceae), 29.v. 2004 (J.H.Martin #7938) (BMNH).
-3@2004@zt00681a@          aceae), 05.vi. 2004 (Martin #7991) (BMNH); 3 puparia, NICARAGUA, Granada Prov-
-4@2004@zt00681a@          13.vi.2004 (Martin #8030) (BMNH); 4 puparia, 1 third-instar / puparium intermoult, 1
-9@2004@zt00681a@          fluence, on Uncaria tomentosa (Rubiaceae), 22.vi.2004 (Martin #8078) (BMNH); 9
-USNM@2004@zt00681a@          (Martin #8083) (BMNH, USNM); 2 puparia, COSTA RICA, Turrialba, CATIE research
-1@2004@zt00681a@          centre, on Eupatorium sp. (Asteraceae), 01.iii.1983 (Martin #3924) (BMNH); 1 puparium,
-1@2004@zt00681a@          ceae), 01.i.1983 (Martin #3478) (BMNH); 1 puparium, same locality, on Pentagonia mac-
-1@2004@zt00681a@          rophylla (Rubiaceae), 15.iii.1983 (Martin #4026) (BMNH); 1 puparium, Canal Zone,
-681@2004@zt00681a@(BMNH).                                                                                            681
-UCD@2004@zt00681a@mesally from puparial margin. Examination of ten species (BMNH, UCD) has revealed
-@2004@zt00681a@woody Lauraceae, 18 xi.1994 (J.H.Martin #6494) (BMNH). Paratypes: 4 puparia, 1 adult
-2@2004@zt00681a@female, same data as holotype (BMNH); 2 adult females, 1 adult male, same host and
-@2004@zt00681a@locality, 30 xi.1994 (Martin) (BMNH).
-@2004@zt00681a@able in BMNH.
-@2004@zt00681a@on Persea americana (Lauraceae), 10.ii.1996 (J.H.Martin #6633) (BMNH). Paratypes,
-BZ@2004@zt00681a@02.iii.1996, 11.vi.2002, 20.iii.2003 (BMNH, BZ, CDFA, USNM); 2 puparia dry on leaf,
-11@2004@zt00681a@same data as holotype; 5 puparia dry on leaf, 02.iii.1996 (BMNH); 11 puparia, 2 third-
-3@2004@zt00681a@instar larvae, Las Cuevas, on Persea americana (different tree), 10.vi.2004 (BMNH); 3
-@2004@zt00681a@puparia, CFR, San Pastor track, on ?Nectandra sp. (Lauraceae), 22.iii.2003 (BMNH).
-@2004@zt00681a@23.vi.2004 (Martin) (BMNH).
-@2004@zt00681a@               The puparia of species of Leonardius and Bakerius in BMNH each possess only two
-@2004@zt00681a@L. lahillei and the Belizean sample are available in BMNH, and differences in such charac-
-@2004@zt00681a@          Loranthaceae, 02.viii.2003 (S. Kelly & A. Polaszek) (BMNH). Paratypes: 40 puparia, 6
-USNM@2004@zt00681a@          same data as holotype (BMNH, USNM); numerous puparia dry on leaves, same data as
-@2004@zt00681a@          holotype (BMNH).
-@2004@zt00681a@               Examination of material of five different samples in BMNH, from four countries, has
-@2004@zt00681a@          Chiococca ?alba (Rubiaceae), 04.iv.2003 (J.H.Martin #7843) (BMNH). Paratypes (all
-4@2004@zt00681a@Cuevas area, on undetermined host, 02.vi.2002 (BMNH); 4 puparia, 2 third-instar larvae, 1       ZOOTAXA
-11@2004@zt00681a@second instar larva, Las Cuevas area, on undetermined host, 23.iii.2003 (BMNH); 11               681
-USNM@2004@zt00681a@cocca ?alba, 03.vi.2004 (BMNH, USNM).
-@2004@zt00681a@          (BMNH). Paratypes: 30 puparia, 1 third-instar larva, same data as holotype (
-,@2004@zt00681a@BMNH,
-@2004@zt00681a@          residue of type sample (BMNH).
-@2004@zt00681a@          Lasianthaea fruticosa (Asteraceae), 28.ii.1996 (J.H.Martin #6714) (BMNH). Paratypes
-BZ@2004@zt00681a@          06.iii.1996, 04.vi.2002, 20.iii.2003, 22.iii.2003, 24.iii.2003 (BMNH, BZ, USNM); 5
-@2004@zt00681a@          same locality, undetermined host, 20.xi.1994 (all BMNH).
-@2004@zt00681a@               To judge from the BMNH collection and the results of this study, N. altissimus sensu
-@2004@zt00681a@          material present in BMNH has all been collected from Fabaceae — in the genera Canava-
-@2004@zt00681a@          four puparia on one slide were donated to BMNH by Bondar, and these are probably syn-
-@2004@zt00681a@          donated to BMNH at the same time, and registered in 1924. It is likely that this is not a
-@2004@zt00681a@          date of collection, but a date of selection for donation or a date of receipt at BMNH, nei-
-@2004@zt00681a@    N. bakeri is represented in BMNH by material from the countries listed above;
-@2004@zt00681a@          Sebastiania longicuspis (Euphorbiaceae), 31.v.2004 (J.H.Martin #7963) (BMNH).
-1@2004@zt00681a@          Paratypes: 1 puparium, same data as holotype (BMNH); 1 third-instar / puparium inter-
-@2004@zt00681a@          moult, Las Cuevas, on Persea americana (Lauraceae), 04.xi.1994 (Martin) (BMNH).
-@2004@zt00681a@          ?nitida (Lauraceae), 23.iii.2003 (Martin) (BMNH).
-681@2004@zt00681a@trail, on Protium glabrum (Burseraceae), 06.iv.2003 (J.H.Martin #7857) (BMNH).                    681
-CDFA@2004@zt00681a@females, same data as holotype (BMNH, CDFA, USNM); numerous puparia dry on stems,
-@2004@zt00681a@residue of type sample (BMNH).
-@2004@zt00681a@          on Asteraceae, possibly Lasianthaea sp., 22.vi.2002 (J.H.Martin #7701) (BMNH).
-1@2004@zt00681a@          slide (BMNH); 1 puparium, San Pastor track, on Tetracera sp.(Dilleniaceae), 18.xi.1994; 1
-17@2004@zt00681a@          Monkey Tail track, on C. belizensis, 13.ii.1996 (all BMNH); 17 males, 14 females, 15
-CDFA@2004@zt00681a@          02.xii.1994, 10 & 20.ii.1996, 11.vi.2002 (all from the same tree) (BMNH, CDFA, USNM,
-@2004@zt00681a@          tola confluence, on Persea americana, 23.vi.2004 (Martin) (BMNH).
-@2004@zt00681a@on the label to be P. perseae, from Florida, BMNH) is available to the author, and the aede-
-@2004@zt00681a@          plots, on a vine, probably Bignoniaceae, 16.ii.1996 (J.H.Martin #6678) (BMNH).
-@2004@zt00681a@          #7778) (BMNH).
-@2004@zt00681a@(2003, BMNH), the first records of this species occurring in Asia. Two puparia from Hong
-@2004@zt00681a@          on Piper yucatanense (Piperaceae), 06.vi.2004 (J.H.Martin #8003A) (BMNH). Paratypes:
-USNM@2004@zt00681a@          (BMNH, USNM).
-@2004@zt00681a@          30.v.2004 (Martin #7950) (all BMNH).
-@2004@zt00681a@(BMNH). Paratype: 1 adult male, same data as holotype, on same slide (
-@2004@zt00681a@BMNH).
-@2004@zt00681a@          BMNH field station team at Las Cuevas, and the great co-operation of government depart-
-@2004@zt00681a@          records presented in Appendix 2. Caroline Whitefoord (BMNH) deserves special mention
-@2004@zt00681a@          BMNH have also contributed identifications of plant vouchers, especially Roy Vickery
-,@2004@zt00681a@               Additional whitefly study material was contributed by Andrew Polaszek (BMNH),
-@2004@zt00681a@          of all these colleagues and the BMNH Photographic Unit is acknowledged with pleasure.
-@2004@zt00681a@          having been made by Caroline Whitefoord, Department of Botany, BMNH
-@2004@zt00612@(BMNH), we are herein designating the lectotype and paralectotypes, redescribing the spe-
-@2004@zt00612@     Type-material examined: Lectotype male (BMNH), by present designation, labelled:
-@2004@zt00612@(BMNH) in good condition, lacking the midlegs, second to fifth tarsomeres of the right
-@2004@zt00612@(BMNH) in reasonable condition, lacking the forelegs, and tibia and tarsus of the right
-@2004@zt00612@midleg. One paralectotype female (BMNH) in reasonable condition, lacking the mid and
-@2004@zt00612@(BMNH) in reasonable condition, lacking abdomen, forelegs, left hindleg and right hind
-@2004@zt00612@Dahl collection (BMNH); Montana, Powell County, one female, no date, R. Dahl collec-
-@2004@zt00612@tion (BMNH); Montana, one female, no date, R. Dahl collection (
-@2004@zt00612@BMNH).
-@2004@zt00612@Our thanks to John Chainey (BMNH) for the loan of material, to Adrian Pont (Oxford Uni-
-@2004@zt00612@facilities at the BMNH, and Coordenação de Aperfeiçoamento de Pessoal de Nível Supe-
-@2004@zt00607@          BMNH, Natural History Museum, London, England; CH, collection of Christer Hansson;
-@2004@zt00607@          (BMNH). Paratypes: 7 females 3 males with same label data as holotype (
-CH,@2004@zt00607@BMNH, CH,
-@2004@zt00454@          BMNH, Natural History Museum, London; MRAC, Musée Royal de l´Afrique Centrale,
+Not specific@2004@zt00681a@portion of whitefly species have yet been described (Martin, 1999; vouchers in BMNH
+Not specific@2004@zt00681a@in BMNH). Most members of the Aleurodicinae also have a more complex wing venation
+Not specific@2004@zt00681a@mens from most of the introduced populations discussed above are present in the BMNH
+Not specific@2004@zt00681a@               Syntype slides of several species, not represented in the BMNH collection, were bor-
+Not specific@2004@zt00681a@          any or Entomology Departments of BMNH.
+Not specific@2004@zt00681a@          (probably syntypic) material of A. dugesii in BMNH. Secondly, the large compound pores
+#7800@2004@zt00681a@phyllum riparium (Bignoniaceae), 25.iii.2003 (J.H.Martin #7800) (BMNH). Paratypes (all
+Not specific@2004@zt00681a@(BMNH); 37 puparia, 4 third-instar larvae, 1 adult male, 1 adult female, same locality and
+Not specific@2004@zt00681a@host family, 11.ii.1996, 16.ii.1996, 04.iii.1996, 25.iii.2003, 09.vi.2004 (BMNH, USNM); 5
+Not specific@2004@zt00681a@daceae), 29.iii.2003 (BMNH); 1 puparium, same locality, on unidentified host, 06.iv.2003
+Not specific@2004@zt00681a@ZOOTAXA   (BMNH); 13 puparia (plus approximately 10 more dry, attached to leaf), on Combretum
+Not specific@2004@zt00681a@ 681      cacoucia (Combretaceae), 06.vi.2004 (BMNH).
+#7986@2004@zt00681a@          Encyclia cochleata (Orchidaceae), 04.vi.2004, (J. H. Martin #7986) (BMNH). Paratypes:
+Not specific@2004@zt00681a@          17 puparia (7 dry on leaf), same data as holotype (BMNH, USNM).
+#7846@2004@zt00681a@Casearia tremula (Flacourtiaceae), 04.iv.2003 (J.H.Martin #7846) (BMNH). Paratypes
+Not specific@2004@zt00681a@same data as holotype (BMNH, USNM); 8 puparia, 1 third-instar larva, 1 third-instar /
+Not specific@2004@zt00681a@aceae), 30.v.2004 & 04.vi.2004 (BMNH); 29 puparia, 3 third-instar larvae, 1 second-instar
+Not specific@2004@zt00681a@ZOOTAXA   05.vi.2004 (4 separate samples) (BMNH, BZ, USNM); approximately 20 puparia and ear-
+Not specific@2004@zt00681a@ 681      lier instar exuviae dry on leaf, same locality, on ?Lauraceae, 30.v.2004 (BMNH).
+Not specific@2004@zt00681a@          Rosa NP, on undetermined host, 06.iii.1990 (J.M.Cox) (BMNH); 7 puparia, COSTA
+Not specific@2004@zt00681a@          02.ii.1983 (J.H.Martin) (BMNH).
+#6770@2004@zt00681a@ZOOTAXA   nucifera (Arecaceae), 11.iii.1996 (J. H. Martin #6770) (BMNH). Paratypes: 12 puparia, 1
+Not specific@2004@zt00681a@ 681      adult male, 1 adult female, same data as holotype (BMNH); 19 puparia, 8 third-instar
+Not specific@2004@zt00681a@          larva, 9 adult females, same locality and host, 01.vii.2002 (Martin) (BMNH, USNM); 6
+Not specific@2004@zt00681a@          aved woody host, 03.vi.2004 (Martin) (BMNH); MEXICO, Tamaulipas, “CD: Victoria,
+Not specific@2004@zt00681a@          UAT”, on Psidium guajava, 08.xii.1995 (E. Chouvakhina) (BMNH); 2 slide-mounted, 11
+K#392@2004@zt00681a@          dry puparia, same host and locality, 25.x.2002 (S. N. Myartseva K#392) (BMNH, ZISP).
+#6492A@2004@zt00681a@a tangle of undetermined woody vines, 20.xi.1994 (J.H.Martin #6492A) (BMNH).
+Not specific@2004@zt00681a@Paratypes: 2 puparia, same data as holotype (BMNH); 1, same locality, undetermined
+Not specific@2004@zt00681a@woody broadleaf host, 23.iii.2003 (Martin) (BMNH).
+Not specific@2004@zt00681a@          prising less than 30 puparia, scattered under a Croton leaf in CFR (BMNH).
+#7938@2004@zt00681a@          plots, on Laetia thamnia (Flacourtiaceae), 29.v. 2004 (J.H.Martin #7938) (BMNH).
+#7991@2004@zt00681a@          aceae), 05.vi. 2004 (Martin #7991) (BMNH); 3 puparia, NICARAGUA, Granada Prov-
+#8030.@2004@zt00681a@          13.vi.2004 (Martin #8030) (BMNH); 4 puparia, 1 third-instar / puparium intermoult, 1
+#8078@2004@zt00681a@          fluence, on Uncaria tomentosa (Rubiaceae), 22.vi.2004 (Martin #8078) (BMNH); 9
+#8083@2004@zt00681a@          (Martin #8083) (BMNH, USNM); 2 puparia, COSTA RICA, Turrialba, CATIE research
+#3924@2004@zt00681a@          centre, on Eupatorium sp. (Asteraceae), 01.iii.1983 (Martin #3924) (BMNH); 1 puparium,
+#3478@2004@zt00681a@          ceae), 01.i.1983 (Martin #3478) (BMNH); 1 puparium, same locality, on Pentagonia mac-
+#4026@2004@zt00681a@          rophylla (Rubiaceae), 15.iii.1983 (Martin #4026) (BMNH); 1 puparium, Canal Zone,
+#4092@2004@zt00681a@(BMNH).                                                                                            681
+Not specific@2004@zt00681a@mesally from puparial margin. Examination of ten species (BMNH, UCD) has revealed
+#6494@2004@zt00681a@woody Lauraceae, 18 xi.1994 (J.H.Martin #6494) (BMNH). Paratypes: 4 puparia, 1 adult
+Not specific@2004@zt00681a@female, same data as holotype (BMNH); 2 adult females, 1 adult male, same host and
+Not specific@2004@zt00681a@locality, 30 xi.1994 (Martin) (BMNH).
+Not specific@2004@zt00681a@able in BMNH.
+#6633@2004@zt00681a@on Persea americana (Lauraceae), 10.ii.1996 (J.H.Martin #6633) (BMNH). Paratypes,
+Not specific@2004@zt00681a@02.iii.1996, 11.vi.2002, 20.iii.2003 (BMNH, BZ, CDFA, USNM); 2 puparia dry on leaf,
+Not specific@2004@zt00681a@same data as holotype; 5 puparia dry on leaf, 02.iii.1996 (BMNH); 11 puparia, 2 third-
+Not specific@2004@zt00681a@instar larvae, Las Cuevas, on Persea americana (different tree), 10.vi.2004 (BMNH); 3
+Not specific@2004@zt00681a@puparia, CFR, San Pastor track, on ?Nectandra sp. (Lauraceae), 22.iii.2003 (BMNH).
+Not specific@2004@zt00681a@23.vi.2004 (Martin) (BMNH).
+Not specific@2004@zt00681a@               The puparia of species of Leonardius and Bakerius in BMNH each possess only two
+Not specific@2004@zt00681a@L. lahillei and the Belizean sample are available in BMNH, and differences in such charac-
+Not specific@2004@zt00681a@          Loranthaceae, 02.viii.2003 (S. Kelly & A. Polaszek) (BMNH). Paratypes: 40 puparia, 6
+Not specific@2004@zt00681a@          same data as holotype (BMNH, USNM); numerous puparia dry on leaves, same data as
+Not specific@2004@zt00681a@          holotype (BMNH).
+Not specific@2004@zt00681a@               Examination of material of five different samples in BMNH, from four countries, has
+#7843@2004@zt00681a@          Chiococca ?alba (Rubiaceae), 04.iv.2003 (J.H.Martin #7843) (BMNH). Paratypes (all
+Not specific@2004@zt00681a@Cuevas area, on undetermined host, 02.vi.2002 (BMNH); 4 puparia, 2 third-instar larvae, 1       ZOOTAXA
+Not specific@2004@zt00681a@second instar larva, Las Cuevas area, on undetermined host, 23.iii.2003 (BMNH); 11               681
+Not specific@2004@zt00681a@cocca ?alba, 03.vi.2004 (BMNH, USNM).
+Not specific@2004@zt00681a@          (BMNH). Paratypes: 30 puparia, 1 third-instar larva, same data as holotype (
+Not specific@2004@zt00681a@BMNH,
+Not specific@2004@zt00681a@          residue of type sample (BMNH).
+#6714@2004@zt00681a@          Lasianthaea fruticosa (Asteraceae), 28.ii.1996 (J.H.Martin #6714) (BMNH). Paratypes
+Not specific@2004@zt00681a@          06.iii.1996, 04.vi.2002, 20.iii.2003, 22.iii.2003, 24.iii.2003 (BMNH, BZ, USNM); 5
+Not specific@2004@zt00681a@          same locality, undetermined host, 20.xi.1994 (all BMNH).
+Not specific@2004@zt00681a@          four puparia on one slide were donated to BMNH by Bondar, and these are probably syn-
+Not specific@2004@zt00681a@          donated to BMNH at the same time, and registered in 1924. It is likely that this is not a
+Not specific@2004@zt00681a@          date of collection, but a date of selection for donation or a date of receipt at BMNH, nei-
+Not specific@2004@zt00681a@    N. bakeri is represented in BMNH by material from the countries listed above;
+#7963@2004@zt00681a@          Sebastiania longicuspis (Euphorbiaceae), 31.v.2004 (J.H.Martin #7963) (BMNH).
+Not specific@2004@zt00681a@          Paratypes: 1 puparium, same data as holotype (BMNH); 1 third-instar / puparium inter-
+Not specific@2004@zt00681a@          moult, Las Cuevas, on Persea americana (Lauraceae), 04.xi.1994 (Martin) (BMNH).
+Not specific@2004@zt00681a@          ?nitida (Lauraceae), 23.iii.2003 (Martin) (BMNH).
+#7857@2004@zt00681a@trail, on Protium glabrum (Burseraceae), 06.iv.2003 (J.H.Martin #7857) (BMNH).                    681
+Not specific@2004@zt00681a@females, same data as holotype (BMNH, CDFA, USNM); numerous puparia dry on stems,
+Not specific@2004@zt00681a@residue of type sample (BMNH).
+#7701@2004@zt00681a@          on Asteraceae, possibly Lasianthaea sp., 22.vi.2002 (J.H.Martin #7701) (BMNH).
+Not specific@2004@zt00681a@          slide (BMNH); 1 puparium, San Pastor track, on Tetracera sp.(Dilleniaceae), 18.xi.1994; 1
+Not specific@2004@zt00681a@          Monkey Tail track, on C. belizensis, 13.ii.1996 (all BMNH); 17 males, 14 females, 15
+Not specific@2004@zt00681a@          02.xii.1994, 10 & 20.ii.1996, 11.vi.2002 (all from the same tree) (BMNH, CDFA, USNM,
+Not specific@2004@zt00681a@          tola confluence, on Persea americana, 23.vi.2004 (Martin) (BMNH).
+Not specific@2004@zt00681a@on the label to be P. perseae, from Florida, BMNH) is available to the author, and the aede-
+#6678@2004@zt00681a@          plots, on a vine, probably Bignoniaceae, 16.ii.1996 (J.H.Martin #6678) (BMNH).
+#7778@2004@zt00681a@          #7778) (BMNH).
+Not specific@2004@zt00681a@(2003, BMNH), the first records of this species occurring in Asia. Two puparia from Hong
+#8003A@2004@zt00681a@          on Piper yucatanense (Piperaceae), 06.vi.2004 (J.H.Martin #8003A) (BMNH). Paratypes:
+Not specific@2004@zt00681a@          (BMNH, USNM).
+#7950@2004@zt00681a@          30.v.2004 (Martin #7950) (all BMNH).
+#6662@2004@zt00681a@          30.v.2004 (Martin #7950) (all BMNH).
+#7972@2004@zt00681a@          30.v.2004 (Martin #7950) (all BMNH).
+Not specific@2004@zt00681a@(BMNH). Paratype: 1 adult male, same data as holotype, on same slide (
+#6707@2004@zt00681a@BMNH).
+Not specific@2004@zt00612@(BMNH), we are herein designating the lectotype and paralectotypes, redescribing the spe-
+Not specific@2004@zt00612@     Type-material examined: Lectotype male (BMNH), by present designation, labelled:
+Not specific@2004@zt00612@(BMNH) in good condition, lacking the midlegs, second to fifth tarsomeres of the right
+Not specific@2004@zt00612@(BMNH) in reasonable condition, lacking the forelegs, and tibia and tarsus of the right
+Not specific@2004@zt00612@midleg. One paralectotype female (BMNH) in reasonable condition, lacking the mid and
+Not specific@2004@zt00612@(BMNH) in reasonable condition, lacking abdomen, forelegs, left hindleg and right hind
+Not specific@2004@zt00612@Dahl collection (BMNH); Montana, Powell County, one female, no date, R. Dahl collec-
+Not specific@2004@zt00612@tion (BMNH); Montana, one female, no date, R. Dahl collection (
+Not specific@2004@zt00612@BMNH).
+Not specific@2004@zt00607@          (BMNH). Paratypes: 7 females 3 males with same label data as holotype (
+Not specific@2004@zt00607@BMNH, CH,
 1915.4.13:44@2004@zt00454@Pelvicachromis humilis: 108 specimens: BMNH 1915.4.13:44, holotype, Sierra Leone:
-1901.1.28.13-20,@2004@zt00454@              Pelvicachromis pulcher: 20 specimens: All from Nigeria: BMNH 1901.1.28.13-20,
-1872.1.27.14-15,@2004@zt00454@              Pelvicachromis subocellatus : 9 specimens: All from Gabon: BMNH 1872.1.27.14-15,
+1901.1.28.13-20@2004@zt00454@              Pelvicachromis pulcher: 20 specimens: All from Nigeria: BMNH 1901.1.28.13-20,
+1872.1.27.14-15@2004@zt00454@              Pelvicachromis subocellatus : 9 specimens: All from Gabon: BMNH 1872.1.27.14-15,
 1901.1.28.21@2004@zt00454@              Pelvicachromis taeniatus : 14 specimens: BMNH 1901.1.28.21, holotype, Nigeria:
 1912.6.29.19–28@2004@zt00454@          mouth of Ethiop River. BMNH 1912.6.29.19–28 + 
 1902.11.12.164–165@2004@zt00454@BMNH 1902.11.12.164–165 (syntypes
-I.J.H.@2004@zt00454@          Vienna), J. Maclaine (BMNH), I.J.H.Isbrücker (ZMA), F. Bitter (Geeste), L. Page (Florida
-;@2004@zt00701@of Natural History, New York (AMNH); The Natural History Museum, London (BMNH);
-(USNM@2004@zt00701@genitalia slide: 77, (BMNH), (USNM ENT: 171220).
-@2004@zt00701@          1887:220). A specimen matching this description and label in the BMNH collection does
-@2004@zt00701@ingo, Carabaya, 6500 ft (BMNH)] has been examined, but it has distinctly different male
-@2004@zt00701@series of E. mesoamericana and E. costaricana. Geoff Martin (BMNH) kindly sent images
-@2004@zt00701@Mexico); Martin Honey (BMNH); and Phil Perkins (MCZ). The manuscript benefited
-@2004@zt00437@          (BMNH), California Academy of Sciences, San Francisco (CAS), Swedish Museum of
+Not specific@2004@zt00701@genitalia slide: 77, (BMNH), (USNM ENT: 171220).
+1887.220.@2004@zt00701@          1887:220). A specimen matching this description and label in the BMNH collection does
+Not specific@2004@zt00701@ingo, Carabaya, 6500 ft (BMNH)] has been examined, but it has distinctly different male
 1889.2.1.2411–2@2004@zt00437@          Monywa; BMNH 1889.2.1.2411–2 (2, 132–133 mm SL), Moulmein; 
-@2004@zt00437@BMNH
 1891.11.30.184@2004@zt00437@          1889.2.1.2462 (1, 110 mm SL), Irrawaddy; BMNH 1891.11.30.184 (1, 116 mm SL), Sit-
+1889.2.1.2462@2004@zt00437@          1889.2.1.2462 (1, 110 mm SL), Irrawaddy; BMNH 1891.11.30.184 (1, 116 mm SL), Sit-
 1889.2.1.2443–2447@2004@zt00437@Clupisoma garua: All specimens from India: BMNH 1889.2.1.2443–2447 (8, 73–145 mm
 1858.8.15.127@2004@zt00437@SL), Calcutta; BMNH 1858.8.15.127 (1, 128 mm SL), Ganges; SU 34839 (11, 109–167
-@2004@zt00437@Schaefer, and Barbara Brown (AMNH), Darrell Siebert and Oliver Crimmon (BMNH).
-–@2004@zt00513@          Wales; Tas – Tasmania; Vic – Victoria; BMNH – Natural History Museum, London;
 1910.3.18.150@2004@zt00513@(36.6 metres), S.S. Discovery (BMNH 1910.3.18.150).
-@2004@zt00513@          29 January 1874, 127 fathoms (232 m), volcanic mud, HMS Challenger (BMNH
+1889.4.27.73@2004@zt00513@          29 January 1874, 127 fathoms (232 m), volcanic mud, HMS Challenger (BMNH
 2004.677@2004@zt00513@(232 m), volcanic mud, HMS Challenger (BMNH 2004.677).                                                    513
-@2004@zt00513@          (BMNH), Åse Wilhelmsen (Zoological Museum, University of Oslo) and Oliver Coleman
-@2004@zt00785@          [BMNH], and the Museum of Zoology, Indonesian Institute of Sciences, Jakarta Bogor,
-FAMU@2004@zt00785@          (B0541), ten larvae [BMNH, FAMU, MZL]; Kipah trib., Loc. Seturan (1998-petak 28),
-NHM@2004@zt00644@NHM, London for critical comments on the manuscript. We are indebted to Shanker Naik
-@2004@zt00524@          BMNH, Natural History Museum, London; MNHN, Museum National d’Histoire
+B0541@2004@zt00785@          (B0541), ten larvae [BMNH, FAMU, MZL]; Kipah trib., Loc. Seturan (1998-petak 28),
 1882.2.25:69@2004@zt00524@          FIGURE 4. Ptychochromoides betsileanus, lectotype, BMNH 1882.2.25:69, adult male, 159.6 mm
-1882.2.25:69@2004@zt00524@     Ptychochromoides betsileanus: BMNH 1882.2.25:69, lectotype; 
-@2004@zt00524@BMNH
-@2004@zt00524@1882.2.25:70, 1 paralectotype; AMNH 217753, 1 ex.; AMNH 217763, 1 ex.; BMNH
-@2004@zt00524@specimens in their care I am grateful to Darrel Siebert (BMNH), Guy Duhamel and Patrice
-@2004@zt00631b@              Specimens examined. Female HOLOTYPE (NHMB) labeled “Bolivia (Beni), Rur-
-@2004@zt00631b@          locality and collector, IX-1962; 2 && (NHMB) same locality and collector.
-@2004@zt00631b@Shute, 1989” (NHM). Female SYNTYPE labeled “[green paper tag - blank]/Amaz./Type
-(?/@2004@zt00631b@(?)/Baly Coll./SYNTYPE, Stenolampra costata Baly, S.L. Shute, 1989” (NHM). Male
-@2004@zt00631b@          further data) (NHMB). Holotype deposited in NMNH, paratype deposited in NHMB.
- (NHM@2004@zt00631b@          (NHM). BRAZIL: 1%, Amazons./1st. Jacoby Coll./compared with Type (MCZ). ECUA-
- (NHM@2004@zt00631b@          (NHM); 1%, 1&, Amaz./Baly coll. (NHM); 3F, Rondônia, 62km SW Ariquemes, nr. Fzda.
-@2004@zt00631b@               Specimens examined. Female HOLOTYPE (NHMB) labeled: Mera Ecuador/ Type/
-@2004@zt00631b@          Holotype Prionodera merana M/n. 81 det. J. Bechyné 1949. 1 Female (NHMB) labeled
-@2004@zt00631b@              Specimens examined. Female HOLOTYPE (NHMB) labeled “Canchamajo Peruvia,
- (NHMB@2004@zt00631b@          (NHMB); OTHER SPECIMENS: 1% BOLIVIA, Santa Cruz, 3.7km SSE Buena Vista,
-@2004@zt00680a@               AMNH (American Museum of Natural History, New York, U.S.A), BMNH (The Nat-
-@2004@zt00680a@          Spain), MNHN (Muséum Nationale d'Histoire Naturelle, Paris, France), NHMW
+1882.2.25.70.@2004@zt00524@1882.2.25:70, 1 paralectotype; AMNH 217753, 1 ex.; AMNH 217763, 1 ex.; BMNH
+1909.7.27.53@2004@zt00524@specimens in their care I am grateful to Darrel Siebert (BMNH), Guy Duhamel and Patrice
+Not specific@2004@zt00631b@Shute, 1989” (NHM). Female SYNTYPE labeled “[green paper tag - blank]/Amaz./Type
+Not specific@2004@zt00631b@(?)/Baly Coll./SYNTYPE, Stenolampra costata Baly, S.L. Shute, 1989” (NHM). Male
+Not specific@2004@zt00631b@          (NHM). BRAZIL: 1%, Amazons./1st. Jacoby Coll./compared with Type (MCZ). ECUA-
+Not specific@2004@zt00631b@          (NHM); 1%, 1&, Amaz./Baly coll. (NHM); 3F, Rondônia, 62km SW Ariquemes, nr. Fzda.
 1932.12.24.185–190@2004@zt00680a@Material examined. Panamá: 6 syntypes BMNH 1932.12.24.185–190, Límon Bay,
 1997.1076@2004@zt00680a@ZOOTAXA   Material examined. Israel: holotype BMNH 1997.1076, Gulf of Elat, Dendropoma habi-
-@2004@zt00680a@Material examined. Madeira: holotype NHMW 2512.
-@2004@zt00680a@Material examined. Madeira: 2 syntypes on slides NHMW 2604, Atlantic. France: 3
 1997.1074@2004@zt00680a@Material examined. Israel: holotype BMNH 1997.1074, Gulf of Elat, Dendropoma-habi-
-@2004@zt00680a@          Material examined. Madeira: 3 syntypes on slides NHMW 2514; USA: 1 spm (in
-1969:387@2004@zt00680a@Material examined. Kuwait: holotype BMNH 1969:387, Salimiyah, Kuwait Arabian
- NHMW2501@2004@zt00680a@          NHMW2501, Adriatic Sea, 1872; 2 syntypes of P. luxurians on slides, NHMW2504, Adri-
+1969.387@2004@zt00680a@Material examined. Kuwait: holotype BMNH 1969:387, Salimiyah, Kuwait Arabian
 1961.16.12@2004@zt00680a@          Material examined. South Africa: holotype BMNH 1961.16.12, Cape Peninsula;
 1953.11.16.9@2004@zt00680a@          paratype BMNH 1953.11.16.9, St. James, False bay, 26 Apr 1933.
-@2004@zt00680a@          Material examined. Madeira: 2 syntypes, 1 atoke and 1 stolon, on slides, NHMW 2275.
-@2004@zt00680a@          Material examined. Italy: 2 syntypes on slides NHMW 2507, Adriatic Sea. France: 9
 1885.12.1.156@2004@zt00680a@          Material examined. Antarctic Sea: holotype BMNH 1885.12.1.156, Kerguelen Island,
-1971:43@2004@zt00680a@          Material examined. Kuwait: holotype BMNH 1971:43, Arabian Gulf, Al-najata, Kuwait,
-@2004@zt00680a@(BMNH), Miguel Villena & Guillermo San Martín (MNCN), Danny Eibye-Jacobsen
-(SMNH@2004@zt00680a@(SMNH), Dr Helmut Sattmann (NHMW), Prof. Imajima Minoru and Masatsune Takeda
+1971.43@2004@zt00680a@          Material examined. Kuwait: holotype BMNH 1971:43, Arabian Gulf, Al-najata, Kuwait,
 1886.2.8.5@2004@zt00431@      Measurements          BMNH 1886.2.8.5               MN 65545          MN 66056
-@2004@zt00762@          BMNH, The Natural History Museum, London, U.K.;
-@2004@zt00762@and his material representing six species of this family is now in the BMNH. Lathy (1923,
-@2004@zt00762@          (2004) suggests that the only Athis inca specimen from Venezuela (in BMNH) is misla-
-@2004@zt00762@          BMNH, neither with precise locality data, and one in AME. The Lowsley specimen in
-@2004@zt00762@          BMNH is that referred to by Kaye & Lamont (1927) as “in coll. Joicey”.
-1&@2004@zt00762@          sley (BMNH); 1&, Ex Lathy (
-@2004@zt00762@BMNH).
-@2004@zt00762@in the BMNH is from St. Ann’s, and includes the two males comprising the type series of
-&@2004@zt00762@Road, Apr 1979, M.J.W. Cock (% BMNH, & MJWC); 2%% (type series of pallida), 7%%,
-1%@2004@zt00762@2&&, St. Anne’s, R. Dick, (BMNH); 1%, St. Anne, Port of Spain, 5 Sep 1958, M. Nieves
-@2004@zt00762@Pinkus (CUIC); 1&, Lowsley (BMNH).
-@2004@zt00762@          labeled Tobago in the BMNH, which is the same specimen that Lathy (1923) refers to
-@2004@zt00762@          1982, F.C. Urich (MJWC); TOBAGO: 1&, (BMNH).
-G.@2004@zt00762@Dick (now in the BMNH). G. Lamas (pers. comm.) believes that most species and subspe-
-@2004@zt00762@BMNH, including the male type of urichi Lathy.
-@2004@zt00762@Anne’s, R.Dick (BMNH).
-@2004@zt00762@ 762      are now in the BMNH.
-@2004@zt00762@               Material Examined: ST. GEORGE: 2%% (type series), St. Anne’s, R. Dick (BMNH).
-@2004@zt00762@          comm.) as well as the BMNH specimen we studied (Fig. 8) shows traces of the HW red-
-ST.@2004@zt00762@              Material Examined: CARONI: 1&, Caparo, Jul (19)04, F. Birch (BMNH); ST.
-1%@2004@zt00762@          St. Anne’s, R. Dick (BMNH); 1%, St. Ann’s Valley, 400 ft., Jan 1922, F.W. Jackson (HEC);
-1%@2004@zt00762@          (AMNH); 1% Lowsley (BMNH); 1%, 1&, c. 1874, presented by R. Meldola (HEC); 1%,
-1&@2004@zt00762@Dick (BMNH); 1&, St. Ann’s Ridge, 30 Jan 1979, M.J.W. Cock (MJWC).
-@2004@zt00762@          aldi and Jim Miller (AMNH), Martin Honey, Geoff Martin and colleagues (BMNH), Rich-
-@2004@zt00762@          acknowledge with thanks that several of the specimens illustrated are in the BMNH and
-F@2004@zt00762@2, Athis fuscorubra (Houlbert) (& Trinidad, BMNH) F 41 mm;
-@2004@zt00762@3, Athis palatinus palatinus (Cramer) (% Trinidad, St. Anne’s, R. Dick, BMNH; type of Aciloa
-F@2004@zt00762@5, Feschaeria amycus amycus (Cramer) (Tobago, &, BMNH) F 44 mm;
-@2004@zt00762@6, Haemonides cronis cronis (Cramer) (% Trinidad, St. George, St. Anne’s, R.Dick, BMNH, type of
-@2004@zt00762@7, Castnia invaria trinitatis Lathy (% Trinidad, St George, St. Anne’s, R. Dick BMNH, syntype) F
-F@2004@zt00762@BMNH) F 52 mm;
-F@2004@zt00762@BMNH) F 48 mm;
+Not specific@2004@zt00762@and his material representing six species of this family is now in the BMNH. Lathy (1923,
+Not specific@2004@zt00762@          (2004) suggests that the only Athis inca specimen from Venezuela (in BMNH) is misla-
+Not specific@2004@zt00762@          BMNH, neither with precise locality data, and one in AME. The Lowsley specimen in
+Not specific@2004@zt00762@          BMNH is that referred to by Kaye & Lamont (1927) as “in coll. Joicey”.
+Not specific@2004@zt00762@          sley (BMNH); 1&, Ex Lathy (
+Not specific@2004@zt00762@in the BMNH is from St. Ann’s, and includes the two males comprising the type series of
+Not specific@2004@zt00762@Road, Apr 1979, M.J.W. Cock (% BMNH, & MJWC); 2%% (type series of pallida), 7%%,
+Not specific@2004@zt00762@2&&, St. Anne’s, R. Dick, (BMNH); 1%, St. Anne, Port of Spain, 5 Sep 1958, M. Nieves
+Not specific@2004@zt00762@Pinkus (CUIC); 1&, Lowsley (BMNH).
+Not specific@2004@zt00762@          labeled Tobago in the BMNH, which is the same specimen that Lathy (1923) refers to
+Not specific@2004@zt00762@          1982, F.C. Urich (MJWC); TOBAGO: 1&, (BMNH).
+Not specific@2004@zt00762@Dick (now in the BMNH). G. Lamas (pers. comm.) believes that most species and subspe-
+Not specific@2004@zt00762@BMNH, including the male type of urichi Lathy.
+Not specific@2004@zt00762@Anne’s, R.Dick (BMNH).
+Not specific@2004@zt00762@ 762      are now in the BMNH.
+Not specific@2004@zt00762@               Material Examined: ST. GEORGE: 2%% (type series), St. Anne’s, R. Dick (BMNH).
+Not specific@2004@zt00762@          comm.) as well as the BMNH specimen we studied (Fig. 8) shows traces of the HW red-
+Not specific@2004@zt00762@              Material Examined: CARONI: 1&, Caparo, Jul (19)04, F. Birch (BMNH); ST.
+Not specific@2004@zt00762@          St. Anne’s, R. Dick (BMNH); 1%, St. Ann’s Valley, 400 ft., Jan 1922, F.W. Jackson (HEC);
+Not specific@2004@zt00762@          (AMNH); 1% Lowsley (BMNH); 1%, 1&, c. 1874, presented by R. Meldola (HEC); 1%,
+Not specific@2004@zt00762@Dick (BMNH); 1&, St. Ann’s Ridge, 30 Jan 1979, M.J.W. Cock (MJWC).
+Not specific@2004@zt00762@2, Athis fuscorubra (Houlbert) (& Trinidad, BMNH) F 41 mm;
+Not specific@2004@zt00762@3, Athis palatinus palatinus (Cramer) (% Trinidad, St. Anne’s, R. Dick, BMNH; type of Aciloa
+Not specific@2004@zt00762@5, Feschaeria amycus amycus (Cramer) (Tobago, &, BMNH) F 44 mm;
+Not specific@2004@zt00762@6, Haemonides cronis cronis (Cramer) (% Trinidad, St. George, St. Anne’s, R.Dick, BMNH, type of
+Not specific@2004@zt00762@7, Castnia invaria trinitatis Lathy (% Trinidad, St George, St. Anne’s, R. Dick BMNH, syntype) F
+Not specific@2004@zt00762@BMNH) F 52 mm;
+Not specific@2004@zt00762@BMNH) F 48 mm;
 17a2412.@2004@zt00766@              repository: BMNH 17a2412. = Megachile latimanus Say 1823. Synonymy of Dalla Torre
-@2004@zt00713@BMNH-           The Natural History Museum, London, United Kingdom.
-@2004@zt00713@          B.M. 1974-319, Stymphalus rubrolineatus Stål, det. M.D. Webb (BMNH).
-@2004@zt00713@          (“Malaise 4” on reverse of the first label), R.K.Butlin Coll., Brit. Mus. (BMNH). Paratype:
-0@2004@zt00713@          4 %, data as for holotype [BMNH].
-@2004@zt00713@     Material examined: ZIMBABWE: 1 %, A. Watsham, B.M. 1985-248 (BMNH).
-@2004@zt00713@Varta rubrofasciata Distant, 1908: 321. Holotype &, INDIA [BMNH, examined]. Viraktamath and
-@2004@zt00713@(BMNH). Delhi: 2%, 2&, New Delhi, IARI campus, 23.x.1991; Gujarat: 1&, Navsari,
-,@2004@zt00713@Nagarhole, 17.i.1978; 1&, 18.xii.1978; all collected by C.A. Viraktamath (BMNH,
-@2004@zt00713@          moustakis, B.M. 1957-395 (BMNH).
-@2004@zt00713@M. Hayashi leg, Coll. M. Hayashi, Saitama Univ. (BMNH). Paratypes: JAPAN: 1&, data
-SU@2004@zt00713@Univ. (BMNH, SU, UAS); S. CHINA: 1 %, Fukien, Yungan City, 26.viii.1942, T.C. Maa
-BPBM,@2004@zt00713@          16.ii.1984 by K.C. Chou and C.L. Pau; 1&, Horisha, xii.1913, F. Muir (BMNH, BPBM,
-@2004@zt00713@          UAS, TARI). S. CHINA: 1 %, Foochow [Fu-chai], iii.1936, M. S. Yang (BMNH).
-@2004@zt00713@          (BMNH).
-BPBM@2004@zt00713@30m, 8.iv.1966, O. R. Wilk es, Light trap (BMNH, BPBM). AUSTRALIA: 2%, 2&,
-@2004@zt00713@          Tipras Coll. (BMNH).
-@2004@zt00713@21.xi.1924, Ex.F.M.S. Museum, B.M. 1955-354 (BMNH). Paratype: SARAWAK: 1 %,
-THAILAND:@2004@zt00713@          (BMNH); THAILAND: 1 &, Banna, 5–10.v.1958, T.C.Maa, Light trap, Bishop (BPBM).
-NWAU@2004@zt00713@18.viii.1988, Z.Q.Yang, Northwestern Agril University (BMNH, NWAU). Paratypes: 1 &,
-@2004@zt00713@          23.ix.1987, O. Somsri (BMNH).
-@2004@zt00713@Kong, 4.vii.1992, M.R. Wilson, Sweeping low vegetation and shrubs (BMNH). Paratypes:
-CHINA:@2004@zt00713@2 &, data as for holotype (BMNH); CHINA: 2%, 1 &, Hunan: Mt Hengshan, 8-viii.1985,
-BPBM@2004@zt00713@          500m, 9–18.x.1958, T.C. Maa collector (BMNH, BPBM).
-,@2004@zt00713@DIA: 1%, 2&, Kirirom, 700 m, 1–6.iv.1961, N.R. Spencer, Coll. Bishop Museum (BMNH,
-BPBM@2004@zt00713@          (BMNH, BPBM).
-@2004@zt00582@BMNH Natural History Museum, London.
+1974-319@2004@zt00713@          B.M. 1974-319, Stymphalus rubrolineatus Stål, det. M.D. Webb (BMNH).
+Not specific@2004@zt00713@          (“Malaise 4” on reverse of the first label), R.K.Butlin Coll., Brit. Mus. (BMNH). Paratype:
+Not specific@2004@zt00713@          4 %, data as for holotype [BMNH].
+1985-248@2004@zt00713@     Material examined: ZIMBABWE: 1 %, A. Watsham, B.M. 1985-248 (BMNH).
+1908.321@2004@zt00713@Varta rubrofasciata Distant, 1908: 321. Holotype &, INDIA [BMNH, examined]. Viraktamath and
+Not specific@2004@zt00713@(BMNH). Delhi: 2%, 2&, New Delhi, IARI campus, 23.x.1991; Gujarat: 1&, Navsari,
+Not specific@2004@zt00713@Nagarhole, 17.i.1978; 1&, 18.xii.1978; all collected by C.A. Viraktamath (BMNH,
+1957-395@2004@zt00713@          moustakis, B.M. 1957-395 (BMNH).
+Not specific@2004@zt00713@M. Hayashi leg, Coll. M. Hayashi, Saitama Univ. (BMNH). Paratypes: JAPAN: 1&, data
+Not specific@2004@zt00713@Univ. (BMNH, SU, UAS); S. CHINA: 1 %, Fukien, Yungan City, 26.viii.1942, T.C. Maa
+Not specific@2004@zt00713@          16.ii.1984 by K.C. Chou and C.L. Pau; 1&, Horisha, xii.1913, F. Muir (BMNH, BPBM,
+Not specific@2004@zt00713@          UAS, TARI). S. CHINA: 1 %, Foochow [Fu-chai], iii.1936, M. S. Yang (BMNH).
+Not specific@2004@zt00713@          (BMNH).
+Not specific@2004@zt00713@30m, 8.iv.1966, O. R. Wilk es, Light trap (BMNH, BPBM). AUSTRALIA: 2%, 2&,
+Not specific@2004@zt00713@          Tipras Coll. (BMNH).
+1955-354@2004@zt00713@21.xi.1924, Ex.F.M.S. Museum, B.M. 1955-354 (BMNH). Paratype: SARAWAK: 1 %,
+Not specific@2004@zt00713@          (BMNH); THAILAND: 1 &, Banna, 5–10.v.1958, T.C.Maa, Light trap, Bishop (BPBM).
+Not specific@2004@zt00713@18.viii.1988, Z.Q.Yang, Northwestern Agril University (BMNH, NWAU). Paratypes: 1 &,
+Not specific@2004@zt00713@          23.ix.1987, O. Somsri (BMNH).
+Not specific@2004@zt00713@Kong, 4.vii.1992, M.R. Wilson, Sweeping low vegetation and shrubs (BMNH). Paratypes:
+Not specific@2004@zt00713@2 &, data as for holotype (BMNH); CHINA: 2%, 1 &, Hunan: Mt Hengshan, 8-viii.1985,
+Not specific@2004@zt00713@          500m, 9–18.x.1958, T.C. Maa collector (BMNH, BPBM).
+Not specific@2004@zt00713@DIA: 1%, 2&, Kirirom, 700 m, 1–6.iv.1961, N.R. Spencer, Coll. Bishop Museum (BMNH,
+Not specific@2004@zt00713@          (BMNH, BPBM).
+Not specific@2004@zt00582@BMNH Natural History Museum, London.
 1921.12.19.44@2004@zt00582@Type material. Lectotype &, BMNH 1921.12.19.44; 3 & paralectotypes 
-@2004@zt00582@BMNH
+1921.12.19.45-47@2004@zt00582@BMNH
 61.44@2004@zt00582@          Type material. Syntype, BMNH 61.44 (Evans, 1967: 402), other syntypes not extant.
-@2004@zt00466@description of the male holotype housed in The Natural History Museum, London (NHM),
-@2004@zt00466@          station 187, off Cape York, 10°36’S, 141°55’E, 11 m, 9 Sep 1874 (NHM 1888.33.1); 1
-(AM 67380@2004@zt00466@(AM 67380); E, male, holotype sl = 3.1 mm, Challenger stn 187 (NHM 1888.33.1). A, shield and
- FIGURE@2004@zt00680c@          FIGURE 41. Procerastea nematodes, syntype NHMW 2514. —A. Anterior end, dorsal view. —B. Simple
-1969:387.@2004@zt00680c@FIGURE 51. Imajimaea zonata, holotype BMNH 1969:387. —A. Anterior end, dorsal view. —B. Prosto-
-@2004@zt00678@USA; [BMNH] Natural History Museum, London, UK; [CPCC] Laboratório de Mirmeco-
-1@2004@zt00678@and 1 male in [MNHN]; 1 worker, 1 winged queen and 1 male in [BMNH]; 1 worker, 1
-0@2004@zt00781@den. NHM: Natural History Museum, London, England. NSNR: Nova Scotia Department
-@2004@zt00781@          lected four specimens in the Park in July, 1988 (NHM). These records represent the first
-@2004@zt00402@               The following abbreviations are used: BMNH, British Museum of Natural History,
-@2004@zt00402@          Type material: BMNH type collection: 1903.12.15.19 (one syntype) (Trew, 1987).
-@2004@zt00402@          images of Thiele's remaining type specimen; Kathie Way (BMNH) for her support; and
-@2004@zt00605@          BMNH:The Natural History Museum, London, England
-@2004@zt00605@& Rosenberg, 1912 the male syntype in the BMNH from Peru, [Puno], Acopampa,
-@2004@zt00605@              Bolivia, in BMNH (Lamas, 1993) [examined].
-[@2004@zt00605@              Watkins), in BMNH [examined].
-[@2004@zt00605@              HT male, Peru, [San Martín], Tarapoto, in BMNH [examined]. The type locality has
- -@2004@zt00471@Museum-London (NHM), the Kaldbak Marine Biological Laboratory (for BIOFAR), the
-@2004@zt00471@the NHM was collected during cruises organised by the Institute of Oceanographic Sci-
-@2004@zt00471@has been deposited in the NHM, NMS and Muséum national d’Histoire naturelle
-@2004@zt00471@males, three incomplete specimens (NHM 1988:551–557 and 1989:912:13 for SMBA
-@2004@zt00471@          Material examined. Holotype (NHM 1988:540) SMBA Stn SBC64, one neuter. Paratypes
-@2004@zt00471@          ters (NHM 1988:540); SBC67 one manca-II (NHM 1988:541); SBC168, one manca-II,
-@2004@zt00471@          one neuter (NHM 1988:542); SBC222, one prep. male (NHM 1988:543); SBC279, one
-@2004@zt00471@          manca-II (NHM 1988:540); Thalassa 1973 Stn Z426, one neuter.
-@2004@zt00471@               Also seen SBC 214, two specimens (NHM 1989:911:4); SBC222, 17 individuals
- (NHM@2004@zt00471@          (NHM 1988:543); SBC237, one specimen (NHM 1989:911:4); ‘Sarsia’ Stn 56, one speci-
-@2004@zt00471@          men (NHM 1988:545).
-471@2004@zt00471@ 471      SMBA Stn SBC160, five mancae-II, three neuters (NHM 1988:539).
-@2004@zt00418@NHML = The Natural History Museum, London, UK; NMHN = US National Museum of
-@2004@zt00418@          iii.1970 (M. Vannini) (NHMW 4366); Lac Badana, form II adult male (cw 52 mm), major
-@2004@zt00418@          cheliped length 61.5 mm (>cw), x.1971 (M. Vannini) (NHMW 4367); Afmedu, form II
-@2004@zt00418@          mm), subadult female (cw 38 mm), viii.1970 (M. Vannini) (NHMW 4368); Giohar, juve-
-@2004@zt00418@          nile male (cw 28 mm), subadult female (cw 35 mm), viii.1971 (M. Vannini) (NHMW
-4370@2004@zt00418@          4370); Bur Akaba, subadult female (cw 37 mm), x.1971 (M. Vannini) (NHMW 4371);
-@2004@zt00418@          Gelib, juvenile, 1962 (Lanza) (NHMW 4372); Baidoa, subadult female (cw 34 mm), 1959
- (A.M.@2004@zt00418@          (A.M. Simonetta) (NHMW 4373); Baidoa, form II adult male (cw 54 mm), major cheliped
-@2004@zt00418@          length 58 mm (>cw), x.1971 (M. Vannini) (NHMW 4374). KENYA: Southeast, Silver
- (NHMW@2004@zt00418@          (NHMW 13351); Tana River, juvenile female (damaged) (W.A. Chanler) (USNM 20647);
+Not specific@2004@zt00466@description of the male holotype housed in The Natural History Museum, London (NHM),
+1888.33.1@2004@zt00466@          station 187, off Cape York, 10°36’S, 141°55’E, 11 m, 9 Sep 1874 (NHM 1888.33.1); 1
+Not specific@2004@zt00466@(AM 67380); E, male, holotype sl = 3.1 mm, Challenger stn 187 (NHM 1888.33.1). A, shield and
+1969.387.@2004@zt00680c@FIGURE 51. Imajimaea zonata, holotype BMNH 1969:387. —A. Anterior end, dorsal view. —B. Prosto-
+Not specific@2004@zt00678@and 1 male in [MNHN]; 1 worker, 1 winged queen and 1 male in [BMNH]; 1 worker, 1
+Not specific@2004@zt00781@          lected four specimens in the Park in July, 1988 (NHM). These records represent the first
+1903.12.15.19@2004@zt00402@          Type material: BMNH type collection: 1903.12.15.19 (one syntype) (Trew, 1987).
+Not specific@2004@zt00605@& Rosenberg, 1912 the male syntype in the BMNH from Peru, [Puno], Acopampa,
+Not specific@2004@zt00605@              Bolivia, in BMNH (Lamas, 1993) [examined].
+Not specific@2004@zt00605@              Watkins), in BMNH [examined].
+Not specific@2004@zt00605@              HT male, Peru, [San Martín], Tarapoto, in BMNH [examined]. The type locality has
+Not specific@2004@zt00471@the NHM was collected during cruises organised by the Institute of Oceanographic Sci-
+Not specific@2004@zt00471@has been deposited in the NHM, NMS and Muséum national d’Histoire naturelle
+1988.551-557@2004@zt00471@males, three incomplete specimens (NHM 1988:551–557 and 1989:912:13 for SMBA
+1989.921.13@2004@zt00471@males, three incomplete specimens (NHM 1988:551–557 and 1989:912:13 for SMBA
+1988.540.@2004@zt00471@          Material examined. Holotype (NHM 1988:540) SMBA Stn SBC64, one neuter. Paratypes
+1988.540.@2004@zt00471@          ters (NHM 1988:540); SBC67 one manca-II (NHM 1988:541); SBC168, one manca-II,
+1988.541@2004@zt00471@          ters (NHM 1988:540); SBC67 one manca-II (NHM 1988:541); SBC168, one manca-II,
+1988.542@2004@zt00471@          one neuter (NHM 1988:542); SBC222, one prep. male (NHM 1988:543); SBC279, one
+1988.543@2004@zt00471@          one neuter (NHM 1988:542); SBC222, one prep. male (NHM 1988:543); SBC279, one
+1988.545@2004@zt00471@          manca-II (NHM 1988:540); Thalassa 1973 Stn Z426, one neuter.
+1989.911.4@2004@zt00471@               Also seen SBC 214, two specimens (NHM 1989:911:4); SBC222, 17 individuals
+1988.543@2004@zt00471@          (NHM 1988:543); SBC237, one specimen (NHM 1989:911:4); ‘Sarsia’ Stn 56, one speci-
+1989.911.4@2004@zt00471@          (NHM 1988:543); SBC237, one specimen (NHM 1989:911:4); ‘Sarsia’ Stn 56, one speci-
+1988.545@2004@zt00471@          men (NHM 1988:545).
+1988.539@2004@zt00471@ 471      SMBA Stn SBC160, five mancae-II, three neuters (NHM 1988:539).
 1929.3.5.9–13@2004@zt00418@11.6 mm), 3.v.1929 (Hugh B. Cott) (NHML 1929.3.5.9–13). Paratypes, Charre, north of
 1929.3.5.9–13@2004@zt00418@(Hugh B. Cott) (NHML 1929.3.5.9–13), subadult female (cw 25.5 mm) (Hugh B. Cott)
-@2004@zt00418@female (cw 40.3 mm) (ZSM 1518/5); Macequece, juvenile male, soft shell, 1929 (NHMW
 1929.3.5.9–13@2004@zt00418@          mm, NHML 1929.3.5.9–13). 9, carapace and eyes, dorsal view; 10, cephalothorax, carapace and
 1929.3.5.9–13@2004@zt00418@tus (Gordon, 1929), lectotype, adult male, form I (cw 35.8 mm, NHML 1929.3.5.9–13). 25, left gonopod 1,
 1929.3.5.9–13@2004@zt00418@          mm, NHML 1929.3.5.9–13) from Mozambique. Carapace relatively wide (cw/fw 3.1),
-@2004@zt00418@          schak, NHMW, Vienna, Austria, for providing access to specimens from Somalia, and to
-@2004@zt00531@American Museum of Natural History, New York; BMNH, Natural History Museum, Lon-
 1903.7.28.105–110@2004@zt00531@Minkebe gold camp forest, 1°43'38.2N 12°48'35.8E. BMNH 1903.7.28.105–110 (6), 3
 1919.9.10.281@2004@zt00531@          Microsynodontis christyi: BMNH 1919.9.10.281, syntype, 39.8 mm SL; Congo Demo-
-@2004@zt00531@          Stiassny (AMNH), James Maclaine (BMNH), David Catania (CAS), John Friel (CU), Jos
-—@2004@zt00601@          BMNH — The Natural History Museum, London
-@2004@zt00601@              itory as type; two BMNH specimens labelled “Mexico, Salle coll.”/ “Cordova” may also be
-@2004@zt00601@     Records (Fig. 1): MEXICO: Veracruz (BMNH); Veracruz, 10 mi W. Alvarado, beach
-USA:@2004@zt00601@Cubilguitz, Vera Paz (BMNH); USA: AZ, Pima Co., Green Valley – April, Neotoma nest,
-@2004@zt00601@    V.90, Troncs.”, BMNH; examined by the author.
-@2004@zt00601@imens for either species. The BMNH presently has two specimens labelled, apparently by
-@2004@zt00601@              this species, now at BMNH.
-@2004@zt00601@deposits of leaf cutting ants. Records: MEXICO: (country label only) (BMNH); San Luis
-@2004@zt00601@(BMNH); Puebla, Atlisco (
-@2004@zt00601@BMNH); Oaxaca, 9 mi NE Oaxaca on Mex. 175, 6000 ft.,
-—@2004@zt00659@          BMNH—The Natural History Museum, London, SW7 5BD, UK.
-@2004@zt00659@          Jones) (BMNH).
-@2004@zt00659@          on same slide as holotype (BMNH).
-@2004@zt00659@          (on same slide as holotype) (BMNH); Mt Usborne, on roots of B. gummifera, 7.ii.2004
-1@2004@zt00659@          (A.G. Jones), 6 adult &&, 2 3rd-instar ?? (BMNH), 1 adult & (USNM).
+Not specific@2004@zt00601@              itory as type; two BMNH specimens labelled “Mexico, Salle coll.”/ “Cordova” may also be
+Not specific@2004@zt00601@     Records (Fig. 1): MEXICO: Veracruz (BMNH); Veracruz, 10 mi W. Alvarado, beach
+Not specific@2004@zt00601@Cubilguitz, Vera Paz (BMNH); USA: AZ, Pima Co., Green Valley – April, Neotoma nest,
+Not specific@2004@zt00601@    V.90, Troncs.”, BMNH; examined by the author.
+Not specific@2004@zt00601@imens for either species. The BMNH presently has two specimens labelled, apparently by
+Not specific@2004@zt00601@              this species, now at BMNH.
+Not specific@2004@zt00601@deposits of leaf cutting ants. Records: MEXICO: (country label only) (BMNH); San Luis
+Not specific@2004@zt00601@(BMNH); Puebla, Atlisco (
+Not specific@2004@zt00601@BMNH); Oaxaca, 9 mi NE Oaxaca on Mex. 175, 6000 ft.,
+Not specific@2004@zt00659@          Jones) (BMNH).
+Not specific@2004@zt00659@          on same slide as holotype (BMNH).
+Not specific@2004@zt00659@          (on same slide as holotype) (BMNH); Mt Usborne, on roots of B. gummifera, 7.ii.2004
+Not specific@2004@zt00659@          (A.G. Jones), 6 adult &&, 2 3rd-instar ?? (BMNH), 1 adult & (USNM).
 2001.3.8.1@2004@zt00604@          rock, 12–15 m, rotenone, G.R. Allen, 1 October 1997; BMNH 2001.3.8.1, 55.9 mm SL,
-@2004@zt00415@BMNH The Natural History Museum, London, Great Britain.
-1962952:@2004@zt00415@Type material. HOLOTYPE (BMNH 1962952: A. Campbell, pers. comm.), 1.25 x 0.9 mm
-@2004@zt00415@          bution suggests that both are distinct species. The Challenger specimen (BMNH
+1962952@2004@zt00415@Type material. HOLOTYPE (BMNH 1962952: A. Campbell, pers. comm.), 1.25 x 0.9 mm
 89.10.26.33@2004@zt00415@FIGURE 6. Anatoma crispata/australis. BMNH 89.10.26.33 from Challenger station 164b/64; see
 1874.5.19.62.@2004@zt00415@          Type material. HOLOTYPE (BMNH 1874.5.19.62. Higo et al., 2001: G82), 2.5 mm.
-@2004@zt00415@          Kathie Way and Amelia Campbell (BMNH) provided information on the types in the
-@2004@zt00415@          BMNH. Mattias Glaubrecht (ZMB) sent Thiele’s types on loan. Ian Loch, Alison Miller,
-@2004@zt00435@BMNH           The Natural History Museum, London
-@2004@zt00435@Hydropsyche vicaria Walker 1852:114 [Type locality: Venezuela; BMNH; female].
-@2004@zt00435@          female (NMNH); VENEZUELA: B. vicaria holotype female (BMNH); Barinas: La
-@2004@zt00435@          Ganonema molliculum McLachlan 1871:127 [Type locality: Venezuela; BMNH; male].
-@2004@zt00435@    VENEZUELA: Göring—holotype male (BMNH); Aragua: Km. 27, Choroni, 1500
-@2004@zt00435@          material for this study: Peter Barnard, BMNH; Edward Becker, CNC; Reinhard Gaedike,
-@2004@zt00417@ral History Museum (NHM), London, UK were examined. These specimens demonstrated
-@2004@zt00417@the NHM, London, UK; and the SMF: Caiguiria anterouteria USNPC 068108.00,
-007940.02 P.@2004@zt00417@007940.02; P. ardeae USNPC 080756.00, NHM 1989.3.17.1–2; P. genata USNPC
-069662.00 089888.00@2004@zt00417@069662.00, 089888.00, 089889.00, 089890.00, NHM 1932.7.30.84, 1932.7.30.85,
-1935.4.16.298 1932.3.3.65@2004@zt00417@1935.4.16.298, 1932.3.3.65; Pygidiopsis macrostomum NHM 1997.6.9.1; P. pindoramen-
-@2004@zt00417@sis USNPC 083037.00; and Pygidiopsis sp. NHM 1962.11.30.55–64 (Gavia artica [Lin-
- USNPC@2004@zt00417@                              USNPC 71427    USNPC           USNPC 71428          USNPC         NHM 1997.6.9.1 SMF 3583, 3584
- USNPC@2004@zt00417@                     USNPC 71427    USNPC          USNPC 71428          USNPC       NHM 1997.6.9.1 SMF 3583, 3584
- (1980@2004@zt00417@          (1980) (NHM 1997.6.9.1), and voucher specimens of an unidentified species similar to P.
+1852.114@2004@zt00435@Hydropsyche vicaria Walker 1852:114 [Type locality: Venezuela; BMNH; female].
+Not specific@2004@zt00435@          female (NMNH); VENEZUELA: B. vicaria holotype female (BMNH); Barinas: La
+1871.127@2004@zt00435@          Ganonema molliculum McLachlan 1871:127 [Type locality: Venezuela; BMNH; male].
+Not specific@2004@zt00435@    VENEZUELA: Göring—holotype male (BMNH); Aragua: Km. 27, Choroni, 1500
+Not specific@2004@zt00417@ral History Museum (NHM), London, UK were examined. These specimens demonstrated
+Not specific@2004@zt00417@the NHM, London, UK; and the SMF: Caiguiria anterouteria USNPC 068108.00,
+1989.3.17.1-2@2004@zt00417@007940.02; P. ardeae USNPC 080756.00, NHM 1989.3.17.1–2; P. genata USNPC
+1932.7.30.84@2004@zt00417@069662.00, 089888.00, 089889.00, 089890.00, NHM 1932.7.30.84, 1932.7.30.85,
+1932.7.30.85@2004@zt00417@069662.00, 089888.00, 089889.00, 089890.00, NHM 1932.7.30.84, 1932.7.30.85,
+1935.4.16.298 @2004@zt00417@1935.4.16.298, 1932.3.3.65; Pygidiopsis macrostomum NHM 1997.6.9.1; P. pindoramen-
+1932.3.3.65@2004@zt00417@1935.4.16.298, 1932.3.3.65; Pygidiopsis macrostomum NHM 1997.6.9.1; P. pindoramen-
+1997.6.9.1@2004@zt00417@1935.4.16.298, 1932.3.3.65; Pygidiopsis macrostomum NHM 1997.6.9.1; P. pindoramen-
+1962.11.30.55-64@2004@zt00417@sis USNPC 083037.00; and Pygidiopsis sp. NHM 1962.11.30.55–64 (Gavia artica [Lin-
+1997.6.9.1@2004@zt00417@                              USNPC 71427    USNPC           USNPC 71428          USNPC         NHM 1997.6.9.1 SMF 3583, 3584
 1998.9.30.18@2004@zt00733@               Paratype: BMNH 1998.9.30.18, 30.9 mm SL; data as for holotype.
 1863.12.11.188@2004@zt00733@     A. macronema: BMNH 1863.12.11.188 (1 syntype), 40.5 mm SL; RMNH 6729 (2                        ZOOTAXA
-@2004@zt00595@BMNH) and possibly also to C. hyperboreus Stæger, 1845 which Holmgren (1869) had
-?@2004@zt00595@after having seen all that is left of C. polaris (? = the specimen at BMNH?) claim that it
-@2004@zt00574@          tion on their host plants. Abbreviations used in the text are as follows: BMNH = The Nat-
-@2004@zt00574@     Lectotype, &, Argentina, Pampa, r.f. Solanaceae, F. Bourquin (BMNH).
-@2004@zt00574@      Types. Lectotype, % (sphaleropa), Bolivia, Sapago, “S. .07” (BMNH). Two paralecto-
-@2004@zt00574@type males, same data as lectotype (BMNH). Holotype, % (fletcheriella), Argentina, Tigre,
- (CMNC@2004@zt00577@          (CMNC), Natural History Museum, London (NHMC), United States National Museum,
-@2004@zt00649@Museum of Los Angeles County; NHML, The Natural History Museum, London; TUF, Tokyo University of
+Not specific@2004@zt00595@BMNH) and possibly also to C. hyperboreus Stæger, 1845 which Holmgren (1869) had
+Not specific@2004@zt00595@after having seen all that is left of C. polaris (? = the specimen at BMNH?) claim that it
+Not specific@2004@zt00574@     Lectotype, &, Argentina, Pampa, r.f. Solanaceae, F. Bourquin (BMNH).
+Not specific@2004@zt00574@      Types. Lectotype, % (sphaleropa), Bolivia, Sapago, “S. .07” (BMNH). Two paralecto-
+Not specific@2004@zt00574@type males, same data as lectotype (BMNH). Holotype, % (fletcheriella), Argentina, Tigre,
  1958.11.19.515–19@2004@zt00649@  P. antarcticum             1 male      NHML: 1958.11.19.515–19    Schoellart Channel
  1958.11.19.486–504@2004@zt00649@  P. armatum                 5 males     NHML: 1958.11.19.486–504   South Georgia
  1908.9.22138@2004@zt00649@            Holt & Tattersall, 19062   6 females      NHML: 1908.9.22138 (Holotype), Schoellart Channel
+1958.11.19.52-42@2004@zt00649@            Holt & Tattersall, 19062   6 females      NHML: 1908.9.22138 (Holotype), Schoellart Channel
  1958.11.19.43–53@2004@zt00649@            P. calmani                 3 males        NHML: 1958.11.19.43–53,         Falkland Islands Type specimens from
  1958.11.19.560–61@2004@zt00649@            P. longicaudum             1 male         NHML: 1958.11.19.560–61 (Syn- Schoellart Channel Male pleopod charac-
  1958.11.19.570–71@2004@zt00649@            P. minutum                 2 males        NHML: 1958.11.19.570–71 (Syn- Falkland Islands
  1958.11.19.554–59@2004@zt00649@            P. schollaertensis         2 males        NHML: 1958.11.19.554–59 (Syn- Schollaert Channel
  86-37@2004@zt00649@            P. australe                  1 specimen     NHML: 86-37 (Holotype)   Bass Strait         The species descrip-
-—@2004@zt00672@          BMNH — The Natural History Museum, London, England (Dr. J. Balfour-Browne, M.
-CMNH@2004@zt00672@          tive specimens to be deposited in BMNH, CMNH, MVMA, SAMA and WAMP.
-–@2004@zt00746@          BMNH – The Natural History Museum, London, United Kingdom (Mr. M. Brendell)
-@2004@zt00746@low label), Chicago NHMus. M.Bernhauer Collection, flavipes [pencil] not = [black
-NH .@2004@zt00746@NHMus. M.Bernhauer Collection (FMNH); &, San Diego, Cal. [ifornia], 2315,
-%@2004@zt00746@debris, 11.i.1984 (P.M.Hammond) (BMNH); %, 2&&, 1 specimen (sex undetermined),
-UNITED@2004@zt00746@Kent, Chatham (G.C.Champion) (BMNH); UNITED STATES: California: %, without
-@2004@zt00746@locality data (BMNH); Humboldt Co.: %, Samoa, 21.vi.1916 (F.E. Blaisdell) (CASC);
-,@2004@zt00746@Marin Co.: %, &, Chimney Rock, eelgrass drift, 24–30.iv.2002 (P.M.Hammond) (BMNH,
-(2@2004@zt00746@ZMUN); San Diego Co.: 7%%, 2&&, San Diego (A.Fenyes) (BMNH (2), CASC (5),
-@2004@zt00746@ders) (BMNH).
-@2004@zt00580@          tory Museum, London (BMNH), Collection of Maurice Kottelat, Cornol (CMK), Museum
+Not specific@2004@zt00672@          tive specimens to be deposited in BMNH, CMNH, MVMA, SAMA and WAMP.
+Not specific@2004@zt00746@debris, 11.i.1984 (P.M.Hammond) (BMNH); %, 2&&, 1 specimen (sex undetermined),
+Not specific@2004@zt00746@Kent, Chatham (G.C.Champion) (BMNH); UNITED STATES: California: %, without
+Not specific@2004@zt00746@locality data (BMNH); Humboldt Co.: %, Samoa, 21.vi.1916 (F.E. Blaisdell) (CASC);
+Not specific@2004@zt00746@ZMUN); San Diego Co.: 7%%, 2&&, San Diego (A.Fenyes) (BMNH (2), CASC (5),
+Not specific@2004@zt00746@ders) (BMNH).
 1863.12.4.85@2004@zt00580@          Danau Arang Arang. BMNH 1863.12.4.85 (1), 119.7 mm SL; Bleeker material.
 1994.12.16.228229@2004@zt00580@    Ompok weberi: BMNH 1994.12.16.228229 (2), 27.729.2 mm SL; Borneo: Kalimantan
-@2004@zt00580@We thank the following: Darrell Siebert (BMNH), Maurice Kottelat (CMK), Mary Anne
-@2004@zt00619@          (BMNH); Natal Museum, Pietermaritzburg, South Africa (NM); South African Museum,
-@2004@zt00619@          •        Stasimopus gigas Hewitt, male holotype (BMNH)
-@2004@zt00619@          •        Stasimopus insculptus Pocock, male holotype (BMNH)
-@2004@zt00619@          •        Stasimopus oculatus Pocock, female holotype (BMNH)
-@2004@zt00619@          •        Stasimopus palpiger Pocock, male holotype (BMNH)
-@2004@zt00619@          •        Stasimopus schoenlandi Pocock, female holotype (BMNH)
-@2004@zt00619@          •        Stasimopus steynsburgensis Hewitt, male holotype (BMNH)
-@2004@zt00551@          the Natural History Museum, London (NHM).
-@2004@zt00551@          females, 3 subadults (MNHN-Py 1037), 2 males, 1 gravid female (NHM.2003.640–642),
-IRD. 1@2004@zt00551@IRD. 1 male, 1 female (NHM.2003.638–639), station CP1716, Ride de Norfolk. N/O 'Alis'
-(NHM,2003.635–636@2004@zt00551@(NHM,2003.635–636), station CP15, N/O 'Alis' Campagne LITHIST banc Jumeau Ouest,
-@2004@zt00551@ZOOTAXA   IRD. 1 specimen (NHM.2003.637), station CP1664, Ride de Norfolk. N/O 'Alis' Cam-
-@2004@zt00551@rero of the NHM for assistance with the figures.
-@2004@zt00428@          (BMNH); collection of Maurice Kottelat, Cornol (CMK); Living Aquatic Resources
+Not specific@2004@zt00619@          •        Stasimopus gigas Hewitt, male holotype (BMNH)
+Not specific@2004@zt00619@          •        Stasimopus insculptus Pocock, male holotype (BMNH)
+Not specific@2004@zt00619@          •        Stasimopus oculatus Pocock, female holotype (BMNH)
+Not specific@2004@zt00619@          •        Stasimopus palpiger Pocock, male holotype (BMNH)
+Not specific@2004@zt00619@          •        Stasimopus schoenlandi Pocock, female holotype (BMNH)
+Not specific@2004@zt00619@          •        Stasimopus steynsburgensis Hewitt, male holotype (BMNH)
+2003.640-642@2004@zt00551@          females, 3 subadults (MNHN-Py 1037), 2 males, 1 gravid female (NHM.2003.640–642),
+2003.638-639@2004@zt00551@IRD. 1 male, 1 female (NHM.2003.638–639), station CP1716, Ride de Norfolk. N/O 'Alis'
+NHM,2003.635–636@2004@zt00551@(NHM,2003.635–636), station CP15, N/O 'Alis' Campagne LITHIST banc Jumeau Ouest,
+2003.637@2004@zt00551@ZOOTAXA   IRD. 1 specimen (NHM.2003.637), station CP1664, Ride de Norfolk. N/O 'Alis' Cam-
 1969.4.15.93@2004@zt00428@              Comparative material. Pareuchiloglanis anteanalis: BMNH 1969.4.15.93 (1), 154.6
 1926.2.19.5–6@2004@zt00428@          from Yue (1981). P. macrotrema: BMNH 1926.2.19.5–6 (2 syntypes), 94.9–147.6 mm SL;
 1969.4.15.94@2004@zt00428@Nha Trang, Song Cai basin, Song Ko. P. robusta: BMNH 1969.4.15.94 (1), 140.0 mm SL;                   428
 1987.9.17.31–32@2004@zt00428@     Paratypes. BMNH 1987.9.17.31–32 (2), 157.5–176.0 mm SL; China: Yunnan prov-
-@2004@zt00428@Fig. 1), and are clearly visible in darker specimens (the BMNH paratypes). The presence
-@2004@zt00428@ZOOTAXA   (AMNH), Darrell Siebert (BMNH), Martien van Oijen (RMNH), and Kelvin Lim (ZRC).
-1982.9.30:1–2@2004@zt00628@ 628      P. brevispinis: ANSP 152115, 2, 52.0–92.3; BMNH 1982.9.30:1–2, 2, paratypes, 88.5–
+Not specific@2004@zt00428@Fig. 1), and are clearly visible in darker specimens (the BMNH paratypes). The presence
+1982.9.30.1–2@2004@zt00628@ 628      P. brevispinis: ANSP 152115, 2, 52.0–92.3; BMNH 1982.9.30:1–2, 2, paratypes, 88.5–
 1866.14.139@2004@zt00628@          75.5–78.6; AMNH 91023, 1, 53.9–62.9. P. depressus, BMNH 1866.14.139, 1, holotype,
 1978.3.2.1@2004@zt00628@          105.4. P. genisetiger: ANSP 69441, 1, holotype. P. guentheri, BMNH 1978.3.2.1, 1, holo-
 1926.3.2:756@2004@zt00628@          BMNH 1926.3.2:756, 1, lectotype, 157.8; 
 1926.3.2:757–760@2004@zt00628@BMNH 1926.3.2:757–760, 4, paralectotypes,
 1978.3.2.2@2004@zt00628@          BMNH 1978.3.2.2, 1, holotype, 100.1.
-@2004@zt00755@ZOOTAXA   individuals, are deposited in the Natural History Museum, London (BMNH), further
-@2004@zt00755@              Holotype male, BMNH, Southern Kuwait, Al-Zoor, at the Texaco Beach Club,
-@2004@zt00755@              Paratypes on slides: Three males, BMNH, collecting data same as above; one female,
-@2004@zt00755@          BMNH, collecting data same as above; one deutonymph, 
-@2004@zt00755@BMNH, collecting data same as
-@2004@zt00755@          above; one protonymph, BMNH, collecting data same as above; one male, SMF, collecting
-@2004@zt00755@              Paratypes in ethanol: one female, two males, two protonymphs, BMNH.
-@2004@zt00755@             Holotype female, BMNH, Southern Kuwait, Al-Zoor, at the Texaco Beach Club,
-@2004@zt00755@             Paratype female (slide), BMNH, collecting data same as above.
-@2004@zt00755@             Paratype female (in ethanol), BMNH, collecting data same as above.
-@2004@zt00578@BMNH         The Natural History Museum, London, United Kingdom.
-,@2004@zt00578@Scaphoideus assamensis Distant, 1918: 67; Rao, 1990: 93–95. LECTOTYPE &, INDIA [BMNH,
-@2004@zt00578@designated(BMNH). Other material: INDIA: 1%, Sikkim: Gopaldhara, Rungbong Valley,
-@2004@zt00578@2.ix.1917 and 14.x.1918, H. Stevens (BMNH).
-@2004@zt00578@    [BMNH, not examined].
-NPC@2004@zt00578@Sandur, 12.ix.1983, Shashidhar Coll. (BMNH, NPC, UAS).
-NPC@2004@zt00578@by C.A. Viraktamath (BMNH, NPC, UAS, USNM). Other material: INDIA: West Bengal:
-@2004@zt00578@          Mus. East Napal Exp., 1961-62, R.L. Cole Coll., B.M. 1962-177 (BMNH).
-@2004@zt00578@          Scaphoideus consanguineus Distant 1908b: 375. HOLOTYPE &, INDIA [BMNH, examined].
-@2004@zt00578@(BMNH).
-@2004@zt00578@    [BMNH, examined]. Syn. nov.
-@2004@zt00578@Scaphoideus nutans Distant 1918: 65. LECTOTYPE &, INDIA [BMNH, examined]. Syn nov.
-@2004@zt00578@Scaphoideus pallifrons Distant 1918: 66–67. LECTOTYPE &, INDIA [BMNH, examined]. Syn.
-1%@2004@zt00578@Maskeliya, 8.iii.1909, T. B. Fletcher, 1&, Peradeniya, 3.x.1913 (BMNH); 1%, 4&, Hunu-
-@2004@zt00578@ZOOTAXA   60” (BMNH). Lectotype (sex? Abdomen missing) “Type, H.T. (red margined circular
-@2004@zt00578@          nated (BMNH). Tamil Nadu: 2%, 3&, Kodaikanal, T.V. Campbell (
-1%@2004@zt00578@BMNH); 1%, 1&,
-@2004@zt00578@          ing numbers 87740/8, 9144/8 and 9442/8 (BMNH).
-@2004@zt00578@1&, Shimoga, light trap, 1975 (BMNH).
-@2004@zt00578@Hussa insignis Distant, 1918: 68. SYNTYPE &, INDIA [BMNH, not examined].
-UAS.@2004@zt00578@          1%, 2&, 6 Km SW Mahabaleshwar, 19.x.1985, C.W. & L.B. O’Brien (BMNH, UAS.).
-NPC@2004@zt00578@A. Viraktamath (BMNH, NPC, UAS).
-@2004@zt00578@          54’(BMNH).
-@2004@zt00578@          ft,(2123 m), 18.v.1935, R. Malaise, Brit. Mus., 1935–630 (BMNH).
-@2004@zt00578@          Scaphoideus russus Distant, 1908b: 377. LECTOTYPE %, MYANMAR [BMNH, examined]
-INDIA:@2004@zt00578@          written label) “Dist. Coll. 1911-383” (printed label) here designated (BMNH). INDIA:
-@2004@zt00578@          13.x.1907, C.A. Paiva (specimen determined by Distant 1908b as S. ornatus) (BMNH).
-UAS@2004@zt00578@          1911–383 (BMNH, UAS).
-@2004@zt00578@          F[letcher]. Brit. Mus. 1909-80 (BMNH).
-NPC@2004@zt00578@Valparai, 14.iv.1981, A.R.V. Kumar (BMNH, NPC, UAS, USNM). SRI LANKA: 1%,
-@2004@zt00578@Mats. (BMNH).
-@2004@zt00578@ft (743m), 13.iii.1935, M Steel, Brit. Mus. 1935-312 (BMNH). Paratype: 1%, MYAN-
-@2004@zt00578@3000ft (910m), lat. N 27o 42’, Long. 97o 54’ (BMNH).
-@2004@zt00578@          Scaphoideus stigmaticus Distant, 1918: 67. HOLOTYPE &, INDIA [BMNH, examined].
-@2004@zt00578@          label) “Distant Coll. 1911-383” (printed label), here designated (BMNH); Assam: 1%,
-1&,@2004@zt00578@          Margherita, W. Doherty from Indian Mus. Distant Coll. B. M. 1911-383 (BMNH); 1&,
-@2004@zt00578@(2123m), 20.v.1934, R. Malaise, Brit. Mus. 1935-630 (BMNH). Paratype: 1%, data as
-@2004@zt00578@holotype (BMNH).
-UAS@2004@zt00578@Viraktamath (BMNH, UAS).
-@2004@zt00578@We are grateful to Dr W.J. Knight and Dr M.D. Webb (BMNH), Dr Roberto Poggi
-@2004@zt00424@male; Natural History Museum, London (BMNH); Labelled [CHILE: X Reg. Prov.
-[@2004@zt00424@               MATERIAL STUDIED: BMNH, [Chile:IX Reg. Prov. Malleco/ PN Nahuelbuta,
-CHILE:@2004@zt00424@               BMNH: [CHILE: X Reg. Pr. Osorno / PN Puyehue, Aguas Calientes / 40°40’S
+Not specific@2004@zt00755@ZOOTAXA   individuals, are deposited in the Natural History Museum, London (BMNH), further
+Not specific@2004@zt00755@              Holotype male, BMNH, Southern Kuwait, Al-Zoor, at the Texaco Beach Club,
+Not specific@2004@zt00755@              Paratypes on slides: Three males, BMNH, collecting data same as above; one female,
+Not specific@2004@zt00755@          BMNH, collecting data same as above; one deutonymph, 
+Not specific@2004@zt00755@BMNH, collecting data same as
+Not specific@2004@zt00755@          above; one protonymph, BMNH, collecting data same as above; one male, SMF, collecting
+Not specific@2004@zt00755@              Paratypes in ethanol: one female, two males, two protonymphs, BMNH.
+Not specific@2004@zt00755@             Holotype female, BMNH, Southern Kuwait, Al-Zoor, at the Texaco Beach Club,
+Not specific@2004@zt00755@             Paratype female (slide), BMNH, collecting data same as above.
+Not specific@2004@zt00755@             Paratype female (in ethanol), BMNH, collecting data same as above.
+1918.67@2004@zt00578@Scaphoideus assamensis Distant, 1918: 67; Rao, 1990: 93–95. LECTOTYPE &, INDIA [BMNH,
+Not specific@2004@zt00578@designated(BMNH). Other material: INDIA: 1%, Sikkim: Gopaldhara, Rungbong Valley,
+Not specific@2004@zt00578@2.ix.1917 and 14.x.1918, H. Stevens (BMNH).
+Not specific@2004@zt00578@    [BMNH, not examined].
+Not specific@2004@zt00578@Sandur, 12.ix.1983, Shashidhar Coll. (BMNH, NPC, UAS).
+Not specific@2004@zt00578@by C.A. Viraktamath (BMNH, NPC, UAS, USNM). Other material: INDIA: West Bengal:
+1962-177@2004@zt00578@          Mus. East Napal Exp., 1961-62, R.L. Cole Coll., B.M. 1962-177 (BMNH).
+1908b.375@2004@zt00578@          Scaphoideus consanguineus Distant 1908b: 375. HOLOTYPE &, INDIA [BMNH, examined].
+Not specific@2004@zt00578@(BMNH).
+Not specific@2004@zt00578@    [BMNH, examined]. Syn. nov.
+1918.65@2004@zt00578@Scaphoideus nutans Distant 1918: 65. LECTOTYPE &, INDIA [BMNH, examined]. Syn nov.
+1918.66-67@2004@zt00578@Scaphoideus pallifrons Distant 1918: 66–67. LECTOTYPE &, INDIA [BMNH, examined]. Syn.
+Not specific@2004@zt00578@Maskeliya, 8.iii.1909, T. B. Fletcher, 1&, Peradeniya, 3.x.1913 (BMNH); 1%, 4&, Hunu-
+Not specific@2004@zt00578@ZOOTAXA   60” (BMNH). Lectotype (sex? Abdomen missing) “Type, H.T. (red margined circular
+Not specific@2004@zt00578@          nated (BMNH). Tamil Nadu: 2%, 3&, Kodaikanal, T.V. Campbell (
+Not specific@2004@zt00578@BMNH); 1%, 1&,
+87740/8@2004@zt00578@          ing numbers 87740/8, 9144/8 and 9442/8 (BMNH).
+9144/8@2004@zt00578@          ing numbers 87740/8, 9144/8 and 9442/8 (BMNH).
+9442/8@2004@zt00578@          ing numbers 87740/8, 9144/8 and 9442/8 (BMNH).
+Not specific@2004@zt00578@1&, Shimoga, light trap, 1975 (BMNH).
+1918.68@2004@zt00578@Hussa insignis Distant, 1918: 68. SYNTYPE &, INDIA [BMNH, not examined].
+Not specific@2004@zt00578@          1%, 2&, 6 Km SW Mahabaleshwar, 19.x.1985, C.W. & L.B. O’Brien (BMNH, UAS.).
+Not specific@2004@zt00578@A. Viraktamath (BMNH, NPC, UAS).
+Not specific@2004@zt00578@          54’(BMNH).
+1935-630.@2004@zt00578@          ft,(2123 m), 18.v.1935, R. Malaise, Brit. Mus., 1935–630 (BMNH).
+1908b.377@2004@zt00578@          Scaphoideus russus Distant, 1908b: 377. LECTOTYPE %, MYANMAR [BMNH, examined]
+1911-383@2004@zt00578@          written label) “Dist. Coll. 1911-383” (printed label) here designated (BMNH). INDIA:
+Not specific@2004@zt00578@          13.x.1907, C.A. Paiva (specimen determined by Distant 1908b as S. ornatus) (BMNH).
+1911-383@2004@zt00578@          1911–383 (BMNH, UAS).
+1909-80.@2004@zt00578@          F[letcher]. Brit. Mus. 1909-80 (BMNH).
+Not specific@2004@zt00578@Valparai, 14.iv.1981, A.R.V. Kumar (BMNH, NPC, UAS, USNM). SRI LANKA: 1%,
+Not specific@2004@zt00578@Mats. (BMNH).
+1935-312@2004@zt00578@ft (743m), 13.iii.1935, M Steel, Brit. Mus. 1935-312 (BMNH). Paratype: 1%, MYAN-
+Not specific@2004@zt00578@3000ft (910m), lat. N 27o 42’, Long. 97o 54’ (BMNH).
+1918-67@2004@zt00578@          Scaphoideus stigmaticus Distant, 1918: 67. HOLOTYPE &, INDIA [BMNH, examined].
+1911-383@2004@zt00578@          label) “Distant Coll. 1911-383” (printed label), here designated (BMNH); Assam: 1%,
+1911-383@2004@zt00578@          Margherita, W. Doherty from Indian Mus. Distant Coll. B. M. 1911-383 (BMNH); 1&,
+1935.-630@2004@zt00578@(2123m), 20.v.1934, R. Malaise, Brit. Mus. 1935-630 (BMNH). Paratype: 1%, data as
+Not specific@2004@zt00578@holotype (BMNH).
+Not specific@2004@zt00578@Viraktamath (BMNH, UAS).
+Not specific@2004@zt00424@               MATERIAL STUDIED: BMNH, [Chile:IX Reg. Prov. Malleco/ PN Nahuelbuta,
+Not specific@2004@zt00424@               BMNH: [CHILE: X Reg. Pr. Osorno / PN Puyehue, Aguas Calientes / 40°40’S
 1953.11.16.9@2004@zt00680d@          FIGURE 76. Myrianida pulchella, A, B, D–G paratype BMNH 1953.11.16.9, C holotype 
 1961.16.12.@2004@zt00680d@BMNH 1961.16.12.
 1885.12.1.156.@2004@zt00680d@FIGURE 92. Autolytus maclearanus, holotype BMNH 1885.12.1.156. —A. Anterior end, dorsolateral view.
-@2004@zt00692@from the USA (Hawaii and California), China, Taiwan, and Madeira (BMNH and UASB)
-–@2004@zt00555@               The following abbreviations are used: BMNH – The Natural History Museum, Lon-
-I@2004@zt00555@          material and the possibility to study materials from MNHN, MNCN and BMNH, I have
-@2004@zt00555@               Also, having studied the male holotype of A. hunti (BMNH) labeled: ”Kenya, Macha-
-@2004@zt00731@          Specimens have been examined in or borrowed from the following collections: BMNH =
-@2004@zt00731@          John Chainey, David Notton (BMNH), Patrick Grootaert (IRSNB), Javier Blasco-Zumeta
-ZB@2004@zt00478@                    Murray, 1984           Wales                                     BMNH ZB 1983.1740 (1); AM
-ZB@2004@zt00478@longiseta Hutchings     Lobochesis         Australia: Ocean       IT/Sand, exposed    H: AM W.195000: P: BMNH ZB
-@2004@zt00478@          Australian Museum, Sydney; AMNH American Museum of Natural History, New York; BMNH British Museum of Natural History, now
-@2004@zt00478@          Natural History Museum (NHM); CMNH Coastal Branch of Natural History Museum and Institute, Chiba, Japan; LACMNH Los Angeles
-0@2004@zt00700@          the British Museum (Natural History), London [BMNH].
-@2004@zt00700@          Aedes (S.) poweri Theo. Det. J.M. 1952) [BMNH]; same data, 2M, 1F (SAIMR/YF/CSIR-
-@2004@zt00700@          gen, 1 F gen (MEP Acc. 719, 81/42, 81/43, 81/41) [BMNH]; same data, 3M (SAIMR,
-@2004@zt00700@of BMNH) and Miss Theresa M. Howard, Department of Entomology, Medical & Veteri-
-@2004@zt00700@[BMNH]; to Drs. J.M.D. Roberts, Davy K. Koech, Mrs. Phoebe A.O. Josiah (formerly of
+Not specific@2004@zt00692@from the USA (Hawaii and California), China, Taiwan, and Madeira (BMNH and UASB)
+Not specific@2004@zt00555@               Also, having studied the male holotype of A. hunti (BMNH) labeled: ”Kenya, Macha-
+ZB 11983.1740 (1)@2004@zt00478@                    Murray, 1984           Wales                                     BMNH ZB 1983.1740 (1); AM
+ZB 1983.1741 (1)@2004@zt00478@longiseta Hutchings     Lobochesis         Australia: Ocean       IT/Sand, exposed    H: AM W.195000: P: BMNH ZB
+Not specific@2004@zt00700@          Aedes (S.) poweri Theo. Det. J.M. 1952) [BMNH]; same data, 2M, 1F (SAIMR/YF/CSIR-
+719@2004@zt00700@          gen, 1 F gen (MEP Acc. 719, 81/42, 81/43, 81/41) [BMNH]; same data, 3M (SAIMR,
+81/42@2004@zt00700@          gen, 1 F gen (MEP Acc. 719, 81/42, 81/43, 81/41) [BMNH]; same data, 3M (SAIMR,
+81/43@2004@zt00700@          gen, 1 F gen (MEP Acc. 719, 81/42, 81/43, 81/41) [BMNH]; same data, 3M (SAIMR,
+81/41@2004@zt00700@          gen, 1 F gen (MEP Acc. 719, 81/42, 81/43, 81/41) [BMNH]; same data, 3M (SAIMR,
 1997.1076.@2004@zt00680b@FIGURE 7. Proceraea bifidentata, holotype BMNH 1997.1076. —A. Anterior end, ventral view. —B. Parapo-
-FIGURE 15.@2004@zt00680b@FIGURE 15. Proceraea madeirensis, holotype NHMW 2512. —A. Anterior end, dorsal view. —B. Median
-@2004@zt00566@     Specimens were deposited in the Natural History Museum, London, UK (BMNH); the
-1988.4.22.5-8;@2004@zt00566@were examined: Allopodocotyle jaffensis (Fischthal, 1980) BMNH 1988.4.22.5-8;
+1988.4.22.5-8@2004@zt00566@were examined: Allopodocotyle jaffensis (Fischthal, 1980) BMNH 1988.4.22.5-8;
 1982.5.12.22@2004@zt00566@ZOOTAXA   Allopodocotyle korangiai Bilqees, 1972 BMNH 1982.5.12.22; Pedunculotrema capecoas-
-@2004@zt00566@     Deposited specimens: BMNH holotype 2004.3.18.95, 
-@2004@zt00566@BMNH paratypes
-@2004@zt00566@2004.3.18.67–94, BMNH vouchers 2004. 3.18.5–66, USNPC paratypes 094587.00-
-@2004@zt00566@Department of Zoology, BMNH in recognition of his long-standing contributions to our
-@2004@zt00740@BMNH      The Natural History Museum (formerly British Museum of Natural History),                 740
-@2004@zt00740@              clandestina Meyr.; % genitalia on slide 22.ix.1947, J.F.G.C. 5775” (BMNH) (examined). Syn.
-@2004@zt00740@Mr. Kevin Tuck, BMNH, London, U.K., Dr. Jason Weintraub, ANSP, Philadelphia, USA.
-@2004@zt00726@Naturhistorisches Museum Basel (NHMB).
-—@2004@zt00538@BMNH — The Natural History Museum, London, England (Dr. J. Balfour-Browne, M.
-@2004@zt00538@          1600 ft., on wet mossy cliff-face, 2-iii-1954, J. Balfour-Browne, (20 BMNH). Representa-
-@2004@zt00773@BMNH, Natural History Museum, London, U.K.; DJG, D.J. Greathead, personal collec-
-@2004@zt00773@              Contents: Species from the Afrotropical Region in BMNH. This was intended to sum-
-@2004@zt00773@of other specimens seen by him. Most of these are to be found in SAMC and BMNH. Fur-
-MNHN@2004@zt00773@(BMNH, MNHN, HNHM, SAMC, MCSN) and his personal collection (now in MSNM)
-@2004@zt00773@[= Bombylella] (lectotype in BMNH).
-@2004@zt00773@                   and one syntype in BMNH for the 1924 proposal.
-(1@2004@zt00773@                   ful) and BMNH (1). The male from O’okiep in SAMC is here designated lectotype.
-@2004@zt00773@          numbers of specimens or their sexes believing that the type specimen was in BMNH.
- 1%,@2004@zt00773@    Bowden, 1967: 160 – key and description from two males from Malawi in BMNH: 1%,
-@2004@zt00773@    Evenhuis & Greathead, 1999: 67 – 1 syntype listed in BMNH. There is no record of this speci-
-@2004@zt00773@        men at BMNH. We conclude that it is an error and should be deleted.
-@2004@zt00773@Remarks: The two male specimens described by Bowden (1967) in BMNH are the only
-@2004@zt00773@                   BMNH.
-@2004@zt00773@        Zulu-Natal): [1%], Durban (J.P. Cragoe) (BMNH).
-@2004@zt00773@        Malawi in BMNH and other specimens from Ethiopia, Kenya, Malawi, and Uganda.
-@2004@zt00773@    Evenhuis & Greathead, 1999: 100 – 5 syntypes located in BMNH; an indeterminate number of
-@2004@zt00773@        only the six syntypes (not five as stated in Evenhuis & Greathead, 1999) in BMNH. Of
-@2004@zt00773@    Bezzi, 1924: 46 – diagnosis; % S. Abyssinia in BMNH.
-@2004@zt00773@        BMNH.
-@2004@zt00773@    Evenhuis & Greathead, 1999: 129 – listed (incorrectly) a holotype in BMNH.
-@2004@zt00773@        1956 leaving as the only surviving syntype the male from ‘S. Abyssinia’ in BMNH. This
-12@2004@zt00773@script. 11, Bombylius phaeopterus Bezzi, male habitus (lectotype in BMNH). 12, Bombylius fucatus        773
-TMSA@2004@zt00773@        specimens in BMNH, TMSA & SAMC (no details of label data).
-TMSA@2004@zt00773@    Hesse, 1956: 79 – description from specimens in BMNH, TMSA & SAMC from various local-
-21@2004@zt00773@contorta (lectotype in BMNH). 21, female habitus. 22, wing.
-@2004@zt00773@        in BMNH.
-@2004@zt00773@    Evenhuis & Greathead, 1999: 355 – listed 1 syntype in BMNH.
-@2004@zt00773@        was destroyed in 1956; thus, the BMNH specimen is the only surviving syntype and is
-@2004@zt00773@       unspecified number of syntypes in BMNH. Twelve of these syntypes were found. As indi-
-25–26@2004@zt00773@prosopa fissicornis Bezzi, male habitus (lectotype in BMNH). 25–26, Lectotype of Exoprosopa
-@2004@zt00773@        Anderson) in BMNH.
-@2004@zt00773@    Greathead, 2001a: 141 – BMNH syntype examined; key to species group, diagnosis and fig-
-@2004@zt00773@    Evenhuis & Greathead, 1999: 361 – listed one syntype in BMNH.
-@2004@zt00773@    Types: The syntype in HNHM was destroyed. The syntype in BMNH from Kenya is the only
-@2004@zt00773@        but scape and pedicel are present) Malawi: Ngara, 1.1915 (J.B. Davey) in BMNH.
-@2004@zt00773@        one syntype in BMNH. The 
-@2004@zt00773@BMNH specimen is one from Malawi that was doubtfully
-@2004@zt00773@        ria: Ibadan, 7.xii.1913 (Dr W.A. Lambourn) in BMNH.
-@2004@zt00773@        MNHN for the 1923 proposal and an undetermined number of syntypes in BMNH for the
-@2004@zt00773@    Types: The syntype specimens listed by Bezzi (1924) as being in BMNH are not present in the
-@2004@zt00773@               Evenhuis & Greathead, 1999: 413 – listed the neotype from Chad in BMNH.
+2004.3.18.95@2004@zt00566@     Deposited specimens: BMNH holotype 2004.3.18.95, 
+2004.3.18.67-94@2004@zt00566@2004.3.18.67–94, BMNH vouchers 2004. 3.18.5–66, USNPC paratypes 094587.00-
+2004.3.18.5-66@2004@zt00566@2004.3.18.67–94, BMNH vouchers 2004. 3.18.5–66, USNPC paratypes 094587.00-
+Not specific@2004@zt00740@              clandestina Meyr.; % genitalia on slide 22.ix.1947, J.F.G.C. 5775” (BMNH) (examined). Syn.
+Not specific@2004@zt00538@          1600 ft., on wet mossy cliff-face, 2-iii-1954, J. Balfour-Browne, (20 BMNH). Representa-
+Not specific@2004@zt00773@BMNH, Natural History Museum, London, U.K.; DJG, D.J. Greathead, personal collec-
+Not specific@2004@zt00773@(BMNH, MNHN, HNHM, SAMC, MCSN) and his personal collection (now in MSNM)
+Not specific@2004@zt00773@[= Bombylella] (lectotype in BMNH).
+Not specific@2004@zt00773@                   and one syntype in BMNH for the 1924 proposal.
+Not specific@2004@zt00773@                   ful) and BMNH (1). The male from O’okiep in SAMC is here designated lectotype.
+Not specific@2004@zt00773@          numbers of specimens or their sexes believing that the type specimen was in BMNH.
+1967.160.@2004@zt00773@    Bowden, 1967: 160 – key and description from two males from Malawi in BMNH: 1%,
+1999.67@2004@zt00773@    Evenhuis & Greathead, 1999: 67 – 1 syntype listed in BMNH. There is no record of this speci-
+Not specific@2004@zt00773@        men at BMNH. We conclude that it is an error and should be deleted.
+Not specific@2004@zt00773@Remarks: The two male specimens described by Bowden (1967) in BMNH are the only
+Not specific@2004@zt00773@        Zulu-Natal): [1%], Durban (J.P. Cragoe) (BMNH).
+Not specific@2004@zt00773@        Malawi in BMNH and other specimens from Ethiopia, Kenya, Malawi, and Uganda.
+1999.100.@2004@zt00773@    Evenhuis & Greathead, 1999: 100 – 5 syntypes located in BMNH; an indeterminate number of
+Not specific@2004@zt00773@        only the six syntypes (not five as stated in Evenhuis & Greathead, 1999) in BMNH. Of
+1999.46@2004@zt00773@    Bezzi, 1924: 46 – diagnosis; % S. Abyssinia in BMNH.
+1999.129@2004@zt00773@    Evenhuis & Greathead, 1999: 129 – listed (incorrectly) a holotype in BMNH.
+Not specific@2004@zt00773@        1956 leaving as the only surviving syntype the male from ‘S. Abyssinia’ in BMNH. This
+Not specific@2004@zt00773@script. 11, Bombylius phaeopterus Bezzi, male habitus (lectotype in BMNH). 12, Bombylius fucatus        773
+Not specific@2004@zt00773@        specimens in BMNH, TMSA & SAMC (no details of label data).
+1956.79@2004@zt00773@    Hesse, 1956: 79 – description from specimens in BMNH, TMSA & SAMC from various local-
+Not specific@2004@zt00773@contorta (lectotype in BMNH). 21, female habitus. 22, wing.
+Not specific@2004@zt00773@        in BMNH.
+1999.355@2004@zt00773@    Evenhuis & Greathead, 1999: 355 – listed 1 syntype in BMNH.
+Not specific@2004@zt00773@        was destroyed in 1956; thus, the BMNH specimen is the only surviving syntype and is
+Not specific@2004@zt00773@       unspecified number of syntypes in BMNH. Twelve of these syntypes were found. As indi-
+Not specific@2004@zt00773@prosopa fissicornis Bezzi, male habitus (lectotype in BMNH). 25–26, Lectotype of Exoprosopa
+Not specific@2004@zt00773@        Anderson) in BMNH.
+2001a.141@2004@zt00773@    Greathead, 2001a: 141 – BMNH syntype examined; key to species group, diagnosis and fig-
+1999.361@2004@zt00773@    Evenhuis & Greathead, 1999: 361 – listed one syntype in BMNH.
+Not specific@2004@zt00773@    Types: The syntype in HNHM was destroyed. The syntype in BMNH from Kenya is the only
+1.1915@2004@zt00773@        but scape and pedicel are present) Malawi: Ngara, 1.1915 (J.B. Davey) in BMNH.
+Not specific@2004@zt00773@        one syntype in BMNH. The 
+Not specific@2004@zt00773@BMNH specimen is one from Malawi that was doubtfully
+Not specific@2004@zt00773@        ria: Ibadan, 7.xii.1913 (Dr W.A. Lambourn) in BMNH.
+Not specific@2004@zt00773@        MNHN for the 1923 proposal and an undetermined number of syntypes in BMNH for the
+Not specific@2004@zt00773@    Types: The syntype specimens listed by Bezzi (1924) as being in BMNH are not present in the
+1999.413@2004@zt00773@               Evenhuis & Greathead, 1999: 413 – listed the neotype from Chad in BMNH.
 @2004@zt00773@                   which is in BMNH.
 @2004@zt00773@and Nigel Wyatt for the loan of specimens from BMNH. We are grateful to Brian Stucken-
 @2004@zt00773@          specimens in BMNH.
