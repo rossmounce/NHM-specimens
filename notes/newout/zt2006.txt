@@ -2105,364 +2105,308 @@ MEI 040189	2006	zt01288p241	km W Isabela [18.51, -67.092], 19.I.1975, MEI, 5% ME
 37166	2006	zt01288p241	5–23.VII.1985, S. E. Miller, P. M. Miller, 14% MEI 037166 (BMNH), 037171 (CNC),
 37191	2006	zt01288p241	5& 037191 (BMNH), 037194 (CNC), 037195 (FSCA), 037196 (INHS), 037197 (USNM),
 MEI 109333	2006	zt01288p241	          Thompson, G. H., 1& MEI 109333 (BMNH), light trap. LITTLE CAYMAN ISLAND. Pirate’s
-	2006	zt01288p241	          Point [reef, 19.654, -80.094], 16.VII.1975, Askew, R. R., 1% MEI 109344 (BMNH),
-	2006	zt01288p241	          Malaise trap; 18.VII.1975, 1% MEI 109348 (BMNH), mercury light, 9% MEI 119668–9,
-	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
-	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
-	2006	zt01288p241	          119648, 119653 (BMNH), 119639 (INHS), mercury vapor light; 27.VII.1975, 1% MEI
-	2006	zt01288p241	          109349, 2& MEI 109346–7 (BMNH), mercury vapor light; 28–29.VII.1975, 15% MEI
-	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
-	2006	zt01288p241	          119644, 119647 (INHS), Malaise trap; 1% MEI 109352 (BMNH), mercury vapor light;
-	2006	zt01288p241	          30.VII–1.VIII.1975, 8% MEI 119671–2, 119703–4, 119735, 119768 (BMNH), 119736,
-	2006	zt01288p241	          119767 (INHS), 4& 119657–8, 119663, 119666 (BMNH), Malaise trap; 1.VIII.1975, 3%
-	2006	zt01288p241	          MEI 109353–5 (BMNH), Malaise trap; 2–5.VIII.1975, 1& MEI 109360 (
-	2006	zt01288p241	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
-	2006	zt01288p241	          7–9.VIII.1975, Askew, R. R., Royal Society - CIG Expedition, (BMNH), Malaise trap; S
-	2006	zt01288p241	          109337 (BMNH), light trap; 30.V.1938, 2% MEI 109331 (
-	2006	zt01288p241	          109338 (BMNH), light trap. CAYMAN BRAC ISLAND. West end Cotton Tree Lane [19.699,
-	2006	zt01288p241	          -79.88], 22.V.1938, Lewis, C.B., Thompson, G.H., 1% MEI 109332 (BMNH), light trap;
-	2006	zt01288p241	29.V.1980, 3% MEI 141719 (CASC), 141720 (BMNH), 141721 (INHS), 1& 141729
-	2006	zt01288p241	          141740 (BMNH). SOUTH BIMINI ISLAND. [25.733, -79.25], 3.VI.1950, Cazier, Rindge,
-	2006	zt01288p241	MUS), Malaise trap; 24–28.V.1983, 7% MEI 073761 (BMNH), 073919 (CSCA), 074443
-	2006	zt01288p241	(CAS), 073916–7, 074440–1 (EMUS), 5& 073914 (BMNH), 073915 (CAS), 073918,
-	2006	zt01288p241	          He discussed the morphological characteristics of the holotype with J. Chainey, BMNH
-	2006	zt01189p037	          (NHML); Museum of Comparative Zoology, Harvard University (MCZ); and Zoological
-	2006	zt01189p037	maculata Baird, 1865, syntypes [NHML 1839.12.27, 16–18]; lectotype [NHML
-	2006	zt01189p037	Landstone Guilding; paralectotype [1839.12.27.17]; third syntype [NHML
-	2006	zt01189p037	          McIntosh [NHML 1921.5. 14339]. Cape Verde Islands [MNHNP, A311 and NHML,
-	2006	zt01189p037	          Baird’s type material (NHML) includes a slide of chaetae labelled “schizosyntype
-	2006	zt01189p037	[NHML and MNHNP] agrees well with B. nigromaculatum. However, B. nigromaculatum
-	2006	zt01189p037	    Type material: Dasychone bairdi McIntosh, 1885, lectotype [NHML1885.12.1.391]
-	2006	zt01189p037	    Non-type material: Florida (Monro 1933a) [NHML 1932.12.22.91–102, PK-J] Dry
-	2006	zt01189p037	    Two original syntypes of Branchiomma bairdi (McIntosh NHML 1885.12.1.391) with
-	2006	zt01189p037	lectotype [NHML 1885.12.1.391], because of McIntosh’s comments: “The long radioles
-	2006	zt01189p037	    The paralectotype, now labelled Branchiomma sp. A [NHML 1885.12.1.391], is
-	2006	zt01189p037	          NHML 1932 12. 22, 91–102) agree well with the lectotype. He regarded McIntosh’s
-	2006	zt01189p037	          [NHML 1928.2.29.100, Benham, 1927 as Dasychone cingulata var. curta, PK-J],
-	2006	zt01189p037	          Saint-Vincent [Sabellidae, Crossland collection, BMNH 1924.6.13.165 (37), PK-J]. New
-	2006	zt01189p037	          (NHML); Naturhistoriska Museum, Göteberg (NMG); Naturiska Rikmusset Stockholm
-	2006	zt01363p068	paper: BMNH — The Natural History Museum, London, United Kingdom; DEIM —
-	2006	zt01363p068	Deutsches Entomologisches Institut, Müncheberg, Germany; NHMB — Natural History
-	2006	zt01363p068	     type locality Sri Lanka, type in BMNH).
-	2006	zt01363p068	     typy, type locality Sri Lanka, type in BMNH). New synonym.
-	2006	zt01363p068	     type locality Nepal, holotype in NHMB). Gruev & Askevold, 1988:140 (synonymy).
-	2006	zt01363p068	          HT found in dwr. parts missing G. A. Samuelson det. 1974 (BMNH).
-	2006	zt01363p068	          Jacoby (2 BMNH).
-	2006	zt01363p068	          USNM, 3 PKDC, 2 BMNH). Two specimens: South India Western Ghats Tamil Nadu,
-	2006	zt01363p068	Hastenpflug-Vesmanis (SMFM), S. Shute (BMNH) and L. Zerche (DEIM) for access to
-	2006	zt01333p054	BMNH      The Natural History Museum (formerly British Museum (Natural History)),
-	2006	zt01333p054	          Neoputala capitata Distant, 1914: 412; Metcalf, 1946: 78. Holotype                                 &,   Indo-China (BMNH)
-	2006	zt01333p054	(BMNH).
-	2006	zt01333p054	              China (BMNH) [examined].
-	2006	zt01333p054	          FULGOROIDES; 55/87 [underside] n. China (BMNH). Lectotype % of Saigona gibbosa
-	2006	zt01333p054	          Dictyophara fulgoroides Walker, 1858), 58/87 [underside] n. China (BMNH). Taiwan:
-	2006	zt01333p054	          Putala lewisi Distant, 1906: 354; Melichar, 1912: 101, 102. Holotype &, Japan (BMNH) [exam-
-	2006	zt01333p054	          1911–383 (BMNH). JAPAN: 1% (paralectotype of Dictyophora [sic] ishidae Matsumura,
-	2006	zt01333p054	          (all in BMNH). Japan: 1%, no locality, vi.1949, C. Watanabe; 1%, no locality and date, G.
-	2006	zt01333p054	          specimens or access to collections: Mr. Mick Webb (BMNH), Drs. Masaaki Suwa and
-	2006	zt01251p070	History (FMNH) or Natural History Museum in London (BMNH) that have the
-	2006	zt01251p070	    Platydracus chiriquensis (Sharp, 1884) comb nov. ex Staphylinus (BMNH, holotype)
-	2006	zt01251p070	(BMNH, 2 syntypes of S. tarsalis Sharp, 1884)
-	2006	zt01251p070	    Platydracus vividus (Sharp, 1884) comb nov. ex Amichorus (BMNH, holotype)
-	2006	zt01167p016	          depositories of specimens are as follows: BMNH, The Natural History Museum, London,
-	2006	zt01167p016	1 male on points [UCRC], 1 female on point [BMNH], 1 female on point [USNM], and 1
-	2006	zt01167p016	          loans of the type material from the USNM. John S. Noyes (BMNH) made many useful
-	2006	zt01112p064	BMNH revealed some important conchological differences. They share the external                     1112
-	2006	zt01112p064	concept was based on the examination of voucher specimens at BMNH as explained
-	2006	zt01112p064	ZOOTAXA   (BMNH 1829) has no locality at the label. Some samples (
-	2006	zt01112p064	          (BMNH from New Jersey), revealing a huge dorsal muscle. These characters show that C.
-	2006	zt01112p064	          conclusion is based on the examination of voucher lot of Reeve (1859) (BMNH no
-	2006	zt01112p064	               Additional material examined: No locality, BMNH, 4 shells (voucher of Reeve, 1859).
-	2006	zt01112p064	               Material examined of Crepidula convexa: No locality; BMNH 1829, 4 shells
-	2006	zt01112p064	          (Voucher of Reeve, 1859); BMNH, 3 shells (Van Couvers Lsd); 
-	2006	zt01112p064	          Plymouth, BMNH, 12 shells. Connecticut; Bridgeport, Fairfield county, Long Island
-	2006	zt01112p064	          col. 1982). New York; Northport, BMNH 1838, 9 shells (Winckworth colln.). New
-	2006	zt01112p064	          Jersey; Cape May, Wildwood, BMNH 20020070, 6 specimens (R. Collin col. 13/vi/1999).
-	2006	zt01112p064	          119–122: Crepidula aplysioides, one of four syntypes, BMNH 1977137 (length= 23 mm); Figs
-	2006	zt01112p064	          men (one of four) from Reeve (1859), BMNH 1829 (length= 20 mm), ventral, dorsal and left views
-	2006	zt01112p064	          ured by Reeve (1859), BMNH 1829 (length= 10 mm), ventral and right views. Figs. 128–129:
-	2006	zt01343p054	          Museum of Natural History (BMNH) (London) and in the Colección de Esponjas del
-	2006	zt01343p054	   Paratypes: BMNH: 2005.4.21.4, Punta Pinta la Choya (Puerto Peñasco, Sonora,
-	2006	zt01343p054	          BMNH: 2005.4.21.4             110-(121.5)-130 x 5-(7.5)-8.8    80-(92.5)-97.5 x 2.5-(3)-4.5
-	2006	zt01343p054	          oscular zone of Geodia media. A) Holotype MNCN 1.01/362 in fresh. B) Paratype BMNH:
-	2006	zt01328p050	          NSW, New South Wales; BMNH, British Museum of Natural History, London; QDPI,
-	2006	zt01328p050	(ANIC); 1%, 1&, same data as holotype (BMNH); 1%, Cooran Tableland, via Gympie,
-	2006	zt01302p059	          Norway and the NHM, University of Oslo.
-	2006	zt01379p102	Museum (NHM, London, United Kingdom), Deutsches Entomologisches Institut (DEI,
-	2006	zt01379p102	France), NHMLAC (Natural History Museum of Los Angeles County, Los Angeles,
-	2006	zt01379p102	          Quinlan, 1979 deposited in NHM; P. tropica (Kieffer, 1910) and P. validispina (Kieffer,
-	2006	zt01379p102	(NHM) 16-VII-1937 in Nova Teutonia. F. Plaumann col. URUGUAY: 1 % (CAS), 7-II-
-	2006	zt01379p102	Type material: (1 &). HOLOTYPE female (NHM) 6-XII-1979 in Mendoza, above
-	2006	zt01379p102	          (NHM) XI-1961 in Belem., ex. puparium of Baccharis spicata.; ARGENTINA: 1 &
-	2006	zt01379p102	          Type material: (1 %). HOLOTYPE male (NHM), 26-VIII-1938, Nam Tamai Valley, Alt
-	2006	zt01379p102	Type material: (1 %). HOLOTYPE male (NHM), 17-V-1983, in Hainan I Tien Fong Mts.,
-	2006	zt01379p102	Type material: (1 &). HOLOTYPE female (NHM), 6-XII-1979, Mendoza above
-	2006	zt01379p102	Type material: (1 &). HOLOTYPE female (NHM), 10-I-1975 in Cayo Dist., Central
-	2006	zt01379p102	ZOOTAXA   & E. S. Ross col.; BRAZIL: 1 & (NHM), II-1937 in Nova Teutonia 27º11' B. 52º23' L., F.
-	2006	zt01379p102	(UB), I-1985, Bebedjia, ex. Syrphidae larvae, Silvie col.; UGANDA: 1 & (NHM), 8-III-
-	2006	zt01379p102	              Additional material (1 % & 2 &). TRINIDAD AND TOBAGO: 1 % (NHM), Trinidad,
-	2006	zt01379p102	          Type material: (40 % & 20 &). HOLOTYPE female (NHM), XII-1988, Puntarenas, San
-	2006	zt01379p102	          de Cristo Col.; 1 % (NHM), 7-VIII-1923, Gavea, Rio de Janeiro, G. L. R. Hancock col.; 1
-	2006	zt01379p102	(NHM), VIII-1935, Nova Teutonia 27º11'B, 52º23'L, Fritz Plaumann col.; VENEZUELA:
-	2006	zt01379p102	Turrialba, G. F. & S. Hevel col.; 2 & (NHM), XII-1988, Puntarenas, San Vito, Jardin
-	2006	zt01379p102	T. Dalmat col.; BRAZIL: 1 & (NHM), 18-V-1937 in Nova Teutonia, F. Plaumann col.; 1 &
-	2006	zt01379p102	(NHM), 16-VIII-1935 in Nova Teutonia, F. Plaumann col.; 1 & (NHM) 16-VII-1937 in
-	2006	zt01379p102	Nova Teutonia, F. Plaumann col.; 1 % (NHM), 21-V-1937 in Nova Teutonia (Brazil, F.
-	2006	zt01379p102	          Type material (1 % & 2 &). HOLOTYPE: female (NHMLAC), II-1987, Madre de Dios,
-	2006	zt01379p102	          % (USNM), VI-1961, Sta. Catarina, Florianapolis, Krauss col.; 1 & (NHM), nº 520 III-
-	2006	zt01379p102	          Nathan col.; 1 % (MHN), 13-X-1965, Chickbellapus, C.I.E. col.; CHINA: 1 % (NHM), 12-
-	2006	zt01379p102	          (DEI), Dr. A. Roig (MACN), S. Lewis (NHM), Dr. N. B. Díaz (MLP), Dr. M. V. Colomo
-	2006	zt01379p102	          de Correa (IML), Dr. G. Delvare (CIRAD-CA), Dr. R. Snelling (NHMLAC), Dr. A.
-	2006	zt01321p108	          London (BMNH), Mrs. Laraine Tarel, Christine Taylor and Suzanne Lewis; California
-	2006	zt01321p108	          HOLOTYPE: & Mexico, N. Yucatan (no date) (Gaumer) (BMNH), examined.
-	2006	zt01321p108	HOLOTYPE: & Panama, Tolé (no date) (Champion) (BMNH), examined.
-	2006	zt01321p108	(GBFM), 1 & Bugaba, 500–1500 ft. (Champion) (BMNH).
-	2006	zt01321p108	6/iii/1974 (M. Cooper) (BMNH).
-	2006	zt01321p108	in Colombia (BMNH). Richards’ assertion that “females from Colombia” have the
-	2006	zt01321p108	          HOLOTYPE: % Brazil, Pará, Belém, 22/xii/1893 (W. Schulz) (BMNH), examined.
-	2006	zt01321p108	          (BMNH); BRAZIL: Amazonas, 1& Beruri, Rio Purus, 15/x/1991 (G.A.R. Melo) (UFPR),
-	2006	zt01321p108	xi/1976 (M. Cooper) (BMNH); PERU: Loreto, 1& Iquitos, 27/vii/1906 (A. Ducke) (MPE                      1321
-	2006	zt01321p108	          (BMNH); BRAZIL: Minas Gerais, 1& S. Caraça (Engenho) 800m, xi/1961 (Kloss,
-	2006	zt01321p108	          Lenko, Martins e Silva) (MZSP), 1& Diamantina, 1923 (W.S. Bristowe) (BMNH), 1& E
-	2006	zt01321p108	Santos, 3/iii/1912 (G.E. Bryant) (BMNH), 1& São Paulo (no specific locality) (no date)
-	2006	zt01321p108	          (Champion) (BMNH), 1& Limo, 800m (MPEG).
-	2006	zt01321p108	    Exped.) (BMNH), examined, N. syn.
-	2006	zt01321p108	          Brasília, Lago Norte, 24/ix/78 (anonymous) (BMNH); Goiás, 1& Alvorada do Norte, 8/
-	2006	zt01321p108	          (BMNH), 2& Benevides, viii/1911 (Ducke), 1% 1& Benevides, Paricatuba, 9/xii/1978
-	2006	zt01321p108	iii/1974 (M. Cooper) (BMNH); PANAMA: 1& Canal Zone, Tabernilla, vii/1907 (A.
-	2006	zt01321p108	(BMNH); BRASIL: Amazonas, 1& Tefé, 26/vi/1906 (A. Ducke) (MPEG); COLOMBIA:
-	2006	zt01321p108	Amazonas, Letícia, 1& 14/viii/1974 (M. Cooper), 1& 18/viii/1974 (M. Cooper) (BMNH);
-	2006	zt01321p108	Iquitos, 2/xi/1978 (D. Windsor) (BMNH).
-	2006	zt01321p108	          HOLOTYPE: % Brazil, Pará, Bujarú 15/vii/1978 (W. França) (BMNH).
-	2006	zt01321p108	(BMNH), examined.
-	2006	zt01321p108	          HOLOTYPE: & Trinidad, iii/35 (Fitzgerald) (BMNH), examined.
-	2006	zt01321p108	          (BMNH).
-	2006	zt01321p108	          M. rectus Richards, 1978: 306. Holotype: & Ost Bolivien, 1/iii/07 (Steinbach) (BMNH), examined,
-	2006	zt01321p108	          (BMNH), 3& and nest, Bujarú, 6/x/1977 (P. Waldir), 1& Bujarú, 5/x/1977 (P. Waldir), 1&
-	2006	zt01321p108	HOLOTYPE: & Colombia, Cauca, Llano Bajo, nest 98, 4-x-71 (M. Cooper) (BMNH).
-	2006	zt01321p108	          (BMNH).
-	2006	zt01321p108	          Chimoré, I/72 (Fritz) (BMNH); Santa Cruz, 1& Buena Vista, 9/I/1991 (Carpenter &
-	2006	zt01321p108	              (anonymous) (BMNH), designated by Richards (1978), examined. N. syn.
-	2006	zt01321p108	              15/ii/47 (Weyrauch) (BMNH), examined; N. syn.
-	2006	zt01321p108	Rurrenabaque (BMNH) have similar color characteristics.
-	2006	zt01321p108	    BOLIVIA: Beni, 1% Rurrenabaque, 270m, 11/v/1979 (M. Cooper) (BMNH);
-	2006	zt01321p108	          Cooper) (BMNH); ECUADOR: Napo, 2& Tena, 16/xii/1990 (Carpenter & Wenzel)
-	2006	zt01321p108	          (BMNH); Ucayali, 1& Pucallpa, 31/iii/1965 (J.M. Schunke), 1& Previsto, Cord. Azul,
-	2006	zt01321p108	          760m, 14/v/1965 (J.M. Schunke) (BMNH), 1& Satipo, 600m, 1/viii/41 (Weyrauch) (IOC);
-	2006	zt01321p108	          (BMNH); VENEZUELA: 1& Orinoco Delta, Cano Mariusa, 140Km NE Barrancas, 29/vii/
-	2006	zt01321p108	          nests collected by M. Cooper in Bolivia, Rurrenabaque (BMNH). The nests were under a
-	2006	zt01321p108	75 (R. Zucchi) (BMNH), 1& Rio Claro, 5/iv/88 (E. Giannotti) (MZSP), 2& Águas de S.
-	2006	zt01243p060	BMNH       The Natural History Museum (formerly British Museum (Natural History)),
-	2006	zt01108p021	(MNHN) and The Natural History Museum, London (NHM).
-	2006	zt01108p021	paratypes (NHM 2005.212–215), 1 female, 1 male dissected. Lagon, New Caledonia,
-	2006	zt01108p021	algae. 2 females, paratypes (NHM 2005.216–217) on Sargassum, 1 female, robust morph,
-	2006	zt01282p015	          BMNH          The Natural History Museum, London, United Kingdom
-	2006	zt01282p015	          NHMW          Naturhistorisches Museum, Wien, Austria
-	2006	zt01282p015	‘New Holland’, Mus. Stuttgart (76 mm) (NHMW, No. 869), here designated.
-	2006	zt01282p015	(NHMW, No. 869), 3%, Australia ‘New Holland’ (SMNS) [This lectotype designation
-	2006	zt01282p015	          of the female (otherwise almost identical to species in NHMW he identified as chronus)
-	2006	zt01282p015	          traced) against nymphs and adults in collections (BMNH and P. Brock Coll. in particular),
-	2006	zt01282p015	          holotype % of Acrophylla salmacis Westwood, 1859 (BMNH), it is synonymised with
-	2006	zt01282p015	    BMNH, ‘brought by Mr Hunter (the surgeon who accompanied Captain King’s voyages), prob-
-	2006	zt01282p015	    Verreaux, Museum Paris (NHMW, No. 867), here designated. Paralectotype series: &, Austra-
-	2006	zt01282p015	    feld (NHMW, No. 867). Also in ZMAS, locality not known, but not traced in MNHN and
-	2006	zt01282p015	    (NHMW, No. 870), here designated. Paralectotype series: &, Australia [New Holland], Thorey,
-	2006	zt01282p015	    specimens are from Adelaide and Melbourne) (NHMW, No. 870). Not traced in MNHN. Also
-	2006	zt01282p015	              Detailed studies made on 22 specimens (9 %, 11&, 2& nymphs) in BMNH, with
-	2006	zt01282p015	          L. Key, either in 1956 (donated specimens), or 1958, when he visited the BMNH).
-	2006	zt01282p015	(BMNH, acquisition ref. [18]42–56).
-	2006	zt01282p015	          elev.), (Top of the Range), 19 Butler Dr, 1-15.xi.2005, D. C. F. Rentz (BMNH), %, Polly
-	2006	zt01310p035	NHMB      Naturhistorisches Museum Basel, Switzerland
-	2006	zt01310p035	deposited in CAS, some specimens will be transferred to MHNG, NHMB, MCSN and the
-	2006	zt01310p035	          (MCSN); 3 paralectotype //, same data as previous (NHMB); 2 paralectotype //, same
-	2006	zt01310p035	          (NHMB); 1 /, same data as previous (DSTA); 5 //, FRA, Albaron, 23.I.1925, leg. A.
-	2006	zt01310p035	          sur-Mer, VI.1922, leg. L. Berland (NHMB); 6 //, syntypes of T. caespitum ruginode
-	2006	zt01310p035	          (MCSN); 1 /, same data as previous (NHMB); 1 /, ESP, Venta de Cardeñas, 27.VII.1879,
-	2006	zt01310p035	Belinchón, 08.VII.1925, leg. J.M. Dusmet (NHMB); 3 //, 1 &, ESP, Villalba near               ZOOTAXA
-	2006	zt01310p035	Madrid, 28.III.1926, leg. H. & H. Lindberg (NHMB); 2 //, ESP, Sta Morena Sta Helena,         1310
-	2006	zt01310p035	04–08.IV.1926, leg. H. & H. Lindberg (NHMB); 1 / [not & as stated by Emery 1909],
-	2006	zt01310p035	(NHMB, together with paralectotype & on same pin, lectotype marked by red cardboard
-	2006	zt01310p035	square); 1 paralectotype & (of T. m. tingitanum), MAR, Rabat, leg. A. Théry (NHMB, on
-	2006	zt01310p035	& M. Sanetra 2005” (NHMB); 1 paralectotype / (of T. maroccanum), MAR, Aïn Leuh
-	2006	zt01310p035	(NHMB); 1 /, MAR, Aïn Leuh, leg. A. Théry (NHMB); 2 //, MAR, Rabat, leg. A. Théry
-	2006	zt01310p035	(NHMB); 1 /, MAR, Tanger, 1901, leg. G. Buchet (NHMB); 2 //, MAR, Larache,
-	2006	zt01310p035	III.1907 (NHMB); 1 /, MAR, Ben-Slimane (formerly Boulhaut), leg. A. Théry (NHMB);
-	2006	zt01310p035	2 //, MAR, Khénifra near Azrou, leg. A. Théry (NHMB); 11 //, MAR, Forêt de Zaer
-	2006	zt01310p035	          studied by Santschi (1932) are present in NHMB.
-	2006	zt01310p035	          specimens of T. forte in F. Santschi´s collection in NHMB.
-	2006	zt01310p035	          NHMB labeled “Tetramorium caespitum v. marocanum” by F. Santschi, to provide a
-	2006	zt01310p035	in NHMB had previously been determined as T. forte, but proved to belong to T. caespitum
-	2006	zt01310p035	          Cavalaire-sur-Mer (Var) in NHMB currently represents the easternmost confirmed record.
-	2006	zt01310p035	NHMB) are very similar, as are workers from the northeastern mountains of Teneriffa.
-	2006	zt01310p035	among the syntypes in NHMB, comprising gynes, originate from northern Tunisia. We
-	2006	zt01310p035	(NHMB)“.
-	2006	zt01128p033	          BMNH 20050274, 1; MNHN type collection, 1; UMUT RM29043, 1; USNM 1081939,
-	2006	zt01128p033	BMNH (Thiele, 1912; Geiger, pers. obs. II. 2003). It is described as being very depressed       1128
-	2006	zt01128p033	               type (BMNH 1874.5.19.62. Higo et al. 2001: G82), 2.5 mm. Type locality. Mino-sima, [=
-	2006	zt01128p033	and S. Lindsay (AMS); K. Way (BMNH); P. Bouchet, P. Lozouet, P. Maestrati, and V.
-	2006	zt01372p016	          and the Naturhistorisches Museum Wien, Austria (NHMW). Size is expressed as total
-	2006	zt01372p016	               Comparative material examined: Naushonia portoricensis (Rathbun, 1901), NHMW
-	2006	zt01372p016	          NHMW 299 (1 male, cl 22), Adriatic Sea, Pirano, AN 1887.I.27; NHMW 311 (1 female,
-	2006	zt01372p016	NHMW 19596/1 (1 female, cl 14.4), Australia, Victoria, Western Port Bay, Warneet, F.          ZOOTAXA
-	2006	zt01372p016	          NHMW 21470, same data as holotype; (female, tl 18, cl 7.4), NHMW 21471, same
-	2006	zt01372p016	FIGURE 3. Naushonia carinata n.sp. paratype NHMW 21470. a, front, dorsal aspect (setation
-	2006	zt01372p016	          FIGURE 4. Naushonia carinata n.sp. paratype NHMW 21470. Right appendages, a, b, c,
-	2006	zt01372p016	FIGURE 5. Naushonia carinata n.sp. paratype NHMW 21470. Right appendages, a, b cheliped; c,
-	2006	zt01372p016	          FIGURE 6. Naushonia carinata n.sp. a, NHMW 21471, front in dorsal view; b, NMCR 27006,
-	2006	zt01372p016	               Ovigerous female (NHMW 21470) carries about 180 embryos with diameter ranging
-	2006	zt01372p016	Mxp1, this is present also in Jaxea nocturna (Astall et al., 1997; NHMW 299) and
-	2006	zt01372p016	Laomedia healyi (Wear & Yaldwyn, 1966; NHMW 19596).
-	2006	zt01372p016	composed of two articles on the left side of the paratype female (NHMW 21470). Under
-	2006	zt01372p016	females and also not in N. portoricensis (NHMW 20718). Ngoc-Ho (1996), described the
-	2006	zt01372p016	some cases only males were available. In both Laomedia healyi (NHMW 19596/1) and
-	2006	zt01372p016	Jaxea nocturna (NHMW 311), the female Plp1 consists of two articles. The same situation
-	2006	zt01292p040	Museum, London (BMNH), Muséum national d’Histoire naturelle, Paris (MHNP), Royal
-	2006	zt01292p040	          described as Chalcomela nigripennis Baly; type material has been compared in the BMNH
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH          © 2006 Magnolia Press                                 5
-	2006	zt01143p150	          BMNH:        Natural History Museum, London, England
-	2006	zt01143p150	        “Phulia | aconquijae | %”; (3) printed (on white paper) “BMNH(E) #720086”. — [Main:
-	2006	zt01143p150	        | %”; (3) printed (on white paper) “BMNH(E) #720087”. — [Main: Series 23: Drawer 315]
-	2006	zt01143p150	        quijae | & Jörgensen”; (3) printed (on white paper) “BMNH(E) #720088”. — [Main: Series
-	2006	zt01143p150	        amarca, | Argentine Rep. | 3100 m. | 30-3-16.”; (2) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       “Catasticta | Actinotis | Butl. type”; (8) printed (on white paper) “BMNH(E) #662290”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      7
-	2006	zt01143p150	                2900 metres | 7.VIII.1972”; (4) printed (on white paper) “BMNH(E) #662484”. — [Main:
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720298”. — [Rothschild: Series 122: Drawer 37]
-	2006	zt01143p150	                 Hew”; (6) printed (on white paper) “BMNH(E) #720342”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	                white paper) “Levick Bequest | B.M.1941-83.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       white paper) “BMNH(E) #662288”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	       Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #662316”. — [Types:
-	2006	zt01143p150	       Alethina | Butl. type”; (8) printed (on white paper) “BMNH(E) #720176”. — [Types: Series
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH              © 2006 Magnolia Press                                        9
-	2006	zt01143p150	                 amastris | Hewitson, 1873 | G. Lamas des. ’93”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720360”. — [Types:
-	2006	zt01143p150	                 paper with red frame) “amphissa Fruhst.”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                “[Choctum | Vera Paz | Hague]”; (6) printed (on white paper) “BMNH(E) #720349”. —
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720035”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720036”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662305”. — [Types:
-	2006	zt01143p150	       paper) “BMNH(E) #720356”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     11
-	2006	zt01143p150	                 Abadjiev design. 2005”; (9) printed (on white paper) “BMNH(E) #720366”. — [Main:
-	2006	zt01143p150	                 white paper) “BMNH(E) #720025”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720026”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	      (6) printed (on white paper) “BMNH(E) #720062”. — [Types: Series 6: Drawer 46]                     1143
-	2006	zt01143p150	        1907 | HOLOTYPE”; (7) printed (on white paper) “BMNH(E) #720074”. — [Main: Series
-	2006	zt01143p150	      paper) “BMNH(E) #720263”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	      “BMNH(E) #662324”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      13
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720341”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	                 “BMNH(E) #720244”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	                 white paper) “BMNH(E) #720193”. — [Main: Series 23: Drawer 389]
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720194”. — [Main: Series 23: Drawer 389]
-	2006	zt01143p150	       Butler.”; (3) printed (on white paper) “BMNH(E) #720347”. — [Types: Series 6: Drawer
-	2006	zt01143p150	       Coll. | B.M. 1937-285.”; (5) printed (on white paper) “BMNH(E) #720208”. — [Types:
-	2006	zt01143p150	       “BMNH(E) #720217”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	       silia.”; (5) printed (on white paper) “BMNH(E) #720218”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     15
-	2006	zt01143p150	                 “BMNH(E) #720037”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	                 Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720038”. — [Types:
-	2006	zt01143p150	                 paper with red frame) “HOLO- | TYPE”; (7) printed (on white paper) “BMNH(E) #662424”.
-	2006	zt01143p150	                  “BMNH(E) #720049”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       “BMNH(E) #720048”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       “BMNH(E) #720289”. — [Types: Series 6: Drawer 21]
-	2006	zt01143p150	       Fruhst.”; (5) printed (on white paper) “BMNH(E) #720290”. — [Types: Series 6: Drawer
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720171”. — [Main: Series 23: Drawer 312a]
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720172”. — [Main: Series 23: Drawer 312a]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     17
-	2006	zt01143p150	                 “BMNH(E) #720177”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                  white paper) “BMNH(E) #662329”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                 paper) “Levick Bequest | B.M.1941-83.”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	      white paper) “BMNH(E) #662397”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	[2 %] printed (on white paper) “BMNH(E) #662398”. — [Main: Series 23: Drawer 466]                        1143
-	2006	zt01143p150	[3 &] printed (on white paper) “BMNH(E) #662399”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	[4 &] printed (on white paper) “BMNH(E) #662400”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	[5 &] printed (on white paper) “BMNH(E) #662401”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	[6 &] printed (on white paper) “BMNH(E) #662402”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	[7 &] printed (on white paper) “BMNH(E) #662403”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	       paper) “BMNH(E) #662272”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	[1 %] printed (on white paper) “BMNH(E) #662389”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	[2 %] printed (on white paper) “BMNH(E) #662390”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	       back side handwritten “835 | [line] | 26”; (6) printed (on white paper) “BMNH(E) #662273”.
-	2006	zt01143p150	       white paper) “BMNH(E) #662391”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      19
-	2006	zt01143p150	                 (5) printed (on white paper) “BMNH(E) #662326”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                 “BMNH(E) #662327”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                  paper) “BMNH(E) #720056”. — [Rothschild: Series 122: Drawer 24]
-	2006	zt01143p150	                thür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E) #662495”. —
-	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720296”. — [Rothschild: Series 122: Drawer 35]
-	2006	zt01143p150	       det.P.Ackery 1974”; (5) printed (on white paper) “BMNH(E) #720143”. — [Main: Series
-	2006	zt01143p150	       “BMNH(E) #720144”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	       1904. | Wet s. | (Ockenden).”; (2) printed (on white paper) “BMNH(E) #720145”. — [Main:
-	2006	zt01143p150	       white paper) “BMNH(E) #720146”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	       paper) “BMNH(E) #720147”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	       enden).”; (2) printed (on white paper) “BMNH(E) #720148”. — [Main: Series 23: Drawer
-	2006	zt01143p150	       “2”; (3) printed (on white paper) “BMNH(E) #720149”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	       [Ockend.]”; (2) printed (on white paper) “BMNH(E) #720150”. — [Main: Series 23:
-	2006	zt01143p150	       white paper) “BMNH(E) #720151”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      21
-	2006	zt01143p150	                 “BMNH(E) #720195”. — [Main: Series 23: Drawer 389]
-	2006	zt01143p150	                 1907 | det.R.I. Vane-Wright, 1969 | % SYNTYPE”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 (7) printed (on white paper) “BMNH(E) #662496”. — [Types: Series 6: Drawer 40]
-	2006	zt01143p150	                 &.A.T.”; (4) printed (on white paper) “BMNH(E) #662497”. — [Types: Series 6: Drawer
-	2006	zt01143p150	      MUSÆO | Dris BOISDUVAL”; (5) printed (on white paper) “BMNH(E) #720043”. —
-	2006	zt01143p150	        2005”; (8) printed (on white paper) “BMNH(E) #662493”. — [Types: Series 6: Drawer 40]
-	2006	zt01143p150	        (on white paper) “BMNH(E) #662494”. — [Types: Series 6: Drawer 40]
-	2006	zt01143p150	       side glued handwritten “C. cinerea | type Butler.”; (4) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      23
-	2006	zt01143p150	                 paper) “BMNH(E) #720225”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                 paper) “BMNH(E) #662468”. — [Rothschild: Series 122: Drawer 8]
-	2006	zt01143p150	                 white paper) “BMNH(E) #662469”. — [Rothschild: Series 122: Drawer 8]
-	2006	zt01143p150	                 white paper) “BMNH(E) #662470”. — [Rothschild: Series 122: Drawer 8]
-	2006	zt01143p150	                  S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662295”. — [Types:
-	2006	zt01143p150	        1908 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720353”. —
-	2006	zt01143p150	       (on white paper) “BMNH(E) #720045”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	        “selected | from | 2 paratypes | (G.T.).”; (7) printed (on white paper) “BMNH(E) #720203”.
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     25
-	2006	zt01143p150	1143             white paper) “BMNH(E) #662480”. — [Rothschild: Series 123: Drawer 3]
-	2006	zt01143p150	                  “BMNH(E) #720344”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	                bronze bands and black lines) “Critias. n.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  | Bates, 1866 | S. Abadjiev design. 2005”; (9) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       “BMNH(E) #662275”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	       jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662266”. — [Types: Series 6:
-	2006	zt01143p150	      paper) “15”; (7) printed (on white paper) “BMNH(E) #720270”. — [Types: Series 6:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     27
-	2006	zt01143p150	                  “BMNH(E) #720076”. — [Main: Series 23: Drawer 449]
-	2006	zt01143p150	                  (2) printed (on white paper) “BMNH(E) #720077”. — [Main: Series 23: Drawer 449]
-	2006	zt01143p150	                  Haensch 1900”; (2) printed (on white paper) “BMNH(E) #720078”. — [Main: Series 23:
-	2006	zt01143p150	                 (6) printed (on white paper) “BMNH(E) #720264”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	                 paper) “BMNH(E) #720022”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	       “Photographed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E) #662318”.
-	2006	zt01143p150	       graphed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E) #662319”. —
-	2006	zt01143p150	       white paper) “BMNH(E) #720231”. — [Main: Series 23: Drawer 402]
-	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720333”. — [Rothschild: Series 123: Drawer 15]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      29
-	2006	zt01143p150	                  (7) printed (on white paper) “BMNH(E) #720251”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	                 paper) “BMNH(E) #720180”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720181”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                paper) “Holotype | C. discalba | F. M. Brown”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	        paper) “BMNH(E) #720273”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	      Butl. type”; (7) printed (on white paper) “BMNH(E) #720058”. — [Types: Series 6: Drawer
-	2006	zt01143p150	      white paper) “BMNH(E) #662323”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	       Catamarca, | Argentine Rep. | 3500 m. | 6.2.16.”; (2) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                       31
-	2006	zt01143p150	1143             white paper) “BMNH(E) #720157”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	                 Catamarca, | Argentine Rep. | 3500 m | 2.2.16.”; (2) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  (8) printed (on white paper) “BMNH(E) #662431”. — [Main: Series 23: Drawer 477]
-	2006	zt01143p150	                  78”; (5) printed (on white paper) “BMNH(E) #662432”. — [Main: Series 23: Drawer 477]
-	2006	zt01143p150	                 white paper) “BMNH(E) #720303”. — [Main: Series 23: Drawer 208]
-	2006	zt01143p150	        2005”; (6) printed (on white paper) “BMNH(E) #720304”. — [Main: Series 23: Drawer
-	2006	zt01143p150	         white paper) “BMNH(E) #662300”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	      white paper) “BMNH(E) #662409”. — [Main: Series 23: Drawer 466]
-	2006	zt01143p150	       Doubleday, 1847 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      33
-	2006	zt01143p150	                  S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720081”. — [Types:
-	2006	zt01143p150	                 “BMNH(E) #662341”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	                 DORA | F M BROWN”; (4) printed (on white paper) “BMNH(E) #662437”. — [Main:
-	2006	zt01143p150	                 bot, 1928 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720050”.
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720355”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	       “BMNH(E) #720201”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	      paper) “BMNH(E) #720216”. — [Types: Series 6: Drawer 42]
+MEI 109344	2006	zt01288p241	          Point [reef, 19.654, -80.094], 16.VII.1975, Askew, R. R., 1% MEI 109344 (BMNH),
+MEI 109348	2006	zt01288p241	          Malaise trap; 18.VII.1975, 1% MEI 109348 (BMNH), mercury light, 9% MEI 119668–9,
+MEI 119665	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
+MEI 119667	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
+MEI 119619	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
+MEI 119659-60	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
+MEI 119662	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
+MEI 119616-7	2006	zt01288p241	          119665, 119667 (BMNH), Malaise trap; 19.VII.1975, 8% MEI 109363, 119673–4, 119705,
+MEI 109363	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 119673-4	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 119705	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 119737-8	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 119769-70	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 119618	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 119661	2006	zt01288p241	          119737–8, 119769–70, 2& 119618, 119661 (BMNH); 19–20.VII.1975, 5% MEI 109335–6,
+MEI 109335-6	2006	zt01288p241	          119648, 119653 (BMNH), 119639 (INHS), mercury vapor light; 27.VII.1975, 1% MEI
+MEI 119648	2006	zt01288p241	          119648, 119653 (BMNH), 119639 (INHS), mercury vapor light; 27.VII.1975, 1% MEI
+MEI 119653	2006	zt01288p241	          119648, 119653 (BMNH), 119639 (INHS), mercury vapor light; 27.VII.1975, 1% MEI
+MEI 109349	2006	zt01288p241	          109349, 2& MEI 109346–7 (BMNH), mercury vapor light; 28–29.VII.1975, 15% MEI
+MEI 109346-7	2006	zt01288p241	          109349, 2& MEI 109346–7 (BMNH), mercury vapor light; 28–29.VII.1975, 15% MEI
+109350-1	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+109362	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+119643	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+119645	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+119652	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+119655	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+119637	2006	zt01288p241	          (INHS), 10& 109350–1, 109362, 119637, 119643, 119645, 119652, 119655 (BMNH),
+MEI 109352	2006	zt01288p241	          119644, 119647 (INHS), Malaise trap; 1% MEI 109352 (BMNH), mercury vapor light;
+MEI 119671-2	2006	zt01288p241	          30.VII–1.VIII.1975, 8% MEI 119671–2, 119703–4, 119735, 119768 (BMNH), 119736,
+MEI 119703-4	2006	zt01288p241	          30.VII–1.VIII.1975, 8% MEI 119671–2, 119703–4, 119735, 119768 (BMNH), 119736,
+MEI 119735	2006	zt01288p241	          30.VII–1.VIII.1975, 8% MEI 119671–2, 119703–4, 119735, 119768 (BMNH), 119736,
+MEI 119768	2006	zt01288p241	          30.VII–1.VIII.1975, 8% MEI 119671–2, 119703–4, 119735, 119768 (BMNH), 119736,
+119657-8	2006	zt01288p241	          119767 (INHS), 4& 119657–8, 119663, 119666 (BMNH), Malaise trap; 1.VIII.1975, 3%
+119663	2006	zt01288p241	          119767 (INHS), 4& 119657–8, 119663, 119666 (BMNH), Malaise trap; 1.VIII.1975, 3%
+119666	2006	zt01288p241	          119767 (INHS), 4& 119657–8, 119663, 119666 (BMNH), Malaise trap; 1.VIII.1975, 3%
+MEI 109353-5	2006	zt01288p241	          MEI 109353–5 (BMNH), Malaise trap; 2–5.VIII.1975, 1& MEI 109360 (
+MEI 119640-1	2006	zt01288p241	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119646	2007	zt01288p242	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119650	2008	zt01288p243	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119654	2009	zt01288p244	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119656	2010	zt01288p245	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119670	2011	zt01288p246	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119702	2012	zt01288p247	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+MEI 119734	2013	zt01288p248	          119702, 119734 (BMNH), 119649 (INHS), 3& 109342–3, 119664 (
+Not specific 	2006	zt01288p241	          7–9.VIII.1975, Askew, R. R., Royal Society - CIG Expedition, (BMNH), Malaise trap; S
+109337	2006	zt01288p241	          109337 (BMNH), light trap; 30.V.1938, 2% MEI 109331 (
+109338	2006	zt01288p241	          109338 (BMNH), light trap. CAYMAN BRAC ISLAND. West end Cotton Tree Lane [19.699,
+MEI 109332	2006	zt01288p241	          -79.88], 22.V.1938, Lewis, C.B., Thompson, G.H., 1% MEI 109332 (BMNH), light trap;
+MEI 141720	2006	zt01288p241	29.V.1980, 3% MEI 141719 (CASC), 141720 (BMNH), 141721 (INHS), 1& 141729
+141740	2006	zt01288p241	          141740 (BMNH). SOUTH BIMINI ISLAND. [25.733, -79.25], 3.VI.1950, Cazier, Rindge,
+MEI 073761	2006	zt01288p241	MUS), Malaise trap; 24–28.V.1983, 7% MEI 073761 (BMNH), 073919 (CSCA), 074443
+73914	2006	zt01288p241	(CAS), 073916–7, 074440–1 (EMUS), 5& 073914 (BMNH), 073915 (CAS), 073918,
+Not specific 	2006	zt01288p241	          He discussed the morphological characteristics of the holotype with J. Chainey, BMNH
+1839.12.27	2006	zt01189p037	maculata Baird, 1865, syntypes [NHML 1839.12.27, 16–18]; lectotype [NHML
+1839.12.27.17	2006	zt01189p037	Landstone Guilding; paralectotype [1839.12.27.17]; third syntype [NHML
+1921.5.14339	2006	zt01189p037	          McIntosh [NHML 1921.5. 14339]. Cape Verde Islands [MNHNP, A311 and NHML,
+Not specific 	2006	zt01189p037	          Baird’s type material (NHML) includes a slide of chaetae labelled “schizosyntype
+Not specific 	2006	zt01189p037	[NHML and MNHNP] agrees well with B. nigromaculatum. However, B. nigromaculatum
+1885.12.1.391	2006	zt01189p037	    Type material: Dasychone bairdi McIntosh, 1885, lectotype [NHML1885.12.1.391]
+1932.12.22.91-102	2006	zt01189p037	    Non-type material: Florida (Monro 1933a) [NHML 1932.12.22.91–102, PK-J] Dry
+1885.12.1.391	2006	zt01189p037	    Two original syntypes of Branchiomma bairdi (McIntosh NHML 1885.12.1.391) with
+1885.12.1.391	2006	zt01189p037	lectotype [NHML 1885.12.1.391], because of McIntosh’s comments: “The long radioles
+1885.12.1.391	2006	zt01189p037	    The paralectotype, now labelled Branchiomma sp. A [NHML 1885.12.1.391], is
+1932.12.22.91-102	2006	zt01189p037	          NHML 1932 12. 22, 91–102) agree well with the lectotype. He regarded McIntosh’s
+1928.2.29.100	2006	zt01189p037	          [NHML 1928.2.29.100, Benham, 1927 as Dasychone cingulata var. curta, PK-J],
+1924.6.13.165	2006	zt01189p037	          Saint-Vincent [Sabellidae, Crossland collection, BMNH 1924.6.13.165 (37), PK-J]. New
+Not specific 	2006	zt01363p068	     type locality Sri Lanka, type in BMNH).
+Not specific 	2006	zt01363p068	     typy, type locality Sri Lanka, type in BMNH). New synonym.
+Not specific 	2006	zt01363p068	          HT found in dwr. parts missing G. A. Samuelson det. 1974 (BMNH).
+Not specific 	2006	zt01363p068	          Jacoby (2 BMNH).
+Not specific 	2006	zt01363p068	          USNM, 3 PKDC, 2 BMNH). Two specimens: South India Western Ghats Tamil Nadu,
+Not specific 	2006	zt01363p068	Hastenpflug-Vesmanis (SMFM), S. Shute (BMNH) and L. Zerche (DEIM) for access to
+Not specific 	2006	zt01333p054	          Neoputala capitata Distant, 1914: 412; Metcalf, 1946: 78. Holotype                                 &,   Indo-China (BMNH)
+Not specific 	2006	zt01333p054	(BMNH).
+Not specific 	2006	zt01333p054	              China (BMNH) [examined].
+Not specific 	2006	zt01333p054	          FULGOROIDES; 55/87 [underside] n. China (BMNH). Lectotype % of Saigona gibbosa
+Not specific 	2006	zt01333p054	          Dictyophara fulgoroides Walker, 1858), 58/87 [underside] n. China (BMNH). Taiwan:
+Not specific 	2006	zt01333p054	          Putala lewisi Distant, 1906: 354; Melichar, 1912: 101, 102. Holotype &, Japan (BMNH) [exam-
+Not specific 	2006	zt01333p054	          1911–383 (BMNH). JAPAN: 1% (paralectotype of Dictyophora [sic] ishidae Matsumura,
+Not specific 	2006	zt01333p054	          (all in BMNH). Japan: 1%, no locality, vi.1949, C. Watanabe; 1%, no locality and date, G.
+Not specific 	2006	zt01251p070	    Platydracus chiriquensis (Sharp, 1884) comb nov. ex Staphylinus (BMNH, holotype)
+Not specific 	2006	zt01251p070	(BMNH, 2 syntypes of S. tarsalis Sharp, 1884)
+Not specific 	2006	zt01251p070	    Platydracus vividus (Sharp, 1884) comb nov. ex Amichorus (BMNH, holotype)
+Not specific 	2006	zt01167p016	1 male on points [UCRC], 1 female on point [BMNH], 1 female on point [USNM], and 1
+Not specific 	2006	zt01112p064	BMNH revealed some important conchological differences. They share the external                     1112
+Not specific 	2006	zt01112p064	concept was based on the examination of voucher specimens at BMNH as explained
+Not specific 	2006	zt01112p064	ZOOTAXA   (BMNH 1829) has no locality at the label. Some samples (
+Not specific 	2006	zt01112p064	          (BMNH from New Jersey), revealing a huge dorsal muscle. These characters show that C.
+Not specific 	2006	zt01112p064	          conclusion is based on the examination of voucher lot of Reeve (1859) (BMNH no
+Not specific 	2006	zt01112p064	               Additional material examined: No locality, BMNH, 4 shells (voucher of Reeve, 1859).
+Not specific 	2006	zt01112p064	               Material examined of Crepidula convexa: No locality; BMNH 1829, 4 shells
+Not specific 	2006	zt01112p064	          (Voucher of Reeve, 1859); BMNH, 3 shells (Van Couvers Lsd); 
+Not specific 	2006	zt01112p064	          Plymouth, BMNH, 12 shells. Connecticut; Bridgeport, Fairfield county, Long Island
+Not specific 	2006	zt01112p064	          col. 1982). New York; Northport, BMNH 1838, 9 shells (Winckworth colln.). New
+20020070	2006	zt01112p064	          Jersey; Cape May, Wildwood, BMNH 20020070, 6 specimens (R. Collin col. 13/vi/1999).
+1977137	2006	zt01112p064	          119–122: Crepidula aplysioides, one of four syntypes, BMNH 1977137 (length= 23 mm); Figs
+Not specific 	2006	zt01112p064	          men (one of four) from Reeve (1859), BMNH 1829 (length= 20 mm), ventral, dorsal and left views
+Not specific 	2006	zt01112p064	          ured by Reeve (1859), BMNH 1829 (length= 10 mm), ventral and right views. Figs. 128–129:
+2005.4.21.4	2006	zt01343p054	   Paratypes: BMNH: 2005.4.21.4, Punta Pinta la Choya (Puerto Peñasco, Sonora,
+2005.4.21.4	2006	zt01343p054	          BMNH: 2005.4.21.4             110-(121.5)-130 x 5-(7.5)-8.8    80-(92.5)-97.5 x 2.5-(3)-4.5
+Not specific 	2006	zt01328p050	(ANIC); 1%, 1&, same data as holotype (BMNH); 1%, Cooran Tableland, via Gympie,
+Not specific 	2006	zt01379p102	          Quinlan, 1979 deposited in NHM; P. tropica (Kieffer, 1910) and P. validispina (Kieffer,
+Not specific 	2006	zt01379p102	(NHM) 16-VII-1937 in Nova Teutonia. F. Plaumann col. URUGUAY: 1 % (CAS), 7-II-
+Not specific 	2006	zt01379p102	Type material: (1 &). HOLOTYPE female (NHM) 6-XII-1979 in Mendoza, above
+Not specific 	2006	zt01379p102	          (NHM) XI-1961 in Belem., ex. puparium of Baccharis spicata.; ARGENTINA: 1 &
+Not specific 	2006	zt01379p102	          Type material: (1 %). HOLOTYPE male (NHM), 26-VIII-1938, Nam Tamai Valley, Alt
+Not specific 	2006	zt01379p102	Type material: (1 %). HOLOTYPE male (NHM), 17-V-1983, in Hainan I Tien Fong Mts.,
+Not specific 	2006	zt01379p102	Type material: (1 &). HOLOTYPE female (NHM), 6-XII-1979, Mendoza above
+Not specific 	2006	zt01379p102	Type material: (1 &). HOLOTYPE female (NHM), 10-I-1975 in Cayo Dist., Central
+Not specific 	2006	zt01379p102	ZOOTAXA   & E. S. Ross col.; BRAZIL: 1 & (NHM), II-1937 in Nova Teutonia 27º11' B. 52º23' L., F.
+Not specific 	2006	zt01379p102	(UB), I-1985, Bebedjia, ex. Syrphidae larvae, Silvie col.; UGANDA: 1 & (NHM), 8-III-
+Not specific 	2006	zt01379p102	              Additional material (1 % & 2 &). TRINIDAD AND TOBAGO: 1 % (NHM), Trinidad,
+Not specific 	2006	zt01379p102	          Type material: (40 % & 20 &). HOLOTYPE female (NHM), XII-1988, Puntarenas, San
+Not specific 	2006	zt01379p102	          de Cristo Col.; 1 % (NHM), 7-VIII-1923, Gavea, Rio de Janeiro, G. L. R. Hancock col.; 1
+Not specific 	2006	zt01379p102	(NHM), VIII-1935, Nova Teutonia 27º11'B, 52º23'L, Fritz Plaumann col.; VENEZUELA:
+Not specific 	2006	zt01379p102	Turrialba, G. F. & S. Hevel col.; 2 & (NHM), XII-1988, Puntarenas, San Vito, Jardin
+Not specific 	2006	zt01379p102	T. Dalmat col.; BRAZIL: 1 & (NHM), 18-V-1937 in Nova Teutonia, F. Plaumann col.; 1 &
+Not specific 	2006	zt01379p102	(NHM), 16-VIII-1935 in Nova Teutonia, F. Plaumann col.; 1 & (NHM) 16-VII-1937 in
+Not specific 	2006	zt01379p102	Nova Teutonia, F. Plaumann col.; 1 % (NHM), 21-V-1937 in Nova Teutonia (Brazil, F.
+Not specific 	2006	zt01379p102	          % (USNM), VI-1961, Sta. Catarina, Florianapolis, Krauss col.; 1 & (NHM), nº 520 III-
+Not specific 	2006	zt01379p102	          (DEI), Dr. A. Roig (MACN), S. Lewis (NHM), Dr. N. B. Díaz (MLP), Dr. M. V. Colomo
+Not specific 	2006	zt01321p108	          London (BMNH), Mrs. Laraine Tarel, Christine Taylor and Suzanne Lewis; California
+Not specific 	2006	zt01321p108	          HOLOTYPE: & Mexico, N. Yucatan (no date) (Gaumer) (BMNH), examined.
+Not specific 	2006	zt01321p108	HOLOTYPE: & Panama, Tolé (no date) (Champion) (BMNH), examined.
+Not specific 	2006	zt01321p108	(GBFM), 1 & Bugaba, 500–1500 ft. (Champion) (BMNH).
+Not specific 	2006	zt01321p108	6/iii/1974 (M. Cooper) (BMNH).
+Not specific 	2006	zt01321p108	in Colombia (BMNH). Richards’ assertion that “females from Colombia” have the
+Not specific 	2006	zt01321p108	          HOLOTYPE: % Brazil, Pará, Belém, 22/xii/1893 (W. Schulz) (BMNH), examined.
+Not specific 	2006	zt01321p108	          (BMNH); BRAZIL: Amazonas, 1& Beruri, Rio Purus, 15/x/1991 (G.A.R. Melo) (UFPR),
+Not specific 	2006	zt01321p108	xi/1976 (M. Cooper) (BMNH); PERU: Loreto, 1& Iquitos, 27/vii/1906 (A. Ducke) (MPE                      1321
+Not specific 	2006	zt01321p108	          (BMNH); BRAZIL: Minas Gerais, 1& S. Caraça (Engenho) 800m, xi/1961 (Kloss,
+Not specific 	2006	zt01321p108	          Lenko, Martins e Silva) (MZSP), 1& Diamantina, 1923 (W.S. Bristowe) (BMNH), 1& E
+Not specific 	2006	zt01321p108	Santos, 3/iii/1912 (G.E. Bryant) (BMNH), 1& São Paulo (no specific locality) (no date)
+Not specific 	2006	zt01321p108	          (Champion) (BMNH), 1& Limo, 800m (MPEG).
+Not specific 	2006	zt01321p108	    Exped.) (BMNH), examined, N. syn.
+Not specific 	2006	zt01321p108	          Brasília, Lago Norte, 24/ix/78 (anonymous) (BMNH); Goiás, 1& Alvorada do Norte, 8/
+Not specific 	2006	zt01321p108	          (BMNH), 2& Benevides, viii/1911 (Ducke), 1% 1& Benevides, Paricatuba, 9/xii/1978
+Not specific 	2006	zt01321p108	iii/1974 (M. Cooper) (BMNH); PANAMA: 1& Canal Zone, Tabernilla, vii/1907 (A.
+Not specific 	2006	zt01321p108	(BMNH); BRASIL: Amazonas, 1& Tefé, 26/vi/1906 (A. Ducke) (MPEG); COLOMBIA:
+Not specific 	2006	zt01321p108	Amazonas, Letícia, 1& 14/viii/1974 (M. Cooper), 1& 18/viii/1974 (M. Cooper) (BMNH);
+Not specific 	2006	zt01321p108	Iquitos, 2/xi/1978 (D. Windsor) (BMNH).
+Not specific 	2006	zt01321p108	          HOLOTYPE: % Brazil, Pará, Bujarú 15/vii/1978 (W. França) (BMNH).
+Not specific 	2006	zt01321p108	(BMNH), examined.
+Not specific 	2006	zt01321p108	          HOLOTYPE: & Trinidad, iii/35 (Fitzgerald) (BMNH), examined.
+Not specific 	2006	zt01321p108	          (BMNH).
+Not specific 	2006	zt01321p108	          M. rectus Richards, 1978: 306. Holotype: & Ost Bolivien, 1/iii/07 (Steinbach) (BMNH), examined,
+Not specific 	2006	zt01321p108	          (BMNH), 3& and nest, Bujarú, 6/x/1977 (P. Waldir), 1& Bujarú, 5/x/1977 (P. Waldir), 1&
+Not specific 	2006	zt01321p108	HOLOTYPE: & Colombia, Cauca, Llano Bajo, nest 98, 4-x-71 (M. Cooper) (BMNH).
+Not specific 	2006	zt01321p108	          (BMNH).
+Not specific 	2006	zt01321p108	          Chimoré, I/72 (Fritz) (BMNH); Santa Cruz, 1& Buena Vista, 9/I/1991 (Carpenter &
+Not specific 	2006	zt01321p108	              (anonymous) (BMNH), designated by Richards (1978), examined. N. syn.
+Not specific 	2006	zt01321p108	              15/ii/47 (Weyrauch) (BMNH), examined; N. syn.
+Not specific 	2006	zt01321p108	Rurrenabaque (BMNH) have similar color characteristics.
+Not specific 	2006	zt01321p108	    BOLIVIA: Beni, 1% Rurrenabaque, 270m, 11/v/1979 (M. Cooper) (BMNH);
+Not specific 	2006	zt01321p108	          Cooper) (BMNH); ECUADOR: Napo, 2& Tena, 16/xii/1990 (Carpenter & Wenzel)
+Not specific 	2006	zt01321p108	          (BMNH); Ucayali, 1& Pucallpa, 31/iii/1965 (J.M. Schunke), 1& Previsto, Cord. Azul,
+Not specific 	2006	zt01321p108	          760m, 14/v/1965 (J.M. Schunke) (BMNH), 1& Satipo, 600m, 1/viii/41 (Weyrauch) (IOC);
+Not specific 	2006	zt01321p108	          (BMNH); VENEZUELA: 1& Orinoco Delta, Cano Mariusa, 140Km NE Barrancas, 29/vii/
+Not specific 	2006	zt01321p108	          nests collected by M. Cooper in Bolivia, Rurrenabaque (BMNH). The nests were under a
+Not specific 	2006	zt01321p108	75 (R. Zucchi) (BMNH), 1& Rio Claro, 5/iv/88 (E. Giannotti) (MZSP), 2& Águas de S.
+2005.212-215	2006	zt01108p021	paratypes (NHM 2005.212–215), 1 female, 1 male dissected. Lagon, New Caledonia,
+2005.216-217	2006	zt01108p021	algae. 2 females, paratypes (NHM 2005.216–217) on Sargassum, 1 female, robust morph,
+Not specific 	2006	zt01282p015	          traced) against nymphs and adults in collections (BMNH and P. Brock Coll. in particular),
+Not specific 	2006	zt01282p015	          holotype % of Acrophylla salmacis Westwood, 1859 (BMNH), it is synonymised with
+Not specific 	2006	zt01282p015	    BMNH, ‘brought by Mr Hunter (the surgeon who accompanied Captain King’s voyages), prob-
+Not specific 	2006	zt01282p015	              Detailed studies made on 22 specimens (9 %, 11&, 2& nymphs) in BMNH, with
+Not specific 	2006	zt01282p015	          L. Key, either in 1956 (donated specimens), or 1958, when he visited the BMNH).
+[18]42-56	2006	zt01282p015	(BMNH, acquisition ref. [18]42–56).
+Not specific 	2006	zt01282p015	          elev.), (Top of the Range), 19 Butler Dr, 1-15.xi.2005, D. C. F. Rentz (BMNH), %, Polly
+20050274	2006	zt01128p033	          BMNH 20050274, 1; MNHN type collection, 1; UMUT RM29043, 1; USNM 1081939,
+Not specific 	2006	zt01128p033	BMNH (Thiele, 1912; Geiger, pers. obs. II. 2003). It is described as being very depressed       1128
+1874.5.19.62	2006	zt01128p033	               type (BMNH 1874.5.19.62. Higo et al. 2001: G82), 2.5 mm. Type locality. Mino-sima, [=
+Not specific 	2006	zt01292p040	          described as Chalcomela nigripennis Baly; type material has been compared in the BMNH
+(E)#720086	2006	zt01143p150	        “Phulia | aconquijae | %”; (3) printed (on white paper) “BMNH(E) #720086”. — [Main:
+(E)#720087	2006	zt01143p150	        | %”; (3) printed (on white paper) “BMNH(E) #720087”. — [Main: Series 23: Drawer 315]
+(E)#720088	2006	zt01143p150	        quijae | & Jörgensen”; (3) printed (on white paper) “BMNH(E) #720088”. — [Main: Series
+(E)#720089	2006	zt01143p150	        amarca, | Argentine Rep. | 3100 m. | 30-3-16.”; (2) printed (on white paper) “BMNH(E)
+(E)#662290	2006	zt01143p150	       “Catasticta | Actinotis | Butl. type”; (8) printed (on white paper) “BMNH(E) #662290”. —
+(E)#662484	2006	zt01143p150	                2900 metres | 7.VIII.1972”; (4) printed (on white paper) “BMNH(E) #662484”. — [Main:
+(E)#720298	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720298”. — [Rothschild: Series 122: Drawer 37]
+(E)#720342	2006	zt01143p150	                 Hew”; (6) printed (on white paper) “BMNH(E) #720342”. — [Types: Series 6: Drawer 44]
+(E)#720359	2006	zt01143p150	                white paper) “Levick Bequest | B.M.1941-83.”; (6) printed (on white paper) “BMNH(E)
+(E)#662288	2006	zt01143p150	       white paper) “BMNH(E) #662288”. — [Types: Series 6: Drawer 47]
+(E)#662316	2006	zt01143p150	       Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #662316”. — [Types:
+(E)#720176	2006	zt01143p150	       Alethina | Butl. type”; (8) printed (on white paper) “BMNH(E) #720176”. — [Types: Series
+(E)#662317	2006	zt01143p150	                 amastris | Hewitson, 1873 | G. Lamas des. ’93”; (6) printed (on white paper) “BMNH(E)
+(E)#720360	2006	zt01143p150	                 Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720360”. — [Types:
+(E)#720257	2006	zt01143p150	                 paper with red frame) “amphissa Fruhst.”; (7) printed (on white paper) “BMNH(E)
+(E)#720349	2006	zt01143p150	                “[Choctum | Vera Paz | Hague]”; (6) printed (on white paper) “BMNH(E) #720349”. —
+(E)#720035	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720035”. — [Types: Series 6: Drawer 45]
+(E)#720036	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720036”. — [Types: Series 6: Drawer 45]
+(E)#662305	2006	zt01143p150	       | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662305”. — [Types:
+(E)#720356	2006	zt01143p150	       paper) “BMNH(E) #720356”. — [Types: Series 6: Drawer 45]
+(E)#720366	2006	zt01143p150	                 Abadjiev design. 2005”; (9) printed (on white paper) “BMNH(E) #720366”. — [Main:
+(E)#720025	2006	zt01143p150	                 white paper) “BMNH(E) #720025”. — [Types: Series 6: Drawer 41]
+(E)#720026	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720026”. — [Types: Series 6: Drawer 41]
+(E)#720062	2006	zt01143p150	      (6) printed (on white paper) “BMNH(E) #720062”. — [Types: Series 6: Drawer 46]                     1143
+(E)#720074	2006	zt01143p150	        1907 | HOLOTYPE”; (7) printed (on white paper) “BMNH(E) #720074”. — [Main: Series
+(E)#720263	2006	zt01143p150	      paper) “BMNH(E) #720263”. — [Types: Series 6: Drawer 20]
+(E)#662324	2006	zt01143p150	      “BMNH(E) #662324”. — [Types: Series 6: Drawer 48]
+(E)#720341	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720341”. — [Types: Series 6: Drawer 44]
+(E)#720244	2006	zt01143p150	                 “BMNH(E) #720244”. — [Types: Series 6: Drawer 43]
+(E)#720193	2006	zt01143p150	                 white paper) “BMNH(E) #720193”. — [Main: Series 23: Drawer 389]
+(E)#720194	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720194”. — [Main: Series 23: Drawer 389]
+(E)#720347	2006	zt01143p150	       Butler.”; (3) printed (on white paper) “BMNH(E) #720347”. — [Types: Series 6: Drawer
+(E)#720208	2006	zt01143p150	       Coll. | B.M. 1937-285.”; (5) printed (on white paper) “BMNH(E) #720208”. — [Types:
+(E)#720217	2006	zt01143p150	       “BMNH(E) #720217”. — [Types: Series 6: Drawer 42]
+(E)#720218	2006	zt01143p150	       silia.”; (5) printed (on white paper) “BMNH(E) #720218”. — [Types: Series 6: Drawer 42]
+(E)#720037	2006	zt01143p150	                 “BMNH(E) #720037”. — [Types: Series 6: Drawer 45]
+(E)#720038	2006	zt01143p150	                 Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720038”. — [Types:
+(E)#662424	2006	zt01143p150	                 paper with red frame) “HOLO- | TYPE”; (7) printed (on white paper) “BMNH(E) #662424”.
+(E)#720049	2006	zt01143p150	                  “BMNH(E) #720049”. — [Types: Series 6: Drawer 45]
+(E)#720048	2006	zt01143p150	       “BMNH(E) #720048”. — [Types: Series 6: Drawer 45]
+(E)#720289	2006	zt01143p150	       “BMNH(E) #720289”. — [Types: Series 6: Drawer 21]
+(E)#720290	2006	zt01143p150	       Fruhst.”; (5) printed (on white paper) “BMNH(E) #720290”. — [Types: Series 6: Drawer
+(E)#720171	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720171”. — [Main: Series 23: Drawer 312a]
+(E)#720172	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720172”. — [Main: Series 23: Drawer 312a]
+(E)#720177	2006	zt01143p150	                 “BMNH(E) #720177”. — [Types: Series 6: Drawer 41]
+(E)#662329	2006	zt01143p150	                  white paper) “BMNH(E) #662329”. — [Types: Series 6: Drawer 48]
+(E)#720288	2006	zt01143p150	                 paper) “Levick Bequest | B.M.1941-83.”; (7) printed (on white paper) “BMNH(E)
+(E)#662397	2006	zt01143p150	      white paper) “BMNH(E) #662397”. — [Main: Series 23: Drawer 466]
+(E)#662398	2006	zt01143p150	[2 %] printed (on white paper) “BMNH(E) #662398”. — [Main: Series 23: Drawer 466]                        1143
+(E)#662399	2006	zt01143p150	[3 &] printed (on white paper) “BMNH(E) #662399”. — [Main: Series 23: Drawer 466]
+(E)#662400	2006	zt01143p150	[4 &] printed (on white paper) “BMNH(E) #662400”. — [Main: Series 23: Drawer 466]
+(E)#662401	2006	zt01143p150	[5 &] printed (on white paper) “BMNH(E) #662401”. — [Main: Series 23: Drawer 466]
+(E)#662402	2006	zt01143p150	[6 &] printed (on white paper) “BMNH(E) #662402”. — [Main: Series 23: Drawer 466]
+(E)#662403	2006	zt01143p150	[7 &] printed (on white paper) “BMNH(E) #662403”. — [Main: Series 23: Drawer 466]
+(E)#662272	2006	zt01143p150	       paper) “BMNH(E) #662272”. — [Types: Series 6: Drawer 47]
+(E)#662389	2006	zt01143p150	[1 %] printed (on white paper) “BMNH(E) #662389”. — [Main: Series 23: Drawer 460]
+(E)#662390	2006	zt01143p150	[2 %] printed (on white paper) “BMNH(E) #662390”. — [Main: Series 23: Drawer 460]
+(E)#662273	2006	zt01143p150	       back side handwritten “835 | [line] | 26”; (6) printed (on white paper) “BMNH(E) #662273”.
+(E)#662391	2006	zt01143p150	       white paper) “BMNH(E) #662391”. — [Main: Series 23: Drawer 460]
+(E)#662326	2006	zt01143p150	                 (5) printed (on white paper) “BMNH(E) #662326”. — [Types: Series 6: Drawer 48]
+(E)#662327	2006	zt01143p150	                 “BMNH(E) #662327”. — [Types: Series 6: Drawer 48]
+(E)#720056	2006	zt01143p150	                  paper) “BMNH(E) #720056”. — [Rothschild: Series 122: Drawer 24]
+(E)#662495	2006	zt01143p150	                thür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E) #662495”. —
+(E)#720296	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720296”. — [Rothschild: Series 122: Drawer 35]
+(E)#720143	2006	zt01143p150	       det.P.Ackery 1974”; (5) printed (on white paper) “BMNH(E) #720143”. — [Main: Series
+(E)#720144	2006	zt01143p150	       “BMNH(E) #720144”. — [Main: Series 23: Drawer 313a]
+(E)#720145	2006	zt01143p150	       1904. | Wet s. | (Ockenden).”; (2) printed (on white paper) “BMNH(E) #720145”. — [Main:
+(E)#720146	2006	zt01143p150	       white paper) “BMNH(E) #720146”. — [Main: Series 23: Drawer 313a]
+(E)#720147	2006	zt01143p150	       paper) “BMNH(E) #720147”. — [Main: Series 23: Drawer 313a]
+(E)#720148	2006	zt01143p150	       enden).”; (2) printed (on white paper) “BMNH(E) #720148”. — [Main: Series 23: Drawer
+(E)#720149	2006	zt01143p150	       “2”; (3) printed (on white paper) “BMNH(E) #720149”. — [Main: Series 23: Drawer 313a]
+(E)#720150	2006	zt01143p150	       [Ockend.]”; (2) printed (on white paper) “BMNH(E) #720150”. — [Main: Series 23:
+(E)#720151	2006	zt01143p150	       white paper) “BMNH(E) #720151”. — [Main: Series 23: Drawer 313a]
+(E)#720195	2006	zt01143p150	                 “BMNH(E) #720195”. — [Main: Series 23: Drawer 389]
+(E)#720196	2006	zt01143p150	                 1907 | det.R.I. Vane-Wright, 1969 | % SYNTYPE”; (7) printed (on white paper) “BMNH(E)
+(E)#662496	2006	zt01143p150	                 (7) printed (on white paper) “BMNH(E) #662496”. — [Types: Series 6: Drawer 40]
+(E)#662497	2006	zt01143p150	                 &.A.T.”; (4) printed (on white paper) “BMNH(E) #662497”. — [Types: Series 6: Drawer
+(E)#720043	2006	zt01143p150	      MUSÆO | Dris BOISDUVAL”; (5) printed (on white paper) “BMNH(E) #720043”. —
+(E)#662493	2006	zt01143p150	        2005”; (8) printed (on white paper) “BMNH(E) #662493”. — [Types: Series 6: Drawer 40]
+(E)#662494	2006	zt01143p150	        (on white paper) “BMNH(E) #662494”. — [Types: Series 6: Drawer 40]
+(E)#662312	2006	zt01143p150	       side glued handwritten “C. cinerea | type Butler.”; (4) printed (on white paper) “BMNH(E)
+(E)#720225	2006	zt01143p150	                 paper) “BMNH(E) #720225”. — [Types: Series 6: Drawer 42]
+(E)#662468	2006	zt01143p150	                 paper) “BMNH(E) #662468”. — [Rothschild: Series 122: Drawer 8]
+(E)#662469	2006	zt01143p150	                 white paper) “BMNH(E) #662469”. — [Rothschild: Series 122: Drawer 8]
+(E)#662470	2006	zt01143p150	                 white paper) “BMNH(E) #662470”. — [Rothschild: Series 122: Drawer 8]
+(E)#662295	2006	zt01143p150	                  S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662295”. — [Types:
+(E)#720353	2006	zt01143p150	        1908 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720353”. —
+(E)#720045	2006	zt01143p150	       (on white paper) “BMNH(E) #720045”. — [Types: Series 6: Drawer 45]
+(E)#720203	2006	zt01143p150	        “selected | from | 2 paratypes | (G.T.).”; (7) printed (on white paper) “BMNH(E) #720203”.
+(E)#662480	2006	zt01143p150	1143             white paper) “BMNH(E) #662480”. — [Rothschild: Series 123: Drawer 3]
+(E)#720344	2006	zt01143p150	                  “BMNH(E) #720344”. — [Types: Series 6: Drawer 44]
+(E)#720072	2006	zt01143p150	                bronze bands and black lines) “Critias. n.”; (6) printed (on white paper) “BMNH(E)
+(E)#720343	2006	zt01143p150	                  | Bates, 1866 | S. Abadjiev design. 2005”; (9) printed (on white paper) “BMNH(E)
+(E)#662275	2006	zt01143p150	       “BMNH(E) #662275”. — [Types: Series 6: Drawer 47]
+(E)#662266	2006	zt01143p150	       jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662266”. — [Types: Series 6:
+(E)#720270	2006	zt01143p150	      paper) “15”; (7) printed (on white paper) “BMNH(E) #720270”. — [Types: Series 6:
+(E)#720076	2006	zt01143p150	                  “BMNH(E) #720076”. — [Main: Series 23: Drawer 449]
+(E)#720077	2006	zt01143p150	                  (2) printed (on white paper) “BMNH(E) #720077”. — [Main: Series 23: Drawer 449]
+(E)#720078	2006	zt01143p150	                  Haensch 1900”; (2) printed (on white paper) “BMNH(E) #720078”. — [Main: Series 23:
+(E)#720264	2006	zt01143p150	                 (6) printed (on white paper) “BMNH(E) #720264”. — [Types: Series 6: Drawer 20]
+(E)#720022	2006	zt01143p150	                 paper) “BMNH(E) #720022”. — [Types: Series 6: Drawer 41]
+(E)#662318	2006	zt01143p150	       “Photographed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E) #662318”.
+(E)#662319	2006	zt01143p150	       graphed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E) #662319”. —
+(E)#720231	2006	zt01143p150	       white paper) “BMNH(E) #720231”. — [Main: Series 23: Drawer 402]
+(E)#720333	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720333”. — [Rothschild: Series 123: Drawer 15]
+(E)#720251	2006	zt01143p150	                  (7) printed (on white paper) “BMNH(E) #720251”. — [Types: Series 6: Drawer 43]
+(E)#720180	2006	zt01143p150	                 paper) “BMNH(E) #720180”. — [Types: Series 6: Drawer 41]
+(E)#720181	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720181”. — [Types: Series 6: Drawer 41]
+(E)#662299	2006	zt01143p150	                paper) “Holotype | C. discalba | F. M. Brown”; (7) printed (on white paper) “BMNH(E)
+(E)#720273	2006	zt01143p150	        paper) “BMNH(E) #720273”. — [Types: Series 6: Drawer 20]
+(E)#720058	2006	zt01143p150	      Butl. type”; (7) printed (on white paper) “BMNH(E) #720058”. — [Types: Series 6: Drawer
+(E)#662323	2006	zt01143p150	      white paper) “BMNH(E) #662323”. — [Types: Series 6: Drawer 48]
+(E)#720086	2006	zt01143p150	       Catamarca, | Argentine Rep. | 3500 m. | 6.2.16.”; (2) printed (on white paper) “BMNH(E)
+(E)#720157	2006	zt01143p150	1143             white paper) “BMNH(E) #720157”. — [Main: Series 23: Drawer 314]
+(E)#720158	2006	zt01143p150	                 Catamarca, | Argentine Rep. | 3500 m | 2.2.16.”; (2) printed (on white paper) “BMNH(E)
+(E)#662431	2006	zt01143p150	                  (8) printed (on white paper) “BMNH(E) #662431”. — [Main: Series 23: Drawer 477]
+(E)#662432	2006	zt01143p150	                  78”; (5) printed (on white paper) “BMNH(E) #662432”. — [Main: Series 23: Drawer 477]
+(E)#720303	2006	zt01143p150	                 white paper) “BMNH(E) #720303”. — [Main: Series 23: Drawer 208]
+(E)#720304	2006	zt01143p150	        2005”; (6) printed (on white paper) “BMNH(E) #720304”. — [Main: Series 23: Drawer
+(E)#662300	2006	zt01143p150	         white paper) “BMNH(E) #662300”. — [Types: Series 6: Drawer 48]
+(E)#662409	2006	zt01143p150	      white paper) “BMNH(E) #662409”. — [Main: Series 23: Drawer 466]
+(E)#720080	2006	zt01143p150	       Doubleday, 1847 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
+(E)#720081	2006	zt01143p150	                  S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720081”. — [Types:
+(E)#662341	2006	zt01143p150	                 “BMNH(E) #662341”. — [Types: Series 6: Drawer 49]
+(E)#662437	2006	zt01143p150	                 DORA | F M BROWN”; (4) printed (on white paper) “BMNH(E) #662437”. — [Main:
+(E)#720050	2006	zt01143p150	                 bot, 1928 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720050”.
+(E)#720355	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720355”. — [Types: Series 6: Drawer 44]
+(E)#720201	2006	zt01143p150	       “BMNH(E) #720201”. — [Types: Series 6: Drawer 42]
+(E)#720216	2006	zt01143p150	      paper) “BMNH(E) #720216”. — [Types: Series 6: Drawer 42]
 	2006	zt01143p150	      paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E)
 	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      35
 	2006	zt01143p150	                 (2) printed (on white paper) “BMNH(E) #720173”. — [Main: Series 23: Drawer 312a]
