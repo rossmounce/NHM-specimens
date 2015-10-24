@@ -2407,540 +2407,488 @@ Not specific 	2006	zt01292p040	          described as Chalcomela nigripennis Bal
 (E)#720355	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720355”. — [Types: Series 6: Drawer 44]
 (E)#720201	2006	zt01143p150	       “BMNH(E) #720201”. — [Types: Series 6: Drawer 42]
 (E)#720216	2006	zt01143p150	      paper) “BMNH(E) #720216”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	      paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      35
-	2006	zt01143p150	                 (2) printed (on white paper) “BMNH(E) #720173”. — [Main: Series 23: Drawer 312a]
-	2006	zt01143p150	                 (2) printed (on white paper) “BMNH(E) #720174”. — [Main: Series 23: Drawer 312a]
-	2006	zt01143p150	                 paper) “%”; (3) printed (on white paper) “BMNH(E) #662372”. — [Main: Series 23:
-	2006	zt01143p150	          [2 %] printed (on white paper) “BMNH(E) #662373”. — [Main: Series 23: Drawer 455]
-	2006	zt01143p150	          [3 %] printed (on white paper) “BMNH(E) #662374”. — [Main: Series 23: Drawer 455]
-	2006	zt01143p150	          [4 %] printed (on white paper) “BMNH(E) #662375”. — [Main: Series 23: Drawer 455]
-	2006	zt01143p150	          [5 %] printed (on white paper) “BMNH(E) #662376”. — [Main: Series 23: Drawer 455]
-	2006	zt01143p150	          [6 &] printed (on white paper) “BMNH(E) #662377”. — [Main: Series 23: Drawer 456]
-	2006	zt01143p150	                 paper) “BMNH(E) #662378”. — [Main: Series 23: Drawer 456]
-	2006	zt01143p150	      (6) printed (on white paper) “BMNH(E) #720348”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	       white paper with red frame) “euremoides Fruhst.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662259”. — [Types: Series 6:
-	2006	zt01143p150	      “Eurymnia n.”; (7) printed (on white paper) “BMNH(E) #720297”. — [Rothschild: Series
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      37
-	2006	zt01143p150	                 eurytele | Hewitson, [1853] | G. Lamas des. ’93”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720241”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	                 (5) printed (on white paper) “BMNH(E) #720209”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                philothea | f. ferra | F. M. Brown”; (5) printed (on white paper) “BMNH(E) #662348”. —
-	2006	zt01143p150	[1]    printed (on white paper) “BMNH(E) #662444”. — [Main: Series 23: Drawer 481]                        1143
-	2006	zt01143p150	[2]    printed (on white paper) “BMNH(E) #662445”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	       paper) “BMNH(E) #662446”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	[4]    printed (on white paper) “BMNH(E) #662447”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	       paper) “BMNH(E) #662448”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	       “BMNH(E) #662449”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	[7]    printed (on white paper) “BMNH(E) #662450”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	[8]    printed (on white paper) “BMNH(E) #662451”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	       1998”; (6) printed (on white paper) “BMNH(E) #662440”. — [Main: Series 23: Drawer
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      39
-	2006	zt01143p150	                1937–285.”; (5) printed (on white paper) “BMNH(E) #720311”. — [Main: Series 23:
-	2006	zt01143p150	                “BMNH(E) #720189”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                 white paper) “Levick Bequest | B.M.1941-83.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 design. 2005”; (7) printed (on white paper) “BMNH(E) #662310”. — [Types: Series 6:
-	2006	zt01143p150	                 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662311”. — [Types:
-	2006	zt01143p150	       white paper) “BMNH(E) #662404”. — [Main: Series 23: Drawer 465]
-	2006	zt01143p150	[2 %] (1) printed (on white paper) “%”; (2) printed (on white paper) “BMNH(E) #662405”. —
-	2006	zt01143p150	       white paper) “BMNH(E) #662406”. — [Main: Series 23: Drawer 465]
-	2006	zt01143p150	       1600 m | 10 Juli 1908 | Fassl leg.”; (2) printed (on white paper) “BMNH(E) #662486”. —
-	2006	zt01143p150	       1800 m. | 22. Juni 1908 | Fassl leg.”; (2) printed (on white paper) “BMNH(E) #662487”. —
-	2006	zt01143p150	       1800 m | 24 September 1908 | Fassl leg.”; (2) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       Sept ’09”; (2) printed (on white paper) “BMNH(E) #662407”. — [Main: Series 23: Drawer
-	2006	zt01143p150	[8 &] (1) printed (on white paper) “&”; (2) printed (on white paper) “BMNH(E) #662408”. —
-	2006	zt01143p150	       white paper) “Catasticta | bithys &”; (5) printed (on white paper) “BMNH(E) #662490”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      41
-	2006	zt01143p150	                 jiev design. 2005”; (10) printed (on white paper) “BMNH(E) #720275”. — [Types: Series 6:
-	2006	zt01143p150	                 Butler, 1875 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 printed (on white paper) “%”; (6) printed (on white paper) “BMNH(E) #662344”. — [Types:
-	2006	zt01143p150	                 “Godman-Salvin | Coll. 1915.–3.”; (3) printed (on white paper) “BMNH(E) #662452”. —
-	2006	zt01143p150	                 Salvin | Coll. 1915.–3.”; (4) printed (on white paper) “BMNH(E) #662453”. — [Types:
-	2006	zt01143p150	                 | Coll. 1915.–3.”; (4) printed (on white paper) “BMNH(E) #662454”. — [Types: Series 6:
-	2006	zt01143p150	        1998”; (6) printed (on white paper) “BMNH(E) #662455”. — [Types: Series 6: Drawer 481]
-	2006	zt01143p150	       ticta fulva | Joicey & Rosenberg | type”; (5) printed (on white paper) “BMNH(E) #662354”.
-	2006	zt01143p150	        design. 2005”; (5) printed (on white paper) “BMNH(E) #720339”. — [Types: Series 6:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      43
-	2006	zt01143p150	1143             “BMNH(E) #720327”. — [Main: Series 23: Drawer 215]
-	2006	zt01143p150	                 AUG. 25, 1899”; (2) printed (on white paper) “BMNH(E) #720328”. — [Main: Series 23:
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720329”. — [Main: Series 23: Drawer 215]
-	2006	zt01143p150	                 jiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720282”. — [Types: Series 6:
-	2006	zt01143p150	                 “BMNH(E) #720283”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	      design. 2005”; (8) printed (on white paper) “BMNH(E) #720250”. — [Types: Series 6:
-	2006	zt01143p150	       tion et à la figure”; (9) printed (on white paper) “BMNH(E) #720340”. — [Types: Series 6:
-	2006	zt01143p150	       paper) “BMNH(E) #662345”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	       | Brown & Gabriel”; (4) printed (on white paper) “BMNH(E) #662346”. — [Types: Series
-	2006	zt01143p150	       | Brown & Gabriel”; (4) printed (on white paper) “BMNH(E) #662439”. — [Main: Series
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      45
-	2006	zt01143p150	                  “BMNH(E) #720245”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	                 TYPE | Catasticta | giga % | Brown & Gabriel”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	          [1]    (1) printed (on white paper) “%”; (2) printed (on white paper) “BMNH(E) #662434”. —
-	2006	zt01143p150	                 paper) “BMNH(E) #662435”. — [Main: Series 23: Drawer 478]
-	2006	zt01143p150	                 paper) “BMNH(E) #720206”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	       Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720207”. — [Types:
-	2006	zt01143p150	        2005”; (11) printed (on white paper) “BMNH(E) #720191”. — [Main: Series 23: Drawer
-	2006	zt01143p150	        1907 | S. Abadjiev design. 2005”; (10) printed (on white paper) “BMNH(E) #720192”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                        47
-	2006	zt01143p150	                 2005”; (7) printed (on white paper) “BMNH(E) #720228”. — [Main: Series 23: Drawer
-	2006	zt01143p150	                 Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720229”. — [Main:
-	2006	zt01143p150	                 “BMNH(E) #720345”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	                 “BMNH(E) #662289”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	       type | C. grossana | F. M. Brown”; (6) printed (on white paper) “BMNH(E) #662276”. —
-	2006	zt01143p150	        S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720033”. — [Types:
-	2006	zt01143p150	      (Probably only specimen)”; (9) printed (on white paper) “BMNH(E) #720064”. — [Types:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      49
-	2006	zt01143p150	1143             paper) “BMNH(E) #720260”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	                 Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720261”. — [Types:
-	2006	zt01143p150	                  mon | Godman & Salvin, 1889 | G. Lamas des. ’93”; (9) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  “BMNH(E) #662263”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720141”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	       “BMNH(E) #720142”. — [Main: Series 23: Drawer 313a]
-	2006	zt01143p150	       ’93”; (9) printed (on white paper) “BMNH(E) #662352”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	        & Rosenberg | type”; (5) printed (on white paper) “BMNH(E) #662325”. — [Types: Series
-	2006	zt01143p150	        “BMNH(E) #662434”. — [Main: Series 23: Drawer 477]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                       51
-	2006	zt01143p150	                “Adams Bequest. | B.M. 1912-399.”; (6) printed (on white paper) “BMNH(E) #662294”. —
-	2006	zt01143p150	                 G.Lamas. det. 1987”; (4) printed (on white paper) “BMNH(E) #720315”. — [Main: Series
-	2006	zt01143p150	                 “Photographed by | B. D’Abrera 77/78”; (7) printed (on white paper) “BMNH(E) #720169”.
-	2006	zt01143p150	                 paper) “Photographed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	        grey paper) “H. idiotica | Butler | double type”; (5) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720255”. — [Types:
-	2006	zt01143p150	       “BMNH(E) #720291”. — [Types: Series 6: Drawer 21]
-	2006	zt01143p150	       design. 2005 [sic!; recte: G. Lamas design. 1990]”; (4) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      53
-	2006	zt01143p150	                 “BMNH(E) #662340”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	                  2005”; (9) printed (on white paper) “BMNH(E) #720182”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                  1907 | det.R.I. Vane-Wright, 1969 | SYNTYPE %”; (3) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #720184”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	       Rosenberg, 1912 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	[1]    printed (on white paper) “BMNH(E) #662359”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	       paper) “BMNH(E) #662360”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[3]    printed (on white paper) “BMNH(E) #662361”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[4]    printed (on white paper) “BMNH(E) #662362”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[5]    printed (on white paper) “BMNH(E) #662363”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[6]    printed (on white paper) “BMNH(E) #662364”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[7]    printed (on white paper) “BMNH(E) #662365”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[8]    printed (on white paper) “BMNH(E) #662366”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[9]    printed (on white paper) “BMNH(E) #662367”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	[10] printed (on white paper) “BMNH(E) #662368”. — [Main: Series 23: Drawer 452]
-	2006	zt01143p150	       with red frame) “Type- | H. T”; (5) printed (on white paper) “BMNH(E) #720023”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                       55
-	2006	zt01143p150	                 design. 2005 [sic!; recte: G. Lamas design. 1990]”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720295”. — [Types: Series 6: Drawer 21]
-	2006	zt01143p150	                paper) “BMNH(E) #720272”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	                 Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662297”. — [Types:
-	2006	zt01143p150	       paper) “BMNH(E) #720243”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	       Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720254”. — [Types:
-	2006	zt01143p150	       design. 2005”; (9) printed (on white paper) “BMNH(E) #720253”. — [Types: Series 6:
-	2006	zt01143p150	        “BMNH(E) #662392”. — [Main: Series 23: Drawer 461]
-	2006	zt01143p150	        “BMNH(E) #662393”. — [Main: Series 23: Drawer 461]
-	2006	zt01143p150	        | Brit.Mus. | 1934-120.”; (5) printed (on white paper) “BMNH(E) #662394”. — [Main:
-	2006	zt01143p150	        Hewitson coll. | 79.69 | Euterpe | sp. | 3”; (2) printed (on white paper) “BMNH(E) #662395”.
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      57
-	2006	zt01143p150	                 Hewitson coll. | 79.69 | Euterpe | sp. | 2”; (2) printed (on white paper) “BMNH(E) #662396”.
-	2006	zt01143p150	                 “BMNH(E) #662465”. — [Rothschild: Series 122: Drawer 6]
-	2006	zt01143p150	          [1]    printed (on white paper) “BMNH(E) #662337”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	          [2]    printed (on white paper) “BMNH(E) #662436”. — [Main: Series 23: Drawer 480]
-	2006	zt01143p150	                  jiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720320”. — [Main: Series 23:
-	2006	zt01143p150	[1]    (1) handwritten (on white paper) “Pérou”; (2) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662419”. — [Main: Series 23: Drawer 474]
-	2006	zt01143p150	       1912 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #662338”. —
-	2006	zt01143p150	       Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720032”. — [Types:
-	2006	zt01143p150	       | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720031”. — [Types:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      59
-	2006	zt01143p150	                 (9) printed (on white paper) “BMNH(E) #720300”. — [Rothschild: Series 122: Drawer 39]
-	2006	zt01143p150	                  design. 2005”; (7) printed (on white paper) “BMNH(E) #662349”. — [Types: Series 6:
-	2006	zt01143p150	                Bequest. | Brit.Mus. | 1934-120.”; (5) printed (on white paper) “BMNH(E) #720214”. —
-	2006	zt01143p150	                “BMNH(E) #720215”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	       1896 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720262”. —
-	2006	zt01143p150	       (on white paper) “BMNH(E) #720047”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720299”. — [Rothschild: Series 122: Drawer 37]
-	2006	zt01143p150	      and black lines) “Leucanthe n.”; (6) printed (on white paper) “BMNH(E) #720302”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      61
-	2006	zt01143p150	                  white paper) “BMNH(E) #662350”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	                 hst.”; (5) printed (on white paper) “BMNH(E) #720211”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                  “BMNH(E) #662379”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	                  8”; (2) printed (on white paper) “BMNH(E) #662380”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	                  “BMNH(E) #662381”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	                  (4) printed (on white paper) “BMNH(E) #662382”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	                  “BMNH(E) #662383”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	                  “Photographed by | B. D’Abrera 77/78”; (5) printed (on white paper) “BMNH(E) #662384”.
-	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #662484”. — [Rothschild: Series 122: Drawer 2]
-	2006	zt01143p150	       white paper) “BMNH(E) #662385”. — [Main: Series 23: Drawer 460]                                   1143
-	2006	zt01143p150	[9 &] printed (on white paper) “BMNH(E) #662386”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	[10 &]    printed (on white paper) “BMNH(E) #662387”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	       white paper) “BMNH(E) #662388”. — [Main: Series 23: Drawer 460]
-	2006	zt01143p150	      “BMNH(E) #720220”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	       “BMNH(E) #720232”. — [Main: Series 23: Drawer 402]
-	2006	zt01143p150	       storfer, 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      63
-	2006	zt01143p150	                 Felder, 1861 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  “BMNH(E) #720334”. — [Rothschild: Series 123: Drawer 19]
-	2006	zt01143p150	                 white paper) “BMNH(E) #720188”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                 jiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720202”. — [Types: Series 6:
-	2006	zt01143p150	       (on white paper) “BMNH(E) #720007”. — [Main: Series 23: Drawer 381]
-	2006	zt01143p150	       1907 | S. Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720008”. —
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662489”. — [Rothschild: Series 122: Drawer 2]
-	2006	zt01143p150	       paper) “BMNH(E) #720014”. — [Main: Series 23: Drawer 384]
-	2006	zt01143p150	       02.”; (2) printed (on white paper) “BMNH(E) #720015”. — [Main: Series 23: Drawer 384]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                     65
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720323”. — [Main: Series 23: Drawer 214]
-	2006	zt01143p150	          [1]    printed (on white paper) “BMNH(E) #720324”. — [Main: Series 23: Drawer 214]
-	2006	zt01143p150	          [2]    printed (on white paper) “BMNH(E) #720325”. — [Main: Series 23: Drawer 214]
-	2006	zt01143p150	          [3]    printed (on white paper) “BMNH(E) #720326”. — [Main: Series 23: Drawer 214]
-	2006	zt01143p150	                 design. 2005”; (9) printed (on white paper) “BMNH(E) #720185”. — [Types: Series 6:
-	2006	zt01143p150	        white paper) “BMNH(E) #720059”. — [Types: Series 6: Drawer 46]
-	2006	zt01143p150	      (on white paper) “BMNH(E) #662336”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	       “BMNH(E) #720175”. — [Main: Series 23: Drawer 311a]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      67
-	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #720278”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	                  (on white paper) “BMNH(E) #720005”. — [Main: Series 23: Drawer 381]
-	2006	zt01143p150	                  TYPE &”; (2) printed (on white paper) “BMNH(E) #720006”. — [Main: Series 23: Drawer
-	2006	zt01143p150	                 | Venezuela | [line]”; (3) printed (on white paper) “BMNH(E) #720178”. — [Types: Series 6:
-	2006	zt01143p150	                 malenka, Hew. 3.” and glued “&”; (3) printed (on white paper) “BMNH(E) #720179”. —
-	2006	zt01143p150	        printed (on white paper) “BMNH(E) #662357”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	       day, 1844 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720001”.
-	2006	zt01143p150	       1844 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720002”. —
-	2006	zt01143p150	       jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720024”. — [Types: Series 6:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     69
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720350”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	                 (7) printed (on white paper) “BMNH(E) #720205”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                 “BMNH(E) #720352”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720259”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	       paper) “BMNH(E) #720046”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720210”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	       (on white paper) “BMNH(E) #720167”. — [Main: Series 23: Drawer 314a]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      71
-	2006	zt01143p150	                 graphed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E) #720168”. —
-	2006	zt01143p150	                 paper) “Levick Bequest | B.M.1941-83.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 “BMNH(E) #662332”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	        2005”; (7) printed (on white paper) “BMNH(E) #720011”. — [Main: Series 23: Drawer
-	2006	zt01143p150	        fer, 1907 | S. Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720012”. —
-	2006	zt01143p150	      “marica | f. moesia | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720265”. — [Types:
-	2006	zt01143p150	       paper) “BMNH(E) #720030”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                     73
-	2006	zt01143p150	                 (on white paper) “BMNH(E) #720226”. — [Main: Series 23: Drawer 402]
-	2006	zt01143p150	                 | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720268”. — [Types: Series 6: Drawer
-	2006	zt01143p150	                  type.”; (10) printed (on white paper) “BMNH(E) #720277”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	       2005”; (6) printed (on white paper) “BMNH(E) #720082”. — [Types: Series 6: Drawer 50]
-	2006	zt01143p150	       Coll. 1915.–3.”; (4) handwritten “teutamis | Hew.”; (5) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	[2]    printed (on white paper) “BMNH(E) #662278”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[3]    printed (on white paper) “BMNH(E) #662279”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[4]    printed (on white paper) “BMNH(E) #662280”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[5]    printed (on white paper) “BMNH(E) #662281”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[6]    printed (on white paper) “BMNH(E) #662282”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[7]    printed (on white paper) “BMNH(E) #662283”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[8]    printed (on white paper) “BMNH(E) #662284”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[9]    printed (on white paper) “BMNH(E) #662285”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[10] printed (on white paper) “BMNH(E) #662286”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	[11] printed (on white paper) “BMNH(E) #662287”. — [Main: Series 23: Drawer 459]
-	2006	zt01143p150	        | f. musia | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720051”. — [Types: Series 6:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      75
-	2006	zt01143p150	                  design. 2005”; (6) printed (on white paper) “BMNH(E) #720009”. — [Main: Series 23:
-	2006	zt01143p150	                  hstorfer, 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	          [1]     printed (on white paper) “BMNH(E) #662411”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	          [2]     printed (on white paper) “BMNH(E) #662412”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	          [3]     printed (on white paper) “BMNH(E) #662413”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #662414”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	                  (on white paper) “BMNH(E) #662415”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	          [6]     printed (on white paper) “BMNH(E) #662416”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	          [7]     printed (on white paper) “BMNH(E) #662417”. — [Main: Series 23: Drawer 471]
-	2006	zt01143p150	       design. 2005”; (8) printed (on white paper) “BMNH(E) #720305”. — [Main: Series 23:
-	2006	zt01143p150	       storfer, 1908 | S. Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       des. ’93”; (8) printed (on white paper) “BMNH(E) #720286”. — [Types: Series 6: Drawer
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                     77
-	2006	zt01143p150	                 white paper) “BMNH(E) #720285”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	                bronze bands and black lines) “var. negrina n.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 “BMNH(E) #720364”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	                bronze bands and black lines) “Nereis n.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       “BMNH(E) #720057”. — [Types: Series 6: Drawer 46]
-	2006	zt01143p150	        printed (on white paper) “BMNH(E) #720044”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       white paper) “BMNH(E) #720065”. — [Types: Series 6: Drawer 46]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH              © 2006 Magnolia Press                                        79
-	2006	zt01143p150	                 2005”; (7) printed (on white paper) “BMNH(E) #720354”. — [Types: Series 6: Drawer 44]
-	2006	zt01143p150	                 paper) “BMNH(E) #662355”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	                paper with red frame) “Type | H T”; (4) printed (on white paper) “BMNH(E) #662269”. —
-	2006	zt01143p150	                red frame) “Type | A T”; (5) printed (on white paper) “BMNH(E) #662270”. — [Types:
-	2006	zt01143p150	                 “demophile | nimietes | Fruhst.”; (7) printed (on white paper) “BMNH(E) #662491”. —
-	2006	zt01143p150	       “demophile | niphates | Fruhst.”; (8) printed (on white paper) “BMNH(E) #662492”. —
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720362”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	       (on white paper) “BMNH(E) #720363”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      81
-	2006	zt01143p150	                black framed “demophile | niseias | Fruhst.”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #662292”. — [Types:
-	2006	zt01143p150	                 design. 2005”; (8) printed (on white paper) “BMNH(E) #662293”. — [Types: Series 6:
-	2006	zt01143p150	                  “BMNH(E) #720018”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662358”. — [Main: Series 23: Drawer 451]
-	2006	zt01143p150	        | Butler & Druce, 1872 | S. Abadjiev design. 2005”; (9) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	        design. 2005”; (8) printed (on white paper) “BMNH(E) #720053”. — [Types: Series 6:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                      83
-	2006	zt01143p150	                 2005”; (8) printed (on white paper) “BMNH(E) #720054”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	                  f. obsoleta | F. M. Brown”; (5) printed (on white paper) “BMNH(E) #662456”. — [Roths-
-	2006	zt01143p150	                 Lamas des. ’93”; (11) printed (on white paper) “BMNH(E) #662274”. — [Types: Series 6:
-	2006	zt01143p150	       (4) printed (on white paper) “BMNH(E) #720204”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	      “BMNH(E) #720238”. — [Rothschild: Series 122: Drawer 31]
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720016”. — [Main: Series 23: Drawer 384]
-	2006	zt01143p150	       Fruhstorfer, 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     85
-	2006	zt01143p150	1143            black framed “marmia | fa othoca | Fruhst.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  Brown”; (5) printed (on white paper) “BMNH(E) #662427”. — [Main: Series 23: Drawer
-	2006	zt01143p150	                 blue frame) “SYN- | TYPE”; (3) printed (on white paper) “BMNH(E) #662500”. — [Types:
-	2006	zt01143p150	                  1907 | S. Abadjiev design. 2005”; (11) printed (on white paper) “BMNH(E) #720063”. —
-	2006	zt01143p150	       22”; (3) printed (on white paper) “BMNH(E) #720152”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	       23”; (3) printed (on white paper) “BMNH(E) #720153”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	       white paper) “Brit.Mus. | 1976-491.”; (5) printed (on white paper) “BMNH(E) #720154”. —
-	2006	zt01143p150	       m.”; (2) handwritten (on light yellow paper) “5-26”; (3) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720197”. — [Main: Series 23: Drawer 392]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      87
-	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #662342”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	                 Talbot, 1928 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720213”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                  white paper) “BMNH(E) #662485”. — [Floor 2: Series B: Drawer 5706]
-	2006	zt01143p150	      “BMNH(E) #720266”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	       tonura | pedrosina | & | type.Butler”; (3) printed (on white paper) “BMNH(E) #720293”. —
-	2006	zt01143p150	       paper) “Levick Bequest | B.M.1941-83”; (7) printed (on white paper) “BMNH(E) #720029”.
-	2006	zt01143p150	        printed (on white paper) “BMNH(E) #720370”. — [Main: Series 23: Drawer 210]
-	2006	zt01143p150	[2]     printed (on white paper) “BMNH(E) #720371”. — [Main: Series 23: Drawer 210]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                     89
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720190”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                 paper with red frame) “Type | H T”; (5) printed (on white paper) “BMNH(E) #662271”. —
-	2006	zt01143p150	                 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720316”. —
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720317”. — [Main: Series 23: Drawer 210]
-	2006	zt01143p150	                 (5) printed (on white paper) “BMNH(E) #720318”. — [Main: Series 23: Drawer 210]
-	2006	zt01143p150	       black framed “forma phaënna | Fruhst.”; (6) printed (on white paper) “BMNH(E) #720281”.
-	2006	zt01143p150	       storfer Coll. | B.M. 1937-285.”; (4) printed (on white paper) “BMNH(E) #720367”. —
-	2006	zt01143p150	       “BMNH(E) #720368”. — [Main: Series 23: Drawer 436]
-	2006	zt01143p150	       paper) “BMNH(E) #720041”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      91
-	2006	zt01143p150	                  Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720040”. — [Types:
-	2006	zt01143p150	                 Typ.Nr.1234”; (12) printed (on white paper) “BMNH(E) #720070”. — [Types: Series 6:
-	2006	zt01143p150	                 white paper with red frame) “phanokia Fruhst.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       fer, 1908 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720249”. —
-	2006	zt01143p150	        “Type”; (7) printed (on white paper) “BMNH(E) #662268”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	        “BMNH(E) #720279”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	        2005”; (6) printed (on white paper) “BMNH(E) #720280”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      93
-	2006	zt01143p150	                 “BMNH(E) #662460”. — [Rothschild: Series 122: Drawer 5]
-	2006	zt01143p150	          [1]    printed (on white paper) “BMNH(E) #662461”. — [Rothschild: Series 122: Drawer 5]
-	2006	zt01143p150	          [2]    printed (on white paper) “BMNH(E) #662462”. — [Rothschild: Series 122: Drawer 5]
-	2006	zt01143p150	                 | philias [sic!] | Felder | det. F. M. Brown”; (4) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	          [4]    printed (on white paper) “BMNH(E) #662464”. — [Rothschild: Series 122: Drawer 5]
-	2006	zt01143p150	                 Hew”; (5) printed (on white paper) “BMNH(E) #662438”. — [Main: Series 23: Drawer
-	2006	zt01143p150	       “BMNH(E) #662343”. — [Types: Series 6: Drawer 49]                                                 1143
-	2006	zt01143p150	       paper) “BMNH(E) #720224”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	       “BMNH(E) #662459”. — [Rothschild: Series 122: Drawer 5]
-	2006	zt01143p150	       paper) “BMNH(E) #662457”. — [Rothschild: Series 122: Drawer 4]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                      95
-	2006	zt01143p150	                printed (on white paper) “BMNH(E) # 147494”. — [Rothschild: Series 122: Drawer 4]
-	2006	zt01143p150	                 Felder, 1865 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #
-	2006	zt01143p150	                “BMNH(E) #662481”. — [Rothschild: Series 123: Drawer 3]
-	2006	zt01143p150	                paper) “BMNH(E) #720235”. — [Rothschild: Series 122: Drawer 27]
-	2006	zt01143p150	       des. ’93”; (7) printed (on white paper) “BMNH(E) #662351”. — [Types: Series 6: Drawer
-	2006	zt01143p150	       paper) “BMNH(E) #720003”. — [Types: Series 6: Drawer 40]
-	2006	zt01143p150	       Hewitson, 1861 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       “BMNH(E) #720321”. — [Main: Series 23: Drawer 213]
-	2006	zt01143p150	       paper) “Levick Bequest | B.M.1941-83.”; (5) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH             © 2006 Magnolia Press                                       97
-	2006	zt01143p150	                 “BMNH(E) #662482”. — [Rothschild: Series 123: Drawer 5]
-	2006	zt01143p150	                 sia | Fruhstorfer, 1910 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720301”. — [Roths-
-	2006	zt01143p150	       white paper) “BMNH(E) #662467”. — [Rothschild: Series 122: Drawer 6]                                  1143
-	2006	zt01143p150	       design. 2005”; (5) printed (on white paper) “BMNH(E) #662466”. — [Rothschild: Series
-	2006	zt01143p150	       Bequest. | Brit.Mus. | 1934-120.”; (6) printed (on white paper) “BMNH(E) #720369”. —
-	2006	zt01143p150	        1887 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #662321”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH              © 2006 Magnolia Press                                        99
-	2006	zt01143p150	                 Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720338”. — [Types:
-	2006	zt01143p150	                 Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720337”. — [Types:
-	2006	zt01143p150	                 (7) printed (on white paper) “BMNH(E) #720246”. — [Types: Series 6: Drawer 43]
-	2006	zt01143p150	                  “BMNH(E) #720269”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	       paper) “BMNH(E) #662296”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	      “BMNH(E) #720159”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	      madice | punctata”; (3) printed (on white paper) “BMNH(E) #720160”. — [Main: Series 23:
-	2006	zt01143p150	      “punctata | Jörg.”; (3) printed (on white paper) “BMNH(E) #720161”. — [Main: Series 23:
-	2006	zt01143p150	      %”; (3) printed (on white paper) “BMNH(E) #720162”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	      n.f. | %”; (3) printed (on white paper) “BMNH(E) #720163”. — [Main: Series 23: Drawer
-	2006	zt01143p150	      “BMNH(E) #720164”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	      “BMNH(E) #720165”. — [Main: Series 23: Drawer 314]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                     101
-	2006	zt01143p150	                  lycimnia radiata % | Peru Type”; (9) printed (on white paper) “BMNH(E) #720330”. —
-	2006	zt01143p150	                 “BMNH(E) #662328”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                 S. Abadjiev design. 2005”; (10) printed (on white paper) “BMNH(E) #720067”. — [Types:
-	2006	zt01143p150	       [sic!; recte: G. Lamas design. 1990]”; (7) printed (on white paper) “BMNH(E) #720287”. —
-	2006	zt01143p150	       ?”; (5) printed (on white paper) “BMNH(E) #662477”. — [Rothschild: Series 122: Drawer
-	2006	zt01143p150	[1]    printed (on white paper) “BMNH(E) #662478”. — [Rothschild: Series 122: Drawer 10]
-	2006	zt01143p150	[2]    (1) printed (on white paper) “19”; (2) printed (on white paper) “BMNH(E) #662479”. —
-	2006	zt01143p150	       handwritten in pencil “Brit. Mus. | 1997-25.”; (6) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                       103
-	2006	zt01143p150	                (on white paper) “BMNH(E) #662430”. — [Main: Series 23: Drawer 476]
-	2006	zt01143p150	                 “Photographed by | B. D’Abrera 77/78”; (6) printed (on white paper) “BMNH(E) #662347”.
-	2006	zt01143p150	                 paper) “BMNH(E) #662441”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	                 paper) “BMNH(E) #720066”. — [Types: Series 6: Drawer 46]
-	2006	zt01143p150	      (on white paper) “BMNH(E) #662320”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	        Butler”; (3) printed (on white paper) “BMNH(E) #720186”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	        thris | rosenbergi % | Butler”; (2) printed (on white paper) “BMNH(E) #720198”. — [Main:
-	2006	zt01143p150	        paper) “BMNH(E) #720199”. — [Main: Series 23: Drawer 392]
-	2006	zt01143p150	        phuralis | type Butler.”; (2) printed (on white paper) “BMNH(E) #720200”. — [Main: Series
-	2006	zt01143p150	       Fruhstorfer, 1907 | G. Lamas des. ’93”; (12) printed (on white paper) “BMNH(E) #720027”.
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                      105
-	2006	zt01143p150	                 white paper) “BMNH(E) #720028”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	                  Stichel, 1908 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  “BMNH(E) #720075”. — [Main: Series 23: Drawer 448]
-	2006	zt01143p150	                 rusella | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720252”. — [Types: Series 6:
-	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720013”. — [Main: Series 23: Drawer 384]
-	2006	zt01143p150	       TYPE %”; (8) printed (on white paper) “BMNH(E) #720071”. — [Types: Series 6: Drawer
-	2006	zt01143p150	       (8) printed (on white paper) “BMNH(E) #720052”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                       107
-	2006	zt01143p150	1143             man-Salvin | Coll. 1915.–3.”; (3) printed (on white paper) “BMNH(E) #662423”. — [Main:
-	2006	zt01143p150	                 det.P.Ackery 1975”; (6) printed (on white paper) “BMNH(E) #720090”. — [Main: Series
-	2006	zt01143p150	                 white paper) “BMNH(E) #720091”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	                 white paper) “BMNH(E) #720092”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [3 %] (1) printed (on white paper) “1300”; (2) printed (on white paper) “BMNH(E) #720093”. —
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720094”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [5 %] printed (on white paper) “BMNH(E) #720095”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [6 %] printed (on white paper) “BMNH(E) #720096”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [7 %] printed (on white paper) “BMNH(E) #720097”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [8 %] printed (on white paper) “BMNH(E) #720098”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [9 %] printed (on white paper) “BMNH(E) #720099”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [10 %]     printed (on white paper) “BMNH(E) #720100”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	                 10.iii.1975”; (2) printed (on white paper) “BMNH(E) #720101”. — [Main: Series 23:
-	2006	zt01143p150	                 8.iii.1975”; (2) printed (on white paper) “BMNH(E) #720102”. — [Main: Series 23: Drawer
-	2006	zt01143p150	          [13 %]     printed (on white paper) “BMNH(E) #720103”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	          [14 %]     printed (on white paper) “BMNH(E) #720104”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[15 %]     printed (on white paper) “BMNH(E) #720105”. — [Main: Series 23: Drawer 316]             ZOOTAXA
-	2006	zt01143p150	[16 %]     printed (on white paper) “BMNH(E) #720106”. — [Main: Series 23: Drawer 316]             1143
-	2006	zt01143p150	[17 %]     printed (on white paper) “BMNH(E) #720107”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[18 %]     printed (on white paper) “BMNH(E) #720108”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[19 %]     printed (on white paper) “BMNH(E) #720109”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[20 %]     printed (on white paper) “BMNH(E) #720110”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[21 %]     printed (on white paper) “BMNH(E) #720111”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[22 %]     printed (on white paper) “BMNH(E) #720112”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[23 %]     printed (on white paper) “BMNH(E) #720113”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[24 %]     printed (on white paper) “BMNH(E) #720114”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[25 %]     printed (on white paper) “BMNH(E) #720115”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[26 %]     printed (on white paper) “BMNH(E) #720116”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[27 %]     printed (on white paper) “BMNH(E) #720117”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[28 %]     printed (on white paper) “BMNH(E) #720118”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[29 %]     printed (on white paper) “BMNH(E) #720119”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[30 %]     printed (on white paper) “BMNH(E) #720120”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[31 %]     printed (on white paper) “BMNH(E) #720121”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[32 %]     printed (on white paper) “BMNH(E) #720122”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[33 %]     printed (on white paper) “BMNH(E) #720123”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[34 %]     printed (on white paper) “BMNH(E) #720124”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[35 %]     printed (on white paper) “BMNH(E) #720125”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[36 %]     printed (on white paper) “BMNH(E) #720126”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[37 %]     printed (on white paper) “BMNH(E) #720127”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[38 %]     printed (on white paper) “BMNH(E) #720128”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[39 %]     printed (on white paper) “BMNH(E) #720129”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[40 %]     printed (on white paper) “BMNH(E) #720130”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720131”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[42 &]     printed (on white paper) “BMNH(E) #720132”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[43 &]     printed (on white paper) “BMNH(E) #720133”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[44 &]     printed (on white paper) “BMNH(E) #720134”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[45 &]     printed (on white paper) “BMNH(E) #720135”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[46 &]     printed (on white paper) “BMNH(E) #720136”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	       18.ii.1975.”; (2) printed (on white paper) “BMNH(E) #720137”. — [Main: Series 23:
-	2006	zt01143p150	[48 &]     printed (on white paper) “BMNH(E) #720138”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	[49 &]     printed (on white paper) “BMNH(E) #720139”. — [Main: Series 23: Drawer 316]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH         © 2006 Magnolia Press                                  109
-	2006	zt01143p150	                Brit.Mus. | 1934-120.”; (5) printed (on white paper) “BMNH(E) #662334”. — [Types:
-	2006	zt01143p150	                (on white paper) “BMNH(E) #720240”. — [Rothschild: Series 122: Drawer 33]
-	2006	zt01143p150	       frame) “Macas | Ecuador.”; (7) printed (on white paper) “BMNH(E) #720271”. — [Types:
-	2006	zt01143p150	      septentrionalis | Röb & | Collection Niepelt.”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       paper) “BMNH(E) #720365”. — [Main: Series 23: Drawer 431]
-	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720332”. — [Rothschild: Series 123: Drawer 15]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH          © 2006 Magnolia Press                                     111
-	2006	zt01143p150	                 berg, 1912 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662307”.
-	2006	zt01143p150	                white paper) “BMNH(E) #662298”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	                 smithia | TYPE. | Brown & Gabriel.”; (7) printed (on white paper) “BMNH(E) #662302”. —
-	2006	zt01143p150	                 Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720219”. — [Types:
-	2006	zt01143p150	       design. 2005”; (5) printed (on white paper) “BMNH(E) #662330”. — [Types: Series 6:
-	2006	zt01143p150	      (7) printed (on white paper) “BMNH(E) #720042”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	      printed (on white paper with red frame) “Type”; (4) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH          © 2006 Magnolia Press                                     113
-	2006	zt01143p150	                (on white paper) “BMNH(E) #720170”. — [Main: Series 23: Drawer 312a]
-	2006	zt01143p150	                 96.–12.” and glued handwritten “Cocapata | Garl.”; (5) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                 jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662260”. — [Types: Series 6:
-	2006	zt01143p150	                 “BMNH(E) #662369”. — [Main: Series 23: Drawer 453]
-	2006	zt01143p150	       (on white paper) “BMNH(E) #662425”. — [Main: Series 23: Drawer 475]
-	2006	zt01143p150	       | amastris % | Hewits.”; (2) printed (on white paper) “BMNH(E) #662426”. — [Main: Series
-	2006	zt01143p150	       “Holo- | type”; (3) printed (on white paper) “BMNH(E) #662291”. — [Types: Series 6:
-	2006	zt01143p150	       lines) “Suadella n.”; (4) printed (on white paper) “BMNH(E) #720236”. — [Rothschild:
-	2006	zt01143p150	      paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH          © 2006 Magnolia Press                                     115
-	2006	zt01143p150	                 “BMNH(E) #720222”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                 paper) “BMNH(E) #662303”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                  white paper) “BMNH(E) #720221”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	                 “BMNH(E) #662420”. — [Main: Series 23: Drawer 474]
-	2006	zt01143p150	       (on white paper) “BMNH(E) #662421”. — [Main: Series 23: Drawer 474]                                  1143
-	2006	zt01143p150	       (2) printed (on white paper) “BMNH(E) #662419”. — [Main: Series 23: Drawer 474]
-	2006	zt01143p150	       paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (3) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	        B.M. 1912-399.”; (5) printed (on white paper) “BMNH(E) #662322”. — [Types: Series 6:
-	2006	zt01143p150	        white paper) “BMNH(E) #662428”. — [Main: Series 23: Drawer 476]
-	2006	zt01143p150	        printed (on white paper) “BMNH(E) #662458”. — [Rothschild: Series 122: Drawer 5]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                        117
-	2006	zt01143p150	                 white paper) “BMNH(E) #662306”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                 the back side “Pereute | swainsoni | Gray”; (4) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	                  paper) “BMNH(E) #720085”. — [Rothschild: Series 122: Drawer 12]
-	2006	zt01143p150	                 1910.”; (5) printed (on white paper) “BMNH(E) #662353”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	       brown paper) “Coll B”; (6) printed (on white paper) “BMNH(E) #662301”. — [Types:
-	2006	zt01143p150	       (on white paper) “BMNH(E) #662356”. — [Types: Series 6: Drawer 49]
-	2006	zt01143p150	       (2) printed (on white paper) “BMNH(E) #662442”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	       “BMNH(E) #662443”. — [Main: Series 23: Drawer 481]
-	2006	zt01143p150	[1 %] printed (on white paper) “BMNH(E) #662264”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	[2 %] printed (on white paper) “BMNH(E) #662370”. — [Main: Series 23: Drawer 456]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                       119
-	2006	zt01143p150	                 Schmassmann | 1927.”; (4) printed (on white paper) “BMNH(E) #662371”. — [Main: Series
-	2006	zt01143p150	                 ticta | tatae & | F. Martin Brown”; (4) printed (on white paper) “BMNH(E) #662265”. —
-	2006	zt01143p150	                  2005”; (6) printed (on white paper) “BMNH(E) #720083”. — [Types: Series 6: Drawer 50]
-	2006	zt01143p150	                 (on white paper) “BMNH(E) #720055”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	        “BMNH(E) #720223”. — [Types: Series 6: Drawer 42]
-	2006	zt01143p150	        (9) printed (on white paper) “BMNH(E) #662267”. — [Types: Series 6: Drawer 47]
-	2006	zt01143p150	        (on white paper) “BMNH(E) #662309”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                       121
-	2006	zt01143p150	1143             white paper) “BMNH(E) #720061”. — [Types: Series 6: Drawer 46]
-	2006	zt01143p150	                  white paper) “theodora | Fruhst.”; (3) printed (on white paper) “BMNH(E) #720307”. —
-	2006	zt01143p150	                  (on white paper) “BMNH(E) #720308”. — [Main: Series 23: Drawer 208]
-	2006	zt01143p150	          [3]     printed (on white paper) “BMNH(E) #720309”. — [Main: Series 23: Drawer 208]
-	2006	zt01143p150	                  “Body | re-affixed. | T.G. Howarth.”; (4) printed (on white paper) “BMNH(E) #720310”. —
-	2006	zt01143p150	                  design. 2005”; (7) printed (on white paper) “BMNH(E) #662261”. — [Types: Series 6:
-	2006	zt01143p150	      framed “sevata | tiburtia | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720247”. —
-	2006	zt01143p150	       fer, 1907 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720248”. —
-	2006	zt01143p150	       2005”; (5) printed (on white paper) “BMNH(E) #720020”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	       1898 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720021”. —
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                       123
-	2006	zt01143p150	                  (on white paper) “BMNH(E) #662304”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	                  2005”; (6) printed (on white paper) “BMNH(E) #662476”. — [Rothschild: Series 122:
-	2006	zt01143p150	                 white paper) “Catasticta | toppini | Sharpe | (Type)”; (8) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	      white paper) “BMNH(E) #720237”. — [Rothschild: Series 122: Drawer 31]
-	2006	zt01143p150	      “BMNH(E) #662314”. — [Types: Series 6: Drawer 48]
-	2006	zt01143p150	       paper) “BMNH(E) #662474”. — [Rothschild: Series 122: Drawer 9]
-	2006	zt01143p150	      “FELDER | COLLN.”; (3) printed (on white paper) “BMNH(E) #662475”. — [Rothschild:
-	2006	zt01143p150	       design. 2005”; (9) printed (on white paper) “BMNH(E) #662308”. — [Types: Series 6:
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                     125
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720069”. — [Types: Series 6: Drawer 46]
-	2006	zt01143p150	                “BMNH(E) #662471”. — [Rothschild: Series 122: Drawer 9]
-	2006	zt01143p150	                  1969.”; (6) printed (on white paper) “BMNH(E) #720140”. — [Main: Series 23: Drawer
-	2006	zt01143p150	       “Dognin. | [illegible] de Loja. | plate III. | fig. 4.”; (5) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	        “BMNH(E) #720274”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	       hst.”; (7) printed (on white paper) “BMNH(E) #720267”. — [Types: Series 6: Drawer 20]
-	2006	zt01143p150	       paper) “BMNH(E) #720034”. — [Types: Series 6: Drawer 41]
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                      127
-	2006	zt01143p150	                  (on white paper) “BMNH(E) #720361”. — [Types: Series 6: Drawer 45]
-	2006	zt01143p150	                  jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662313”. — [Types: Series 6:
-	2006	zt01143p150	                 Lamas des. ’93”; (8) printed (on white paper) “BMNH(E) #662333”. — [Types: Series 6:
-	2006	zt01143p150	       1937-285.”; (8) printed (on white paper) “BMNH(E) #720331”. — [Main: Series 23:
-	2006	zt01143p150	       zamorana Eitschberger | & Racheli, 1998”; (9) printed (on white paper) “BMNH(E)
-	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662453”. — [Types: Series 6: Drawer 481]
-	2006	zt01143p150	       white paper) “Zana. Boisd. | Colombie”; (8) printed (on white paper) “BMNH(E) #662335”.
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH            © 2006 Magnolia Press                                        129
-	2006	zt01143p150	                 (on white paper) “E. Zancle”; (7) printed (on white paper) “BMNH(E) #662472”. — [Roth-
-	2006	zt01143p150	                 paper) “BMNH(E) #662473”. — [Rothschild: Series 122: Drawer 9]
-	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720084”. — [Rothschild: Series 122: Drawer 12]
-	2006	zt01143p150	Ackery, P.R. (1999) The Lepidoptera Collections at the Natural History Museum (BMNH), in
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH         © 2006 Magnolia Press                                   131
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                      133
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH           © 2006 Magnolia Press                                      135
+(E)720350	2006	zt01143p150	      paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E)
+(E)#720173	2006	zt01143p150	                 (2) printed (on white paper) “BMNH(E) #720173”. — [Main: Series 23: Drawer 312a]
+(E)#662373	2006	zt01143p150	                 (2) printed (on white paper) “BMNH(E) #720174”. — [Main: Series 23: Drawer 312a]
+(E)#662372	2006	zt01143p150	                 paper) “%”; (3) printed (on white paper) “BMNH(E) #662372”. — [Main: Series 23:
+(E)#662373	2006	zt01143p150	          [2 %] printed (on white paper) “BMNH(E) #662373”. — [Main: Series 23: Drawer 455]
+(E)#662374	2006	zt01143p150	          [3 %] printed (on white paper) “BMNH(E) #662374”. — [Main: Series 23: Drawer 455]
+(E)#662375	2006	zt01143p150	          [4 %] printed (on white paper) “BMNH(E) #662375”. — [Main: Series 23: Drawer 455]
+(E)#662376	2006	zt01143p150	          [5 %] printed (on white paper) “BMNH(E) #662376”. — [Main: Series 23: Drawer 455]
+(E)#662377	2006	zt01143p150	          [6 &] printed (on white paper) “BMNH(E) #662377”. — [Main: Series 23: Drawer 456]
+(E)#662378	2006	zt01143p150	                 paper) “BMNH(E) #662378”. — [Main: Series 23: Drawer 456]
+(E)#720348	2006	zt01143p150	      (6) printed (on white paper) “BMNH(E) #720348”. — [Types: Series 6: Drawer 44]
+(E)#662266	2006	zt01143p150	       white paper with red frame) “euremoides Fruhst.”; (6) printed (on white paper) “BMNH(E)
+(E)#720230	2006	zt01143p150	       jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662259”. — [Types: Series 6:
+(E)#720297	2006	zt01143p150	      “Eurymnia n.”; (7) printed (on white paper) “BMNH(E) #720297”. — [Rothschild: Series
+(E)#720060	2006	zt01143p150	                 eurytele | Hewitson, [1853] | G. Lamas des. ’93”; (7) printed (on white paper) “BMNH(E)
+(E)#720241	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720241”. — [Types: Series 6: Drawer 43]
+(E)#720209	2006	zt01143p150	                 (5) printed (on white paper) “BMNH(E) #720209”. — [Types: Series 6: Drawer 42]
+(E)#662348	2006	zt01143p150	                philothea | f. ferra | F. M. Brown”; (5) printed (on white paper) “BMNH(E) #662348”. —
+(E)#662444	2006	zt01143p150	[1]    printed (on white paper) “BMNH(E) #662444”. — [Main: Series 23: Drawer 481]                        1143
+(E)#662445	2006	zt01143p150	[2]    printed (on white paper) “BMNH(E) #662445”. — [Main: Series 23: Drawer 481]
+(E)#662446	2006	zt01143p150	       paper) “BMNH(E) #662446”. — [Main: Series 23: Drawer 481]
+(E)#662447	2006	zt01143p150	[4]    printed (on white paper) “BMNH(E) #662447”. — [Main: Series 23: Drawer 481]
+(E)#662448	2006	zt01143p150	       paper) “BMNH(E) #662448”. — [Main: Series 23: Drawer 481]
+(E)#662449	2006	zt01143p150	       “BMNH(E) #662449”. — [Main: Series 23: Drawer 481]
+(E)#662450	2006	zt01143p150	[7]    printed (on white paper) “BMNH(E) #662450”. — [Main: Series 23: Drawer 481]
+(E)#662451	2006	zt01143p150	[8]    printed (on white paper) “BMNH(E) #662451”. — [Main: Series 23: Drawer 481]
+(E)#662440	2006	zt01143p150	       1998”; (6) printed (on white paper) “BMNH(E) #662440”. — [Main: Series 23: Drawer
+(E)#720311	2006	zt01143p150	                1937–285.”; (5) printed (on white paper) “BMNH(E) #720311”. — [Main: Series 23:
+(E)#720189	2006	zt01143p150	                “BMNH(E) #720189”. — [Types: Series 6: Drawer 41]
+(E)#662266	2006	zt01143p150	                 white paper) “Levick Bequest | B.M.1941-83.”; (6) printed (on white paper) “BMNH(E)
+(E)#662310	2006	zt01143p150	                 design. 2005”; (7) printed (on white paper) “BMNH(E) #662310”. — [Types: Series 6:
+(E)#662311	2006	zt01143p150	                 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662311”. — [Types:
+(E)#662404	2006	zt01143p150	       white paper) “BMNH(E) #662404”. — [Main: Series 23: Drawer 465]
+(E)#662405	2006	zt01143p150	[2 %] (1) printed (on white paper) “%”; (2) printed (on white paper) “BMNH(E) #662405”. —
+(E)#662406	2006	zt01143p150	       white paper) “BMNH(E) #662406”. — [Main: Series 23: Drawer 465]
+(E)#662486	2006	zt01143p150	       1600 m | 10 Juli 1908 | Fassl leg.”; (2) printed (on white paper) “BMNH(E) #662486”. —
+(E)#662487	2006	zt01143p150	       1800 m. | 22. Juni 1908 | Fassl leg.”; (2) printed (on white paper) “BMNH(E) #662487”. —
+(E)#662488	2006	zt01143p150	       1800 m | 24 September 1908 | Fassl leg.”; (2) printed (on white paper) “BMNH(E)
+(E)#662407	2006	zt01143p150	       Sept ’09”; (2) printed (on white paper) “BMNH(E) #662407”. — [Main: Series 23: Drawer
+(E)#662408	2006	zt01143p150	[8 &] (1) printed (on white paper) “&”; (2) printed (on white paper) “BMNH(E) #662408”. —
+(E)#662490	2006	zt01143p150	       white paper) “Catasticta | bithys &”; (5) printed (on white paper) “BMNH(E) #662490”. —
+(E)#720275	2006	zt01143p150	                 jiev design. 2005”; (10) printed (on white paper) “BMNH(E) #720275”. — [Types: Series 6:
+(E)#720276	2006	zt01143p150	                 Butler, 1875 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E)
+(E)#662344	2006	zt01143p150	                 printed (on white paper) “%”; (6) printed (on white paper) “BMNH(E) #662344”. — [Types:
+(E)#662452	2006	zt01143p150	                 “Godman-Salvin | Coll. 1915.–3.”; (3) printed (on white paper) “BMNH(E) #662452”. —
+(E)#662453	2006	zt01143p150	                 Salvin | Coll. 1915.–3.”; (4) printed (on white paper) “BMNH(E) #662453”. — [Types:
+(E)#662454	2006	zt01143p150	                 | Coll. 1915.–3.”; (4) printed (on white paper) “BMNH(E) #662454”. — [Types: Series 6:
+(E)#662455	2006	zt01143p150	        1998”; (6) printed (on white paper) “BMNH(E) #662455”. — [Types: Series 6: Drawer 481]
+(E)#662354	2006	zt01143p150	       ticta fulva | Joicey & Rosenberg | type”; (5) printed (on white paper) “BMNH(E) #662354”.
+(E)#720339	2006	zt01143p150	        design. 2005”; (5) printed (on white paper) “BMNH(E) #720339”. — [Types: Series 6:
+(E)#720327	2006	zt01143p150	1143             “BMNH(E) #720327”. — [Main: Series 23: Drawer 215]
+(E)#720328	2006	zt01143p150	                 AUG. 25, 1899”; (2) printed (on white paper) “BMNH(E) #720328”. — [Main: Series 23:
+(E)#720329	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720329”. — [Main: Series 23: Drawer 215]
+(E)#720282	2006	zt01143p150	                 jiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720282”. — [Types: Series 6:
+(E)#720283	2006	zt01143p150	                 “BMNH(E) #720283”. — [Types: Series 6: Drawer 20]
+(E)#720250	2006	zt01143p150	      design. 2005”; (8) printed (on white paper) “BMNH(E) #720250”. — [Types: Series 6:
+(E)#720340	2006	zt01143p150	       tion et à la figure”; (9) printed (on white paper) “BMNH(E) #720340”. — [Types: Series 6:
+(E)#662345	2006	zt01143p150	       paper) “BMNH(E) #662345”. — [Types: Series 6: Drawer 49]
+(E)#662346	2006	zt01143p150	       | Brown & Gabriel”; (4) printed (on white paper) “BMNH(E) #662346”. — [Types: Series
+(E)#662439	2006	zt01143p150	       | Brown & Gabriel”; (4) printed (on white paper) “BMNH(E) #662439”. — [Main: Series
+(E)#720245	2006	zt01143p150	                  “BMNH(E) #720245”. — [Types: Series 6: Drawer 43]
+(E)#662331	2006	zt01143p150	                 TYPE | Catasticta | giga % | Brown & Gabriel”; (6) printed (on white paper) “BMNH(E)
+(E)#662434	2006	zt01143p150	          [1]    (1) printed (on white paper) “%”; (2) printed (on white paper) “BMNH(E) #662434”. —
+(E)#662435	2006	zt01143p150	                 paper) “BMNH(E) #662435”. — [Main: Series 23: Drawer 478]
+(E)#720206	2006	zt01143p150	                 paper) “BMNH(E) #720206”. — [Types: Series 6: Drawer 42]
+(E)#720207	2006	zt01143p150	       Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720207”. — [Types:
+(E)#720191	2006	zt01143p150	        2005”; (11) printed (on white paper) “BMNH(E) #720191”. — [Main: Series 23: Drawer
+(E)#720192	2006	zt01143p150	        1907 | S. Abadjiev design. 2005”; (10) printed (on white paper) “BMNH(E) #720192”. —
+(E)#720228	2006	zt01143p150	                 2005”; (7) printed (on white paper) “BMNH(E) #720228”. — [Main: Series 23: Drawer
+(E)#720229	2006	zt01143p150	                 Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720229”. — [Main:
+(E)#720345	2006	zt01143p150	                 “BMNH(E) #720345”. — [Types: Series 6: Drawer 44]
+(E)#662289	2006	zt01143p150	                 “BMNH(E) #662289”. — [Types: Series 6: Drawer 47]
+(E)#662276	2006	zt01143p150	       type | C. grossana | F. M. Brown”; (6) printed (on white paper) “BMNH(E) #662276”. —
+(E)#720033	2006	zt01143p150	        S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720033”. — [Types:
+(E)#720064	2006	zt01143p150	      (Probably only specimen)”; (9) printed (on white paper) “BMNH(E) #720064”. — [Types:
+(E)#720260	2006	zt01143p150	1143             paper) “BMNH(E) #720260”. — [Types: Series 6: Drawer 20]
+(E)#720261	2006	zt01143p150	                 Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720261”. — [Types:
+(E)#662262	2006	zt01143p150	                  mon | Godman & Salvin, 1889 | G. Lamas des. ’93”; (9) printed (on white paper) “BMNH(E)
+(E)#662263	2006	zt01143p150	                  “BMNH(E) #662263”. — [Types: Series 6: Drawer 47]
+(E)#720141	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720141”. — [Main: Series 23: Drawer 313a]
+(E)#720142	2006	zt01143p150	       “BMNH(E) #720142”. — [Main: Series 23: Drawer 313a]
+(E)#662352	2006	zt01143p150	       ’93”; (9) printed (on white paper) “BMNH(E) #662352”. — [Types: Series 6: Drawer 49]
+(E)#662325	2006	zt01143p150	        & Rosenberg | type”; (5) printed (on white paper) “BMNH(E) #662325”. — [Types: Series
+(E)#662434	2006	zt01143p150	        “BMNH(E) #662434”. — [Main: Series 23: Drawer 477]
+(E)#662294	2006	zt01143p150	                “Adams Bequest. | B.M. 1912-399.”; (6) printed (on white paper) “BMNH(E) #662294”. —
+(E)#720315	2006	zt01143p150	                 G.Lamas. det. 1987”; (4) printed (on white paper) “BMNH(E) #720315”. — [Main: Series
+(E)#720169	2006	zt01143p150	                 “Photographed by | B. D’Abrera 77/78”; (7) printed (on white paper) “BMNH(E) #720169”.
+(E)#720079	2006	zt01143p150	                 paper) “Photographed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E)
+(E)#720346	2006	zt01143p150	        grey paper) “H. idiotica | Butler | double type”; (5) printed (on white paper) “BMNH(E)
+(E)#720255	2006	zt01143p150	       S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720255”. — [Types:
+(E)#720291	2006	zt01143p150	       “BMNH(E) #720291”. — [Types: Series 6: Drawer 21]
+(E)#720292	2006	zt01143p150	       design. 2005 [sic!; recte: G. Lamas design. 1990]”; (4) printed (on white paper) “BMNH(E)
+(E)#662340	2006	zt01143p150	                 “BMNH(E) #662340”. — [Types: Series 6: Drawer 49]
+(E)#720182	2006	zt01143p150	                  2005”; (9) printed (on white paper) “BMNH(E) #720182”. — [Types: Series 6: Drawer 41]
+(E)#720183	2006	zt01143p150	                  1907 | det.R.I. Vane-Wright, 1969 | SYNTYPE %”; (3) printed (on white paper) “BMNH(E)
+(E)#720184	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #720184”. — [Types: Series 6: Drawer 41]
+(E)#662258	2006	zt01143p150	       Rosenberg, 1912 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
+(E)#662359	2006	zt01143p150	[1]    printed (on white paper) “BMNH(E) #662359”. — [Main: Series 23: Drawer 452]
+(E)#6623360	2006	zt01143p150	       paper) “BMNH(E) #662360”. — [Main: Series 23: Drawer 452]
+(E)#662361	2006	zt01143p150	[3]    printed (on white paper) “BMNH(E) #662361”. — [Main: Series 23: Drawer 452]
+(E)#662362	2006	zt01143p150	[4]    printed (on white paper) “BMNH(E) #662362”. — [Main: Series 23: Drawer 452]
+(E)#662363	2006	zt01143p150	[5]    printed (on white paper) “BMNH(E) #662363”. — [Main: Series 23: Drawer 452]
+(E)#662364	2006	zt01143p150	[6]    printed (on white paper) “BMNH(E) #662364”. — [Main: Series 23: Drawer 452]
+(E)#662365	2006	zt01143p150	[7]    printed (on white paper) “BMNH(E) #662365”. — [Main: Series 23: Drawer 452]
+(E)#662366	2006	zt01143p150	[8]    printed (on white paper) “BMNH(E) #662366”. — [Main: Series 23: Drawer 452]
+(E)#662367	2006	zt01143p150	[9]    printed (on white paper) “BMNH(E) #662367”. — [Main: Series 23: Drawer 452]
+(E)#662368	2006	zt01143p150	[10] printed (on white paper) “BMNH(E) #662368”. — [Main: Series 23: Drawer 452]
+(E)#720023	2006	zt01143p150	       with red frame) “Type- | H. T”; (5) printed (on white paper) “BMNH(E) #720023”. —
+(E)#720294	2006	zt01143p150	                 design. 2005 [sic!; recte: G. Lamas design. 1990]”; (7) printed (on white paper) “BMNH(E)
+(E)#720295	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720295”. — [Types: Series 6: Drawer 21]
+(E)#720272	2006	zt01143p150	                paper) “BMNH(E) #720272”. — [Types: Series 6: Drawer 20]
+(E)#662297	2006	zt01143p150	                 Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662297”. — [Types:
+(E)#720243	2006	zt01143p150	       paper) “BMNH(E) #720243”. — [Types: Series 6: Drawer 43]
+(E)#720254	2006	zt01143p150	       Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720254”. — [Types:
+(E)#720253	2006	zt01143p150	       design. 2005”; (9) printed (on white paper) “BMNH(E) #720253”. — [Types: Series 6:
+(E)#662392	2006	zt01143p150	        “BMNH(E) #662392”. — [Main: Series 23: Drawer 461]
+(E)#662393	2006	zt01143p150	        “BMNH(E) #662393”. — [Main: Series 23: Drawer 461]
+(E)#662394	2006	zt01143p150	        | Brit.Mus. | 1934-120.”; (5) printed (on white paper) “BMNH(E) #662394”. — [Main:
+(E)#662395	2006	zt01143p150	        Hewitson coll. | 79.69 | Euterpe | sp. | 3”; (2) printed (on white paper) “BMNH(E) #662395”.
+(E)#662396	2006	zt01143p150	                 Hewitson coll. | 79.69 | Euterpe | sp. | 2”; (2) printed (on white paper) “BMNH(E) #662396”.
+(E)#662465	2006	zt01143p150	                 “BMNH(E) #662465”. — [Rothschild: Series 122: Drawer 6]
+(E)#662337	2006	zt01143p150	          [1]    printed (on white paper) “BMNH(E) #662337”. — [Types: Series 6: Drawer 49]
+(E)#662436	2006	zt01143p150	          [2]    printed (on white paper) “BMNH(E) #662436”. — [Main: Series 23: Drawer 480]
+(E)#720320	2006	zt01143p150	                  jiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720320”. — [Main: Series 23:
+(E)#662418	2006	zt01143p150	[1]    (1) handwritten (on white paper) “Pérou”; (2) printed (on white paper) “BMNH(E)
+(E)#662419	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662419”. — [Main: Series 23: Drawer 474]
+(E)#662338	2006	zt01143p150	       1912 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #662338”. —
+(E)#720032	2006	zt01143p150	       Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720032”. — [Types:
+(E)#720031	2006	zt01143p150	       | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720031”. — [Types:
+(E)#720300	2006	zt01143p150	                 (9) printed (on white paper) “BMNH(E) #720300”. — [Rothschild: Series 122: Drawer 39]
+(E)#662349	2006	zt01143p150	                  design. 2005”; (7) printed (on white paper) “BMNH(E) #662349”. — [Types: Series 6:
+(E)#720214	2006	zt01143p150	                Bequest. | Brit.Mus. | 1934-120.”; (5) printed (on white paper) “BMNH(E) #720214”. —
+(E)#720215	2006	zt01143p150	                “BMNH(E) #720215”. — [Types: Series 6: Drawer 42]
+(E)#720262	2006	zt01143p150	       1896 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720262”. —
+(E)#720047	2006	zt01143p150	       (on white paper) “BMNH(E) #720047”. — [Types: Series 6: Drawer 45]
+(E)#720299	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720299”. — [Rothschild: Series 122: Drawer 37]
+(E)#720302	2006	zt01143p150	      and black lines) “Leucanthe n.”; (6) printed (on white paper) “BMNH(E) #720302”. —
+(E)#662350	2006	zt01143p150	                  white paper) “BMNH(E) #662350”. — [Types: Series 6: Drawer 49]
+(E)#720211	2006	zt01143p150	                 hst.”; (5) printed (on white paper) “BMNH(E) #720211”. — [Types: Series 6: Drawer 42]
+(E)#662379	2006	zt01143p150	                  “BMNH(E) #662379”. — [Main: Series 23: Drawer 460]
+(E)#662380	2006	zt01143p150	                  8”; (2) printed (on white paper) “BMNH(E) #662380”. — [Main: Series 23: Drawer 460]
+(E)#662381	2006	zt01143p150	                  “BMNH(E) #662381”. — [Main: Series 23: Drawer 460]
+(E)#662382	2006	zt01143p150	                  (4) printed (on white paper) “BMNH(E) #662382”. — [Main: Series 23: Drawer 460]
+(E)#662383	2006	zt01143p150	                  “BMNH(E) #662383”. — [Main: Series 23: Drawer 460]
+(E)#662384	2006	zt01143p150	                  “Photographed by | B. D’Abrera 77/78”; (5) printed (on white paper) “BMNH(E) #662384”.
+(E)#662484	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #662484”. — [Rothschild: Series 122: Drawer 2]
+(E)#662385	2006	zt01143p150	       white paper) “BMNH(E) #662385”. — [Main: Series 23: Drawer 460]                                   1143
+(E)#662386	2006	zt01143p150	[9 &] printed (on white paper) “BMNH(E) #662386”. — [Main: Series 23: Drawer 460]
+(E)#662387	2006	zt01143p150	[10 &]    printed (on white paper) “BMNH(E) #662387”. — [Main: Series 23: Drawer 460]
+(E)#662388	2006	zt01143p150	       white paper) “BMNH(E) #662388”. — [Main: Series 23: Drawer 460]
+(E)#720220	2006	zt01143p150	      “BMNH(E) #720220”. — [Types: Series 6: Drawer 42]
+(E)#720232	2006	zt01143p150	       “BMNH(E) #720232”. — [Main: Series 23: Drawer 402]
+(E)#720233	2006	zt01143p150	       storfer, 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
+(E)#720019	2006	zt01143p150	                 Felder, 1861 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
+(E)#720334	2006	zt01143p150	                  “BMNH(E) #720334”. — [Rothschild: Series 123: Drawer 19]
+(E)#720188	2006	zt01143p150	                 white paper) “BMNH(E) #720188”. — [Types: Series 6: Drawer 41]
+(E)#720202	2006	zt01143p150	                 jiev design. 2005”; (7) printed (on white paper) “BMNH(E) #720202”. — [Types: Series 6:
+(E)#720007	2006	zt01143p150	       (on white paper) “BMNH(E) #720007”. — [Main: Series 23: Drawer 381]
+(E)#720008	2006	zt01143p150	       1907 | S. Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720008”. —
+(E)#662489	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662489”. — [Rothschild: Series 122: Drawer 2]
+(E)#720014	2006	zt01143p150	       paper) “BMNH(E) #720014”. — [Main: Series 23: Drawer 384]
+(E)#720015	2006	zt01143p150	       02.”; (2) printed (on white paper) “BMNH(E) #720015”. — [Main: Series 23: Drawer 384]
+(E)#720323	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720323”. — [Main: Series 23: Drawer 214]
+(E)#720324	2006	zt01143p150	          [1]    printed (on white paper) “BMNH(E) #720324”. — [Main: Series 23: Drawer 214]
+(E)#720325	2006	zt01143p150	          [2]    printed (on white paper) “BMNH(E) #720325”. — [Main: Series 23: Drawer 214]
+(E)#720326	2006	zt01143p150	          [3]    printed (on white paper) “BMNH(E) #720326”. — [Main: Series 23: Drawer 214]
+(E)#720185	2006	zt01143p150	                 design. 2005”; (9) printed (on white paper) “BMNH(E) #720185”. — [Types: Series 6:
+(E)#720059	2006	zt01143p150	        white paper) “BMNH(E) #720059”. — [Types: Series 6: Drawer 46]
+(E)#662336	2006	zt01143p150	      (on white paper) “BMNH(E) #662336”. — [Types: Series 6: Drawer 49]
+(E)#720175	2006	zt01143p150	       “BMNH(E) #720175”. — [Main: Series 23: Drawer 311a]
+(E)#720278	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #720278”. — [Types: Series 6: Drawer 20]
+(E)#720005	2006	zt01143p150	                  (on white paper) “BMNH(E) #720005”. — [Main: Series 23: Drawer 381]
+(E)#720006	2006	zt01143p150	                  TYPE &”; (2) printed (on white paper) “BMNH(E) #720006”. — [Main: Series 23: Drawer
+(E)#720178	2006	zt01143p150	                 | Venezuela | [line]”; (3) printed (on white paper) “BMNH(E) #720178”. — [Types: Series 6:
+(E)#720179	2006	zt01143p150	                 malenka, Hew. 3.” and glued “&”; (3) printed (on white paper) “BMNH(E) #720179”. —
+(E)#662357	2006	zt01143p150	        printed (on white paper) “BMNH(E) #662357”. — [Types: Series 6: Drawer 49]
+(E)#720001	2006	zt01143p150	       day, 1844 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720001”.
+(E)#720002	2006	zt01143p150	       1844 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720002”. —
+(E)#720024	2006	zt01143p150	       jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720024”. — [Types: Series 6:
+(E)#720350	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720350”. — [Types: Series 6: Drawer 44]
+(E)#720205	2006	zt01143p150	                 (7) printed (on white paper) “BMNH(E) #720205”. — [Types: Series 6: Drawer 42]
+(E)#720352	2006	zt01143p150	                 “BMNH(E) #720352”. — [Types: Series 6: Drawer 44]
+(E)#720259	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720259”. — [Types: Series 6: Drawer 43]
+(E)#720046	2006	zt01143p150	       paper) “BMNH(E) #720046”. — [Types: Series 6: Drawer 45]
+(E)#720210	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720210”. — [Types: Series 6: Drawer 42]
+(E)#720167	2006	zt01143p150	       (on white paper) “BMNH(E) #720167”. — [Main: Series 23: Drawer 314a]
+(E)#720168	2006	zt01143p150	                 graphed by | B. D’Abrera 77/78”; (8) printed (on white paper) “BMNH(E) #720168”. —
+(E)#720357	2006	zt01143p150	                 paper) “Levick Bequest | B.M.1941-83.”; (6) printed (on white paper) “BMNH(E)
+(E)#662332	2006	zt01143p150	                 “BMNH(E) #662332”. — [Types: Series 6: Drawer 48]
+(E)#720011	2006	zt01143p150	        2005”; (7) printed (on white paper) “BMNH(E) #720011”. — [Main: Series 23: Drawer
+(E)#720012	2006	zt01143p150	        fer, 1907 | S. Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720012”. —
+(E)#720265	2006	zt01143p150	      “marica | f. moesia | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720265”. — [Types:
+(E)#720030	2006	zt01143p150	       paper) “BMNH(E) #720030”. — [Types: Series 6: Drawer 41]
+(E)#720226	2006	zt01143p150	                 (on white paper) “BMNH(E) #720226”. — [Main: Series 23: Drawer 402]
+(E)#720268	2006	zt01143p150	                 | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720268”. — [Types: Series 6: Drawer
+(E)#720277	2006	zt01143p150	                  type.”; (10) printed (on white paper) “BMNH(E) #720277”. — [Types: Series 6: Drawer 20]
+(E)#720082	2006	zt01143p150	       2005”; (6) printed (on white paper) “BMNH(E) #720082”. — [Types: Series 6: Drawer 50]
+(E)#662277	2006	zt01143p150	       Coll. 1915.–3.”; (4) handwritten “teutamis | Hew.”; (5) printed (on white paper) “BMNH(E)
+(E)#662278	2006	zt01143p150	[2]    printed (on white paper) “BMNH(E) #662278”. — [Main: Series 23: Drawer 459]
+(E)#662279	2006	zt01143p150	[3]    printed (on white paper) “BMNH(E) #662279”. — [Main: Series 23: Drawer 459]
+(E)#662280	2006	zt01143p150	[4]    printed (on white paper) “BMNH(E) #662280”. — [Main: Series 23: Drawer 459]
+(E)#662281	2006	zt01143p150	[5]    printed (on white paper) “BMNH(E) #662281”. — [Main: Series 23: Drawer 459]
+(E)#662282	2006	zt01143p150	[6]    printed (on white paper) “BMNH(E) #662282”. — [Main: Series 23: Drawer 459]
+(E)#662283	2006	zt01143p150	[7]    printed (on white paper) “BMNH(E) #662283”. — [Main: Series 23: Drawer 459]
+(E)#662284	2006	zt01143p150	[8]    printed (on white paper) “BMNH(E) #662284”. — [Main: Series 23: Drawer 459]
+(E)#662285	2006	zt01143p150	[9]    printed (on white paper) “BMNH(E) #662285”. — [Main: Series 23: Drawer 459]
+(E)#662286	2006	zt01143p150	[10] printed (on white paper) “BMNH(E) #662286”. — [Main: Series 23: Drawer 459]
+(E)#662287	2006	zt01143p150	[11] printed (on white paper) “BMNH(E) #662287”. — [Main: Series 23: Drawer 459]
+(E)#720051	2006	zt01143p150	        | f. musia | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720051”. — [Types: Series 6:
+(E)#720009	2006	zt01143p150	                  design. 2005”; (6) printed (on white paper) “BMNH(E) #720009”. — [Main: Series 23:
+(E)#720010	2006	zt01143p150	                  hstorfer, 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
+(E)#662411	2006	zt01143p150	          [1]     printed (on white paper) “BMNH(E) #662411”. — [Main: Series 23: Drawer 471]
+(E)#662412	2006	zt01143p150	          [2]     printed (on white paper) “BMNH(E) #662412”. — [Main: Series 23: Drawer 471]
+(E)#662413	2006	zt01143p150	          [3]     printed (on white paper) “BMNH(E) #662413”. — [Main: Series 23: Drawer 471]
+(E)#662414	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #662414”. — [Main: Series 23: Drawer 471]
+(E)#662415	2006	zt01143p150	                  (on white paper) “BMNH(E) #662415”. — [Main: Series 23: Drawer 471]
+(E)#662416	2006	zt01143p150	          [6]     printed (on white paper) “BMNH(E) #662416”. — [Main: Series 23: Drawer 471]
+(E)#662417	2006	zt01143p150	          [7]     printed (on white paper) “BMNH(E) #662417”. — [Main: Series 23: Drawer 471]
+(E)#720305	2006	zt01143p150	       design. 2005”; (8) printed (on white paper) “BMNH(E) #720305”. — [Main: Series 23:
+(E)#720306	2006	zt01143p150	       storfer, 1908 | S. Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E)
+(E)#720286	2006	zt01143p150	       des. ’93”; (8) printed (on white paper) “BMNH(E) #720286”. — [Types: Series 6: Drawer
+(E)#720285	2006	zt01143p150	                 white paper) “BMNH(E) #720285”. — [Types: Series 6: Drawer 20]
+(E)#720073	2006	zt01143p150	                bronze bands and black lines) “var. negrina n.”; (6) printed (on white paper) “BMNH(E)
+(E)#720364	2006	zt01143p150	                 “BMNH(E) #720364”. — [Types: Series 6: Drawer 45]
+(E)#720335	2006	zt01143p150	                bronze bands and black lines) “Nereis n.”; (6) printed (on white paper) “BMNH(E)
+(E)#720057	2006	zt01143p150	       “BMNH(E) #720057”. — [Types: Series 6: Drawer 46]
+(E)#720044	2006	zt01143p150	        printed (on white paper) “BMNH(E) #720044”. — [Types: Series 6: Drawer 45]
+(E)#720065	2006	zt01143p150	       white paper) “BMNH(E) #720065”. — [Types: Series 6: Drawer 46]
+(E)#720354	2006	zt01143p150	                 2005”; (7) printed (on white paper) “BMNH(E) #720354”. — [Types: Series 6: Drawer 44]
+(E)#662355	2006	zt01143p150	                 paper) “BMNH(E) #662355”. — [Types: Series 6: Drawer 49]
+(E)#662269	2006	zt01143p150	                paper with red frame) “Type | H T”; (4) printed (on white paper) “BMNH(E) #662269”. —
+(E)#662270	2006	zt01143p150	                red frame) “Type | A T”; (5) printed (on white paper) “BMNH(E) #662270”. — [Types:
+(E)#662491	2006	zt01143p150	                 “demophile | nimietes | Fruhst.”; (7) printed (on white paper) “BMNH(E) #662491”. —
+(E)#662492	2006	zt01143p150	       “demophile | niphates | Fruhst.”; (8) printed (on white paper) “BMNH(E) #662492”. —
+(E)#720362	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720362”. — [Types: Series 6: Drawer 45]
+(E)#720363	2006	zt01143p150	       (on white paper) “BMNH(E) #720363”. — [Types: Series 6: Drawer 45]
+(E)#662498	2006	zt01143p150	                black framed “demophile | niseias | Fruhst.”; (7) printed (on white paper) “BMNH(E)
+(E)#662292	2006	zt01143p150	                 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E) #662292”. — [Types:
+(E)#662293	2006	zt01143p150	                 design. 2005”; (8) printed (on white paper) “BMNH(E) #662293”. — [Types: Series 6:
+(E)#720018	2006	zt01143p150	                  “BMNH(E) #720018”. — [Types: Series 6: Drawer 41]
+(E)#662358	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662358”. — [Main: Series 23: Drawer 451]
+(E)#662499	2006	zt01143p150	        | Butler & Druce, 1872 | S. Abadjiev design. 2005”; (9) printed (on white paper) “BMNH(E)
+(E)#720053	2006	zt01143p150	        design. 2005”; (8) printed (on white paper) “BMNH(E) #720053”. — [Types: Series 6:
+(E)#720054	2006	zt01143p150	                 2005”; (8) printed (on white paper) “BMNH(E) #720054”. — [Types: Series 6: Drawer 45]
+(E)#662456	2006	zt01143p150	                  f. obsoleta | F. M. Brown”; (5) printed (on white paper) “BMNH(E) #662456”. — [Roths-
+(E)#662274	2006	zt01143p150	                 Lamas des. ’93”; (11) printed (on white paper) “BMNH(E) #662274”. — [Types: Series 6:
+(E)#720204	2006	zt01143p150	       (4) printed (on white paper) “BMNH(E) #720204”. — [Types: Series 6: Drawer 42]
+(E)#720238	2006	zt01143p150	      “BMNH(E) #720238”. — [Rothschild: Series 122: Drawer 31]
+(E)#720016	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720016”. — [Main: Series 23: Drawer 384]
+(E)#720017	2006	zt01143p150	       Fruhstorfer, 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E)
+(E)#720284	2006	zt01143p150	1143            black framed “marmia | fa othoca | Fruhst.”; (6) printed (on white paper) “BMNH(E)
+(E)#662427	2006	zt01143p150	                  Brown”; (5) printed (on white paper) “BMNH(E) #662427”. — [Main: Series 23: Drawer
+(E)#662500	2006	zt01143p150	                 blue frame) “SYN- | TYPE”; (3) printed (on white paper) “BMNH(E) #662500”. — [Types:
+(E)#720063	2006	zt01143p150	                  1907 | S. Abadjiev design. 2005”; (11) printed (on white paper) “BMNH(E) #720063”. —
+(E)#720152	2006	zt01143p150	       22”; (3) printed (on white paper) “BMNH(E) #720152”. — [Main: Series 23: Drawer 314]
+(E)#720153	2006	zt01143p150	       23”; (3) printed (on white paper) “BMNH(E) #720153”. — [Main: Series 23: Drawer 314]
+(E)#720154	2006	zt01143p150	       white paper) “Brit.Mus. | 1976-491.”; (5) printed (on white paper) “BMNH(E) #720154”. —
+(E)#720155	2006	zt01143p150	       m.”; (2) handwritten (on light yellow paper) “5-26”; (3) printed (on white paper) “BMNH(E)
+(E)#720197	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720197”. — [Main: Series 23: Drawer 392]
+(E)#662342	2006	zt01143p150	                  printed (on white paper) “BMNH(E) #662342”. — [Types: Series 6: Drawer 49]
+(E)#720212	2006	zt01143p150	                 Talbot, 1928 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
+(E)#720213	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720213”. — [Types: Series 6: Drawer 42]
+(E)#662485	2006	zt01143p150	                  white paper) “BMNH(E) #662485”. — [Floor 2: Series B: Drawer 5706]
+(E)#720266	2006	zt01143p150	      “BMNH(E) #720266”. — [Types: Series 6: Drawer 20]
+(E)#720293	2006	zt01143p150	       tonura | pedrosina | & | type.Butler”; (3) printed (on white paper) “BMNH(E) #720293”. —
+(E)#720029	2006	zt01143p150	       paper) “Levick Bequest | B.M.1941-83”; (7) printed (on white paper) “BMNH(E) #720029”.
+(E)#720370	2006	zt01143p150	        printed (on white paper) “BMNH(E) #720370”. — [Main: Series 23: Drawer 210]
+(E)#720371	2006	zt01143p150	[2]     printed (on white paper) “BMNH(E) #720371”. — [Main: Series 23: Drawer 210]
+(E)#720190	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720190”. — [Types: Series 6: Drawer 41]
+(E)#662271	2006	zt01143p150	                 paper with red frame) “Type | H T”; (5) printed (on white paper) “BMNH(E) #662271”. —
+(E)#720316	2006	zt01143p150	                 1907 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720316”. —
+(E)#720317	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720317”. — [Main: Series 23: Drawer 210]
+(E)#720318	2006	zt01143p150	                 (5) printed (on white paper) “BMNH(E) #720318”. — [Main: Series 23: Drawer 210]
+(E)#720281	2006	zt01143p150	       black framed “forma phaënna | Fruhst.”; (6) printed (on white paper) “BMNH(E) #720281”.
+(E)#720367	2006	zt01143p150	       storfer Coll. | B.M. 1937-285.”; (4) printed (on white paper) “BMNH(E) #720367”. —
+(E)#720368	2006	zt01143p150	       “BMNH(E) #720368”. — [Main: Series 23: Drawer 436]
+(E)#720041	2006	zt01143p150	       paper) “BMNH(E) #720041”. — [Types: Series 6: Drawer 45]
+(E)#720040	2006	zt01143p150	                  Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720040”. — [Types:
+(E)#720070	2006	zt01143p150	                 Typ.Nr.1234”; (12) printed (on white paper) “BMNH(E) #720070”. — [Types: Series 6:
+(E)#720234	2006	zt01143p150	                 white paper with red frame) “phanokia Fruhst.”; (6) printed (on white paper) “BMNH(E)
+(E)#720249	2006	zt01143p150	       fer, 1908 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720249”. —
+(E)#662268	2006	zt01143p150	        “Type”; (7) printed (on white paper) “BMNH(E) #662268”. — [Types: Series 6: Drawer 47]
+(E)#720279	2006	zt01143p150	        “BMNH(E) #720279”. — [Types: Series 6: Drawer 20]
+(E)#720280	2006	zt01143p150	        2005”; (6) printed (on white paper) “BMNH(E) #720280”. — [Types: Series 6: Drawer 20]
+(E)#662460	2006	zt01143p150	                 “BMNH(E) #662460”. — [Rothschild: Series 122: Drawer 5]
+(E)#662461	2006	zt01143p150	          [1]    printed (on white paper) “BMNH(E) #662461”. — [Rothschild: Series 122: Drawer 5]
+(E)#662462	2006	zt01143p150	          [2]    printed (on white paper) “BMNH(E) #662462”. — [Rothschild: Series 122: Drawer 5]
+(E)#662463	2006	zt01143p150	                 | philias [sic!] | Felder | det. F. M. Brown”; (4) printed (on white paper) “BMNH(E)
+(E)#662464	2006	zt01143p150	          [4]    printed (on white paper) “BMNH(E) #662464”. — [Rothschild: Series 122: Drawer 5]
+(E)#662438	2006	zt01143p150	                 Hew”; (5) printed (on white paper) “BMNH(E) #662438”. — [Main: Series 23: Drawer
+(E)#662343	2006	zt01143p150	       “BMNH(E) #662343”. — [Types: Series 6: Drawer 49]                                                 1143
+(E)#720224	2006	zt01143p150	       paper) “BMNH(E) #720224”. — [Types: Series 6: Drawer 42]
+(E)#662459	2006	zt01143p150	       “BMNH(E) #662459”. — [Rothschild: Series 122: Drawer 5]
+(E)#662457	2006	zt01143p150	       paper) “BMNH(E) #662457”. — [Rothschild: Series 122: Drawer 4]
+(E)#147494	2006	zt01143p150	                printed (on white paper) “BMNH(E) # 147494”. — [Rothschild: Series 122: Drawer 4]
+(E)#147495	2006	zt01143p150	                 Felder, 1865 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #
+(E)#662481	2006	zt01143p150	                “BMNH(E) #662481”. — [Rothschild: Series 123: Drawer 3]
+(E)#720235	2006	zt01143p150	                paper) “BMNH(E) #720235”. — [Rothschild: Series 122: Drawer 27]
+(E)#662351	2006	zt01143p150	       des. ’93”; (7) printed (on white paper) “BMNH(E) #662351”. — [Types: Series 6: Drawer
+(E)#720003	2006	zt01143p150	       paper) “BMNH(E) #720003”. — [Types: Series 6: Drawer 40]
+(E)#720004	2006	zt01143p150	       Hewitson, 1861 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E)
+(E)#720321	2006	zt01143p150	       “BMNH(E) #720321”. — [Main: Series 23: Drawer 213]
+(E)#720322	2006	zt01143p150	       paper) “Levick Bequest | B.M.1941-83.”; (5) printed (on white paper) “BMNH(E)
+(E)#662482	2006	zt01143p150	                 “BMNH(E) #662482”. — [Rothschild: Series 123: Drawer 5]
+(E)#720336	2006	zt01143p150	                 sia | Fruhstorfer, 1910 | S. Abadjiev design. 2005”; (7) printed (on white paper) “BMNH(E)
+(E)#720301	2006	zt01143p150	                 S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720301”. — [Roths-
+(E)#662467	2006	zt01143p150	       white paper) “BMNH(E) #662467”. — [Rothschild: Series 122: Drawer 6]                                  1143
+(E)#662466	2006	zt01143p150	       design. 2005”; (5) printed (on white paper) “BMNH(E) #662466”. — [Rothschild: Series
+(E)#720369	2006	zt01143p150	       Bequest. | Brit.Mus. | 1934-120.”; (6) printed (on white paper) “BMNH(E) #720369”. —
+(E)#662321	2006	zt01143p150	        1887 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #662321”. —
+(E)#720338	2006	zt01143p150	                 Abadjiev design. 2005”; (5) printed (on white paper) “BMNH(E) #720338”. — [Types:
+(E)#720337	2006	zt01143p150	                 Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #720337”. — [Types:
+(E)#720246	2006	zt01143p150	                 (7) printed (on white paper) “BMNH(E) #720246”. — [Types: Series 6: Drawer 43]
+(E)#720269	2006	zt01143p150	                  “BMNH(E) #720269”. — [Types: Series 6: Drawer 20]
+(E)#662296	2006	zt01143p150	       paper) “BMNH(E) #662296”. — [Types: Series 6: Drawer 47]
+(E)#720159	2006	zt01143p150	      “BMNH(E) #720159”. — [Main: Series 23: Drawer 314]
+(E)#720160	2006	zt01143p150	      madice | punctata”; (3) printed (on white paper) “BMNH(E) #720160”. — [Main: Series 23:
+(E)#720161	2006	zt01143p150	      “punctata | Jörg.”; (3) printed (on white paper) “BMNH(E) #720161”. — [Main: Series 23:
+(E)#720162	2006	zt01143p150	      %”; (3) printed (on white paper) “BMNH(E) #720162”. — [Main: Series 23: Drawer 314]
+(E)#720163	2006	zt01143p150	      n.f. | %”; (3) printed (on white paper) “BMNH(E) #720163”. — [Main: Series 23: Drawer
+(E)#720164	2006	zt01143p150	      “BMNH(E) #720164”. — [Main: Series 23: Drawer 314]
+(E)#720165	2006	zt01143p150	      “BMNH(E) #720165”. — [Main: Series 23: Drawer 314]
+(E)#720330	2006	zt01143p150	                  lycimnia radiata % | Peru Type”; (9) printed (on white paper) “BMNH(E) #720330”. —
+(E)#662328	2006	zt01143p150	                 “BMNH(E) #662328”. — [Types: Series 6: Drawer 48]
+(E)#720067	2006	zt01143p150	                 S. Abadjiev design. 2005”; (10) printed (on white paper) “BMNH(E) #720067”. — [Types:
+(E)#720287	2006	zt01143p150	       [sic!; recte: G. Lamas design. 1990]”; (7) printed (on white paper) “BMNH(E) #720287”. —
+(E)#662477	2006	zt01143p150	       ?”; (5) printed (on white paper) “BMNH(E) #662477”. — [Rothschild: Series 122: Drawer
+(E)#662478	2006	zt01143p150	[1]    printed (on white paper) “BMNH(E) #662478”. — [Rothschild: Series 122: Drawer 10]
+(E)#662479	2006	zt01143p150	[2]    (1) printed (on white paper) “19”; (2) printed (on white paper) “BMNH(E) #662479”. —
+(E)#662429	2006	zt01143p150	       handwritten in pencil “Brit. Mus. | 1997-25.”; (6) printed (on white paper) “BMNH(E)
+(E)#662430	2006	zt01143p150	                (on white paper) “BMNH(E) #662430”. — [Main: Series 23: Drawer 476]
+(E)#662347	2006	zt01143p150	                 “Photographed by | B. D’Abrera 77/78”; (6) printed (on white paper) “BMNH(E) #662347”.
+(E)662441	2006	zt01143p150	                 paper) “BMNH(E) #662441”. — [Main: Series 23: Drawer 481]
+(E)#720066	2006	zt01143p150	                 paper) “BMNH(E) #720066”. — [Types: Series 6: Drawer 46]
+(E)#662320	2006	zt01143p150	      (on white paper) “BMNH(E) #662320”. — [Types: Series 6: Drawer 48]
+(E)#720186	2006	zt01143p150	        Butler”; (3) printed (on white paper) “BMNH(E) #720186”. — [Types: Series 6: Drawer 41]
+(E)#720198	2006	zt01143p150	        thris | rosenbergi % | Butler”; (2) printed (on white paper) “BMNH(E) #720198”. — [Main:
+(E)#720199	2006	zt01143p150	        paper) “BMNH(E) #720199”. — [Main: Series 23: Drawer 392]
+(E)#720200	2006	zt01143p150	        phuralis | type Butler.”; (2) printed (on white paper) “BMNH(E) #720200”. — [Main: Series
+(E)#720027	2006	zt01143p150	       Fruhstorfer, 1907 | G. Lamas des. ’93”; (12) printed (on white paper) “BMNH(E) #720027”.
+(E)#720028	2006	zt01143p150	                 white paper) “BMNH(E) #720028”. — [Types: Series 6: Drawer 41]
+(E)#720068	2006	zt01143p150	                  Stichel, 1908 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E)
+(E)#720075	2006	zt01143p150	                  “BMNH(E) #720075”. — [Main: Series 23: Drawer 448]
+(E)#720252	2006	zt01143p150	                 rusella | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720252”. — [Types: Series 6:
+(E)#720013	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720013”. — [Main: Series 23: Drawer 384]
+(E)#720071	2006	zt01143p150	       TYPE %”; (8) printed (on white paper) “BMNH(E) #720071”. — [Types: Series 6: Drawer
+(E)#720052	2006	zt01143p150	       (8) printed (on white paper) “BMNH(E) #720052”. — [Types: Series 6: Drawer 45]
+(E)#662423	2006	zt01143p150	1143             man-Salvin | Coll. 1915.–3.”; (3) printed (on white paper) “BMNH(E) #662423”. — [Main:
+(E)#720090	2006	zt01143p150	                 det.P.Ackery 1975”; (6) printed (on white paper) “BMNH(E) #720090”. — [Main: Series
+(E)#720091	2006	zt01143p150	                 white paper) “BMNH(E) #720091”. — [Main: Series 23: Drawer 316]
+(E)#720092	2006	zt01143p150	                 white paper) “BMNH(E) #720092”. — [Main: Series 23: Drawer 316]
+(E)#720093	2006	zt01143p150	          [3 %] (1) printed (on white paper) “1300”; (2) printed (on white paper) “BMNH(E) #720093”. —
+(E)#720094	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720094”. — [Main: Series 23: Drawer 316]
+(E)#720095	2006	zt01143p150	          [5 %] printed (on white paper) “BMNH(E) #720095”. — [Main: Series 23: Drawer 316]
+(E)#720096	2006	zt01143p150	          [6 %] printed (on white paper) “BMNH(E) #720096”. — [Main: Series 23: Drawer 316]
+(E)#720097	2006	zt01143p150	          [7 %] printed (on white paper) “BMNH(E) #720097”. — [Main: Series 23: Drawer 316]
+(E)#720098	2006	zt01143p150	          [8 %] printed (on white paper) “BMNH(E) #720098”. — [Main: Series 23: Drawer 316]
+(E)#720099	2006	zt01143p150	          [9 %] printed (on white paper) “BMNH(E) #720099”. — [Main: Series 23: Drawer 316]
+(E)#720100	2006	zt01143p150	          [10 %]     printed (on white paper) “BMNH(E) #720100”. — [Main: Series 23: Drawer 316]
+(E)#720101	2006	zt01143p150	                 10.iii.1975”; (2) printed (on white paper) “BMNH(E) #720101”. — [Main: Series 23:
+(E)#720102	2006	zt01143p150	                 8.iii.1975”; (2) printed (on white paper) “BMNH(E) #720102”. — [Main: Series 23: Drawer
+(E)#720103	2006	zt01143p150	          [13 %]     printed (on white paper) “BMNH(E) #720103”. — [Main: Series 23: Drawer 316]
+(E)#720104	2006	zt01143p150	          [14 %]     printed (on white paper) “BMNH(E) #720104”. — [Main: Series 23: Drawer 316]
+(E)#720105	2006	zt01143p150	[15 %]     printed (on white paper) “BMNH(E) #720105”. — [Main: Series 23: Drawer 316]             ZOOTAXA
+(E)#720106	2006	zt01143p150	[16 %]     printed (on white paper) “BMNH(E) #720106”. — [Main: Series 23: Drawer 316]             1143
+(E)#720107	2006	zt01143p150	[17 %]     printed (on white paper) “BMNH(E) #720107”. — [Main: Series 23: Drawer 316]
+(E)#720108	2006	zt01143p150	[18 %]     printed (on white paper) “BMNH(E) #720108”. — [Main: Series 23: Drawer 316]
+(E)#720109	2006	zt01143p150	[19 %]     printed (on white paper) “BMNH(E) #720109”. — [Main: Series 23: Drawer 316]
+(E)#720110	2006	zt01143p150	[20 %]     printed (on white paper) “BMNH(E) #720110”. — [Main: Series 23: Drawer 316]
+(E)#720111	2006	zt01143p150	[21 %]     printed (on white paper) “BMNH(E) #720111”. — [Main: Series 23: Drawer 316]
+(E)#720112	2006	zt01143p150	[22 %]     printed (on white paper) “BMNH(E) #720112”. — [Main: Series 23: Drawer 316]
+(E)#720113	2006	zt01143p150	[23 %]     printed (on white paper) “BMNH(E) #720113”. — [Main: Series 23: Drawer 316]
+(E)#720114	2006	zt01143p150	[24 %]     printed (on white paper) “BMNH(E) #720114”. — [Main: Series 23: Drawer 316]
+(E)#720115	2006	zt01143p150	[25 %]     printed (on white paper) “BMNH(E) #720115”. — [Main: Series 23: Drawer 316]
+(E)#720116	2006	zt01143p150	[26 %]     printed (on white paper) “BMNH(E) #720116”. — [Main: Series 23: Drawer 316]
+(E)#720117	2006	zt01143p150	[27 %]     printed (on white paper) “BMNH(E) #720117”. — [Main: Series 23: Drawer 316]
+(E)#720118	2006	zt01143p150	[28 %]     printed (on white paper) “BMNH(E) #720118”. — [Main: Series 23: Drawer 316]
+(E)#720119	2006	zt01143p150	[29 %]     printed (on white paper) “BMNH(E) #720119”. — [Main: Series 23: Drawer 316]
+(E)#720120	2006	zt01143p150	[30 %]     printed (on white paper) “BMNH(E) #720120”. — [Main: Series 23: Drawer 316]
+(E)#720121	2006	zt01143p150	[31 %]     printed (on white paper) “BMNH(E) #720121”. — [Main: Series 23: Drawer 316]
+(E)#720122	2006	zt01143p150	[32 %]     printed (on white paper) “BMNH(E) #720122”. — [Main: Series 23: Drawer 316]
+(E)#720123	2006	zt01143p150	[33 %]     printed (on white paper) “BMNH(E) #720123”. — [Main: Series 23: Drawer 316]
+(E)#720124	2006	zt01143p150	[34 %]     printed (on white paper) “BMNH(E) #720124”. — [Main: Series 23: Drawer 316]
+(E)#720125	2006	zt01143p150	[35 %]     printed (on white paper) “BMNH(E) #720125”. — [Main: Series 23: Drawer 316]
+(E)#720126	2006	zt01143p150	[36 %]     printed (on white paper) “BMNH(E) #720126”. — [Main: Series 23: Drawer 316]
+(E)#720127	2006	zt01143p150	[37 %]     printed (on white paper) “BMNH(E) #720127”. — [Main: Series 23: Drawer 316]
+(E)#720128	2006	zt01143p150	[38 %]     printed (on white paper) “BMNH(E) #720128”. — [Main: Series 23: Drawer 316]
+(E)#720129	2006	zt01143p150	[39 %]     printed (on white paper) “BMNH(E) #720129”. — [Main: Series 23: Drawer 316]
+(E)#720130	2006	zt01143p150	[40 %]     printed (on white paper) “BMNH(E) #720130”. — [Main: Series 23: Drawer 316]
+(E)#720131	2006	zt01143p150	       printed (on white paper) “BMNH(E) #720131”. — [Main: Series 23: Drawer 316]
+(E)#720132	2006	zt01143p150	[42 &]     printed (on white paper) “BMNH(E) #720132”. — [Main: Series 23: Drawer 316]
+(E)#720133	2006	zt01143p150	[43 &]     printed (on white paper) “BMNH(E) #720133”. — [Main: Series 23: Drawer 316]
+(E)#720134	2006	zt01143p150	[44 &]     printed (on white paper) “BMNH(E) #720134”. — [Main: Series 23: Drawer 316]
+(E)#720135	2006	zt01143p150	[45 &]     printed (on white paper) “BMNH(E) #720135”. — [Main: Series 23: Drawer 316]
+(E)#720136	2006	zt01143p150	[46 &]     printed (on white paper) “BMNH(E) #720136”. — [Main: Series 23: Drawer 316]
+(E)#720137	2006	zt01143p150	       18.ii.1975.”; (2) printed (on white paper) “BMNH(E) #720137”. — [Main: Series 23:
+(E)#720138	2006	zt01143p150	[48 &]     printed (on white paper) “BMNH(E) #720138”. — [Main: Series 23: Drawer 316]
+(E)#720139	2006	zt01143p150	[49 &]     printed (on white paper) “BMNH(E) #720139”. — [Main: Series 23: Drawer 316]
+(E)#662334	2006	zt01143p150	                Brit.Mus. | 1934-120.”; (5) printed (on white paper) “BMNH(E) #662334”. — [Types:
+(E)#720240	2006	zt01143p150	                (on white paper) “BMNH(E) #720240”. — [Rothschild: Series 122: Drawer 33]
+(E)#720271	2006	zt01143p150	       frame) “Macas | Ecuador.”; (7) printed (on white paper) “BMNH(E) #720271”. — [Types:
+(E)#720186	2006	zt01143p150	      septentrionalis | Röb & | Collection Niepelt.”; (7) printed (on white paper) “BMNH(E)
+(E)#720365	2006	zt01143p150	       paper) “BMNH(E) #720365”. — [Main: Series 23: Drawer 431]
+(E)#720332	2006	zt01143p150	      printed (on white paper) “BMNH(E) #720332”. — [Rothschild: Series 123: Drawer 15]
+(E)#662307	2006	zt01143p150	                 berg, 1912 | S. Abadjiev design. 2005”; (6) printed (on white paper) “BMNH(E) #662307”.
+(E)#662298	2006	zt01143p150	                white paper) “BMNH(E) #662298”. — [Types: Series 6: Drawer 47]
+(E)#662307	2006	zt01143p150	                 smithia | TYPE. | Brown & Gabriel.”; (7) printed (on white paper) “BMNH(E) #662302”. —
+(E)#720219	2006	zt01143p150	                 Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720219”. — [Types:
+(E)#662330	2006	zt01143p150	       design. 2005”; (5) printed (on white paper) “BMNH(E) #662330”. — [Types: Series 6:
+(E)#720042	2006	zt01143p150	      (7) printed (on white paper) “BMNH(E) #720042”. — [Types: Series 6: Drawer 45]
+(E)#662257	2006	zt01143p150	      printed (on white paper with red frame) “Type”; (4) printed (on white paper) “BMNH(E)
+(E)#720170	2006	zt01143p150	                (on white paper) “BMNH(E) #720170”. — [Main: Series 23: Drawer 312a]
+(E)#720166	2006	zt01143p150	                 96.–12.” and glued handwritten “Cocapata | Garl.”; (5) printed (on white paper) “BMNH(E)
+(E)#662260	2006	zt01143p150	                 jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662260”. — [Types: Series 6:
+(E)#662369	2006	zt01143p150	                 “BMNH(E) #662369”. — [Main: Series 23: Drawer 453]
+(E)#662425	2006	zt01143p150	       (on white paper) “BMNH(E) #662425”. — [Main: Series 23: Drawer 475]
+(E)#662426	2006	zt01143p150	       | amastris % | Hewits.”; (2) printed (on white paper) “BMNH(E) #662426”. — [Main: Series
+(E)#662291	2006	zt01143p150	       “Holo- | type”; (3) printed (on white paper) “BMNH(E) #662291”. — [Types: Series 6:
+(E)#720236	2006	zt01143p150	       lines) “Suadella n.”; (4) printed (on white paper) “BMNH(E) #720236”. — [Rothschild:
+(E)#720242	2006	zt01143p150	      paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (7) printed (on white paper) “BMNH(E)
+(E)#720222	2006	zt01143p150	                 “BMNH(E) #720222”. — [Types: Series 6: Drawer 42]
+(E)#662303	2006	zt01143p150	                 paper) “BMNH(E) #662303”. — [Types: Series 6: Drawer 48]
+(E)#720221	2006	zt01143p150	                  white paper) “BMNH(E) #720221”. — [Types: Series 6: Drawer 42]
+(E)#662420	2006	zt01143p150	                 “BMNH(E) #662420”. — [Main: Series 23: Drawer 474]
+(E)#662421	2006	zt01143p150	       (on white paper) “BMNH(E) #662421”. — [Main: Series 23: Drawer 474]                                  1143
+(E)#662419	2006	zt01143p150	       (2) printed (on white paper) “BMNH(E) #662419”. — [Main: Series 23: Drawer 474]
+(E)#662410	2006	zt01143p150	       paper) “Ex Oberthür Coll. | Brit.Mus. 1927–3.”; (3) printed (on white paper) “BMNH(E)
+(E)#662322	2006	zt01143p150	        B.M. 1912-399.”; (5) printed (on white paper) “BMNH(E) #662322”. — [Types: Series 6:
+(E)#662428	2006	zt01143p150	        white paper) “BMNH(E) #662428”. — [Main: Series 23: Drawer 476]
+(E)#662458	2006	zt01143p150	        printed (on white paper) “BMNH(E) #662458”. — [Rothschild: Series 122: Drawer 5]
+(E)#662306	2006	zt01143p150	                 white paper) “BMNH(E) #662306”. — [Types: Series 6: Drawer 48]
+(E)#720039	2006	zt01143p150	                 the back side “Pereute | swainsoni | Gray”; (4) printed (on white paper) “BMNH(E)
+(E)#720085	2006	zt01143p150	                  paper) “BMNH(E) #720085”. — [Rothschild: Series 122: Drawer 12]
+(E)#662353	2006	zt01143p150	                 1910.”; (5) printed (on white paper) “BMNH(E) #662353”. — [Types: Series 6: Drawer 49]
+(E)#662301	2006	zt01143p150	       brown paper) “Coll B”; (6) printed (on white paper) “BMNH(E) #662301”. — [Types:
+(E)#662356	2006	zt01143p150	       (on white paper) “BMNH(E) #662356”. — [Types: Series 6: Drawer 49]
+(E)#662442	2006	zt01143p150	       (2) printed (on white paper) “BMNH(E) #662442”. — [Main: Series 23: Drawer 481]
+(E)#662443	2006	zt01143p150	       “BMNH(E) #662443”. — [Main: Series 23: Drawer 481]
+(E)#662264	2006	zt01143p150	[1 %] printed (on white paper) “BMNH(E) #662264”. — [Types: Series 6: Drawer 47]
+(E)#662370	2006	zt01143p150	[2 %] printed (on white paper) “BMNH(E) #662370”. — [Main: Series 23: Drawer 456]
+(E)#662371	2006	zt01143p150	                 Schmassmann | 1927.”; (4) printed (on white paper) “BMNH(E) #662371”. — [Main: Series
+(E)#662265	2006	zt01143p150	                 ticta | tatae & | F. Martin Brown”; (4) printed (on white paper) “BMNH(E) #662265”. —
+(E)#720083	2006	zt01143p150	                  2005”; (6) printed (on white paper) “BMNH(E) #720083”. — [Types: Series 6: Drawer 50]
+(E)#720055	2006	zt01143p150	                 (on white paper) “BMNH(E) #720055”. — [Types: Series 6: Drawer 45]
+(E)#720223	2006	zt01143p150	        “BMNH(E) #720223”. — [Types: Series 6: Drawer 42]
+(E)#662267	2006	zt01143p150	        (9) printed (on white paper) “BMNH(E) #662267”. — [Types: Series 6: Drawer 47]
+(E)#662309	2006	zt01143p150	        (on white paper) “BMNH(E) #662309”. — [Types: Series 6: Drawer 48]
+(E)#720061	2006	zt01143p150	1143             white paper) “BMNH(E) #720061”. — [Types: Series 6: Drawer 46]
+(E)#720307	2006	zt01143p150	                  white paper) “theodora | Fruhst.”; (3) printed (on white paper) “BMNH(E) #720307”. —
+(E)#720308	2006	zt01143p150	                  (on white paper) “BMNH(E) #720308”. — [Main: Series 23: Drawer 208]
+(E)#720309	2006	zt01143p150	          [3]     printed (on white paper) “BMNH(E) #720309”. — [Main: Series 23: Drawer 208]
+(E)#720310	2006	zt01143p150	                  “Body | re-affixed. | T.G. Howarth.”; (4) printed (on white paper) “BMNH(E) #720310”. —
+(E)#662261	2006	zt01143p150	                  design. 2005”; (7) printed (on white paper) “BMNH(E) #662261”. — [Types: Series 6:
+(E)#720247	2006	zt01143p150	      framed “sevata | tiburtia | Fruhst.”; (7) printed (on white paper) “BMNH(E) #720247”. —
+(E)#720248	2006	zt01143p150	       fer, 1907 | S. Abadjiev design. 2005”; (8) printed (on white paper) “BMNH(E) #720248”. —
+(E)#720020	2006	zt01143p150	       2005”; (5) printed (on white paper) “BMNH(E) #720020”. — [Types: Series 6: Drawer 41]
+(E)#720021	2006	zt01143p150	       1898 | S. Abadjiev design. 2005”; (4) printed (on white paper) “BMNH(E) #720021”. —
+(E)#662304	2006	zt01143p150	                  (on white paper) “BMNH(E) #662304”. — [Types: Series 6: Drawer 48]
+(E)#662476	2006	zt01143p150	                  2005”; (6) printed (on white paper) “BMNH(E) #662476”. — [Rothschild: Series 122:
+(E)#662315	2006	zt01143p150	                 white paper) “Catasticta | toppini | Sharpe | (Type)”; (8) printed (on white paper) “BMNH(E)
+(E)#720237	2006	zt01143p150	      white paper) “BMNH(E) #720237”. — [Rothschild: Series 122: Drawer 31]
+(E)#662314	2006	zt01143p150	      “BMNH(E) #662314”. — [Types: Series 6: Drawer 48]
+(E)#662474	2006	zt01143p150	       paper) “BMNH(E) #662474”. — [Rothschild: Series 122: Drawer 9]
+(E)#662475	2006	zt01143p150	      “FELDER | COLLN.”; (3) printed (on white paper) “BMNH(E) #662475”. — [Rothschild:
+(E)#662308	2006	zt01143p150	       design. 2005”; (9) printed (on white paper) “BMNH(E) #662308”. — [Types: Series 6:
+(E)#720069	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720069”. — [Types: Series 6: Drawer 46]
+(E)#662471	2006	zt01143p150	                “BMNH(E) #662471”. — [Rothschild: Series 122: Drawer 9]
+(E)#720140	2006	zt01143p150	                  1969.”; (6) printed (on white paper) “BMNH(E) #720140”. — [Main: Series 23: Drawer
+(E)#662339	2006	zt01143p150	       “Dognin. | [illegible] de Loja. | plate III. | fig. 4.”; (5) printed (on white paper) “BMNH(E)
+(E)#720274	2006	zt01143p150	        “BMNH(E) #720274”. — [Types: Series 6: Drawer 20]
+(E)#720267	2006	zt01143p150	       hst.”; (7) printed (on white paper) “BMNH(E) #720267”. — [Types: Series 6: Drawer 20]
+(E)#720034	2006	zt01143p150	       paper) “BMNH(E) #720034”. — [Types: Series 6: Drawer 41]
+(E)#720361	2006	zt01143p150	                  (on white paper) “BMNH(E) #720361”. — [Types: Series 6: Drawer 45]
+(E)#662313	2006	zt01143p150	                  jiev design. 2005”; (5) printed (on white paper) “BMNH(E) #662313”. — [Types: Series 6:
+(E)#662333	2006	zt01143p150	                 Lamas des. ’93”; (8) printed (on white paper) “BMNH(E) #662333”. — [Types: Series 6:
+(E)#720331	2006	zt01143p150	       1937-285.”; (8) printed (on white paper) “BMNH(E) #720331”. — [Main: Series 23:
+(E)#662455	2006	zt01143p150	       zamorana Eitschberger | & Racheli, 1998”; (9) printed (on white paper) “BMNH(E)
+(E)#662453	2006	zt01143p150	       printed (on white paper) “BMNH(E) #662453”. — [Types: Series 6: Drawer 481]
+(E)#662335	2006	zt01143p150	       white paper) “Zana. Boisd. | Colombie”; (8) printed (on white paper) “BMNH(E) #662335”.
+(E)#662472	2006	zt01143p150	                 (on white paper) “E. Zancle”; (7) printed (on white paper) “BMNH(E) #662472”. — [Roth-
+(E)#662473	2006	zt01143p150	                 paper) “BMNH(E) #662473”. — [Rothschild: Series 122: Drawer 9]
+(E)#720084	2006	zt01143p150	                 printed (on white paper) “BMNH(E) #720084”. — [Rothschild: Series 122: Drawer 12]
 	2006	zt01143p150	Figs 1, 2: Hesperocharis costaricensis Bates, 1866, holotype %, (BMNH).
 	2006	zt01143p150	[1867])], holotype % (BMNH).
 	2006	zt01143p150	Figs 5, 6: Hesperocharis crocea Bates, 1866, holotype %, (BMNH).
@@ -2960,7 +2908,6 @@ Not specific 	2006	zt01292p040	          described as Chalcomela nigripennis Bal
 	2006	zt01143p150	storfer, 1907)], lectotype %, here designated, (BMNH).
 	2006	zt01143p150	totype &, here designated, (BMNH).
 	2006	zt01143p150	Figs 37, 38: Cunizza hirlanda planasia Fruhstorfer, 1910, lectotype %, here designated, (BMNH).
-	2006	zt01143p150	NEOTROPICAL PIERINAE IN BMNH          © 2006 Magnolia Press                                    137
 	2006	zt01143p150	1143      1907)], lectotype &, here designated, (BMNH).
 	2006	zt01143p150	          1907)], holotype %, (BMNH).
 	2006	zt01143p150	          type % (BMNH).
